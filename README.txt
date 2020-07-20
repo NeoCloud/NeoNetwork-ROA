@@ -1,31 +1,31 @@
 Entity table:
  Name           | Email                        | Telegram
 ----------------+------------------------------+-------------
- Staph          | staph@aosc.io                | Staph
- alanyhq        |                              | alanyhq
- LibreHouse     | i+noc@outv.im                | outvi
- frank          |                              |
- Moe            | noc@moeternet.com            | @moeternet
- Yangfl Network |                              |
- Icecat         | icecat@catio.network         | fakeicecat
- Ndoskrnl       | lollipop.studio.cn@gmail.com |
- Yukari         | charles@0x7f.cc              | CharlesYang
- SUNNET         |                              |
- Lan Tian       |                              |
- JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao
- leedagee       | leedageea@gmail.com          | leedagee
- chenx97        | chenx97@gmail.com            |
- septs          | bgp@septs.email              | septs
  iEdon          |                              |
- LINE-NZ        | dn42@line.co.nz              |
- Junde Yhi      | lmy441900@live.com           | lmy441900
- liangjw        | liangjw@etlgr.com            | liangjw
- licson         | admin@licson.net             | licson
- James58899     |                              |
- Neo_Chen       | chenkolei@gmail.com          | Neo_Chen
+ leedagee       | leedageea@gmail.com          | leedagee
+ JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao
  CainSakura     | cain@iloli.cc                | CainSakura
+ LINE-NZ        | dn42@line.co.nz              |
+ Lan Tian       |                              |
+ LibreHouse     | i+noc@outv.im                | outvi
+ septs          | bgp@septs.email              | septs
+ frank          |                              |
+ Yukari         | charles@0x7f.cc              | CharlesYang
  Yura           | yurachan@etlgr.com           |
+ chenx97        | chenx97@gmail.com            |
+ alanyhq        |                              | alanyhq
+ liangjw        | liangjw@etlgr.com            | liangjw
+ Ndoskrnl       | lollipop.studio.cn@gmail.com |
+ Junde Yhi      | lmy441900@live.com           | lmy441900
+ Icecat         | icecat@catio.network         | fakeicecat
+ Neo_Chen       | chenkolei@gmail.com          | Neo_Chen
+ Yangfl Network |                              |
  Tyler          |                              | santost12
+ Moe            | noc@moeternet.com            | @moeternet
+ Staph          | staph@aosc.io                | Staph
+ James58899     |                              |
+ SUNNET         |                              |
+ licson         | admin@licson.net             | licson
 
 AS table:
  Source     | ASN          | Owner      | Name
@@ -64,8 +64,8 @@ Node table:
 --------------+---------------------------
  AS207268     | IX42-LAS
  AS213262     | Moe
- AS4201270000 | caasih
  AS4201270000 | cklvax
+ AS4201270000 | caasih
  AS4201270000 | NeoPDP-11
  AS4201270000 | NeoSystem
  AS4201270000 | pan
@@ -105,33 +105,19 @@ Node table:
 Peer table:
           Upstream | Downstream
 -------------------+---------------------------
-            caasih | NeoPDP-11
-            caasih | staph
-            caasih | ucbvax
-    MagicNeko-HK01 | Icecat-GroupAccessNetwork
-    MagicNeko-HK01 | SUNNET
          NeoPDP-11 | NeoVAX
-    MagicNeko-JP03 | JerryXiao
-    MagicNeko-JP03 | Ndoskrnl-US01
-    MagicNeko-JP03 | chenx97
-    MagicNeko-JP03 | frank-hsinchu
-    MagicNeko-JP03 | megumiLHS
-    MagicNeko-JP03 | santost12-Network
-     JerryXiao-HK1 | JerryXiao-HK2
-               pan | MagicNeko-JP03
-               pan | NeoPDP-11
-               pan | NeoSystem
-               pan | NeoVAX
-     JerryXiao-SH1 | JerryXiao-HK1
-         NeoSystem | NeoVAX
-            cklvax | NeoSystem
+     Ndoskrnl-US01 | Ndoskrnl-CN01
+            ucbvax | MagicNeko-HK01
+            ucbvax | NeoPDP-11
+            ucbvax | NeoSystem
+            ucbvax | chenx97
+            ucbvax | megumiLHS
+            ucbvax | pan
          JerryXiao | JerryXiao-HK1
          JerryXiao | JerryXiao-SH1
          JerryXiao | LanTian
          JerryXiao | dfceaef
          JerryXiao | ucbvax
-             staph | MagicNeko-UK01
-             staph | septs
              septs | James58899
              septs | JerryXiao
              septs | LanTian
@@ -139,14 +125,28 @@ Peer table:
              septs | frank-hsinchu
              septs | megumiLHS
              septs | ucbvax
-            ucbvax | MagicNeko-HK01
-            ucbvax | NeoPDP-11
-            ucbvax | NeoSystem
-            ucbvax | chenx97
-            ucbvax | megumiLHS
-            ucbvax | pan
-     Ndoskrnl-US01 | Ndoskrnl-CN01
+             staph | MagicNeko-UK01
+             staph | septs
+    MagicNeko-HK01 | Icecat-GroupAccessNetwork
+    MagicNeko-HK01 | SUNNET
+            cklvax | NeoSystem
  santost12-Network | MagicNeko-JP03
+    MagicNeko-JP03 | JerryXiao
+    MagicNeko-JP03 | Ndoskrnl-US01
+    MagicNeko-JP03 | chenx97
+    MagicNeko-JP03 | frank-hsinchu
+    MagicNeko-JP03 | megumiLHS
+    MagicNeko-JP03 | santost12-Network
+         NeoSystem | NeoVAX
+            caasih | NeoPDP-11
+            caasih | staph
+            caasih | ucbvax
+     JerryXiao-SH1 | JerryXiao-HK1
+               pan | MagicNeko-JP03
+               pan | NeoPDP-11
+               pan | NeoSystem
+               pan | NeoVAX
+     JerryXiao-HK1 | JerryXiao-HK2
 
 Route table:
  ASN          | Name                           | Type     | Prefix                  | Supernet
