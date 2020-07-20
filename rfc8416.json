@@ -230,6 +230,12 @@
         "comment": "IX42-LAS-6"
       },
       {
+        "asn": 213262,
+        "prefix": "fd10:127:3262::/64",
+        "maxPrefixLength": 64,
+        "comment": "Moe"
+      },
+      {
         "asn": 4201270000,
         "prefix": "fd10:127:5f37:59df::/64",
         "maxPrefixLength": 64,

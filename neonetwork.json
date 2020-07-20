@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1595264034,
-    "valid": 1596473634
+    "generated": 1595265180,
+    "valid": 1596474780
   },
   "people": {
     "Staph": {
@@ -140,6 +140,36 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "Moe": {
+      "info": {
+        "name": "Moe",
+        "description": "Moe Overflow Electric NOC",
+        "contact": {
+          "email": "noc@moeternet.com",
+          "telegram": "@moeternet"
+        },
+        "nic_hdl": "MOE"
+      },
+      "asns": [
+        {
+          "asn": 213262,
+          "owner": "Moe",
+          "name": "Moe",
+          "source": "Internet",
+          "description": "Moe Overflow Electric",
+          "routes": {
+            "ipv4": [],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:3262::/64",
+                "maxLength": 64,
+                "netname": "Moe"
+              }
+            ]
           }
         }
       ]

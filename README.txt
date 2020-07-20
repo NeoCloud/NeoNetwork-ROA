@@ -5,6 +5,7 @@ Entity table:
  alanyhq        |                              | alanyhq
  LibreHouse     | i+noc@outv.im                | outvi
  frank          |                              |
+ Moe            | noc@moeternet.com            | @moeternet
  Yangfl Network |                              |
  Icecat         | icecat@catio.network         | fakeicecat
  Ndoskrnl       | lollipop.studio.cn@gmail.com |
@@ -31,6 +32,7 @@ AS table:
 ------------+--------------+------------+-------------------------------------------------
  Internet   | AS134098     | licson     | Licson Internal Network
  Internet   | AS207268     | Yukari     | Strategic Explorations (IX)
+ Internet   | AS213262     | Moe        | Moe
  NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin
  NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange
  NeoNetwork | AS4201270002 | septs      | Septs HomeLabs
@@ -61,6 +63,7 @@ Node table:
  ASN          | Name
 --------------+---------------------------
  AS207268     | IX42-LAS
+ AS213262     | Moe
  AS4201270000 | caasih
  AS4201270000 | cklvax
  AS4201270000 | NeoPDP-11
@@ -151,6 +154,7 @@ Route table:
  AS134098     | LICSON-NET-SUBALLOC-1          | subnet   | 10.127.14.0/23          |
  AS207268     | IX42-LAS-4                     | subnet   | 10.127.131.0/24         |
  AS207268     | IX42-LAS-6                     | subnet   | fd10:127:1300::/48      |
+ AS213262     | Moe                            | subnet   | fd10:127:3262::/64      |
  AS4201270000 | RESERVED                       | subnet   | 10.127.0.0/24           |
  AS4201270000 | CROOM                          | subnet   | 10.127.1.0/24           |
  AS4201270000 | NeoSystem                      | subnet   | 10.127.2.0/24           |
