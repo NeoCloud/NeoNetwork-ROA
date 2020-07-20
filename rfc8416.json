@@ -1,0 +1,318 @@
+{
+  "slurmVersion": 1,
+  "validationOutputFilters": {
+    "prefixFilters": [],
+    "bgpsecFilters": []
+  },
+  "locallyAddedAssertions": {
+    "bgpsecAssertions": [],
+    "prefixAssertions": [
+      {
+        "asn": 134098,
+        "prefix": "10.127.14.0/23",
+        "maxPrefixLength": 29,
+        "comment": "LICSON-NET-SUBALLOC-1"
+      },
+      {
+        "asn": 207268,
+        "prefix": "10.127.131.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IX42-LAS-4"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.0.0/24",
+        "maxPrefixLength": 29,
+        "comment": "RESERVED"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.1.0/24",
+        "maxPrefixLength": 29,
+        "comment": "CROOM"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.2.0/24",
+        "maxPrefixLength": 29,
+        "comment": "NeoSystem"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.3.0/24",
+        "maxPrefixLength": 29,
+        "comment": "pan hub"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.16.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Neo_Chen ZeroTier-One Hub"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.255.1/32",
+        "maxPrefixLength": 32,
+        "comment": "NeoPDP-11"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.255.2/32",
+        "maxPrefixLength": 32,
+        "comment": "ucbvax"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.255.4/32",
+        "maxPrefixLength": 32,
+        "comment": "pan"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.255.80/32",
+        "maxPrefixLength": 32,
+        "comment": "NeoSystem"
+      },
+      {
+        "asn": 4201270001,
+        "prefix": "10.127.41.0/24",
+        "maxPrefixLength": 29,
+        "comment": "NiceLabs IX IPv4 Pool"
+      },
+      {
+        "asn": 4201270003,
+        "prefix": "10.127.89.0/24",
+        "maxPrefixLength": 29,
+        "comment": "chenx97 v4"
+      },
+      {
+        "asn": 4201270004,
+        "prefix": "10.127.56.0/24",
+        "maxPrefixLength": 29,
+        "comment": "frank-hsinchu"
+      },
+      {
+        "asn": 4201270004,
+        "prefix": "10.127.255.56/32",
+        "maxPrefixLength": 32,
+        "comment": "frank-hsinchu-1"
+      },
+      {
+        "asn": 4201270005,
+        "prefix": "10.127.233.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Icecat-Mobile-devices"
+      },
+      {
+        "asn": 4201270006,
+        "prefix": "10.127.8.192/26",
+        "maxPrefixLength": 29,
+        "comment": "JerryXiao-Infrastructure"
+      },
+      {
+        "asn": 4201270006,
+        "prefix": "10.127.9.0/24",
+        "maxPrefixLength": 29,
+        "comment": "JerryXiao-Home"
+      },
+      {
+        "asn": 4201270006,
+        "prefix": "10.127.255.53/32",
+        "maxPrefixLength": 32,
+        "comment": "JerryXiao-Anycast"
+      },
+      {
+        "asn": 4201270007,
+        "prefix": "10.127.8.160/27",
+        "maxPrefixLength": 29,
+        "comment": "StaphNet"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "10.127.4.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Icecat-Explosion"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "10.127.255.117/32",
+        "maxPrefixLength": 32,
+        "comment": "magicneko-tw"
+      },
+      {
+        "asn": 4201270009,
+        "prefix": "10.127.69.0/27",
+        "maxPrefixLength": 29,
+        "comment": "santost12"
+      },
+      {
+        "asn": 4201270010,
+        "prefix": "10.127.10.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Lan Tian LAN"
+      },
+      {
+        "asn": 4201270011,
+        "prefix": "10.127.22.0/29",
+        "maxPrefixLength": 29,
+        "comment": "LINE-NZ"
+      },
+      {
+        "asn": 4201270011,
+        "prefix": "10.127.22.8/29",
+        "maxPrefixLength": 29,
+        "comment": "LINE-NZ"
+      },
+      {
+        "asn": 4201270012,
+        "prefix": "10.127.5.0/28",
+        "maxPrefixLength": 29,
+        "comment": "yhi-h"
+      },
+      {
+        "asn": 4201270013,
+        "prefix": "10.127.13.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Ndoskrnls LAN"
+      },
+      {
+        "asn": 4201270014,
+        "prefix": "10.127.23.0/29",
+        "maxPrefixLength": 29,
+        "comment": "leedagee"
+      },
+      {
+        "asn": 4201270016,
+        "prefix": "10.127.64.0/27",
+        "maxPrefixLength": 29,
+        "comment": "Moecast Network"
+      },
+      {
+        "asn": 4201270017,
+        "prefix": "10.127.234.0/24",
+        "maxPrefixLength": 29,
+        "comment": "CainSakura-home-devices"
+      },
+      {
+        "asn": 4242420140,
+        "prefix": "10.127.12.0/24",
+        "maxPrefixLength": 29,
+        "comment": "dfceaef NET"
+      },
+      {
+        "asn": 4242421037,
+        "prefix": "10.127.8.0/26",
+        "maxPrefixLength": 29,
+        "comment": "LibreHouse"
+      },
+      {
+        "asn": 4242422189,
+        "prefix": "10.127.21.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IEDON-NET"
+      },
+      {
+        "asn": 4242422464,
+        "prefix": "10.127.127.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Yura Moe NET"
+      },
+      {
+        "asn": 4242423088,
+        "prefix": "10.127.11.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SUNNET"
+      },
+      {
+        "asn": 207268,
+        "prefix": "fd10:127:1300::/48",
+        "maxPrefixLength": 64,
+        "comment": "IX42-LAS-6"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "fd10:127:5f37:59df::/64",
+        "maxPrefixLength": 64,
+        "comment": "NeoNetwork Origin"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "fd10:127::/64",
+        "maxPrefixLength": 64,
+        "comment": "Neo_Chen ZeroTier-One IPv6 Hub"
+      },
+      {
+        "asn": 4201270001,
+        "prefix": "fd10:127:41::/48",
+        "maxPrefixLength": 64,
+        "comment": "NiceLabs IX IPv6 Pool"
+      },
+      {
+        "asn": 4201270003,
+        "prefix": "fd10:127:1919::/48",
+        "maxPrefixLength": 64,
+        "comment": "chenx97"
+      },
+      {
+        "asn": 4201270005,
+        "prefix": "fd10:127:233:1c3c::/64",
+        "maxPrefixLength": 64,
+        "comment": "icecat"
+      },
+      {
+        "asn": 4201270006,
+        "prefix": "fd10:127:53::/48",
+        "maxPrefixLength": 64,
+        "comment": "JerryXiao6"
+      },
+      {
+        "asn": 4201270007,
+        "prefix": "fd10:127:7::/48",
+        "maxPrefixLength": 64,
+        "comment": "Staph_v6"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "fd10:127:233::/48",
+        "maxPrefixLength": 64,
+        "comment": "icecat"
+      },
+      {
+        "asn": 4201270009,
+        "prefix": "fd10:127:ec39::/48",
+        "maxPrefixLength": 64,
+        "comment": "santost12"
+      },
+      {
+        "asn": 4201270010,
+        "prefix": "fd10:127:10::/48",
+        "maxPrefixLength": 64,
+        "comment": "Lan Tian LAN6"
+      },
+      {
+        "asn": 4201270013,
+        "prefix": "fd10:127:13::/48",
+        "maxPrefixLength": 64,
+        "comment": "Ndoskrnls LAN (IPv6)"
+      },
+      {
+        "asn": 4201270014,
+        "prefix": "fd10:127:23::/48",
+        "maxPrefixLength": 64,
+        "comment": "leedagee"
+      },
+      {
+        "asn": 4201270017,
+        "prefix": "fd10:127:234::/48",
+        "maxPrefixLength": 64,
+        "comment": "CainSakura-home-devices"
+      },
+      {
+        "asn": 4242421025,
+        "prefix": "fd10:127:233:1000::/64",
+        "maxPrefixLength": 64,
+        "comment": "icecat"
+      }
+    ]
+  }
+}
