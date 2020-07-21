@@ -204,7 +204,7 @@ Route table:
  AS4242422464 | Yura Moe NET                   | subnet   | 10.127.127.0/24         |
  AS4242423088 | SUNNET                         | subnet   | 10.127.11.0/24          |
 
-Unused CIDR Range:
+Used CIDR Range:
 10.127.0.0/22
 10.127.4.0/24
 10.127.5.0/28
