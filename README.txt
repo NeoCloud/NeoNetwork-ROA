@@ -196,7 +196,7 @@ Route table:
  AS4201270014 | leedagee                       | subnet   | fd10:127:23::/48        |
  AS4201270016 | Moecast Network                | subnet   | 10.127.64.0/27          |
  AS4201270017 | CainSakura-home-devices        | subnet   | 10.127.234.0/24         |
- AS4201270017 | CainSakura-home-devices        | subnet   | fd10:127:234::/48       | fd10:127:233::/48
+ AS4201270017 | CainSakura-home-devices        | subnet   | fd10:127:234::/48       |
  AS4242420140 | dfceaef NET                    | subnet   | 10.127.12.0/24          |
  AS4242421025 | icecat                         | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48
  AS4242421037 | LibreHouse                     | subnet   | 10.127.8.0/26           |
