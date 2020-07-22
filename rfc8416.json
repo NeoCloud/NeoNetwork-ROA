@@ -101,7 +101,13 @@
         "asn": 4201270005,
         "prefix": "10.127.233.0/24",
         "maxPrefixLength": 29,
-        "comment": "Icecat-Mobile-devices"
+        "comment": "Icecat Residential network occupation address"
+      },
+      {
+        "asn": 4201270005,
+        "prefix": "10.127.236.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko VPN"
       },
       {
         "asn": 4201270006,
@@ -132,6 +138,18 @@
         "prefix": "10.127.4.0/24",
         "maxPrefixLength": 29,
         "comment": "Icecat-Explosion"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "10.127.235.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Icecat Global Tunnel Address"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "10.127.237.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko IX (Will not broadcast)"
       },
       {
         "asn": 4201270008,
@@ -264,6 +282,12 @@
         "prefix": "fd10:127:233:1c3c::/64",
         "maxPrefixLength": 64,
         "comment": "icecat"
+      },
+      {
+        "asn": 4201270005,
+        "prefix": "fd10:127:233:1c3a::/64",
+        "maxPrefixLength": 64,
+        "comment": "MagicNeko VPN"
       },
       {
         "asn": 4201270006,
