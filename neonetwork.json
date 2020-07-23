@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1595494506,
-    "valid": 1596704106
+    "generated": 1595494924,
+    "valid": 1596704524
   },
   "people": {
     "iEdon": {
@@ -282,7 +282,7 @@
         {
           "asn": 4201270002,
           "owner": "septs",
-          "name": "Septs HomeLabs",
+          "name": "[transferable]",
           "source": "NeoNetwork",
           "description": null,
           "routes": {

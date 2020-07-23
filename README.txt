@@ -35,7 +35,7 @@ AS table:
  Internet   | AS213262     | Moe        | Moe
  NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin
  NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange
- NeoNetwork | AS4201270002 | septs      | Septs HomeLabs
+ NeoNetwork | AS4201270002 | septs      | [transferable]
  NeoNetwork | AS4201270003 | chenx97    | chenx97
  NeoNetwork | AS4201270004 | frank      | frank
  NeoNetwork | AS4201270005 | icecat     | Icecat
