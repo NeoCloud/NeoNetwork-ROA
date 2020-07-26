@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1595494924,
-    "valid": 1596704524
+    "generated": 1595755420,
+    "valid": 1596965020
   },
   "people": {
     "iEdon": {
@@ -149,6 +149,11 @@
                 "prefix": "10.127.234.0/24",
                 "maxLength": 29,
                 "netname": "CainSakura-home-devices"
+              },
+              {
+                "prefix": "10.127.235.0/24",
+                "maxLength": 29,
+                "netname": "Icecat Global Tunnel Address (OpenVPN)"
               }
             ],
             "ipv6": [
@@ -682,11 +687,6 @@
                 "prefix": "10.127.4.0/24",
                 "maxLength": 29,
                 "netname": "Icecat-Explosion"
-              },
-              {
-                "prefix": "10.127.235.0/24",
-                "maxLength": 29,
-                "netname": "Icecat Global Tunnel Address"
               },
               {
                 "prefix": "10.127.237.0/24",

@@ -141,12 +141,6 @@
       },
       {
         "asn": 4201270008,
-        "prefix": "10.127.235.0/24",
-        "maxPrefixLength": 29,
-        "comment": "Icecat Global Tunnel Address"
-      },
-      {
-        "asn": 4201270008,
         "prefix": "10.127.237.0/24",
         "maxPrefixLength": 29,
         "comment": "MagicNeko IX (Will not broadcast)"
@@ -210,6 +204,12 @@
         "prefix": "10.127.234.0/24",
         "maxPrefixLength": 29,
         "comment": "CainSakura-home-devices"
+      },
+      {
+        "asn": 4201270017,
+        "prefix": "10.127.235.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Icecat Global Tunnel Address (OpenVPN)"
       },
       {
         "asn": 4242420140,
