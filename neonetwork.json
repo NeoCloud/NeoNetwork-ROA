@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1595830325,
-    "valid": 1597039925
+    "generated": 1595860847,
+    "valid": 1597070447
   },
   "people": {
     "iEdon": {
@@ -974,6 +974,17 @@
                 "netname": "SUNNET"
               }
             ],
+            "ipv6": []
+          }
+        },
+        {
+          "asn": 140936,
+          "owner": "SUNNET",
+          "name": "SUNNET",
+          "source": "Internet",
+          "description": "SUNNET",
+          "routes": {
+            "ipv4": [],
             "ipv6": []
           }
         }

@@ -35,6 +35,7 @@
 | Source     | ASN          | Owner      | Name                                            |
 |------------|--------------|------------|-------------------------------------------------|
 | Internet   | AS134098     | licson     | Licson Internal Network                         |
+| Internet   | AS140936     | SUNNET     | SUNNET                                          |
 | Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                     |
 | Internet   | AS213262     | Moe        | Moe                                             |
 | NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                               |
