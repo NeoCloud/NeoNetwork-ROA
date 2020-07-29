@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1595860847,
-    "valid": 1597070447
+    "generated": 1596002231,
+    "valid": 1597211831
   },
   "people": {
     "iEdon": {
@@ -922,13 +922,53 @@
                 "prefix": "10.127.8.160/27",
                 "maxLength": 29,
                 "netname": "StaphNet"
+              },
+              {
+                "prefix": "10.127.7.0/24",
+                "maxLength": 29,
+                "netname": "AOSCNet"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:7::/48",
+                "prefix": "fd10:127:7::/51",
                 "maxLength": 64,
                 "netname": "Staph_v6"
+              },
+              {
+                "prefix": "fd10:127:7:2000::/54",
+                "maxLength": 64,
+                "netname": "StaphReserve_0"
+              },
+              {
+                "prefix": "fd10:127:7:2672::/64",
+                "maxLength": 64,
+                "netname": "AOSCNet_v6"
+              },
+              {
+                "prefix": "fd10:127:7:3000::/52",
+                "maxLength": 64,
+                "netname": "StaphReserve_1"
+              },
+              {
+                "prefix": "fd10:127:7:4000::/50",
+                "maxLength": 64,
+                "netname": "StaphReserve_2"
+              },
+              {
+                "prefix": "fd10:127:7:8000::/50",
+                "maxLength": 64,
+                "netname": "StaphReserve_3"
+              },
+              {
+                "prefix": "fd10:127:7:c000::/51",
+                "maxLength": 64,
+                "netname": "StaphReserve_4"
+              },
+              {
+                "prefix": "fd10:127:7:ffff::/64",
+                "maxLength": 64,
+                "netname": "StaphPeer"
               }
             ]
           }
