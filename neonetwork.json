@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1596489051,
-    "valid": 1597698651
+    "generated": 1596539631,
+    "valid": 1597749231
   },
   "people": {
     "Staph": {
@@ -941,6 +941,40 @@
                 "prefix": "fd10:127:1919::/48",
                 "maxLength": 64,
                 "netname": "chenx97"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "caxap": {
+      "info": {
+        "name": "caxap",
+        "contact": {
+          "email": "yrdw@protonmail.com"
+        },
+        "nic_hdl": "CAXAP"
+      },
+      "asns": [
+        {
+          "asn": 4201270018,
+          "owner": "caxap",
+          "name": "caxap Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.100.0/24",
+                "maxLength": 29,
+                "netname": "caxap-minecraft-net"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:6324::/48",
+                "maxLength": 64,
+                "netname": "caxap6"
               }
             ]
           }

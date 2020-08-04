@@ -218,6 +218,12 @@
         "comment": "Icecat Global Tunnel Address (OpenVPN)"
       },
       {
+        "asn": 4201270018,
+        "prefix": "10.127.100.0/24",
+        "maxPrefixLength": 29,
+        "comment": "caxap-minecraft-net"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -384,6 +390,12 @@
         "prefix": "fd10:127:234::/48",
         "maxPrefixLength": 64,
         "comment": "CainSakura-home-devices"
+      },
+      {
+        "asn": 4201270018,
+        "prefix": "fd10:127:6324::/48",
+        "maxPrefixLength": 64,
+        "comment": "caxap6"
       },
       {
         "asn": 4242421025,

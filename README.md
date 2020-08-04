@@ -26,6 +26,7 @@
 | Yura           | yurachan@etlgr.com           |             |
 | Yangfl Network |                              |             |
 | chenx97        | chenx97@gmail.com            |             |
+| caxap          | yrdw@protonmail.com          |             |
 | Ndoskrnl       | lollipop.studio.cn@gmail.com |             |
 | Tyler          |                              | santost12   |
 | LibreHouse     | i+noc@outv.im                | outvi       |
@@ -56,6 +57,7 @@
 | NeoNetwork | AS4201270015 | James58899 | James58899                                      |
 | NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                 |
 | NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                             |
+| NeoNetwork | AS4201270018 | caxap      | caxap Network                                   |
 | DN42       | AS4242420140 | Yangfl     | Yangfl Network                                  |
 | DN42       | AS4242420916 | alanyhq    | alanyhq                                         |
 | DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project |
@@ -102,6 +104,7 @@
 | AS4201270015 | James58899                |
 | AS4201270016 | liangjw                   |
 | AS4201270017 | CainSakura-home           |
+| AS4201270018 | caxap-SH                  |
 | AS4242420140 | dfceaef                   |
 | AS4242421037 | megumiLHS                 |
 | AS4242422189 | iEdon                     |
@@ -217,6 +220,8 @@
 | AS4201270017 | CainSakura-home-devices                       | subnet   | 10.127.234.0/24         |                   |
 | AS4201270017 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
 | AS4201270017 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
+| AS4201270018 | caxap-minecraft-net                           | subnet   | 10.127.100.0/24         |                   |
+| AS4201270018 | caxap6                                        | subnet   | fd10:127:6324::/48      |                   |
 | AS4242420140 | dfceaef NET                                   | subnet   | 10.127.12.0/24          |                   |
 | AS4242421025 | icecat                                        | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                                    | subnet   | 10.127.8.0/26           |                   |
@@ -246,6 +251,7 @@
 10.127.64.0/27
 10.127.69.0/27
 10.127.89.0/24
+10.127.100.0/24
 10.127.127.0/24
 10.127.131.0/24
 10.127.233.0/24
@@ -278,5 +284,6 @@ fd10:127:1300::/48
 fd10:127:1919::/48
 fd10:127:3262::/64
 fd10:127:5f37:59df::/64
+fd10:127:6324::/48
 fd10:127:ec39::/48
 ```
