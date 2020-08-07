@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1596799797,
-    "valid": 1598009397
+    "generated": 1596802298,
+    "valid": 1598011898
   },
   "people": {
     "iEdon": {
@@ -830,6 +830,36 @@
                 "netname": "caxap6"
               }
             ]
+          }
+        }
+      ]
+    },
+    "SteveYi": {
+      "info": {
+        "name": "SteveYi",
+        "contact": {
+          "telegram": "steveyiyo",
+          "github": "steveyiyo",
+          "email": "info@steveyi.net"
+        },
+        "nic_hdl": "STEVEYI"
+      },
+      "asns": [
+        {
+          "asn": 209557,
+          "owner": "SteveYi",
+          "name": "Yi-Network",
+          "source": "Internet",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.124.0/29",
+                "maxLength": 29,
+                "netname": "Yi Global VPN"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]

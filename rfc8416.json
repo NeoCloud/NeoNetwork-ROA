@@ -20,6 +20,12 @@
         "comment": "IX42-LAS-4"
       },
       {
+        "asn": 209557,
+        "prefix": "10.127.124.0/29",
+        "maxPrefixLength": 29,
+        "comment": "Yi Global VPN"
+      },
+      {
         "asn": 4201270000,
         "prefix": "10.127.0.0/24",
         "maxPrefixLength": 29,

@@ -24,6 +24,7 @@
 | Yukari         | charles@0x7f.cc              | CharlesYang |
 | James58899     |                              |             |
 | caxap          | yrdw@protonmail.com          |             |
+| SteveYi        | info@steveyi.net             | steveyiyo   |
 | Lan Tian       |                              |             |
 | liangjw        | liangjw@etlgr.com            | liangjw     |
 | LINE-NZ        | dn42@line.co.nz              |             |
@@ -38,6 +39,7 @@
 | Internet   | AS134098     | licson     | Licson Internal Network                         |
 | Internet   | AS140936     | SUNNET     | SUNNET                                          |
 | Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                     |
+| Internet   | AS209557     | SteveYi    | Yi-Network                                      |
 | Internet   | AS213262     | Moe        | Moe                                             |
 | NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                               |
 | NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                               |
@@ -165,6 +167,7 @@
 | AS134098     | LICSON-NET-SUBALLOC-1                         | subnet   | 10.127.14.0/23          |                   |
 | AS207268     | IX42-LAS-4                                    | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                    | subnet   | fd10:127:1300::/48      |                   |
+| AS209557     | Yi Global VPN                                 | subnet   | 10.127.124.0/29         |                   |
 | AS213262     | Moe                                           | subnet   | fd10:127:3262::/64      |                   |
 | AS4201270000 | RESERVED                                      | subnet   | 10.127.0.0/24           |                   |
 | AS4201270000 | CROOM                                         | subnet   | 10.127.1.0/24           |                   |
@@ -252,6 +255,7 @@
 10.127.69.0/27
 10.127.89.0/24
 10.127.100.0/24
+10.127.124.0/29
 10.127.127.0/24
 10.127.131.0/24
 10.127.233.0/24
