@@ -110,12 +110,6 @@
         "comment": "Icecat Residential network occupation address"
       },
       {
-        "asn": 4201270005,
-        "prefix": "10.127.236.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko VPN"
-      },
-      {
         "asn": 4201270006,
         "prefix": "10.127.8.192/26",
         "maxPrefixLength": 29,
@@ -222,6 +216,12 @@
         "prefix": "10.127.235.0/24",
         "maxPrefixLength": 29,
         "comment": "Icecat Global Tunnel Address (OpenVPN)"
+      },
+      {
+        "asn": 4201270017,
+        "prefix": "10.127.236.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko VPN"
       },
       {
         "asn": 4201270018,

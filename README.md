@@ -187,7 +187,6 @@
 | AS4201270004 | frank-hsinchu                                 | subnet   | 10.127.56.0/24          |                   |
 | AS4201270004 | frank-hsinchu-1                               | loopback | 10.127.255.56/32        |                   |
 | AS4201270005 | Icecat Residential network occupation address | subnet   | 10.127.233.0/24         |                   |
-| AS4201270005 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
 | AS4201270005 | icecat                                        | subnet   | fd10:127:233:1c3c::/64  | fd10:127:233::/48 |
 | AS4201270005 | MagicNeko VPN                                 | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS4201270006 | JerryXiao-Infrastructure                      | subnet   | 10.127.8.192/26         |                   |
@@ -222,6 +221,7 @@
 | AS4201270016 | Moecast Network                               | subnet   | 10.127.64.0/27          |                   |
 | AS4201270017 | CainSakura-home-devices                       | subnet   | 10.127.234.0/24         |                   |
 | AS4201270017 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
+| AS4201270017 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
 | AS4201270017 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
 | AS4201270018 | caxap-minecraft-net                           | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                        | subnet   | fd10:127:6324::/48      |                   |

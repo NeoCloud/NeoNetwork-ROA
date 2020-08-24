@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1598249657,
-    "valid": 1599459257
+    "generated": 1598258704,
+    "valid": 1599468304
   },
   "people": {
     "septs": {
@@ -107,11 +107,6 @@
                 "prefix": "10.127.233.0/24",
                 "maxLength": 29,
                 "netname": "Icecat Residential network occupation address"
-              },
-              {
-                "prefix": "10.127.236.0/24",
-                "maxLength": 29,
-                "netname": "MagicNeko VPN"
               }
             ],
             "ipv6": [
@@ -457,6 +452,11 @@
                 "prefix": "10.127.235.0/24",
                 "maxLength": 29,
                 "netname": "Icecat Global Tunnel Address (OpenVPN)"
+              },
+              {
+                "prefix": "10.127.236.0/24",
+                "maxLength": 29,
+                "netname": "MagicNeko VPN"
               }
             ],
             "ipv6": [
