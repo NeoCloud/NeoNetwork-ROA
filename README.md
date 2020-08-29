@@ -64,6 +64,7 @@
 | DN42       | AS4242420916 | alanyhq    | alanyhq                                         |
 | DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project |
 | DN42       | AS4242421037 | LibreHouse | LibreHouse                                      |
+| DN42       | AS4242421214 | SteveYi    | Yi-Network                                      |
 | DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                    |
 | DN42       | AS4242422464 | Yura       | Yura Network                                    |
 | DN42       | AS4242423088 | SUNNET     | SUNNET                                          |
@@ -228,6 +229,7 @@
 | AS4242420140 | dfceaef NET                                   | subnet   | 10.127.12.0/24          |                   |
 | AS4242421025 | icecat                                        | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                                    | subnet   | 10.127.8.0/26           |                   |
+| AS4242421214 | Yi Global VPN                                 | subnet   | 10.127.124.0/29         |                   |
 | AS4242422189 | IEDON-NET                                     | subnet   | 10.127.21.0/24          |                   |
 | AS4242422464 | Yura Moe NET                                  | subnet   | 10.127.127.0/24         |                   |
 | AS4242423088 | SUNNET                                        | subnet   | 10.127.11.0/24          |                   |

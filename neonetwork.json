@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1598258704,
-    "valid": 1599468304
+    "generated": 1598715154,
+    "valid": 1599924754
   },
   "people": {
     "septs": {
@@ -582,6 +582,23 @@
         "nic_hdl": "STEVEYI"
       },
       "asns": [
+        {
+          "asn": 4242421214,
+          "owner": "SteveYi",
+          "name": "Yi-Network",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.124.0/29",
+                "maxLength": 29,
+                "netname": "Yi Global VPN"
+              }
+            ],
+            "ipv6": []
+          }
+        },
         {
           "asn": 209557,
           "owner": "SteveYi",

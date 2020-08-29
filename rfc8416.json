@@ -242,6 +242,12 @@
         "comment": "LibreHouse"
       },
       {
+        "asn": 4242421214,
+        "prefix": "10.127.124.0/29",
+        "maxPrefixLength": 29,
+        "comment": "Yi Global VPN"
+      },
+      {
         "asn": 4242422189,
         "prefix": "10.127.21.0/24",
         "maxPrefixLength": 29,
