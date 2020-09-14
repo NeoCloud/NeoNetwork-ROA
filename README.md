@@ -4,33 +4,33 @@
 
 | Name           | Email                        | Telegram    |
 |----------------|------------------------------|-------------|
+| liangjw        | liangjw@etlgr.com            | liangjw     |
+| Yukari         | charles@0x7f.cc              | CharlesYang |
+| iEdon          |                              |             |
+| Yura           | yurachan@etlgr.com           |             |
+| licson         | admin@licson.net             | licson      |
+| alanyhq        |                              | alanyhq     |
+| Tyler          |                              | santost12   |
+| leedagee       | leedageea@gmail.com          | leedagee    |
 | septs          | bgp@septs.email              | septs       |
-| Icecat         | icecat@catio.network         | fakeicecat  |
+| Staph          | staph@aosc.io                | Staph       |
+| SUNNET         |                              |             |
+| CainSakura     | cain@iloli.cc                | CainSakura  |
 | LibreHouse     | i+noc@outv.im                | outvi       |
 | Lan Tian       |                              |             |
-| leedagee       | leedageea@gmail.com          | leedagee    |
-| Tyler          |                              | santost12   |
+| Ndoskrnl       | lollipop.studio.cn@gmail.com |             |
+| JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao   |
 | Junde Yhi      | lmy441900@live.com           | lmy441900   |
-| Neo_Chen       | chenkolei@gmail.com          | Neo_Chen    |
-| CainSakura     | cain@iloli.cc                | CainSakura  |
-| Yura           | yurachan@etlgr.com           |             |
-| Yangfl Network |                              |             |
 | caxap          | yrdw@protonmail.com          |             |
 | SteveYi        | info@steveyi.net             | steveyiyo   |
-| James58899     |                              |             |
-| licson         | admin@licson.net             | licson      |
-| Staph          | staph@aosc.io                | Staph       |
 | chenx97        | chenx97@gmail.com            |             |
-| liangjw        | liangjw@etlgr.com            | liangjw     |
-| iEdon          |                              |             |
-| frank          |                              |             |
-| Yukari         | charles@0x7f.cc              | CharlesYang |
+| Icecat         | icecat@catio.network         | fakeicecat  |
 | Moe            | noc@moeternet.com            | @moeternet  |
-| JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao   |
-| Ndoskrnl       | lollipop.studio.cn@gmail.com |             |
-| alanyhq        |                              | alanyhq     |
+| Yangfl Network |                              |             |
+| frank          |                              |             |
 | LINE-NZ        | dn42@line.co.nz              |             |
-| SUNNET         |                              |             |
+| Neo_Chen       | chenkolei@gmail.com          | Neo_Chen    |
+| James58899     |                              |             |
 
 ## AS table
 
@@ -75,13 +75,13 @@
 |--------------|---------------------------|
 | AS207268     | IX42-LAS                  |
 | AS213262     | Moe                       |
+| AS4201270000 | cklvax                    |
+| AS4201270000 | caasih                    |
 | AS4201270000 | NeoPDP-11                 |
 | AS4201270000 | NeoSystem                 |
 | AS4201270000 | pan                       |
 | AS4201270000 | ucbvax                    |
 | AS4201270000 | NeoVAX                    |
-| AS4201270000 | cklvax                    |
-| AS4201270000 | caasih                    |
 | AS4201270001 | septs                     |
 | AS4201270003 | chenx97                   |
 | AS4201270004 | frank-hsinchu             |
@@ -118,6 +118,13 @@
 
 |          Upstream | Downstream                |
 |-------------------|---------------------------|
+|         NeoPDP-11 | NeoVAX                    |
+|             staph | MagicNeko-UK01            |
+|             staph | septs                     |
+|            cklvax | NeoSystem                 |
+| santost12-Network | MagicNeko-JP03            |
+|     JerryXiao-SH1 | JerryXiao-HK1             |
+|     JerryXiao-HK1 | JerryXiao-HK2             |
 |             septs | James58899                |
 |             septs | JerryXiao                 |
 |             septs | LanTian                   |
@@ -125,29 +132,15 @@
 |             septs | frank-hsinchu             |
 |             septs | megumiLHS                 |
 |             septs | ucbvax                    |
-|         NeoPDP-11 | NeoVAX                    |
+|    MagicNeko-HK01 | Icecat-GroupAccessNetwork |
+|    MagicNeko-HK01 | SUNNET                    |
+|         NeoSystem | NeoVAX                    |
 |            ucbvax | MagicNeko-HK01            |
 |            ucbvax | NeoPDP-11                 |
 |            ucbvax | NeoSystem                 |
 |            ucbvax | chenx97                   |
 |            ucbvax | megumiLHS                 |
 |            ucbvax | pan                       |
-|     JerryXiao-HK1 | JerryXiao-HK2             |
-|         NeoSystem | NeoVAX                    |
-|    MagicNeko-HK01 | Icecat-GroupAccessNetwork |
-|    MagicNeko-HK01 | SUNNET                    |
-|    MagicNeko-JP03 | JerryXiao                 |
-|    MagicNeko-JP03 | Ndoskrnl-US01             |
-|    MagicNeko-JP03 | chenx97                   |
-|    MagicNeko-JP03 | frank-hsinchu             |
-|    MagicNeko-JP03 | megumiLHS                 |
-|    MagicNeko-JP03 | santost12-Network         |
-|            cklvax | NeoSystem                 |
-| santost12-Network | MagicNeko-JP03            |
-|     Ndoskrnl-US01 | Ndoskrnl-CN01             |
-|             staph | MagicNeko-UK01            |
-|             staph | septs                     |
-|     JerryXiao-SH1 | JerryXiao-HK1             |
 |         JerryXiao | JerryXiao-HK1             |
 |         JerryXiao | JerryXiao-SH1             |
 |         JerryXiao | LanTian                   |
@@ -157,6 +150,13 @@
 |               pan | NeoPDP-11                 |
 |               pan | NeoSystem                 |
 |               pan | NeoVAX                    |
+|     Ndoskrnl-US01 | Ndoskrnl-CN01             |
+|    MagicNeko-JP03 | JerryXiao                 |
+|    MagicNeko-JP03 | Ndoskrnl-US01             |
+|    MagicNeko-JP03 | chenx97                   |
+|    MagicNeko-JP03 | frank-hsinchu             |
+|    MagicNeko-JP03 | megumiLHS                 |
+|    MagicNeko-JP03 | santost12-Network         |
 |            caasih | NeoPDP-11                 |
 |            caasih | staph                     |
 |            caasih | ucbvax                    |
@@ -192,6 +192,7 @@
 | AS4201270005 | MagicNeko VPN                                 | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS4201270006 | JerryXiao-Infrastructure                      | subnet   | 10.127.8.192/26         |                   |
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
+| AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
 | AS4201270006 | JerryXiao-Anycast                             | loopback | 10.127.255.53/32        |                   |
 | AS4201270006 | JerryXiao6                                    | subnet   | fd10:127:53::/48        |                   |
 | AS4201270007 | StaphNet                                      | subnet   | 10.127.8.160/27         |                   |
@@ -241,7 +242,7 @@
 10.127.4.0/24
 10.127.5.0/28
 10.127.7.0/24
-10.127.8.0/26
+10.127.8.0/25
 10.127.8.160/27
 10.127.8.192/26
 10.127.9.0/24

@@ -123,6 +123,12 @@
       },
       {
         "asn": 4201270006,
+        "prefix": "10.127.8.64/26",
+        "maxPrefixLength": 29,
+        "comment": "JerryXiao-School"
+      },
+      {
+        "asn": 4201270006,
         "prefix": "10.127.255.53/32",
         "maxPrefixLength": 32,
         "comment": "JerryXiao-Anycast"
