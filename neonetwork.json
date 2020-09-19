@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1600487059,
-    "valid": 1601696659
+    "generated": 1600492840,
+    "valid": 1601702440
   },
   "people": {
     "frank": {
@@ -1128,7 +1128,13 @@
           "source": "Internet",
           "description": "SUNNET",
           "routes": {
-            "ipv4": [],
+            "ipv4": [
+              {
+                "prefix": "10.127.11.0/24",
+                "maxLength": 29,
+                "netname": "SUNNET"
+              }
+            ],
             "ipv6": []
           }
         },

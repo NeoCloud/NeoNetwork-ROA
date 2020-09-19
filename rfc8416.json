@@ -14,6 +14,12 @@
         "comment": "LICSON-NET-SUBALLOC-1"
       },
       {
+        "asn": 140936,
+        "prefix": "10.127.11.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SUNNET"
+      },
+      {
         "asn": 207268,
         "prefix": "10.127.131.0/24",
         "maxPrefixLength": 29,
