@@ -135,15 +135,15 @@
       },
       {
         "asn": 4201270006,
-        "prefix": "10.127.255.53/32",
+        "prefix": "10.127.255.2/32",
         "maxPrefixLength": 32,
-        "comment": "JerryXiao-Anycast"
+        "comment": "JerryXiao-Anycast4-legacy"
       },
       {
         "asn": 4201270006,
-        "prefix": "10.127.255.2/32",
+        "prefix": "10.127.255.53/32",
         "maxPrefixLength": 32,
-        "comment": "JerryXiao-Anycast"
+        "comment": "JerryXiao-Anycast4"
       },
       {
         "asn": 4201270007,
@@ -348,6 +348,12 @@
         "prefix": "fd10:127:53::/48",
         "maxPrefixLength": 64,
         "comment": "JerryXiao6"
+      },
+      {
+        "asn": 4201270006,
+        "prefix": "fd10:127:ffff:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "JerryXiao-Anycast6"
       },
       {
         "asn": 4201270007,
