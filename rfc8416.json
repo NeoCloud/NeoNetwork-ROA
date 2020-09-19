@@ -404,6 +404,12 @@
         "comment": "StaphPeer"
       },
       {
+        "asn": 4201270007,
+        "prefix": "fd10:127:ffff:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "staphdns"
+      },
+      {
         "asn": 4201270008,
         "prefix": "fd10:127:233::/48",
         "maxPrefixLength": 64,

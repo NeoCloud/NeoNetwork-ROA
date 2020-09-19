@@ -210,6 +210,7 @@
 | AS4201270007 | StaphReserve_3                                | subnet   | fd10:127:7:8000::/50    |                   |
 | AS4201270007 | StaphReserve_4                                | subnet   | fd10:127:7:c000::/51    |                   |
 | AS4201270007 | StaphPeer                                     | subnet   | fd10:127:7:ffff::/64    |                   |
+| AS4201270007 | staphdns                                      | loopback | fd10:127:ffff:53::/64   |                   |
 | AS4201270008 | Icecat-Explosion                              | subnet   | 10.127.4.0/24           |                   |
 | AS4201270008 | MagicNeko IX (Will not broadcast)             | subnet   | 10.127.237.0/24         |                   |
 | AS4201270008 | magicneko-tw                                  | loopback | 10.127.255.117/32       |                   |
