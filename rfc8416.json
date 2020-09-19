@@ -63,7 +63,7 @@
       },
       {
         "asn": 4201270000,
-        "prefix": "10.127.255.2/32",
+        "prefix": "10.127.255.50/32",
         "maxPrefixLength": 32,
         "comment": "ucbvax"
       },
@@ -144,6 +144,12 @@
         "prefix": "10.127.7.0/24",
         "maxPrefixLength": 29,
         "comment": "AOSCNet"
+      },
+      {
+        "asn": 4201270007,
+        "prefix": "10.127.255.2/32",
+        "maxPrefixLength": 32,
+        "comment": "staphdns"
       },
       {
         "asn": 4201270008,
