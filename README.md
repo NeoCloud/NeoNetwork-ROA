@@ -177,7 +177,7 @@
 | AS4201270000 | pan hub                                       | subnet   | 10.127.3.0/24           |                   |
 | AS4201270000 | Neo_Chen ZeroTier-One Hub                     | subnet   | 10.127.16.0/24          |                   |
 | AS4201270000 | NeoPDP-11                                     | loopback | 10.127.255.1/32         |                   |
-| AS4201270000 | ucbvax                                        | loopback | 10.127.255.50/32        |                   |
+| AS4201270000 | ucbvax                                        | loopback | 10.127.255.2/32         |                   |
 | AS4201270000 | pan                                           | loopback | 10.127.255.4/32         |                   |
 | AS4201270000 | NeoSystem                                     | loopback | 10.127.255.80/32        |                   |
 | AS4201270000 | NeoNetwork Origin                             | subnet   | fd10:127:5f37:59df::/64 |                   |
@@ -195,10 +195,12 @@
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
 | AS4201270006 | JerryXiao-Anycast                             | loopback | 10.127.255.53/32        |                   |
+| AS4201270006 | JerryXiao-Anycast                             | loopback | 10.127.255.2/32         |                   |
 | AS4201270006 | JerryXiao6                                    | subnet   | fd10:127:53::/48        |                   |
 | AS4201270007 | StaphNet                                      | subnet   | 10.127.8.160/27         |                   |
 | AS4201270007 | AOSCNet                                       | subnet   | 10.127.7.0/24           |                   |
 | AS4201270007 | staphdns                                      | loopback | 10.127.255.2/32         |                   |
+| AS4201270007 | staphdns                                      | loopback | 10.127.255.53/32        |                   |
 | AS4201270007 | Staph_v6                                      | subnet   | fd10:127:7::/51         |                   |
 | AS4201270007 | StaphReserve_0                                | subnet   | fd10:127:7:2000::/54    |                   |
 | AS4201270007 | AOSCNet_v6                                    | subnet   | fd10:127:7:2672::/64    |                   |
@@ -269,7 +271,6 @@
 10.127.255.1/32
 10.127.255.2/32
 10.127.255.4/32
-10.127.255.50/32
 10.127.255.53/32
 10.127.255.56/32
 10.127.255.80/32

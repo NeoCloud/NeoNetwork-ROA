@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1600493342,
-    "valid": 1601702942
+    "generated": 1600493489,
+    "valid": 1601703089
   },
   "people": {
     "frank": {
@@ -583,7 +583,7 @@
                 "netname": "NeoPDP-11"
               },
               {
-                "prefix": "10.127.255.50/32",
+                "prefix": "10.127.255.2/32",
                 "maxLength": 32,
                 "netname": "ucbvax"
               },
@@ -816,6 +816,11 @@
                 "prefix": "10.127.255.53/32",
                 "maxLength": 32,
                 "netname": "JerryXiao-Anycast"
+              },
+              {
+                "prefix": "10.127.255.2/32",
+                "maxLength": 32,
+                "netname": "JerryXiao-Anycast"
               }
             ],
             "ipv6": [
@@ -1018,6 +1023,11 @@
               },
               {
                 "prefix": "10.127.255.2/32",
+                "maxLength": 32,
+                "netname": "staphdns"
+              },
+              {
+                "prefix": "10.127.255.53/32",
                 "maxLength": 32,
                 "netname": "staphdns"
               }
