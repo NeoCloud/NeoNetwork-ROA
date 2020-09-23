@@ -200,8 +200,6 @@
 | AS4201270006 | JerryXiao-Anycast6                            | loopback | fd10:127:ffff:53::/64   |                   |
 | AS4201270007 | StaphNet                                      | subnet   | 10.127.8.160/27         |                   |
 | AS4201270007 | AOSCNet                                       | subnet   | 10.127.7.0/24           |                   |
-| AS4201270007 | staphdns                                      | loopback | 10.127.255.2/32         |                   |
-| AS4201270007 | staphdns                                      | loopback | 10.127.255.53/32        |                   |
 | AS4201270007 | Staph_v6                                      | subnet   | fd10:127:7::/51         |                   |
 | AS4201270007 | StaphReserve_0                                | subnet   | fd10:127:7:2000::/54    |                   |
 | AS4201270007 | AOSCNet_v6                                    | subnet   | fd10:127:7:2672::/64    |                   |
