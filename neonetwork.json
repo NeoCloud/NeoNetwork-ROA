@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1600848083,
-    "valid": 1602057683
+    "generated": 1600848212,
+    "valid": 1602057812
   },
   "people": {
     "frank": {
@@ -1067,11 +1067,6 @@
                 "prefix": "fd10:127:7:ffff::/64",
                 "maxLength": 64,
                 "netname": "StaphPeer"
-              },
-              {
-                "prefix": "fd10:127:ffff:53::/64",
-                "maxLength": 64,
-                "netname": "staphdns"
               }
             ]
           }
