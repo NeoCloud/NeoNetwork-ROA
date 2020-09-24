@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1600848212,
-    "valid": 1602057812
+    "generated": 1600938825,
+    "valid": 1602148425
   },
   "people": {
     "frank": {
@@ -811,11 +811,6 @@
                 "prefix": "10.127.8.64/26",
                 "maxLength": 29,
                 "netname": "JerryXiao-School"
-              },
-              {
-                "prefix": "10.127.255.2/32",
-                "maxLength": 32,
-                "netname": "JerryXiao-Anycast4-legacy"
               },
               {
                 "prefix": "10.127.255.53/32",
