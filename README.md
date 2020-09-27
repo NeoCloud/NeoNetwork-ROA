@@ -195,8 +195,10 @@
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
 | AS4201270006 | JerryXiao6                                    | subnet   | fd10:127:53::/48        |                   |
-| AS4201270006 | JerryXiao-Anycast4                            | loopback | 10.127.255.53/32        |                   |
-| AS4201270006 | JerryXiao-Anycast6                            | loopback | fd10:127:ffff:53::/64   |                   |
+| AS4201270006 | anycast-auth-4                                | loopback | 10.127.255.53/32        |                   |
+| AS4201270006 | anycast-recur-4                               | loopback | 10.127.255.54/32        |                   |
+| AS4201270006 | anycast-auth-6                                | loopback | fd10:127:ffff:53::/64   |                   |
+| AS4201270006 | anycast-recur-6                               | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
 | AS4201270007 | StaphNet                                      | subnet   | 10.127.8.160/27         |                   |
 | AS4201270007 | AOSCNet                                       | subnet   | 10.127.7.0/24           |                   |
 | AS4201270007 | Staph_v6                                      | subnet   | fd10:127:7::/51         |                   |
@@ -270,6 +272,7 @@
 10.127.255.2/32
 10.127.255.4/32
 10.127.255.53/32
+10.127.255.54/32
 10.127.255.56/32
 10.127.255.80/32
 10.127.255.117/32
