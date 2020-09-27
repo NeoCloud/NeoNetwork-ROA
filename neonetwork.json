@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1601187886,
-    "valid": 1602397486
+    "generated": 1601188365,
+    "valid": 1602397965
   },
   "people": {
     "frank": {
@@ -210,6 +210,11 @@
                 "prefix": "10.127.255.117/32",
                 "maxLength": 32,
                 "netname": "magicneko-tw"
+              },
+              {
+                "prefix": "10.127.255.54/32",
+                "maxLength": 32,
+                "netname": "anycast-recur-4"
               }
             ],
             "ipv6": [
@@ -217,6 +222,11 @@
                 "prefix": "fd10:127:233::/48",
                 "maxLength": 64,
                 "netname": "icecat"
+              },
+              {
+                "prefix": "fd10:127:53:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-recur-6"
               }
             ]
           }

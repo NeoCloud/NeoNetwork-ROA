@@ -176,6 +176,12 @@
         "comment": "magicneko-tw"
       },
       {
+        "asn": 4201270008,
+        "prefix": "10.127.255.54/32",
+        "maxPrefixLength": 32,
+        "comment": "anycast-recur-4"
+      },
+      {
         "asn": 4201270009,
         "prefix": "10.127.69.0/27",
         "maxPrefixLength": 29,
@@ -402,6 +408,12 @@
         "prefix": "fd10:127:233::/48",
         "maxPrefixLength": 64,
         "comment": "icecat"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "fd10:127:53:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "anycast-recur-6"
       },
       {
         "asn": 4201270009,

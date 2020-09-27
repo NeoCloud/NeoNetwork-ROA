@@ -213,6 +213,8 @@
 | AS4201270008 | MagicNeko IX (Will not broadcast)             | subnet   | 10.127.237.0/24         |                   |
 | AS4201270008 | magicneko-tw                                  | loopback | 10.127.255.117/32       |                   |
 | AS4201270008 | icecat                                        | subnet   | fd10:127:233::/48       |                   |
+| AS4201270008 | anycast-recur-4                               | loopback | 10.127.255.54/32        |                   |
+| AS4201270008 | anycast-recur-6                               | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
 | AS4201270009 | santost12                                     | subnet   | 10.127.69.0/27          |                   |
 | AS4201270009 | santost12                                     | subnet   | fd10:127:ec39::/48      |                   |
 | AS4201270010 | Lan Tian LAN                                  | subnet   | 10.127.10.0/24          |                   |
