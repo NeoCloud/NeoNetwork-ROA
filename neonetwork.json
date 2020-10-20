@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1603088389,
-    "valid": 1604297989
+    "generated": 1603166061,
+    "valid": 1604375661
   },
   "people": {
     "Lan Tian": {
@@ -265,11 +265,6 @@
                 "prefix": "10.127.255.1/32",
                 "maxLength": 32,
                 "netname": "NeoPDP-11"
-              },
-              {
-                "prefix": "10.127.255.2/32",
-                "maxLength": 32,
-                "netname": "ucbvax"
               },
               {
                 "prefix": "10.127.255.4/32",

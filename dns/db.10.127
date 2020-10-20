@@ -55,7 +55,6 @@ $TTL	604800
 
 ; Loopback Addresses
 1.255	IN	PTR	NeoPDP-11.neo.
-2.255	IN	PTR	ucbvax.neo.
 4.255	IN	PTR	pan.neo.
 53.255	IN	PTR	anycast-auth-4.neo.
 54.255	IN	PTR	anycast-recur-4.neo.

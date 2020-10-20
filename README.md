@@ -147,12 +147,6 @@
 |            cklvax | NeoSystem                 |
 |         NeoSystem | NeoVAX                    |
 |     Ndoskrnl-US01 | Ndoskrnl-CN01             |
-|            ucbvax | MagicNeko-HK01            |
-|            ucbvax | NeoPDP-11                 |
-|            ucbvax | NeoSystem                 |
-|            ucbvax | chenx97                   |
-|            ucbvax | megumiLHS                 |
-|            ucbvax | pan                       |
 |               pan | MagicNeko-JP03            |
 |               pan | NeoPDP-11                 |
 |               pan | NeoSystem                 |
@@ -177,7 +171,6 @@
 | AS4201270000 | pan hub                                       | subnet   | 10.127.3.0/24           |                   |
 | AS4201270000 | Neo_Chen ZeroTier-One Hub                     | subnet   | 10.127.16.0/24          |                   |
 | AS4201270000 | NeoPDP-11                                     | loopback | 10.127.255.1/32         |                   |
-| AS4201270000 | ucbvax                                        | loopback | 10.127.255.2/32         |                   |
 | AS4201270000 | pan                                           | loopback | 10.127.255.4/32         |                   |
 | AS4201270000 | NeoSystem                                     | loopback | 10.127.255.80/32        |                   |
 | AS4201270000 | NeoNetwork Origin                             | subnet   | fd10:127:5f37:59df::/64 |                   |
@@ -271,7 +264,6 @@
 10.127.234.0/23
 10.127.236.0/23
 10.127.255.1/32
-10.127.255.2/32
 10.127.255.4/32
 10.127.255.53/32
 10.127.255.54/32
