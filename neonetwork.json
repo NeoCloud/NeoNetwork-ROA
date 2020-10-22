@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1603389094,
-    "valid": 1604598694
+    "generated": 1603389486,
+    "valid": 1604599086
   },
   "people": {
     "leedagee": {
@@ -806,7 +806,7 @@
               {
                 "prefix": "10.127.4.0/24",
                 "maxLength": 29,
-                "netname": "Icecat-Explosion"
+                "netname": "MagicNeko Network IPv4"
               },
               {
                 "prefix": "10.127.237.0/24",
