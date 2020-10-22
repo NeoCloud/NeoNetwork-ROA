@@ -4,156 +4,169 @@
 
 | Name           | Email                        | Telegram    |
 |----------------|------------------------------|-------------|
-| Lan Tian       |                              |             |
+| leedagee       | leedageea@gmail.com          | leedagee    |
 | James58899     |                              |             |
-| Junde Yhi      | lmy441900@live.com           | lmy441900   |
-| JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao   |
-| liangjw        | liangjw@etlgr.com            | liangjw     |
 | Neo_Chen       | chenkolei@gmail.com          | Neo_Chen    |
-| Staph          | staph@aosc.io                | Staph       |
+| JerryXiao      | neonet@mail.jerryxiao.cc     | JerryXiao   |
+| SUNNET         |                              |             |
 | Yangfl Network |                              |             |
-| SteveYi        | info@steveyi.net             | steveyiyo   |
-| septs          | bgp@septs.email              | septs       |
-| licson         | admin@licson.net             | licson      |
+| chenx97        | chenx97@gmail.com            |             |
 | frank          |                              |             |
-| iEdon          |                              |             |
 | Ndoskrnl       | lollipop.studio.cn@gmail.com |             |
+| iEdon          |                              |             |
+| licson         | admin@licson.net             | licson      |
 | Yura           | yurachan@etlgr.com           |             |
-| LINE-NZ        | dn42@line.co.nz              |             |
-| Yukari         | charles@0x7f.cc              | CharlesYang |
-| alanyhq        |                              | alanyhq     |
+| Lan Tian       |                              |             |
 | CainSakura     | cain@iloli.cc                | CainSakura  |
 | Icecat         | icecat@catio.network         | fakeicecat  |
-| SUNNET         |                              |             |
-| leedagee       | leedageea@gmail.com          | leedagee    |
-| Moe            | noc@moeternet.com            | @moeternet  |
-| LibreHouse     | i+noc@outv.im                | outvi       |
-| caxap          | yrdw@protonmail.com          |             |
-| chenx97        | chenx97@gmail.com            |             |
+| Junde Yhi      | lmy441900@live.com           | lmy441900   |
+| Staph          | staph@aosc.io                | Staph       |
+| Yukari         | charles@0x7f.cc              | CharlesYang |
+| liangjw        | liangjw@etlgr.com            | liangjw     |
+| MagicNeko      | icecat@catio.network         | fakeicecat  |
 | Tyler          |                              | santost12   |
+| LibreHouse     | i+noc@outv.im                | outvi       |
+| alanyhq        |                              | alanyhq     |
+| caxap          | yrdw@protonmail.com          |             |
+| LINE-NZ        | dn42@line.co.nz              |             |
+| septs          | bgp@septs.email              | septs       |
+| Moe            | noc@moeternet.com            | @moeternet  |
+| SteveYi        | info@steveyi.net             | steveyiyo   |
 
 ## AS table
 
-| Source     | ASN          | Owner      | Name                                            |
-|------------|--------------|------------|-------------------------------------------------|
-| Internet   | AS134098     | licson     | Licson Internal Network                         |
-| Internet   | AS140936     | SUNNET     | SUNNET                                          |
-| Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                     |
-| Internet   | AS209557     | SteveYi    | Yi-Network                                      |
-| Internet   | AS213262     | Moe        | Moe                                             |
-| NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                               |
-| NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                               |
-| NeoNetwork | AS4201270002 | septs      | [transferable]                                  |
-| NeoNetwork | AS4201270003 | chenx97    | chenx97                                         |
-| NeoNetwork | AS4201270004 | frank      | frank                                           |
-| NeoNetwork | AS4201270005 | icecat     | Icecat                                          |
-| NeoNetwork | AS4201270006 | JerryXiao  | Jerry Network                                   |
-| NeoNetwork | AS4201270007 | Staph      | Staph                                           |
-| NeoNetwork | AS4201270008 | icecat     | MagicNeko Experimental Network                  |
-| NeoNetwork | AS4201270009 | santost12  | santost12                                       |
-| NeoNetwork | AS4201270010 | Lan Tian   | Lan Tian                                        |
-| NeoNetwork | AS4201270011 | LINE-NZ    | LINE-NZ                                         |
-| NeoNetwork | AS4201270012 | Junde Yhi  | Yhi Interconnect                                |
-| NeoNetwork | AS4201270013 | Ndoskrnl   | NDOSKRNL                                        |
-| NeoNetwork | AS4201270014 | leedagee   | leedagee                                        |
-| NeoNetwork | AS4201270015 | James58899 | James58899                                      |
-| NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                 |
-| NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                             |
-| NeoNetwork | AS4201270018 | caxap      | caxap Network                                   |
-| DN42       | AS4242420140 | Yangfl     | Yangfl Network                                  |
-| DN42       | AS4242420916 | alanyhq    | alanyhq                                         |
-| DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project |
-| DN42       | AS4242421037 | LibreHouse | LibreHouse                                      |
-| DN42       | AS4242421214 | SteveYi    | Yi-Network                                      |
-| DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                    |
-| DN42       | AS4242422464 | Yura       | Yura Network                                    |
-| DN42       | AS4242423088 | SUNNET     | SUNNET                                          |
+| Source     | ASN          | Owner      | Name                                                   |
+|------------|--------------|------------|--------------------------------------------------------|
+| Internet   | AS134098     | licson     | Licson Internal Network                                |
+| Internet   | AS140936     | SUNNET     | SUNNET                                                 |
+| Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                            |
+| Internet   | AS209557     | SteveYi    | Yi-Network                                             |
+| Internet   | AS213262     | Moe        | Moe                                                    |
+| NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                                      |
+| NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                                      |
+| NeoNetwork | AS4201270002 | septs      | [transferable]                                         |
+| NeoNetwork | AS4201270003 | chenx97    | chenx97                                                |
+| NeoNetwork | AS4201270004 | frank      | frank                                                  |
+| NeoNetwork | AS4201270005 | magicneko  | MagicNeko CN(Optical Cable Project in Northeast China) |
+| NeoNetwork | AS4201270006 | JerryXiao  | Jerry Network                                          |
+| NeoNetwork | AS4201270007 | Staph      | Staph                                                  |
+| NeoNetwork | AS4201270008 | magicneko  | MagicNeko Asia Experimental Network                    |
+| NeoNetwork | AS4201270009 | santost12  | santost12                                              |
+| NeoNetwork | AS4201270010 | Lan Tian   | Lan Tian                                               |
+| NeoNetwork | AS4201270011 | LINE-NZ    | LINE-NZ                                                |
+| NeoNetwork | AS4201270012 | Junde Yhi  | Yhi Interconnect                                       |
+| NeoNetwork | AS4201270013 | Ndoskrnl   | NDOSKRNL                                               |
+| NeoNetwork | AS4201270014 | leedagee   | leedagee                                               |
+| NeoNetwork | AS4201270015 | James58899 | James58899                                             |
+| NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                        |
+| NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                                    |
+| NeoNetwork | AS4201270018 | caxap      | caxap Network                                          |
+| DN42       | AS4242420140 | Yangfl     | Yangfl Network                                         |
+| DN42       | AS4242420916 | alanyhq    | alanyhq                                                |
+| DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project        |
+| DN42       | AS4242421037 | LibreHouse | LibreHouse                                             |
+| DN42       | AS4242421214 | SteveYi    | Yi-Network                                             |
+| DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                           |
+| DN42       | AS4242422464 | Yura       | Yura Network                                           |
+| DN42       | AS4242423088 | SUNNET     | SUNNET                                                 |
 
 ## Node table
 
-| ASN          | Name                      |
-|--------------|---------------------------|
-| AS207268     | IX42-LAS                  |
-| AS213262     | Moe                       |
-| AS4201270000 | NeoPDP-11                 |
-| AS4201270000 | NeoSystem                 |
-| AS4201270000 | pan                       |
-| AS4201270000 | ucbvax                    |
-| AS4201270000 | NeoVAX                    |
-| AS4201270000 | cklvax                    |
-| AS4201270000 | caasih                    |
-| AS4201270001 | septs                     |
-| AS4201270003 | chenx97                   |
-| AS4201270004 | frank-hsinchu             |
-| AS4201270005 | Icecat-GroupAccessNetwork |
-| AS4201270006 | JerryXiao                 |
-| AS4201270006 | JerryXiao-SH1             |
-| AS4201270006 | JerryXiao-HK1             |
-| AS4201270006 | JerryXiao-HK2             |
-| AS4201270007 | staph                     |
-| AS4201270008 | MagicNeko-HK01            |
-| AS4201270008 | MagicNeko-JP02            |
-| AS4201270008 | MagicNeko-JP03            |
-| AS4201270008 | MagicNeko-TW01            |
-| AS4201270008 | MagicNeko-UK01            |
-| AS4201270009 | santost12-Network         |
-| AS4201270010 | LanTian                   |
-| AS4201270011 | LINE-NZ-NZ01              |
-| AS4201270011 | LINE-NZ-AU01              |
-| AS4201270012 | yhi-h                     |
-| AS4201270013 | Ndoskrnl-US01             |
-| AS4201270013 | Ndoskrnl-CN01             |
-| AS4201270014 | leedagee                  |
-| AS4201270015 | James58899                |
-| AS4201270016 | liangjw                   |
-| AS4201270017 | CainSakura-home           |
-| AS4201270018 | caxap-SH                  |
-| AS4242420140 | dfceaef                   |
-| AS4242421037 | megumiLHS                 |
-| AS4242422189 | iEdon                     |
-| AS4242422464 | Yura                      |
-| AS4242423088 | SUNNET                    |
+| ASN          | Name              |
+|--------------|-------------------|
+| AS207268     | IX42-LAS          |
+| AS213262     | Moe               |
+| AS4201270000 | NeoPDP-11         |
+| AS4201270000 | NeoSystem         |
+| AS4201270000 | pan               |
+| AS4201270000 | ucbvax            |
+| AS4201270000 | NeoVAX            |
+| AS4201270000 | cklvax            |
+| AS4201270000 | caasih            |
+| AS4201270001 | septs             |
+| AS4201270003 | chenx97           |
+| AS4201270004 | frank-hsinchu     |
+| AS4201270005 | liqingge          |
+| AS4201270006 | JerryXiao         |
+| AS4201270006 | JerryXiao-SH1     |
+| AS4201270006 | JerryXiao-HK1     |
+| AS4201270006 | JerryXiao-HK2     |
+| AS4201270007 | staph             |
+| AS4201270008 | MagicNeko-HK01    |
+| AS4201270008 | MagicNeko-JP02    |
+| AS4201270008 | MagicNeko-JP03    |
+| AS4201270008 | MagicNeko-TW01    |
+| AS4201270008 | MagicNeko-UK01    |
+| AS4201270008 | luotianyi         |
+| AS4201270008 | koishi            |
+| AS4201270008 | yuezhengling      |
+| AS4201270009 | santost12-Network |
+| AS4201270010 | LanTian           |
+| AS4201270011 | LINE-NZ-NZ01      |
+| AS4201270011 | LINE-NZ-AU01      |
+| AS4201270012 | yhi-h             |
+| AS4201270013 | Ndoskrnl-US01     |
+| AS4201270013 | Ndoskrnl-CN01     |
+| AS4201270014 | leedagee          |
+| AS4201270015 | James58899        |
+| AS4201270016 | liangjw           |
+| AS4201270017 | CainSakura-home   |
+| AS4201270018 | caxap-SH          |
+| AS4242420140 | dfceaef           |
+| AS4242421037 | megumiLHS         |
+| AS4242422189 | iEdon             |
+| AS4242422464 | Yura              |
+| AS4242423088 | SUNNET            |
 
 ## Peer table
 
-|          Upstream | Downstream                |
-|-------------------|---------------------------|
-|     JerryXiao-SH1 | JerryXiao-HK1             |
-| santost12-Network | MagicNeko-JP03            |
-|         JerryXiao | JerryXiao-HK1             |
-|         JerryXiao | JerryXiao-SH1             |
-|         JerryXiao | LanTian                   |
-|         JerryXiao | dfceaef                   |
-|         JerryXiao | ucbvax                    |
-|    MagicNeko-JP03 | JerryXiao                 |
-|    MagicNeko-JP03 | Ndoskrnl-US01             |
-|    MagicNeko-JP03 | chenx97                   |
-|    MagicNeko-JP03 | frank-hsinchu             |
-|    MagicNeko-JP03 | megumiLHS                 |
-|    MagicNeko-JP03 | santost12-Network         |
-|             septs | James58899                |
-|             septs | JerryXiao                 |
-|             septs | LanTian                   |
-|             septs | MagicNeko-JP03            |
-|             septs | frank-hsinchu             |
-|             septs | megumiLHS                 |
-|             septs | ucbvax                    |
-|             staph | MagicNeko-UK01            |
-|             staph | septs                     |
-|     JerryXiao-HK1 | JerryXiao-HK2             |
-|    MagicNeko-HK01 | Icecat-GroupAccessNetwork |
-|    MagicNeko-HK01 | SUNNET                    |
-|         NeoPDP-11 | NeoVAX                    |
-|            cklvax | NeoSystem                 |
-|         NeoSystem | NeoVAX                    |
-|     Ndoskrnl-US01 | Ndoskrnl-CN01             |
-|               pan | MagicNeko-JP03            |
-|               pan | NeoPDP-11                 |
-|               pan | NeoSystem                 |
-|               pan | NeoVAX                    |
-|            caasih | NeoPDP-11                 |
-|            caasih | staph                     |
-|            caasih | ucbvax                    |
+|          Upstream | Downstream        |
+|-------------------|-------------------|
+|         NeoSystem | NeoVAX            |
+|            koishi | liqingge          |
+|            koishi | yuezhengling      |
+|            koishi | luotianyi         |
+|            koishi | JerryXiao-HK1     |
+|         JerryXiao | JerryXiao-HK1     |
+|         JerryXiao | JerryXiao-SH1     |
+|         JerryXiao | LanTian           |
+|         JerryXiao | dfceaef           |
+|         JerryXiao | ucbvax            |
+|     Ndoskrnl-US01 | Ndoskrnl-CN01     |
+|             staph | MagicNeko-UK01    |
+|             staph | septs             |
+|         NeoPDP-11 | NeoVAX            |
+|     JerryXiao-SH1 | JerryXiao-HK1     |
+|      yuezhengling | liqingge          |
+|      yuezhengling | koishi            |
+|      yuezhengling | luotianyi         |
+|      yuezhengling | JerryXiao         |
+|      yuezhengling | Ndoskrnl-US01     |
+|      yuezhengling | chenx97           |
+|      yuezhengling | frank-hsinchu     |
+|      yuezhengling | megumiLHS         |
+|      yuezhengling | santost12-Network |
+| santost12-Network | MagicNeko-JP03    |
+|     JerryXiao-HK1 | JerryXiao-HK2     |
+|          liqingge | koishi            |
+|          liqingge | yuezhengling      |
+|          liqingge | luotianyi         |
+|          liqingge | JerryXiao-SH1     |
+|               pan | MagicNeko-JP03    |
+|               pan | NeoPDP-11         |
+|               pan | NeoSystem         |
+|               pan | NeoVAX            |
+|            cklvax | NeoSystem         |
+|             septs | James58899        |
+|             septs | JerryXiao         |
+|             septs | LanTian           |
+|             septs | MagicNeko-JP03    |
+|             septs | frank-hsinchu     |
+|             septs | megumiLHS         |
+|             septs | ucbvax            |
+|            caasih | NeoPDP-11         |
+|            caasih | staph             |
+|            caasih | ucbvax            |
 
 ## Route table
 
@@ -184,6 +197,10 @@
 | AS4201270005 | Icecat Residential network occupation address | subnet   | 10.127.233.0/24         |                   |
 | AS4201270005 | icecat                                        | subnet   | fd10:127:233:1c3c::/64  | fd10:127:233::/48 |
 | AS4201270005 | MagicNeko VPN                                 | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
+| AS4201270005 | CainSakura-home-devices                       | subnet   | 10.127.234.0/24         |                   |
+| AS4201270005 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
+| AS4201270005 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
+| AS4201270005 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
 | AS4201270006 | JerryXiao-Infrastructure                      | subnet   | 10.127.8.192/26         |                   |
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
@@ -220,10 +237,6 @@
 | AS4201270014 | leedagee                                      | subnet   | 10.127.23.0/29          |                   |
 | AS4201270014 | leedagee                                      | subnet   | fd10:127:23::/48        |                   |
 | AS4201270016 | Moecast Network                               | subnet   | 10.127.64.0/27          |                   |
-| AS4201270017 | CainSakura-home-devices                       | subnet   | 10.127.234.0/24         |                   |
-| AS4201270017 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
-| AS4201270017 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
-| AS4201270017 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
 | AS4201270018 | caxap-minecraft-net                           | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                        | subnet   | fd10:127:6324::/48      |                   |
 | AS4242420140 | dfceaef NET                                   | subnet   | 10.127.12.0/24          |                   |
