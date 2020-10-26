@@ -254,6 +254,12 @@
         "comment": "dfceaef NET"
       },
       {
+        "asn": 4242420308,
+        "prefix": "10.127.38.32/27",
+        "maxPrefixLength": 29,
+        "comment": "VILLISEK-NEO"
+      },
+      {
         "asn": 4242421037,
         "prefix": "10.127.8.0/26",
         "maxPrefixLength": 29,
@@ -444,6 +450,12 @@
         "prefix": "fd10:127:6324::/48",
         "maxPrefixLength": 64,
         "comment": "caxap6"
+      },
+      {
+        "asn": 4242420308,
+        "prefix": "fd10:127:308::/48",
+        "maxPrefixLength": 64,
+        "comment": "VILLISEK-NEO-V6"
       },
       {
         "asn": 4242421025,
