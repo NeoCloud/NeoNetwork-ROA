@@ -81,7 +81,7 @@
 | AS4201270000 | NeoPDP-11         |
 | AS4201270000 | NeoSystem         |
 | AS4201270000 | pan               |
-| AS4201270000 | ucbvax            |
+| AS4201270000 | NeoRouter         |
 | AS4201270000 | NeoVAX            |
 | AS4201270000 | cklvax            |
 | AS4201270000 | caasih            |
@@ -134,7 +134,6 @@
 |         JerryXiao | JerryXiao-SH1     |
 |         JerryXiao | LanTian           |
 |         JerryXiao | dfceaef           |
-|         JerryXiao | ucbvax            |
 |     Ndoskrnl-US01 | Ndoskrnl-CN01     |
 |             staph | MagicNeko-UK01    |
 |             staph | septs             |
@@ -166,10 +165,8 @@
 |             septs | MagicNeko-JP03    |
 |             septs | frank-hsinchu     |
 |             septs | megumiLHS         |
-|             septs | ucbvax            |
 |            caasih | NeoPDP-11         |
 |            caasih | staph             |
-|            caasih | ucbvax            |
 
 ## Route table
 
