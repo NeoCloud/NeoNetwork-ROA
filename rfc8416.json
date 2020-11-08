@@ -248,6 +248,12 @@
         "comment": "caxap-minecraft-net"
       },
       {
+        "asn": 4201270019,
+        "prefix": "10.127.19.96/27",
+        "maxPrefixLength": 29,
+        "comment": "cupkappu"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,

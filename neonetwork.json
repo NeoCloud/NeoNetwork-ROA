@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1604297698,
-    "valid": 1605507298
+    "generated": 1604856181,
+    "valid": 1606065781
   },
   "people": {
     "leedagee": {
@@ -998,6 +998,40 @@
                 "prefix": "10.127.8.0/26",
                 "maxLength": 29,
                 "netname": "LibreHouse"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Cupkappu": {
+      "info": {
+        "name": "Cupkappu",
+        "babel": [
+          "jp-1",
+          "zh-0"
+        ],
+        "contact": {
+          "telegram": "kifuc",
+          "email": "cup@kust.ga",
+          "github": "cupkappu"
+        },
+        "nic_hdl": "CUPKAPPU"
+      },
+      "asns": [
+        {
+          "asn": 4201270019,
+          "owner": "Cupkappu",
+          "name": "Cupkappu",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.19.96/27",
+                "maxLength": 29,
+                "netname": "cupkappu"
               }
             ],
             "ipv6": []

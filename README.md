@@ -27,6 +27,7 @@
 | MagicNeko        | icecat@catio.network         | fakeicecat  |
 | Tyler            |                              | santost12   |
 | LibreHouse       | i+noc@outv.im                | outvi       |
+| Cupkappu         | cup@kust.ga                  | kifuc       |
 | alanyhq          |                              | alanyhq     |
 | caxap            | yrdw@protonmail.com          |             |
 | LINE-NZ          | dn42@line.co.nz              |             |
@@ -62,6 +63,7 @@
 | NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                        |
 | NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                                    |
 | NeoNetwork | AS4201270018 | caxap      | caxap Network                                          |
+| NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                               |
 | DN42       | AS4242420140 | Yangfl     | Yangfl Network                                         |
 | DN42       | AS4242420308 | VILLISEK   | VILLISEK                                               |
 | DN42       | AS4242420916 | alanyhq    | alanyhq                                                |
@@ -114,6 +116,8 @@
 | AS4201270016 | liangjw           |
 | AS4201270017 | CainSakura-home   |
 | AS4201270018 | caxap-SH          |
+| AS4201270019 | Cupkappu-HK       |
+| AS4201270019 | Cupkappu-JP       |
 | AS4242420140 | dfceaef           |
 | AS4242420308 | VILLISEK          |
 | AS4242421037 | megumiLHS         |
@@ -239,6 +243,7 @@
 | AS4201270016 | Moecast Network                               | subnet   | 10.127.64.0/27          |                   |
 | AS4201270018 | caxap-minecraft-net                           | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                        | subnet   | fd10:127:6324::/48      |                   |
+| AS4201270019 | cupkappu                                      | subnet   | 10.127.19.96/27         |                   |
 | AS4242420140 | dfceaef NET                                   | subnet   | 10.127.12.0/24          |                   |
 | AS4242420308 | VILLISEK-NEO                                  | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                               | subnet   | fd10:127:308::/48       |                   |
@@ -263,6 +268,7 @@
 10.127.10.0/23
 10.127.12.0/22
 10.127.16.0/24
+10.127.19.96/27
 10.127.21.0/24
 10.127.22.0/28
 10.127.23.0/29
