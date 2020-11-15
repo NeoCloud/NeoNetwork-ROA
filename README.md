@@ -181,7 +181,6 @@
 | AS140936     | SUNNET                                        | subnet   | 10.127.11.0/24          |                   |
 | AS207268     | IX42-LAS-4                                    | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                    | subnet   | fd10:127:1300::/48      |                   |
-| AS209557     | Yi Global VPN                                 | subnet   | 10.127.124.0/29         |                   |
 | AS213262     | Moe                                           | subnet   | fd10:127:3262::/64      |                   |
 | AS4201270000 | RESERVED                                      | subnet   | 10.127.0.0/24           |                   |
 | AS4201270000 | CROOM                                         | subnet   | 10.127.1.0/24           |                   |
