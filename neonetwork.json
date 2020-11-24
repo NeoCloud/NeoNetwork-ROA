@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1606112183,
-    "valid": 1607321783
+    "generated": 1606176988,
+    "valid": 1607386588
   },
   "people": {
     "septs": {
@@ -70,7 +70,7 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.69.0/27",
+                "prefix": "10.127.39.0/27",
                 "maxLength": 29,
                 "netname": "santost12"
               }

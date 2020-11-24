@@ -189,7 +189,7 @@
       },
       {
         "asn": 4201270009,
-        "prefix": "10.127.69.0/27",
+        "prefix": "10.127.39.0/27",
         "maxPrefixLength": 29,
         "comment": "santost12"
       },
