@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1606298858,
-    "valid": 1607508458
+    "generated": 1606301658,
+    "valid": 1607511258
   },
   "people": {
     "septs": {
@@ -654,6 +654,11 @@
                 "prefix": "10.127.236.0/24",
                 "maxLength": 29,
                 "netname": "MagicNeko VPN"
+              },
+              {
+                "prefix": "10.127.255.18/32",
+                "maxLength": 32,
+                "netname": "Video encoding node(Anycast)"
               }
             ],
             "ipv6": [
@@ -702,6 +707,11 @@
                 "prefix": "10.127.255.54/32",
                 "maxLength": 32,
                 "netname": "anycast-recur-4"
+              },
+              {
+                "prefix": "10.127.255.18/32",
+                "maxLength": 32,
+                "netname": "Video encoding node(Anycast)"
               }
             ],
             "ipv6": [

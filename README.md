@@ -205,6 +205,7 @@
 | AS4201270005 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
 | AS4201270005 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
 | AS4201270005 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
+| AS4201270005 | Video encoding node(Anycast)                  | loopback | 10.127.255.18/32        |                   |
 | AS4201270006 | JerryXiao-Infrastructure                      | subnet   | 10.127.8.192/26         |                   |
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
@@ -229,6 +230,7 @@
 | AS4201270008 | icecat                                        | subnet   | fd10:127:233::/48       |                   |
 | AS4201270008 | anycast-recur-4                               | loopback | 10.127.255.54/32        |                   |
 | AS4201270008 | anycast-recur-6                               | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
+| AS4201270008 | Video encoding node(Anycast)                  | loopback | 10.127.255.18/32        |                   |
 | AS4201270009 | santost12                                     | subnet   | 10.127.39.0/27          |                   |
 | AS4201270009 | santost12                                     | subnet   | fd10:127:ec39::/48      |                   |
 | AS4201270010 | Lan Tian LAN                                  | subnet   | 10.127.10.0/24          |                   |
@@ -287,6 +289,7 @@
 10.127.236.0/23
 10.127.255.1/32
 10.127.255.4/32
+10.127.255.18/32
 10.127.255.53/32
 10.127.255.54/32
 10.127.255.56/32
@@ -322,5 +325,5 @@ fd10:127:ffff:53::/64
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 7287       | 58249      | 11.12%         | 88.88%         |
+| IPv4         | 65536      | 7288       | 58248      | 11.12%         | 88.88%         |
 | IPv6         | 7.9228e+28 | 1.5508e+25 | 7.9213e+28 | 0.02%          | 99.98%         |

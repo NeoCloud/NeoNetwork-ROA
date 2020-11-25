@@ -122,6 +122,12 @@
         "comment": "MagicNeko VPN"
       },
       {
+        "asn": 4201270005,
+        "prefix": "10.127.255.18/32",
+        "maxPrefixLength": 32,
+        "comment": "Video encoding node(Anycast)"
+      },
+      {
         "asn": 4201270006,
         "prefix": "10.127.8.192/26",
         "maxPrefixLength": 29,
@@ -186,6 +192,12 @@
         "prefix": "10.127.255.54/32",
         "maxPrefixLength": 32,
         "comment": "anycast-recur-4"
+      },
+      {
+        "asn": 4201270008,
+        "prefix": "10.127.255.18/32",
+        "maxPrefixLength": 32,
+        "comment": "Video encoding node(Anycast)"
       },
       {
         "asn": 4201270009,
