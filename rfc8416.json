@@ -260,6 +260,12 @@
         "comment": "cupkappu"
       },
       {
+        "asn": 4201270020,
+        "prefix": "10.127.8.128/29",
+        "maxPrefixLength": 29,
+        "comment": "Edward_P-Ezpro"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -462,6 +468,12 @@
         "prefix": "fd10:127:6324::/48",
         "maxPrefixLength": 64,
         "comment": "caxap6"
+      },
+      {
+        "asn": 4201270020,
+        "prefix": "fd10:127:2f2f::/48",
+        "maxPrefixLength": 64,
+        "comment": "Edward_P-Ezpro-V6"
       },
       {
         "asn": 4242420308,

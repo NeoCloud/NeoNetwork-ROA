@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1606302130,
-    "valid": 1607511730
+    "generated": 1606389490,
+    "valid": 1607599090
   },
   "people": {
     "septs": {
@@ -836,6 +836,42 @@
                 "prefix": "fd10:127:53:53::/64",
                 "maxLength": 64,
                 "netname": "anycast-recur-6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Edward_P": {
+      "info": {
+        "name": "Edward_P",
+        "contact": {
+          "email": "edward@edward-p.xyz",
+          "github": "edward-p",
+          "telegram": "@Edward_P"
+        },
+        "nic_hdl": "EDWARD-P"
+      },
+      "asns": [
+        {
+          "asn": 4201270020,
+          "owner": "Edward_P",
+          "name": "Edward_P",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.8.128/29",
+                "maxLength": 29,
+                "netname": "Edward_P-Ezpro"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2f2f::/48",
+                "maxLength": 64,
+                "netname": "Edward_P-Ezpro-V6"
               }
             ]
           }

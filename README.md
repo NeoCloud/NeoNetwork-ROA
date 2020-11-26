@@ -21,6 +21,7 @@
 | MagicNeko        | icecat@catio.network         | fakeicecat  |
 | SUNNET           |                              |             |
 | JerryXiao        | neonet@mail.jerryxiao.cc     | JerryXiao   |
+| Edward_P         | edward@edward-p.xyz          | @Edward_P   |
 | LibreHouse       | i+noc@outv.im                | outvi       |
 | James58899       |                              |             |
 | Junde Yhi        | lmy441900@live.com           | lmy441900   |
@@ -64,6 +65,7 @@
 | NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                                    |
 | NeoNetwork | AS4201270018 | caxap      | caxap Network                                          |
 | NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                               |
+| NeoNetwork | AS4201270020 | Edward_P   | Edward_P                                               |
 | DN42       | AS4242420140 | Yangfl     | Yangfl Network                                         |
 | DN42       | AS4242420308 | VILLISEK   | VILLISEK                                               |
 | DN42       | AS4242420916 | alanyhq    | alanyhq                                                |
@@ -119,6 +121,7 @@
 | AS4201270019 | Cupkappu-HK1      |
 | AS4201270019 | Cupkappu-JP       |
 | AS4201270019 | Cupkappu-HK2      |
+| AS4201270020 | Edward_P          |
 | AS4242420140 | dfceaef           |
 | AS4242420308 | VILLISEK          |
 | AS4242421037 | megumiLHS         |
@@ -246,6 +249,8 @@
 | AS4201270018 | caxap-minecraft-net                           | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                        | subnet   | fd10:127:6324::/48      |                   |
 | AS4201270019 | cupkappu                                      | subnet   | 10.127.19.0/24          |                   |
+| AS4201270020 | Edward_P-Ezpro                                | subnet   | 10.127.8.128/29         |                   |
+| AS4201270020 | Edward_P-Ezpro-V6                             | subnet   | fd10:127:2f2f::/48      |                   |
 | AS4242420140 | dfceaef NET                                   | subnet   | 10.127.12.0/24          |                   |
 | AS4242420308 | VILLISEK-NEO                                  | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                               | subnet   | fd10:127:308::/48       |                   |
@@ -264,6 +269,7 @@
 10.127.5.0/28
 10.127.7.0/24
 10.127.8.0/25
+10.127.8.128/29
 10.127.8.160/27
 10.127.8.192/26
 10.127.9.0/24
@@ -314,6 +320,7 @@ fd10:127:234::/48
 fd10:127:308::/48
 fd10:127:1300::/48
 fd10:127:1919::/48
+fd10:127:2f2f::/48
 fd10:127:3262::/64
 fd10:127:5f37:59df::/64
 fd10:127:6324::/48
@@ -325,5 +332,5 @@ fd10:127:ffff:53::/64
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 7288       | 58248      | 11.12%         | 88.88%         |
-| IPv6         | 7.9228e+28 | 1.5508e+25 | 7.9213e+28 | 0.02%          | 99.98%         |
+| IPv4         | 65536      | 7296       | 58240      | 11.13%         | 88.87%         |
+| IPv6         | 7.9228e+28 | 1.6717e+25 | 7.9211e+28 | 0.02%          | 99.98%         |
