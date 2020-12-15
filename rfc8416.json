@@ -125,7 +125,7 @@
         "asn": 4201270005,
         "prefix": "10.127.255.18/32",
         "maxPrefixLength": 32,
-        "comment": "Video encoding node(Anycast)"
+        "comment": "icecat-video"
       },
       {
         "asn": 4201270006,

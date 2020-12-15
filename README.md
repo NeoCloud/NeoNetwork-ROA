@@ -208,7 +208,7 @@
 | AS4201270005 | Icecat Global Tunnel Address (OpenVPN)        | subnet   | 10.127.235.0/24         |                   |
 | AS4201270005 | MagicNeko VPN                                 | subnet   | 10.127.236.0/24         |                   |
 | AS4201270005 | CainSakura-home-devices                       | subnet   | fd10:127:234::/48       |                   |
-| AS4201270005 | Video encoding node(Anycast)                  | loopback | 10.127.255.18/32        |                   |
+| AS4201270005 | icecat-video                                  | loopback | 10.127.255.18/32        |                   |
 | AS4201270006 | JerryXiao-Infrastructure                      | subnet   | 10.127.8.192/26         |                   |
 | AS4201270006 | JerryXiao-Home                                | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                              | subnet   | 10.127.8.64/26          |                   |
