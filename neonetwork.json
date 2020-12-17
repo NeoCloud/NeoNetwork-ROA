@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1608121161,
-    "valid": 1609330761
+    "generated": 1608182674,
+    "valid": 1609392274
   },
   "people": {
     "liangjw": {
@@ -404,6 +404,39 @@
                 "maxLength": 64,
                 "netname": "JerryXiao6"
               },
+              {
+                "prefix": "fd10:127:ffff:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-auth-6"
+              },
+              {
+                "prefix": "fd10:127:53:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-recur-6"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242423618,
+          "owner": "JerryXiao",
+          "name": "Jerry AS",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.255.53/32",
+                "maxLength": 32,
+                "netname": "anycast-auth-4"
+              },
+              {
+                "prefix": "10.127.255.54/32",
+                "maxLength": 32,
+                "netname": "anycast-recur-4"
+              }
+            ],
+            "ipv6": [
               {
                 "prefix": "fd10:127:ffff:53::/64",
                 "maxLength": 64,

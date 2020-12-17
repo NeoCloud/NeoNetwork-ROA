@@ -308,6 +308,18 @@
         "comment": "SUNNET"
       },
       {
+        "asn": 4242423618,
+        "prefix": "10.127.255.53/32",
+        "maxPrefixLength": 32,
+        "comment": "anycast-auth-4"
+      },
+      {
+        "asn": 4242423618,
+        "prefix": "10.127.255.54/32",
+        "maxPrefixLength": 32,
+        "comment": "anycast-recur-4"
+      },
+      {
         "asn": 207268,
         "prefix": "fd10:127:1300::/48",
         "maxPrefixLength": 64,
@@ -486,6 +498,18 @@
         "prefix": "fd10:127:233:1000::/64",
         "maxPrefixLength": 64,
         "comment": "icecat"
+      },
+      {
+        "asn": 4242423618,
+        "prefix": "fd10:127:ffff:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "anycast-auth-6"
+      },
+      {
+        "asn": 4242423618,
+        "prefix": "fd10:127:53:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "anycast-recur-6"
       }
     ]
   }
