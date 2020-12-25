@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1608920580,
-    "valid": 1610130180
+    "generated": 1608921386,
+    "valid": 1610130986
   },
   "people": {
     "liangjw": {
@@ -848,9 +848,7 @@
       "info": {
         "name": "MagicNeko",
         "contact": {
-          "telegram": "fakeicecat",
-          "github": "Myer921",
-          "email": "icecat@catio.network"
+          "email": "noc@koishi.moe"
         },
         "nic_hdl": "MAGICNEKO"
       },
@@ -906,6 +904,17 @@
                 "netname": "CainSakura-home-devices"
               }
             ]
+          }
+        },
+        {
+          "asn": 140913,
+          "owner": "magicneko",
+          "name": "Koishi Network(aka Hentai Network)",
+          "source": "Internet",
+          "description": "MagicNeko VPN business branch",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
           }
         },
         {

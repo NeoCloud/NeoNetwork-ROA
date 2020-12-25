@@ -24,7 +24,7 @@
 | chenx97          | chenx97@gmail.com            |             |
 | Ndoskrnl         | lollipop.studio.cn@gmail.com |             |
 | CainSakura       | cain@iloli.cc                | CainSakura  |
-| MagicNeko        | icecat@catio.network         | fakeicecat  |
+| MagicNeko        | noc@koishi.moe               |             |
 | Yukari           | charles@0x7f.cc              | CharlesYang |
 | James58899       |                              |             |
 | alanyhq          |                              | alanyhq     |
@@ -41,6 +41,7 @@
 | Source     | ASN          | Owner      | Name                                                   |
 |------------|--------------|------------|--------------------------------------------------------|
 | Internet   | AS134098     | licson     | Licson Internal Network                                |
+| Internet   | AS140913     | magicneko  | Koishi Network(aka Hentai Network)                     |
 | Internet   | AS140936     | SUNNET     | SUNNET                                                 |
 | Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                            |
 | Internet   | AS209557     | SteveYi    | Yi-Network                                             |
