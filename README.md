@@ -62,7 +62,7 @@
 | NeoNetwork | AS4201270014 | leedagee   | leedagee                                               |
 | NeoNetwork | AS4201270015 | James58899 | James58899                                             |
 | NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                        |
-| NeoNetwork | AS4201270017 | CainSakura | Cain's Home Network                                    |
+| NeoNetwork | AS4201270017 | icecat     | Mcnetwork (MagicNeko other networks)                   |
 | NeoNetwork | AS4201270018 | caxap      | caxap Network                                          |
 | NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                               |
 | NeoNetwork | AS4201270020 | Edward_P   | Edward_P                                               |

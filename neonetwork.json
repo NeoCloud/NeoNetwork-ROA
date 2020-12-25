@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1608545637,
-    "valid": 1609755237
+    "generated": 1608920580,
+    "valid": 1610130180
   },
   "people": {
     "liangjw": {
@@ -245,6 +245,17 @@
         "nic_hdl": "ICECAT"
       },
       "asns": [
+        {
+          "asn": 4201270017,
+          "owner": "icecat",
+          "name": "Mcnetwork (MagicNeko other networks)",
+          "source": "NeoNetwork",
+          "description": "Transition the Mcnetwork community network into an intermediate ASN of the BGP network",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        },
         {
           "asn": 4242421025,
           "owner": "icecat",
@@ -831,19 +842,7 @@
         },
         "nic_hdl": "CAINSAKURA"
       },
-      "asns": [
-        {
-          "asn": 4201270017,
-          "owner": "CainSakura",
-          "name": "Cain's Home Network",
-          "source": "NeoNetwork",
-          "description": "NextMoe GUser",
-          "routes": {
-            "ipv4": [],
-            "ipv6": []
-          }
-        }
-      ]
+      "asns": []
     },
     "magicneko": {
       "info": {
