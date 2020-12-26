@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1608921386,
-    "valid": 1610130986
+    "generated": 1608948087,
+    "valid": 1610157687
   },
   "people": {
     "liangjw": {
@@ -252,7 +252,13 @@
           "source": "NeoNetwork",
           "description": "Transition the Mcnetwork community network into an intermediate ASN of the BGP network",
           "routes": {
-            "ipv4": [],
+            "ipv4": [
+              {
+                "prefix": "10.127.4.0/24",
+                "maxLength": 29,
+                "netname": "MagicNeko Network IPv4"
+              }
+            ],
             "ipv6": []
           }
         },
@@ -925,11 +931,6 @@
           "description": "MagicNeko Network",
           "routes": {
             "ipv4": [
-              {
-                "prefix": "10.127.4.0/24",
-                "maxLength": 29,
-                "netname": "MagicNeko Network IPv4"
-              },
               {
                 "prefix": "10.127.237.0/24",
                 "maxLength": 29,

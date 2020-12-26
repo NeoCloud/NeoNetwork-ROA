@@ -171,12 +171,6 @@
       },
       {
         "asn": 4201270008,
-        "prefix": "10.127.4.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko Network IPv4"
-      },
-      {
-        "asn": 4201270008,
         "prefix": "10.127.237.0/24",
         "maxPrefixLength": 29,
         "comment": "MagicNeko IX (Will not broadcast)"
@@ -246,6 +240,12 @@
         "prefix": "10.127.64.0/27",
         "maxPrefixLength": 29,
         "comment": "Moecast Network"
+      },
+      {
+        "asn": 4201270017,
+        "prefix": "10.127.4.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko Network IPv4"
       },
       {
         "asn": 4201270018,
