@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1609136616,
-    "valid": 1610346216
+    "generated": 1609227462,
+    "valid": 1610437062
   },
   "people": {
     "liangjw": {
@@ -1117,7 +1117,13 @@
                 "netname": "SUNNET"
               }
             ],
-            "ipv6": []
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee11::/48",
+                "maxLength": 64,
+                "netname": "SUNNET"
+              }
+            ]
           }
         },
         {

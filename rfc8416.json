@@ -320,6 +320,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 140936,
+        "prefix": "fd10:127:ee11::/48",
+        "maxPrefixLength": 64,
+        "comment": "SUNNET"
+      },
+      {
         "asn": 207268,
         "prefix": "fd10:127:1300::/48",
         "maxPrefixLength": 64,
