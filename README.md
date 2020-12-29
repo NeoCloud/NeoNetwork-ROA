@@ -263,6 +263,7 @@
 | AS4242422189 | IEDON-NET                                     | subnet   | 10.127.21.0/24          |                   |
 | AS4242422464 | Yura Moe NET                                  | subnet   | 10.127.127.0/24         |                   |
 | AS4242423088 | SUNNET                                        | subnet   | 10.127.11.0/24          |                   |
+| AS4242423088 | SUNNET                                        | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                                | loopback | 10.127.255.53/32        |                   |
 | AS4242423618 | anycast-recur-4                               | loopback | 10.127.255.54/32        |                   |
 | AS4242423618 | anycast-auth-6                                | loopback | fd10:127:ffff:53::/64   |                   |

@@ -506,6 +506,12 @@
         "comment": "icecat"
       },
       {
+        "asn": 4242423088,
+        "prefix": "fd10:127:ee11::/48",
+        "maxPrefixLength": 64,
+        "comment": "SUNNET"
+      },
+      {
         "asn": 4242423618,
         "prefix": "fd10:127:ffff:53::/64",
         "maxPrefixLength": 64,
