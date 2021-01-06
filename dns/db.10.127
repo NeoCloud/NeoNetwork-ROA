@@ -48,6 +48,7 @@ $TTL	604800
 7       IN      NS      ns1.staph.neo.
 
 9       IN      NS      ns1.jerry.neo.
+9       IN      NS      ns2.jerry.neo.
 
 10      IN      NS      ns-anycast.lantian.neo.
 10      IN      NS      ns1.lantian.neo.
@@ -65,6 +66,7 @@ $TTL	604800
 
 ; rfc2317
 64/26.8    IN NS    ns1.jerry.neo.
+64/26.8    IN NS    ns2.jerry.neo.
 64.8       IN CNAME 64.64/26.8
 65.8       IN CNAME 65.64/26.8
 66.8       IN CNAME 66.64/26.8
@@ -131,6 +133,7 @@ $TTL	604800
 127.8      IN CNAME 127.64/26.8
 
 192/26.8   IN NS    ns1.jerry.neo.
+192/26.8   IN NS    ns2.jerry.neo.
 192.8      IN CNAME 192.192/26.8
 193.8      IN CNAME 193.192/26.8
 194.8      IN CNAME 194.192/26.8
