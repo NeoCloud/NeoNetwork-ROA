@@ -194,7 +194,7 @@
 | AS4201270000 | pan hub                                       | subnet   | 10.127.3.0/24           |                   |
 | AS4201270000 | Neo_Chen ZeroTier-One Hub                     | subnet   | 10.127.16.0/24          |                   |
 | AS4201270000 | NeoPDP-11                                     | loopback | 10.127.255.1/32         |                   |
-| AS4201270000 | pan                                           | loopback | 10.127.255.4/32         |                   |
+| AS4201270000 | fsnvax                                        | loopback | 10.127.255.4/32         |                   |
 | AS4201270000 | NeoSystem                                     | loopback | 10.127.255.80/32        |                   |
 | AS4201270000 | NeoNetwork Origin                             | subnet   | fd10:127:5f37:59df::/64 |                   |
 | AS4201270000 | Neo_Chen ZeroTier-One IPv6 Hub                | subnet   | fd10:127::/64           |                   |

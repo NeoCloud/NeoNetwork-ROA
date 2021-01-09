@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1610171312,
-    "valid": 1611380912
+    "generated": 1610173336,
+    "valid": 1611382936
   },
   "people": {
     "liangjw": {
@@ -342,7 +342,7 @@
               {
                 "prefix": "10.127.255.4/32",
                 "maxLength": 32,
-                "netname": "pan"
+                "netname": "fsnvax"
               },
               {
                 "prefix": "10.127.255.80/32",
