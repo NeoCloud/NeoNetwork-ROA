@@ -45,12 +45,6 @@
       },
       {
         "asn": 4201270000,
-        "prefix": "10.127.3.0/24",
-        "maxPrefixLength": 29,
-        "comment": "pan hub"
-      },
-      {
-        "asn": 4201270000,
         "prefix": "10.127.16.0/24",
         "maxPrefixLength": 29,
         "comment": "Neo_Chen ZeroTier-One Hub"
@@ -342,12 +336,6 @@
         "prefix": "fd10:127:5f37:59df::/64",
         "maxPrefixLength": 64,
         "comment": "NeoNetwork Origin"
-      },
-      {
-        "asn": 4201270000,
-        "prefix": "fd10:127::/64",
-        "maxPrefixLength": 64,
-        "comment": "Neo_Chen ZeroTier-One IPv6 Hub"
       },
       {
         "asn": 4201270001,

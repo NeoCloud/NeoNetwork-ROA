@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1610173399,
-    "valid": 1611382999
+    "generated": 1610198629,
+    "valid": 1611408229
   },
   "people": {
     "liangjw": {
@@ -325,11 +325,6 @@
                 "netname": "NeoSystem"
               },
               {
-                "prefix": "10.127.3.0/24",
-                "maxLength": 29,
-                "netname": "pan hub"
-              },
-              {
                 "prefix": "10.127.16.0/24",
                 "maxLength": 29,
                 "netname": "Neo_Chen ZeroTier-One Hub"
@@ -355,11 +350,6 @@
                 "prefix": "fd10:127:5f37:59df::/64",
                 "maxLength": 64,
                 "netname": "NeoNetwork Origin"
-              },
-              {
-                "prefix": "fd10:127::/64",
-                "maxLength": 64,
-                "netname": "Neo_Chen ZeroTier-One IPv6 Hub"
               }
             ]
           }
