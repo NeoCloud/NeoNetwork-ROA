@@ -14,6 +14,12 @@
         "comment": "LICSON-NET-SUBALLOC-1"
       },
       {
+        "asn": 140913,
+        "prefix": "10.127.4.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)"
+      },
+      {
         "asn": 140936,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,
@@ -95,31 +101,13 @@
         "asn": 4201270005,
         "prefix": "10.127.233.0/24",
         "maxPrefixLength": 29,
-        "comment": "Icecat Residential network occupation address"
+        "comment": "MagicNeko-CN office node(name:liqingge)"
       },
       {
         "asn": 4201270005,
         "prefix": "10.127.234.0/24",
         "maxPrefixLength": 29,
-        "comment": "CainSakura-home-devices"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "10.127.235.0/24",
-        "maxPrefixLength": 29,
-        "comment": "Icecat Global Tunnel Address (OpenVPN)"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "10.127.236.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko VPN"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "10.127.255.18/32",
-        "maxPrefixLength": 32,
-        "comment": "icecat-video"
+        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
       },
       {
         "asn": 4201270006,
@@ -162,30 +150,6 @@
         "prefix": "10.127.7.0/24",
         "maxPrefixLength": 29,
         "comment": "AOSCNet"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "10.127.237.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko IX (Will not broadcast)"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "10.127.255.117/32",
-        "maxPrefixLength": 32,
-        "comment": "magicneko-tw"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "10.127.255.54/32",
-        "maxPrefixLength": 32,
-        "comment": "anycast-recur-4"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "10.127.255.18/32",
-        "maxPrefixLength": 32,
-        "comment": "Video encoding node(Anycast)"
       },
       {
         "asn": 4201270009,
@@ -234,12 +198,6 @@
         "prefix": "10.127.64.0/27",
         "maxPrefixLength": 29,
         "comment": "Moecast Network"
-      },
-      {
-        "asn": 4201270017,
-        "prefix": "10.127.4.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko Network IPv4"
       },
       {
         "asn": 4201270018,
@@ -314,6 +272,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 140913,
+        "prefix": "fd10:127:233::/48",
+        "maxPrefixLength": 64,
+        "comment": "Magicneko Asia address occupied"
+      },
+      {
         "asn": 140936,
         "prefix": "fd10:127:ee11::/48",
         "maxPrefixLength": 64,
@@ -353,19 +317,13 @@
         "asn": 4201270005,
         "prefix": "fd10:127:233:1c3c::/64",
         "maxPrefixLength": 64,
-        "comment": "icecat"
+        "comment": "MagicNeko-CN office node(name:liqingge)"
       },
       {
         "asn": 4201270005,
         "prefix": "fd10:127:233:1c3a::/64",
         "maxPrefixLength": 64,
-        "comment": "MagicNeko VPN"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "fd10:127:234::/48",
-        "maxPrefixLength": 64,
-        "comment": "CainSakura-home-devices"
+        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
       },
       {
         "asn": 4201270006,
@@ -432,18 +390,6 @@
         "prefix": "fd10:127:7:ffff::/64",
         "maxPrefixLength": 64,
         "comment": "StaphPeer"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "fd10:127:233::/48",
-        "maxPrefixLength": 64,
-        "comment": "icecat"
-      },
-      {
-        "asn": 4201270008,
-        "prefix": "fd10:127:53:53::/64",
-        "maxPrefixLength": 64,
-        "comment": "anycast-recur-6"
       },
       {
         "asn": 4201270009,
