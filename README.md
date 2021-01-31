@@ -53,6 +53,7 @@
 | NeoNetwork | AS4201270005 | magicneko  | MagicNeko CN(Optical Cable Project in Northeast China) |
 | NeoNetwork | AS4201270006 | JerryXiao  | Jerry Network                                          |
 | NeoNetwork | AS4201270007 | Staph      | Staph                                                  |
+| NeoNetwork | AS4201270008 | magicneko  | MagicNeko ASIA (=140913)                               |
 | NeoNetwork | AS4201270009 | santost12  | santost12                                              |
 | NeoNetwork | AS4201270010 | Lan Tian   | Lan Tian                                               |
 | NeoNetwork | AS4201270011 | LINE-NZ    | LINE-NZ                                                |

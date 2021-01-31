@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1612027812,
-    "valid": 1613237412
+    "generated": 1612056506,
+    "valid": 1613266106
   },
   "people": {
     "Yura": {
@@ -275,6 +275,17 @@
         "nic_hdl": "MAGICNEKO"
       },
       "asns": [
+        {
+          "asn": 4201270008,
+          "owner": "magicneko",
+          "name": "MagicNeko ASIA (=140913)",
+          "source": "NeoNetwork",
+          "description": "MagicNeko ASIA (Old project ASN)",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        },
         {
           "asn": 140913,
           "owner": "magicneko",
