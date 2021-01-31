@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1612056506,
-    "valid": 1613266106
+    "generated": 1612087723,
+    "valid": 1613297323
   },
   "people": {
     "Yura": {
@@ -282,7 +282,13 @@
           "source": "NeoNetwork",
           "description": "MagicNeko ASIA (Old project ASN)",
           "routes": {
-            "ipv4": [],
+            "ipv4": [
+              {
+                "prefix": "10.127.255.117/32",
+                "maxLength": 32,
+                "netname": "MagicNeko-TW Snode(name:none)"
+              }
+            ],
             "ipv6": []
           }
         },
