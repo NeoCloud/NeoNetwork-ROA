@@ -37,44 +37,45 @@
 
 ## AS table
 
-| Source     | ASN          | Owner      | Name                                                   |
-|------------|--------------|------------|--------------------------------------------------------|
-| Internet   | AS134098     | licson     | Licson Internal Network                                |
-| Internet   | AS140913     | magicneko  | Koishi Network(aka Hentai Network)                     |
-| Internet   | AS140936     | SUNNET     | SUNNET                                                 |
-| Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                            |
-| Internet   | AS209557     | SteveYi    | Yi-Network                                             |
-| Internet   | AS213262     | Moe        | Moe                                                    |
-| NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                                      |
-| NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                                      |
-| NeoNetwork | AS4201270002 | septs      | [transferable]                                         |
-| NeoNetwork | AS4201270003 | chenx97    | chenx97                                                |
-| NeoNetwork | AS4201270004 | frank      | frank                                                  |
-| NeoNetwork | AS4201270005 | magicneko  | MagicNeko CN(Optical Cable Project in Northeast China) |
-| NeoNetwork | AS4201270006 | JerryXiao  | Jerry Network                                          |
-| NeoNetwork | AS4201270007 | Staph      | Staph                                                  |
-| NeoNetwork | AS4201270008 | magicneko  | MagicNeko ASIA (=140913)                               |
-| NeoNetwork | AS4201270009 | santost12  | santost12                                              |
-| NeoNetwork | AS4201270010 | Lan Tian   | Lan Tian                                               |
-| NeoNetwork | AS4201270011 | LINE-NZ    | LINE-NZ                                                |
-| NeoNetwork | AS4201270012 | Junde Yhi  | Yhi Interconnect                                       |
-| NeoNetwork | AS4201270013 | Ndoskrnl   | NDOSKRNL                                               |
-| NeoNetwork | AS4201270014 | leedagee   | leedagee                                               |
-| NeoNetwork | AS4201270015 | James58899 | James58899                                             |
-| NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                        |
-| NeoNetwork | AS4201270018 | caxap      | caxap Network                                          |
-| NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                               |
-| NeoNetwork | AS4201270020 | Edward_P   | Edward_P                                               |
-| DN42       | AS4242420140 | Yangfl     | Yangfl Network                                         |
-| DN42       | AS4242420308 | VILLISEK   | VILLISEK                                               |
-| DN42       | AS4242420916 | alanyhq    | alanyhq                                                |
-| DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project        |
-| DN42       | AS4242421037 | LibreHouse | LibreHouse                                             |
-| DN42       | AS4242421214 | SteveYi    | Yi-Network                                             |
-| DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                           |
-| DN42       | AS4242422464 | Yura       | Yura Network                                           |
-| DN42       | AS4242423088 | SUNNET     | SUNNET                                                 |
-| DN42       | AS4242423618 | JerryXiao  | Jerry AS                                               |
+| Source     | ASN          | Owner      | Name                                                            |
+|------------|--------------|------------|-----------------------------------------------------------------|
+| Internet   | AS134098     | licson     | Licson Internal Network                                         |
+| Internet   | AS140913     | magicneko  | Koishi Network(aka Hentai Network)                              |
+| Internet   | AS140936     | SUNNET     | SUNNET                                                          |
+| Internet   | AS141706     | magicneko  | Koishi Network(=4201270005)                                     |
+| Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                                     |
+| Internet   | AS209557     | SteveYi    | Yi-Network                                                      |
+| Internet   | AS213262     | Moe        | Moe                                                             |
+| NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                                               |
+| NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                                               |
+| NeoNetwork | AS4201270002 | septs      | [transferable]                                                  |
+| NeoNetwork | AS4201270003 | chenx97    | chenx97                                                         |
+| NeoNetwork | AS4201270004 | frank      | frank                                                           |
+| NeoNetwork | AS4201270005 | magicneko  | MagicNeko CN(Optical Cable Project in Northeast China)(=141706) |
+| NeoNetwork | AS4201270006 | JerryXiao  | Jerry Network                                                   |
+| NeoNetwork | AS4201270007 | Staph      | Staph                                                           |
+| NeoNetwork | AS4201270008 | magicneko  | MagicNeko ASIA (=140913)                                        |
+| NeoNetwork | AS4201270009 | santost12  | santost12                                                       |
+| NeoNetwork | AS4201270010 | Lan Tian   | Lan Tian                                                        |
+| NeoNetwork | AS4201270011 | LINE-NZ    | LINE-NZ                                                         |
+| NeoNetwork | AS4201270012 | Junde Yhi  | Yhi Interconnect                                                |
+| NeoNetwork | AS4201270013 | Ndoskrnl   | NDOSKRNL                                                        |
+| NeoNetwork | AS4201270014 | leedagee   | leedagee                                                        |
+| NeoNetwork | AS4201270015 | James58899 | James58899                                                      |
+| NeoNetwork | AS4201270016 | liangjw    | Moecast Network                                                 |
+| NeoNetwork | AS4201270018 | caxap      | caxap Network                                                   |
+| NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                                        |
+| NeoNetwork | AS4201270020 | Edward_P   | Edward_P                                                        |
+| DN42       | AS4242420140 | Yangfl     | Yangfl Network                                                  |
+| DN42       | AS4242420308 | VILLISEK   | VILLISEK                                                        |
+| DN42       | AS4242420916 | alanyhq    | alanyhq                                                         |
+| DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project                 |
+| DN42       | AS4242421037 | LibreHouse | LibreHouse                                                      |
+| DN42       | AS4242421214 | SteveYi    | Yi-Network                                                      |
+| DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                                    |
+| DN42       | AS4242422464 | Yura       | Yura Network                                                    |
+| DN42       | AS4242423088 | SUNNET     | SUNNET                                                          |
+| DN42       | AS4242423618 | JerryXiao  | Jerry AS                                                        |
 
 ## Node table
 
@@ -155,6 +156,10 @@
 | AS140913     | Magicneko Asia address occupied                                    | subnet   | fd10:127:233::/48       |                   |
 | AS140936     | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
 | AS140936     | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
+| AS141706     | MagicNeko-CN office node(name:liqingge)                            | subnet   | 10.127.233.0/24         |                   |
+| AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | 10.127.234.0/24         |                   |
+| AS141706     | MagicNeko-CN office node(name:liqingge)                            | subnet   | fd10:127:233:1c3c::/64  | fd10:127:233::/48 |
+| AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS207268     | IX42-LAS-4                                                         | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                                         | subnet   | fd10:127:1300::/48      |                   |
 | AS213262     | Moe                                                                | subnet   | fd10:127:3262::/64      |                   |

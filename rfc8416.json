@@ -26,6 +26,18 @@
         "comment": "SUNNET"
       },
       {
+        "asn": 141706,
+        "prefix": "10.127.233.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko-CN office node(name:liqingge)"
+      },
+      {
+        "asn": 141706,
+        "prefix": "10.127.234.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+      },
+      {
         "asn": 207268,
         "prefix": "10.127.131.0/24",
         "maxPrefixLength": 29,
@@ -288,6 +300,18 @@
         "prefix": "fd10:127:ee11::/48",
         "maxPrefixLength": 64,
         "comment": "SUNNET"
+      },
+      {
+        "asn": 141706,
+        "prefix": "fd10:127:233:1c3c::/64",
+        "maxPrefixLength": 64,
+        "comment": "MagicNeko-CN office node(name:liqingge)"
+      },
+      {
+        "asn": 141706,
+        "prefix": "fd10:127:233:1c3a::/64",
+        "maxPrefixLength": 64,
+        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
       },
       {
         "asn": 207268,

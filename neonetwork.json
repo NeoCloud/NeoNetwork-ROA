@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1612160534,
-    "valid": 1613370134
+    "generated": 1612621403,
+    "valid": 1613831003
   },
   "people": {
     "Yura": {
@@ -318,8 +318,41 @@
         {
           "asn": 4201270005,
           "owner": "magicneko",
-          "name": "MagicNeko CN(Optical Cable Project in Northeast China)",
+          "name": "MagicNeko CN(Optical Cable Project in Northeast China)(=141706)",
           "source": "NeoNetwork",
+          "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.233.0/24",
+                "maxLength": 29,
+                "netname": "MagicNeko-CN office node(name:liqingge)"
+              },
+              {
+                "prefix": "10.127.234.0/24",
+                "maxLength": 29,
+                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:233:1c3c::/64",
+                "maxLength": 64,
+                "netname": "MagicNeko-CN office node(name:liqingge)"
+              },
+              {
+                "prefix": "fd10:127:233:1c3a::/64",
+                "maxLength": 64,
+                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 141706,
+          "owner": "magicneko",
+          "name": "Koishi Network(=4201270005)",
+          "source": "Internet",
           "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
           "routes": {
             "ipv4": [
