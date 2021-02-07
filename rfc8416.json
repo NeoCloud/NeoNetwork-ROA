@@ -110,18 +110,6 @@
         "comment": "frank-hsinchu-1"
       },
       {
-        "asn": 4201270005,
-        "prefix": "10.127.233.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko-CN office node(name:liqingge)"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "10.127.234.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
-      },
-      {
         "asn": 4201270006,
         "prefix": "10.127.8.192/26",
         "maxPrefixLength": 29,
@@ -342,18 +330,6 @@
         "prefix": "fd10:127:1919::/48",
         "maxPrefixLength": 64,
         "comment": "chenx97"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "fd10:127:233:1c3c::/64",
-        "maxPrefixLength": 64,
-        "comment": "MagicNeko-CN office node(name:liqingge)"
-      },
-      {
-        "asn": 4201270005,
-        "prefix": "fd10:127:233:1c3a::/64",
-        "maxPrefixLength": 64,
-        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
       },
       {
         "asn": 4201270006,

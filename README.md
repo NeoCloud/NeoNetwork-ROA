@@ -177,10 +177,6 @@
 | AS4201270003 | chenx97 v4                                                         | subnet   | 10.127.89.0/24          |                   |
 | AS4201270004 | frank-hsinchu                                                      | subnet   | 10.127.56.0/24          |                   |
 | AS4201270004 | frank-hsinchu-1                                                    | loopback | 10.127.255.56/32        |                   |
-| AS4201270005 | MagicNeko-CN office node(name:liqingge)                            | subnet   | 10.127.233.0/24         |                   |
-| AS4201270005 | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | 10.127.234.0/24         |                   |
-| AS4201270005 | MagicNeko-CN office node(name:liqingge)                            | subnet   | fd10:127:233:1c3c::/64  | fd10:127:233::/48 |
-| AS4201270005 | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS4201270006 | JerryXiao-Infrastructure                                           | subnet   | 10.127.8.192/26         |                   |
 | AS4201270006 | JerryXiao-Home                                                     | subnet   | 10.127.9.0/24           |                   |
 | AS4201270006 | JerryXiao-School                                                   | subnet   | 10.127.8.64/26          |                   |
