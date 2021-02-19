@@ -254,6 +254,12 @@
         "comment": "IEDON-NET"
       },
       {
+        "asn": 4242422189,
+        "prefix": "10.127.25.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IEDON-NET"
+      },
+      {
         "asn": 4242422464,
         "prefix": "10.127.127.0/24",
         "maxPrefixLength": 29,
