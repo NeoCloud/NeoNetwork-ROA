@@ -39,6 +39,7 @@
 
 | Source     | ASN          | Owner      | Name                                                            |
 |------------|--------------|------------|-----------------------------------------------------------------|
+| Internet   | AS38173      | SUNNET     | SUNNET                                                          |
 | Internet   | AS134098     | licson     | Licson Internal Network                                         |
 | Internet   | AS140913     | magicneko  | Koishi Network(aka Hentai Network)                              |
 | Internet   | AS140936     | SUNNET     | SUNNET                                                          |
@@ -151,6 +152,8 @@
 
 | ASN          | Name                                                               | Type     | Prefix                  | Supernet          |
 |--------------|--------------------------------------------------------------------|----------|-------------------------|-------------------|
+| AS38173      | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
+| AS38173      | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
 | AS134098     | LICSON-NET-SUBALLOC-1                                              | subnet   | 10.127.14.0/23          |                   |
 | AS140913     | MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou) | subnet   | 10.127.4.0/24           |                   |
 | AS140913     | Magicneko Asia address occupied                                    | subnet   | fd10:127:233::/48       |                   |

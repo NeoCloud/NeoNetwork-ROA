@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1613744271,
-    "valid": 1614953871
+    "generated": 1613801702,
+    "valid": 1615011302
   },
   "people": {
     "Lan Tian": {
@@ -41,6 +41,29 @@
         "nic_hdl": "SUNNET"
       },
       "asns": [
+        {
+          "asn": 38173,
+          "owner": "SUNNET",
+          "name": "SUNNET",
+          "source": "Internet",
+          "description": "SUNNET",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.11.0/24",
+                "maxLength": 29,
+                "netname": "SUNNET"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee11::/48",
+                "maxLength": 64,
+                "netname": "SUNNET"
+              }
+            ]
+          }
+        },
         {
           "asn": 140936,
           "owner": "SUNNET",
