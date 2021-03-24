@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1616394284,
-    "valid": 1617603884
+    "generated": 1616570932,
+    "valid": 1617780532
   },
   "people": {
     "Edward_P": {
@@ -1221,6 +1221,97 @@
                 "prefix": "fd10:127:233:1000::/64",
                 "maxLength": 64,
                 "netname": "icecat"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "David Liu": {
+      "info": {
+        "name": "David Liu",
+        "babel": [
+          "zh-N",
+          "en-3"
+        ],
+        "contact": {
+          "email": "david@fixmix.tech",
+          "telegram": "p0tat05",
+          "irc": "p0tat05",
+          "mastodon": "@p0tat05@mas.to",
+          "github": "p0tat05"
+        },
+        "persona": {
+          "pgp": "11BA9B106D0DF5E6A1C4BC180641F2177A5530C0"
+        },
+        "nic_hdl": "DAVID-LIU"
+      },
+      "asns": [
+        {
+          "asn": 4242421876,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS-DN42",
+          "source": "DN42",
+          "description": "fixmix DN42 Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4201270021,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS-NEONETWORK",
+          "source": "NeoNetwork",
+          "description": "fixmix NeoNetwork Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 211876,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS",
+          "source": "Internet",
+          "description": "fixmix Global Experimental Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
               }
             ]
           }

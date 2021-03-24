@@ -50,6 +50,12 @@
         "comment": "IX42-LAS-4"
       },
       {
+        "asn": 211876,
+        "prefix": "10.127.66.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FIXMIX-NET-NEOV4A"
+      },
+      {
         "asn": 4201270000,
         "prefix": "10.127.0.0/24",
         "maxPrefixLength": 29,
@@ -230,6 +236,12 @@
         "comment": "Edward_P-Ezpro"
       },
       {
+        "asn": 4201270021,
+        "prefix": "10.127.66.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FIXMIX-NET-NEOV4A"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -252,6 +264,12 @@
         "prefix": "10.127.124.0/29",
         "maxPrefixLength": 29,
         "comment": "Yi Global VPN"
+      },
+      {
+        "asn": 4242421876,
+        "prefix": "10.127.66.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FIXMIX-NET-NEOV4A"
       },
       {
         "asn": 4242422189,
@@ -324,6 +342,12 @@
         "prefix": "fd10:127:1300::/48",
         "maxPrefixLength": 64,
         "comment": "IX42-LAS-6"
+      },
+      {
+        "asn": 211876,
+        "prefix": "fd10:127:aa66::/48",
+        "maxPrefixLength": 64,
+        "comment": "FIXMIX-NET-NEOV6A"
       },
       {
         "asn": 213262,
@@ -452,6 +476,12 @@
         "comment": "Edward_P-Ezpro-V6"
       },
       {
+        "asn": 4201270021,
+        "prefix": "fd10:127:aa66::/48",
+        "maxPrefixLength": 64,
+        "comment": "FIXMIX-NET-NEOV6A"
+      },
+      {
         "asn": 4242420308,
         "prefix": "fd10:127:308::/48",
         "maxPrefixLength": 64,
@@ -462,6 +492,12 @@
         "prefix": "fd10:127:233:1000::/64",
         "maxPrefixLength": 64,
         "comment": "icecat"
+      },
+      {
+        "asn": 4242421876,
+        "prefix": "fd10:127:aa66::/48",
+        "maxPrefixLength": 64,
+        "comment": "FIXMIX-NET-NEOV6A"
       },
       {
         "asn": 4242423088,
