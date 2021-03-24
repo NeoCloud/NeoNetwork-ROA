@@ -1,251 +1,9 @@
 {
   "metadata": {
-    "generated": 1616570932,
-    "valid": 1617780532
+    "generated": 1616613276,
+    "valid": 1617822876
   },
   "people": {
-    "Edward_P": {
-      "info": {
-        "name": "Edward_P",
-        "contact": {
-          "email": "edward@edward-p.xyz",
-          "github": "edward-p",
-          "telegram": "@Edward_P"
-        },
-        "nic_hdl": "EDWARD-P"
-      },
-      "asns": [
-        {
-          "asn": 4201270020,
-          "owner": "Edward_P",
-          "name": "Edward_P",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.8.128/29",
-                "maxLength": 29,
-                "netname": "Edward_P-Ezpro"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:2f2f::/48",
-                "maxLength": 64,
-                "netname": "Edward_P-Ezpro-V6"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Yura": {
-      "info": {
-        "name": "Yura",
-        "babel": [
-          "zh-N",
-          "zh-hans-N",
-          "zh-hant-2",
-          "zh-yue-2",
-          "en-3",
-          "ru-0",
-          "fi-0",
-          "ar-0",
-          "jp-0"
-        ],
-        "contact": {
-          "email": "yurachan@etlgr.com"
-        },
-        "persona": {
-          "pgp": "9E525A59D24A4041CA3C32BBF75C0CDC951918BE"
-        },
-        "nic_hdl": "YURA"
-      },
-      "asns": [
-        {
-          "asn": 4242422464,
-          "owner": "Yura",
-          "name": "Yura Network",
-          "source": "DN42",
-          "description": "Yura NeoNetwork Backbone",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.127.0/24",
-                "maxLength": 29,
-                "netname": "Yura Moe NET"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
-    "VILLISEK": {
-      "info": {
-        "name": "Clement VILLISEK",
-        "babel": [
-          "fr",
-          "en-5",
-          "es-2",
-          "jp-1",
-          "zh-0",
-          "ru-0"
-        ],
-        "contact": {
-          "email": "clement@villisek.fr",
-          "twitter": "cvillisek89",
-          "github": "villisek"
-        },
-        "nic_hdl": "CLEMENT-VILLISEK"
-      },
-      "asns": [
-        {
-          "asn": 4242420308,
-          "owner": "VILLISEK",
-          "name": "VILLISEK",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.38.32/27",
-                "maxLength": 29,
-                "netname": "VILLISEK-NEO"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:308::/48",
-                "maxLength": 64,
-                "netname": "VILLISEK-NEO-V6"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "santost12": {
-      "info": {
-        "name": "Tyler",
-        "contact": {
-          "telegram": "santost12",
-          "github": "santost12"
-        },
-        "nic_hdl": "TYLER"
-      },
-      "asns": [
-        {
-          "asn": 4201270009,
-          "owner": "santost12",
-          "name": "santost12",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.39.0/27",
-                "maxLength": 29,
-                "netname": "santost12"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ec39::/48",
-                "maxLength": 64,
-                "netname": "santost12"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Moe": {
-      "info": {
-        "name": "Moe",
-        "description": "Moe Overflow Electric NOC",
-        "contact": {
-          "email": "noc@moeternet.com",
-          "telegram": "@moeternet"
-        },
-        "nic_hdl": "MOE"
-      },
-      "asns": [
-        {
-          "asn": 213262,
-          "owner": "Moe",
-          "name": "Moe",
-          "source": "Internet",
-          "description": "Moe Overflow Electric",
-          "routes": {
-            "ipv4": [],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:3262::/64",
-                "maxLength": 64,
-                "netname": "Moe"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Yangfl": {
-      "info": {
-        "name": "Yangfl Network",
-        "nic_hdl": "YANGFL-NETWORK"
-      },
-      "asns": [
-        {
-          "asn": 4242420140,
-          "owner": "Yangfl",
-          "name": "Yangfl Network",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.12.0/24",
-                "maxLength": 29,
-                "netname": "dfceaef NET"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
-    "frank": {
-      "info": {
-        "name": "frank",
-        "nic_hdl": "FRANK"
-      },
-      "asns": [
-        {
-          "asn": 4201270004,
-          "owner": "frank",
-          "name": "frank",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.56.0/24",
-                "maxLength": 29,
-                "netname": "frank-hsinchu"
-              },
-              {
-                "prefix": "10.127.255.56/32",
-                "maxLength": 32,
-                "netname": "frank-hsinchu-1"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
     "liangjw": {
       "info": {
         "name": "liangjw",
@@ -286,83 +44,6 @@
         }
       ]
     },
-    "SUNNET": {
-      "info": {
-        "name": "SUNNET",
-        "nic_hdl": "SUNNET"
-      },
-      "asns": [
-        {
-          "asn": 38173,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "Internet",
-          "description": "SUNNET",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 4242423088,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 140936,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "Internet",
-          "description": "SUNNET",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        }
-      ]
-    },
     "Yukari": {
       "info": {
         "name": "Yukari",
@@ -393,71 +74,6 @@
                 "prefix": "fd10:127:1300::/48",
                 "maxLength": 64,
                 "netname": "IX42-LAS-6"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "caxap": {
-      "info": {
-        "name": "caxap",
-        "contact": {
-          "email": "yrdw@protonmail.com"
-        },
-        "nic_hdl": "CAXAP"
-      },
-      "asns": [
-        {
-          "asn": 4201270018,
-          "owner": "caxap",
-          "name": "caxap Network",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.100.0/24",
-                "maxLength": 29,
-                "netname": "caxap-minecraft-net"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:6324::/48",
-                "maxLength": 64,
-                "netname": "caxap6"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Lan Tian": {
-      "info": {
-        "name": "Lan Tian",
-        "nic_hdl": "LAN-TIAN"
-      },
-      "asns": [
-        {
-          "asn": 4201270010,
-          "owner": "Lan Tian",
-          "name": "Lan Tian",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.10.0/24",
-                "maxLength": 29,
-                "netname": "Lan Tian LAN"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:10::/48",
-                "maxLength": 64,
-                "netname": "Lan Tian LAN6"
               }
             ]
           }
@@ -507,6 +123,190 @@
           "routes": {
             "ipv4": [],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "alanyhq": {
+      "info": {
+        "name": "alanyhq",
+        "babel": [
+          "zh-N",
+          "en-2"
+        ],
+        "contact": {
+          "telegram": "alanyhq",
+          "irc": "alanyhq"
+        },
+        "nic_hdl": "ALANYHQ"
+      },
+      "asns": [
+        {
+          "asn": 4242420916,
+          "owner": "alanyhq",
+          "name": "alanyhq",
+          "source": "DN42",
+          "description": "alanyhq main",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Yura": {
+      "info": {
+        "name": "Yura",
+        "babel": [
+          "zh-N",
+          "zh-hans-N",
+          "zh-hant-2",
+          "zh-yue-2",
+          "en-3",
+          "ru-0",
+          "fi-0",
+          "ar-0",
+          "jp-0"
+        ],
+        "contact": {
+          "email": "yurachan@etlgr.com"
+        },
+        "persona": {
+          "pgp": "9E525A59D24A4041CA3C32BBF75C0CDC951918BE"
+        },
+        "nic_hdl": "YURA"
+      },
+      "asns": [
+        {
+          "asn": 4242422464,
+          "owner": "Yura",
+          "name": "Yura Network",
+          "source": "DN42",
+          "description": "Yura NeoNetwork Backbone",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.127.0/24",
+                "maxLength": 29,
+                "netname": "Yura Moe NET"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "James58899": {
+      "info": {
+        "name": "James58899",
+        "nic_hdl": "JAMES58899"
+      },
+      "asns": [
+        {
+          "asn": 4201270015,
+          "owner": "James58899",
+          "name": "James58899",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Yangfl": {
+      "info": {
+        "name": "Yangfl Network",
+        "nic_hdl": "YANGFL-NETWORK"
+      },
+      "asns": [
+        {
+          "asn": 4242420140,
+          "owner": "Yangfl",
+          "name": "Yangfl Network",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.12.0/24",
+                "maxLength": 29,
+                "netname": "dfceaef NET"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Lan Tian": {
+      "info": {
+        "name": "Lan Tian",
+        "nic_hdl": "LAN-TIAN"
+      },
+      "asns": [
+        {
+          "asn": 4201270010,
+          "owner": "Lan Tian",
+          "name": "Lan Tian",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.10.0/24",
+                "maxLength": 29,
+                "netname": "Lan Tian LAN"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:10::/48",
+                "maxLength": 64,
+                "netname": "Lan Tian LAN6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Ndoskrnl": {
+      "info": {
+        "name": "Ndoskrnl",
+        "description": "We can start chat happily with Google Translate :)",
+        "babel": [
+          "en-1",
+          "zh-1"
+        ],
+        "contact": {
+          "email": "lollipop.studio.cn@gmail.com",
+          "github": "magic0whi"
+        },
+        "nic_hdl": "NDOSKRNL"
+      },
+      "asns": [
+        {
+          "asn": 4201270013,
+          "owner": "Ndoskrnl",
+          "name": "NDOSKRNL",
+          "source": "NeoNetwork",
+          "description": "Ndoskrnl's Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.13.0/24",
+                "maxLength": 29,
+                "netname": "Ndoskrnls LAN"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:13::/48",
+                "maxLength": 64,
+                "netname": "Ndoskrnls LAN (IPv6)"
+              }
+            ]
           }
         }
       ]
@@ -586,180 +386,38 @@
         }
       ]
     },
-    "Junde Yhi": {
+    "Edward_P": {
       "info": {
-        "name": "Junde Yhi",
-        "babel": [
-          "zh-N",
-          "zh-hans-N",
-          "zh-hant-2",
-          "en-3",
-          "de-0",
-          "ru-0",
-          "jp-0",
-          "fi-0"
-        ],
+        "name": "Edward_P",
         "contact": {
-          "email": "lmy441900@live.com",
-          "telegram": "lmy441900",
-          "mastodon": "@lmy441900@sn.angry.im",
-          "github": "lmy441900"
+          "email": "edward@edward-p.xyz",
+          "github": "edward-p",
+          "telegram": "@Edward_P"
         },
-        "persona": {
-          "pgp": "E6C74782A1FBEE741D09885FD274286F672C800A"
-        },
-        "nic_hdl": "JUNDE-YHI"
+        "nic_hdl": "EDWARD-P"
       },
       "asns": [
         {
-          "asn": 4201270012,
-          "owner": "Junde Yhi",
-          "name": "Yhi Interconnect",
+          "asn": 4201270020,
+          "owner": "Edward_P",
+          "name": "Edward_P",
           "source": "NeoNetwork",
           "description": null,
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.5.0/28",
+                "prefix": "10.127.8.128/29",
                 "maxLength": 29,
-                "netname": "yhi-h"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
-    "Cupkappu": {
-      "info": {
-        "name": "Cupkappu",
-        "babel": [
-          "jp-1",
-          "zh-0"
-        ],
-        "contact": {
-          "telegram": "kifuc",
-          "email": "cup@kust.ga",
-          "github": "cupkappu"
-        },
-        "nic_hdl": "CUPKAPPU"
-      },
-      "asns": [
-        {
-          "asn": 4201270019,
-          "owner": "Cupkappu",
-          "name": "Cupkappu",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.19.0/24",
-                "maxLength": 29,
-                "netname": "cupkappu"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
-    "SteveYi": {
-      "info": {
-        "name": "SteveYi",
-        "contact": {
-          "telegram": "steveyiyo",
-          "github": "steveyiyo",
-          "email": "info@steveyi.net"
-        },
-        "nic_hdl": "STEVEYI"
-      },
-      "asns": [
-        {
-          "asn": 209557,
-          "owner": "SteveYi",
-          "name": "Yi-Network",
-          "source": "Internet",
-          "description": null,
-          "routes": {
-            "ipv4": [],
-            "ipv6": []
-          }
-        },
-        {
-          "asn": 4242421214,
-          "owner": "SteveYi",
-          "name": "Yi-Network",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.124.0/29",
-                "maxLength": 29,
-                "netname": "Yi Global VPN"
-              }
-            ],
-            "ipv6": []
-          }
-        }
-      ]
-    },
-    "Ndoskrnl": {
-      "info": {
-        "name": "Ndoskrnl",
-        "description": "We can start chat happily with Google Translate :)",
-        "babel": [
-          "en-1",
-          "zh-1"
-        ],
-        "contact": {
-          "email": "lollipop.studio.cn@gmail.com",
-          "github": "magic0whi"
-        },
-        "nic_hdl": "NDOSKRNL"
-      },
-      "asns": [
-        {
-          "asn": 4201270013,
-          "owner": "Ndoskrnl",
-          "name": "NDOSKRNL",
-          "source": "NeoNetwork",
-          "description": "Ndoskrnl's Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.13.0/24",
-                "maxLength": 29,
-                "netname": "Ndoskrnls LAN"
+                "netname": "Edward_P-Ezpro"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:13::/48",
+                "prefix": "fd10:127:2f2f::/48",
                 "maxLength": 64,
-                "netname": "Ndoskrnls LAN (IPv6)"
+                "netname": "Edward_P-Ezpro-V6"
               }
             ]
-          }
-        }
-      ]
-    },
-    "James58899": {
-      "info": {
-        "name": "James58899",
-        "nic_hdl": "JAMES58899"
-      },
-      "asns": [
-        {
-          "asn": 4201270015,
-          "owner": "James58899",
-          "name": "James58899",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [],
-            "ipv6": []
           }
         }
       ]
@@ -774,11 +432,11 @@
         "contact": {
           "email": "i+noc@outv.im",
           "telegram": "outvi",
-          "mastodon": "@outvi@moe.cat",
+          "mastodon": "@ov@social.outv.im",
           "github": "outloudvi"
         },
         "persona": {
-          "pgp": "47627D2288B20CC033C7B7D72D83E4E89C15DA36"
+          "pgp": "7A9543829E475D7D3826B08DA725CB57CA65CAFE"
         },
         "nic_hdl": "LIBREHOUSE"
       },
@@ -802,130 +460,72 @@
         }
       ]
     },
-    "magicneko": {
+    "chenx97": {
       "info": {
-        "name": "MagicNeko",
+        "name": "chenx97",
         "contact": {
-          "email": "noc@koishi.moe"
+          "email": "chenx97@gmail.com",
+          "github": "chenx97"
         },
-        "nic_hdl": "MAGICNEKO"
+        "nic_hdl": "CHENX97"
       },
       "asns": [
         {
-          "asn": 140913,
-          "owner": "magicneko",
-          "name": "Koishi Network(aka Hentai Network)",
-          "source": "Internet",
-          "description": "MagicNeko VPN business branch",
+          "asn": 4201270003,
+          "owner": "chenx97",
+          "name": "chenx97",
+          "source": "NeoNetwork",
+          "description": null,
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.4.0/24",
+                "prefix": "10.127.89.0/24",
                 "maxLength": 29,
-                "netname": "MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)"
+                "netname": "chenx97 v4"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:233::/48",
+                "prefix": "fd10:127:1919::/48",
                 "maxLength": 64,
-                "netname": "Magicneko Asia address occupied"
+                "netname": "chenx97"
               }
             ]
-          }
-        },
-        {
-          "asn": 4201270005,
-          "owner": "magicneko",
-          "name": "MagicNeko CN(Optical Cable Project in Northeast China)(=141706)",
-          "source": "NeoNetwork",
-          "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
-          "routes": {
-            "ipv4": [],
-            "ipv6": []
-          }
-        },
-        {
-          "asn": 141706,
-          "owner": "magicneko",
-          "name": "Koishi Network(=4201270005)",
-          "source": "Internet",
-          "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.233.0/24",
-                "maxLength": 29,
-                "netname": "MagicNeko-CN office node(name:liqingge)"
-              },
-              {
-                "prefix": "10.127.234.0/24",
-                "maxLength": 29,
-                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:233:1c3c::/64",
-                "maxLength": 64,
-                "netname": "MagicNeko-CN office node(name:liqingge)"
-              },
-              {
-                "prefix": "fd10:127:233:1c3a::/64",
-                "maxLength": 64,
-                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 4201270008,
-          "owner": "magicneko",
-          "name": "MagicNeko ASIA (=140913)",
-          "source": "NeoNetwork",
-          "description": "MagicNeko ASIA (Old project ASN)",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.255.117/32",
-                "maxLength": 32,
-                "netname": "MagicNeko-TW Snode(name:none)"
-              }
-            ],
-            "ipv6": []
           }
         }
       ]
     },
-    "iEdon": {
+    "santost12": {
       "info": {
-        "name": "iEdon",
+        "name": "Tyler",
         "contact": {
-          "irc": "iedon"
+          "telegram": "santost12",
+          "github": "santost12"
         },
-        "nic_hdl": "IEDON"
+        "nic_hdl": "TYLER"
       },
       "asns": [
         {
-          "asn": 4242422189,
-          "owner": "iEdon",
-          "name": "IEDON-NET-AS",
-          "source": "DN42",
-          "description": "iEdon Networks",
+          "asn": 4201270009,
+          "owner": "santost12",
+          "name": "santost12",
+          "source": "NeoNetwork",
+          "description": null,
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.21.0/24",
+                "prefix": "10.127.39.0/27",
                 "maxLength": 29,
-                "netname": "IEDON-NET"
-              },
-              {
-                "prefix": "10.127.25.0/24",
-                "maxLength": 29,
-                "netname": "IEDON-NET"
+                "netname": "santost12"
               }
             ],
-            "ipv6": []
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ec39::/48",
+                "maxLength": 64,
+                "netname": "santost12"
+              }
+            ]
           }
         }
       ]
@@ -970,6 +570,604 @@
                 "netname": "leedagee"
               }
             ]
+          }
+        }
+      ]
+    },
+    "caxap": {
+      "info": {
+        "name": "caxap",
+        "contact": {
+          "email": "yrdw@protonmail.com"
+        },
+        "nic_hdl": "CAXAP"
+      },
+      "asns": [
+        {
+          "asn": 4201270018,
+          "owner": "caxap",
+          "name": "caxap Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.100.0/24",
+                "maxLength": 29,
+                "netname": "caxap-minecraft-net"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:6324::/48",
+                "maxLength": 64,
+                "netname": "caxap6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "SUNNET": {
+      "info": {
+        "name": "SUNNET",
+        "nic_hdl": "SUNNET"
+      },
+      "asns": [
+        {
+          "asn": 4242423088,
+          "owner": "SUNNET",
+          "name": "SUNNET",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.11.0/24",
+                "maxLength": 29,
+                "netname": "SUNNET"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee11::/48",
+                "maxLength": 64,
+                "netname": "SUNNET"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 38173,
+          "owner": "SUNNET",
+          "name": "SUNNET",
+          "source": "Internet",
+          "description": "SUNNET",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.11.0/24",
+                "maxLength": 29,
+                "netname": "SUNNET"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee11::/48",
+                "maxLength": 64,
+                "netname": "SUNNET"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 140936,
+          "owner": "SUNNET",
+          "name": "SUNNET",
+          "source": "Internet",
+          "description": "SUNNET",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.11.0/24",
+                "maxLength": 29,
+                "netname": "SUNNET"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee11::/48",
+                "maxLength": 64,
+                "netname": "SUNNET"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Junde Yhi": {
+      "info": {
+        "name": "Junde Yhi",
+        "babel": [
+          "zh-N",
+          "zh-hans-N",
+          "zh-hant-2",
+          "en-3",
+          "de-0",
+          "ru-0",
+          "jp-0",
+          "fi-0"
+        ],
+        "contact": {
+          "email": "lmy441900@live.com",
+          "telegram": "lmy441900",
+          "mastodon": "@lmy441900@sn.angry.im",
+          "github": "lmy441900"
+        },
+        "persona": {
+          "pgp": "E6C74782A1FBEE741D09885FD274286F672C800A"
+        },
+        "nic_hdl": "JUNDE-YHI"
+      },
+      "asns": [
+        {
+          "asn": 4201270012,
+          "owner": "Junde Yhi",
+          "name": "Yhi Interconnect",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.5.0/28",
+                "maxLength": 29,
+                "netname": "yhi-h"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Moe": {
+      "info": {
+        "name": "Moe",
+        "description": "Moe Overflow Electric NOC",
+        "contact": {
+          "email": "noc@moeternet.com",
+          "telegram": "@moeternet"
+        },
+        "nic_hdl": "MOE"
+      },
+      "asns": [
+        {
+          "asn": 213262,
+          "owner": "Moe",
+          "name": "Moe",
+          "source": "Internet",
+          "description": "Moe Overflow Electric",
+          "routes": {
+            "ipv4": [],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:3262::/64",
+                "maxLength": 64,
+                "netname": "Moe"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "licson": {
+      "info": {
+        "name": "licson",
+        "contact": {
+          "email": "admin@licson.net",
+          "telegram": "licson",
+          "github": "licson0729"
+        },
+        "nic_hdl": "LICSON"
+      },
+      "asns": [
+        {
+          "asn": 134098,
+          "owner": "licson",
+          "name": "Licson Internal Network",
+          "source": "Internet",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.14.0/23",
+                "maxLength": 29,
+                "netname": "LICSON-NET-SUBALLOC-1"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "David Liu": {
+      "info": {
+        "name": "David Liu",
+        "babel": [
+          "zh-N",
+          "en-3"
+        ],
+        "contact": {
+          "email": "david@fixmix.tech",
+          "telegram": "p0tat05",
+          "irc": "p0tat05",
+          "mastodon": "@p0tat05@mas.to",
+          "github": "p0tat05"
+        },
+        "persona": {
+          "pgp": "11BA9B106D0DF5E6A1C4BC180641F2177A5530C0"
+        },
+        "nic_hdl": "DAVID-LIU"
+      },
+      "asns": [
+        {
+          "asn": 4242421876,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS-DN42",
+          "source": "DN42",
+          "description": "fixmix DN42 Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 211876,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS",
+          "source": "Internet",
+          "description": "fixmix Global Experimental Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4201270021,
+          "owner": "David Liu",
+          "name": "FIXMIX-AS-NEONETWORK",
+          "source": "NeoNetwork",
+          "description": "fixmix NeoNetwork Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "FIXMIX-NET-NEOV4A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "FIXMIX-NET-NEOV6A"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "JerryXiao": {
+      "info": {
+        "name": "JerryXiao",
+        "contact": {
+          "email": "neonet@mail.jerryxiao.cc",
+          "telegram": "JerryXiao",
+          "irc": "JerryXiao@hackint",
+          "github": "isjerryxiao"
+        },
+        "persona": {
+          "pgp": "186242204A2EC70438E9CE3B9D9CE43650FF2BAA"
+        },
+        "nic_hdl": "JERRYXIAO"
+      },
+      "asns": [
+        {
+          "asn": 4201270006,
+          "owner": "JerryXiao",
+          "name": "Jerry Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.8.192/26",
+                "maxLength": 29,
+                "netname": "JerryXiao-Infrastructure"
+              },
+              {
+                "prefix": "10.127.9.0/24",
+                "maxLength": 29,
+                "netname": "JerryXiao-Home"
+              },
+              {
+                "prefix": "10.127.8.64/26",
+                "maxLength": 29,
+                "netname": "JerryXiao-School"
+              },
+              {
+                "prefix": "10.127.255.53/32",
+                "maxLength": 32,
+                "netname": "anycast-auth-4"
+              },
+              {
+                "prefix": "10.127.255.54/32",
+                "maxLength": 32,
+                "netname": "anycast-recur-4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:53::/48",
+                "maxLength": 64,
+                "netname": "JerryXiao6"
+              },
+              {
+                "prefix": "fd10:127:ffff:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-auth-6"
+              },
+              {
+                "prefix": "fd10:127:53:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-recur-6"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242423618,
+          "owner": "JerryXiao",
+          "name": "Jerry AS",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.255.53/32",
+                "maxLength": 32,
+                "netname": "anycast-auth-4"
+              },
+              {
+                "prefix": "10.127.255.54/32",
+                "maxLength": 32,
+                "netname": "anycast-recur-4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ffff:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-auth-6"
+              },
+              {
+                "prefix": "fd10:127:53:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-recur-6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "SteveYi": {
+      "info": {
+        "name": "SteveYi",
+        "contact": {
+          "telegram": "steveyiyo",
+          "github": "steveyiyo",
+          "email": "info@steveyi.net"
+        },
+        "nic_hdl": "STEVEYI"
+      },
+      "asns": [
+        {
+          "asn": 4242421214,
+          "owner": "SteveYi",
+          "name": "Yi-Network",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.124.0/29",
+                "maxLength": 29,
+                "netname": "Yi Global VPN"
+              }
+            ],
+            "ipv6": []
+          }
+        },
+        {
+          "asn": 209557,
+          "owner": "SteveYi",
+          "name": "Yi-Network",
+          "source": "Internet",
+          "description": null,
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "iEdon": {
+      "info": {
+        "name": "iEdon",
+        "contact": {
+          "irc": "iedon"
+        },
+        "nic_hdl": "IEDON"
+      },
+      "asns": [
+        {
+          "asn": 4242422189,
+          "owner": "iEdon",
+          "name": "IEDON-NET-AS",
+          "source": "DN42",
+          "description": "iEdon Networks",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.21.0/24",
+                "maxLength": 29,
+                "netname": "IEDON-NET"
+              },
+              {
+                "prefix": "10.127.25.0/24",
+                "maxLength": 29,
+                "netname": "IEDON-NET"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "LINE-NZ": {
+      "info": {
+        "name": "LINE-NZ",
+        "babel": [
+          "en"
+        ],
+        "contact": {
+          "email": "dn42@line.co.nz",
+          "github": "line-nz"
+        },
+        "nic_hdl": "LINE-NZ"
+      },
+      "asns": [
+        {
+          "asn": 4201270011,
+          "owner": "LINE-NZ",
+          "name": "LINE-NZ",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.22.0/29",
+                "maxLength": 29,
+                "netname": "LINE-NZ"
+              },
+              {
+                "prefix": "10.127.22.8/29",
+                "maxLength": 29,
+                "netname": "LINE-NZ"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "VILLISEK": {
+      "info": {
+        "name": "Clement VILLISEK",
+        "babel": [
+          "fr",
+          "en-5",
+          "es-2",
+          "jp-1",
+          "zh-0",
+          "ru-0"
+        ],
+        "contact": {
+          "email": "clement@villisek.fr",
+          "twitter": "cvillisek89",
+          "github": "villisek"
+        },
+        "nic_hdl": "CLEMENT-VILLISEK"
+      },
+      "asns": [
+        {
+          "asn": 4242420308,
+          "owner": "VILLISEK",
+          "name": "VILLISEK",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.38.32/27",
+                "maxLength": 29,
+                "netname": "VILLISEK-NEO"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:308::/48",
+                "maxLength": 64,
+                "netname": "VILLISEK-NEO-V6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Cupkappu": {
+      "info": {
+        "name": "Cupkappu",
+        "babel": [
+          "jp-1",
+          "zh-0"
+        ],
+        "contact": {
+          "telegram": "kifuc",
+          "email": "cup@kust.ga",
+          "github": "cupkappu"
+        },
+        "nic_hdl": "CUPKAPPU"
+      },
+      "asns": [
+        {
+          "asn": 4201270019,
+          "owner": "Cupkappu",
+          "name": "Cupkappu",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.19.0/24",
+                "maxLength": 29,
+                "netname": "cupkappu"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]
@@ -1059,144 +1257,6 @@
         }
       ]
     },
-    "chenx97": {
-      "info": {
-        "name": "chenx97",
-        "contact": {
-          "email": "chenx97@gmail.com",
-          "github": "chenx97"
-        },
-        "nic_hdl": "CHENX97"
-      },
-      "asns": [
-        {
-          "asn": 4201270003,
-          "owner": "chenx97",
-          "name": "chenx97",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.89.0/24",
-                "maxLength": 29,
-                "netname": "chenx97 v4"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:1919::/48",
-                "maxLength": 64,
-                "netname": "chenx97"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "JerryXiao": {
-      "info": {
-        "name": "JerryXiao",
-        "contact": {
-          "email": "neonet@mail.jerryxiao.cc",
-          "telegram": "JerryXiao",
-          "irc": "JerryXiao@hackint",
-          "github": "isjerryxiao"
-        },
-        "persona": {
-          "pgp": "186242204A2EC70438E9CE3B9D9CE43650FF2BAA"
-        },
-        "nic_hdl": "JERRYXIAO"
-      },
-      "asns": [
-        {
-          "asn": 4242423618,
-          "owner": "JerryXiao",
-          "name": "Jerry AS",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.255.53/32",
-                "maxLength": 32,
-                "netname": "anycast-auth-4"
-              },
-              {
-                "prefix": "10.127.255.54/32",
-                "maxLength": 32,
-                "netname": "anycast-recur-4"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ffff:53::/64",
-                "maxLength": 64,
-                "netname": "anycast-auth-6"
-              },
-              {
-                "prefix": "fd10:127:53:53::/64",
-                "maxLength": 64,
-                "netname": "anycast-recur-6"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 4201270006,
-          "owner": "JerryXiao",
-          "name": "Jerry Network",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.8.192/26",
-                "maxLength": 29,
-                "netname": "JerryXiao-Infrastructure"
-              },
-              {
-                "prefix": "10.127.9.0/24",
-                "maxLength": 29,
-                "netname": "JerryXiao-Home"
-              },
-              {
-                "prefix": "10.127.8.64/26",
-                "maxLength": 29,
-                "netname": "JerryXiao-School"
-              },
-              {
-                "prefix": "10.127.255.53/32",
-                "maxLength": 32,
-                "netname": "anycast-auth-4"
-              },
-              {
-                "prefix": "10.127.255.54/32",
-                "maxLength": 32,
-                "netname": "anycast-recur-4"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:53::/48",
-                "maxLength": 64,
-                "netname": "JerryXiao6"
-              },
-              {
-                "prefix": "fd10:127:ffff:53::/64",
-                "maxLength": 64,
-                "netname": "anycast-auth-6"
-              },
-              {
-                "prefix": "fd10:127:53:53::/64",
-                "maxLength": 64,
-                "netname": "anycast-recur-6"
-              }
-            ]
-          }
-        }
-      ]
-    },
     "icecat": {
       "info": {
         "name": "Icecat",
@@ -1227,154 +1287,94 @@
         }
       ]
     },
-    "David Liu": {
+    "magicneko": {
       "info": {
-        "name": "David Liu",
-        "babel": [
-          "zh-N",
-          "en-3"
-        ],
+        "name": "MagicNeko",
         "contact": {
-          "email": "david@fixmix.tech",
-          "telegram": "p0tat05",
-          "irc": "p0tat05",
-          "mastodon": "@p0tat05@mas.to",
-          "github": "p0tat05"
+          "email": "noc@koishi.moe"
         },
-        "persona": {
-          "pgp": "11BA9B106D0DF5E6A1C4BC180641F2177A5530C0"
-        },
-        "nic_hdl": "DAVID-LIU"
+        "nic_hdl": "MAGICNEKO"
       },
       "asns": [
         {
-          "asn": 4242421876,
-          "owner": "David Liu",
-          "name": "FIXMIX-AS-DN42",
-          "source": "DN42",
-          "description": "fixmix DN42 Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.66.0/24",
-                "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:aa66::/48",
-                "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 4201270021,
-          "owner": "David Liu",
-          "name": "FIXMIX-AS-NEONETWORK",
+          "asn": 4201270005,
+          "owner": "magicneko",
+          "name": "MagicNeko CN(Optical Cable Project in Northeast China)(=141706)",
           "source": "NeoNetwork",
-          "description": "fixmix NeoNetwork Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.66.0/24",
-                "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:aa66::/48",
-                "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 211876,
-          "owner": "David Liu",
-          "name": "FIXMIX-AS",
-          "source": "Internet",
-          "description": "fixmix Global Experimental Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.66.0/24",
-                "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:aa66::/48",
-                "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "alanyhq": {
-      "info": {
-        "name": "alanyhq",
-        "babel": [
-          "zh-N",
-          "en-2"
-        ],
-        "contact": {
-          "telegram": "alanyhq",
-          "irc": "alanyhq"
-        },
-        "nic_hdl": "ALANYHQ"
-      },
-      "asns": [
-        {
-          "asn": 4242420916,
-          "owner": "alanyhq",
-          "name": "alanyhq",
-          "source": "DN42",
-          "description": "alanyhq main",
+          "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
           "routes": {
             "ipv4": [],
             "ipv6": []
           }
-        }
-      ]
-    },
-    "LINE-NZ": {
-      "info": {
-        "name": "LINE-NZ",
-        "babel": [
-          "en"
-        ],
-        "contact": {
-          "email": "dn42@line.co.nz",
-          "github": "line-nz"
         },
-        "nic_hdl": "LINE-NZ"
-      },
-      "asns": [
         {
-          "asn": 4201270011,
-          "owner": "LINE-NZ",
-          "name": "LINE-NZ",
-          "source": "NeoNetwork",
-          "description": null,
+          "asn": 141706,
+          "owner": "magicneko",
+          "name": "Koishi Network(=4201270005)",
+          "source": "Internet",
+          "description": "MagicNeko CN(Optical Cable Project in Northeast China)",
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.22.0/29",
+                "prefix": "10.127.233.0/24",
                 "maxLength": 29,
-                "netname": "LINE-NZ"
+                "netname": "MagicNeko-CN office node(name:liqingge)"
               },
               {
-                "prefix": "10.127.22.8/29",
+                "prefix": "10.127.234.0/24",
                 "maxLength": 29,
-                "netname": "LINE-NZ"
+                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:233:1c3c::/64",
+                "maxLength": 64,
+                "netname": "MagicNeko-CN office node(name:liqingge)"
+              },
+              {
+                "prefix": "fd10:127:233:1c3a::/64",
+                "maxLength": 64,
+                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 140913,
+          "owner": "magicneko",
+          "name": "Koishi Network(aka Hentai Network)",
+          "source": "Internet",
+          "description": "MagicNeko VPN business branch",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.4.0/24",
+                "maxLength": 29,
+                "netname": "MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:233::/48",
+                "maxLength": 64,
+                "netname": "Magicneko Asia address occupied"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4201270008,
+          "owner": "magicneko",
+          "name": "MagicNeko ASIA (=140913)",
+          "source": "NeoNetwork",
+          "description": "MagicNeko ASIA (Old project ASN)",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.255.117/32",
+                "maxLength": 32,
+                "netname": "MagicNeko-TW Snode(name:none)"
               }
             ],
             "ipv6": []
@@ -1382,29 +1382,29 @@
         }
       ]
     },
-    "licson": {
+    "frank": {
       "info": {
-        "name": "licson",
-        "contact": {
-          "email": "admin@licson.net",
-          "telegram": "licson",
-          "github": "licson0729"
-        },
-        "nic_hdl": "LICSON"
+        "name": "frank",
+        "nic_hdl": "FRANK"
       },
       "asns": [
         {
-          "asn": 134098,
-          "owner": "licson",
-          "name": "Licson Internal Network",
-          "source": "Internet",
+          "asn": 4201270004,
+          "owner": "frank",
+          "name": "frank",
+          "source": "NeoNetwork",
           "description": null,
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.14.0/23",
+                "prefix": "10.127.56.0/24",
                 "maxLength": 29,
-                "netname": "LICSON-NET-SUBALLOC-1"
+                "netname": "frank-hsinchu"
+              },
+              {
+                "prefix": "10.127.255.56/32",
+                "maxLength": 32,
+                "netname": "frank-hsinchu-1"
               }
             ],
             "ipv6": []
