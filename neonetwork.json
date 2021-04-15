@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1618452277,
-    "valid": 1619661877
+    "generated": 1618462419,
+    "valid": 1619672019
   },
   "people": {
     "leedagee": {
@@ -887,7 +887,13 @@
                 "netname": "Yura Moe NET"
               }
             ],
-            "ipv6": []
+            "ipv6": [
+              {
+                "prefix": "fd10:127:127::/48",
+                "maxLength": 64,
+                "netname": "Yura Neo2"
+              }
+            ]
           }
         }
       ]

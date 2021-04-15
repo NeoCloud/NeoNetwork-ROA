@@ -500,6 +500,12 @@
         "comment": "FIXMIX-NET-NEOV6A"
       },
       {
+        "asn": 4242422464,
+        "prefix": "fd10:127:127::/48",
+        "maxPrefixLength": 64,
+        "comment": "Yura Neo2"
+      },
+      {
         "asn": 4242423088,
         "prefix": "fd10:127:ee11::/48",
         "maxPrefixLength": 64,
