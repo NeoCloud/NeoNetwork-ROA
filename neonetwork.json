@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1618462419,
-    "valid": 1619672019
+    "generated": 1618545589,
+    "valid": 1619755189
   },
   "people": {
     "leedagee": {
@@ -853,19 +853,10 @@
     "Yura": {
       "info": {
         "name": "Yura",
-        "babel": [
-          "zh-N",
-          "zh-hans-N",
-          "zh-hant-2",
-          "zh-yue-2",
-          "en-3",
-          "ru-0",
-          "fi-0",
-          "ar-0",
-          "jp-0"
-        ],
+        "babel": [],
         "contact": {
-          "email": "yurachan@etlgr.com"
+          "email": "yurachan@etlgr.com",
+          "telegram": "@noc2464"
         },
         "persona": {
           "pgp": "9E525A59D24A4041CA3C32BBF75C0CDC951918BE"
@@ -885,6 +876,11 @@
                 "prefix": "10.127.127.0/24",
                 "maxLength": 29,
                 "netname": "Yura Moe NET"
+              },
+              {
+                "prefix": "10.127.127.127/32",
+                "maxLength": 32,
+                "netname": "Yura Neo Anycast"
               }
             ],
             "ipv6": [

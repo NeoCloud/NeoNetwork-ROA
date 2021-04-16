@@ -290,6 +290,12 @@
         "comment": "Yura Moe NET"
       },
       {
+        "asn": 4242422464,
+        "prefix": "10.127.127.127/32",
+        "maxPrefixLength": 32,
+        "comment": "Yura Neo Anycast"
+      },
+      {
         "asn": 4242423088,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,

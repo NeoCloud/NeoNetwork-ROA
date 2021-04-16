@@ -24,7 +24,7 @@
 | Moe              | noc@moeternet.com            | @moeternet  |
 | caxap            | yrdw@protonmail.com          |             |
 | Clement VILLISEK | clement@villisek.fr          |             |
-| Yura             | yurachan@etlgr.com           |             |
+| Yura             | yurachan@etlgr.com           | @noc2464    |
 | LINE-NZ          | dn42@line.co.nz              |             |
 | alanyhq          |                              | alanyhq     |
 | Lan Tian         |                              |             |
@@ -237,6 +237,7 @@
 | AS4242422189 | IEDON-NET                                                          | subnet   | 10.127.25.0/24          |                   |
 | AS4242422464 | Yura Moe NET                                                       | subnet   | 10.127.127.0/24         |                   |
 | AS4242422464 | Yura Neo2                                                          | subnet   | fd10:127:127::/48       |                   |
+| AS4242422464 | Yura Neo Anycast                                                   | loopback | 10.127.127.127/32       | 10.127.127.0/24   |
 | AS4242423088 | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
 | AS4242423088 | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                                                     | loopback | 10.127.255.53/32        |                   |

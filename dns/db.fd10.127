@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        31586384    ; Serial
+        31669555    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
