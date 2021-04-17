@@ -11,7 +11,7 @@
 | Neo_Chen         | chenkolei@gmail.com          | Neo_Chen    |
 | Yangfl Network   |                              |             |
 | Tyler            |                              | santost12   |
-| liangjw          | liangjw@etlgr.com            | liangjw     |
+| liangjw          | dn42@cas7.moe                | liangjw     |
 | Staph            | staph@aosc.io                | Staph       |
 | iEdon            |                              |             |
 | Cupkappu         | cup@kust.ga                  | kifuc       |
@@ -217,7 +217,8 @@
 | AS4201270013 | Ndoskrnls LAN (IPv6)                                               | subnet   | fd10:127:13::/48        |                   |
 | AS4201270014 | leedagee                                                           | subnet   | 10.127.23.0/29          |                   |
 | AS4201270014 | leedagee                                                           | subnet   | fd10:127:23::/48        |                   |
-| AS4201270016 | Moecast Network                                                    | subnet   | 10.127.64.0/27          |                   |
+| AS4201270016 | MOECAST-EXP-NET                                                    | subnet   | 10.127.64.0/24          |                   |
+| AS4201270016 | MOECAST-EXP-NET-NG                                                 | subnet   | fd10:127:64::/48        |                   |
 | AS4201270018 | caxap-minecraft-net                                                | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                                             | subnet   | fd10:127:6324::/48      |                   |
 | AS4201270019 | cupkappu                                                           | subnet   | 10.127.19.0/24          |                   |
@@ -270,7 +271,7 @@
 10.127.39.0/27
 10.127.41.0/24
 10.127.56.0/24
-10.127.64.0/27
+10.127.64.0/24
 10.127.66.0/24
 10.127.89.0/24
 10.127.100.0/24
@@ -299,6 +300,7 @@ fd10:127:13::/48
 fd10:127:23::/48
 fd10:127:41::/48
 fd10:127:53::/48
+fd10:127:64::/48
 fd10:127:127::/48
 fd10:127:233::/48
 fd10:127:308::/48
@@ -318,5 +320,5 @@ fd10:127:ffff:53::/64
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 6783       | 58753      | 10.35%         | 89.65%         |
-| IPv6         | 7.9228e+28 | 1.9135e+25 | 7.9209e+28 | 0.02%          | 99.98%         |
+| IPv4         | 65536      | 7007       | 58529      | 10.69%         | 89.31%         |
+| IPv6         | 7.9228e+28 | 2.0344e+25 | 7.9208e+28 | 0.03%          | 99.97%         |

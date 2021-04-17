@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1618555541,
-    "valid": 1619765141
+    "generated": 1618663097,
+    "valid": 1619872697
   },
   "people": {
     "leedagee": {
@@ -354,7 +354,7 @@
           "ja-1"
         ],
         "contact": {
-          "email": "liangjw@etlgr.com",
+          "email": "dn42@cas7.moe",
           "telegram": "liangjw"
         },
         "persona": {
@@ -372,12 +372,18 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.64.0/27",
+                "prefix": "10.127.64.0/24",
                 "maxLength": 29,
-                "netname": "Moecast Network"
+                "netname": "MOECAST-EXP-NET"
               }
             ],
-            "ipv6": []
+            "ipv6": [
+              {
+                "prefix": "fd10:127:64::/48",
+                "maxLength": 64,
+                "netname": "MOECAST-EXP-NET-NG"
+              }
+            ]
           }
         }
       ]
