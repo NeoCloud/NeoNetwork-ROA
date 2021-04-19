@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1618694862,
-    "valid": 1619904462
+    "generated": 1618799374,
+    "valid": 1620008974
   },
   "people": {
     "leedagee": {
@@ -1420,5 +1420,25 @@
         }
       ]
     }
-  }
+  },
+  "dnssec": [
+    {
+      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
+      "dnskeys": [
+        "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA=="
+      ]
+    },
+    {
+      "zone": "127.10.in-addr.arpa.",
+      "dnskeys": [
+        "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w=="
+      ]
+    },
+    {
+      "zone": "neo.",
+      "dnskeys": [
+        "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg=="
+      ]
+    }
+  ]
 }
