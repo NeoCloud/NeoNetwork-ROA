@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1618813548,
-    "valid": 1620023148
+    "generated": 1618881846,
+    "valid": 1620091446
   },
   "people": {
     "leedagee": {
@@ -1424,20 +1424,29 @@
   "dnssec": [
     {
       "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
-      "dnskeys": [
-        "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA=="
+      "records": [
+        {
+          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
+          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
+        }
       ]
     },
     {
       "zone": "127.10.in-addr.arpa.",
-      "dnskeys": [
-        "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w=="
+      "records": [
+        {
+          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
+          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
+        }
       ]
     },
     {
       "zone": "neo.",
-      "dnskeys": [
-        "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg=="
+      "records": [
+        {
+          "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
+          "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
+        }
       ]
     }
   ]
