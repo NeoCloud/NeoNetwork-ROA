@@ -296,6 +296,18 @@
         "comment": "Yura Neo Anycast"
       },
       {
+        "asn": 4242422464,
+        "prefix": "10.127.127.125/32",
+        "maxPrefixLength": 32,
+        "comment": "Yura Neo Anycast"
+      },
+      {
+        "asn": 4242422464,
+        "prefix": "10.127.255.54/32",
+        "maxPrefixLength": 32,
+        "comment": "anycast-recur-4"
+      },
+      {
         "asn": 4242423088,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,
@@ -516,6 +528,18 @@
         "prefix": "fd10:127:127::/48",
         "maxPrefixLength": 64,
         "comment": "Yura Neo2"
+      },
+      {
+        "asn": 4242422464,
+        "prefix": "fd10:127:127:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "Yura Neo2 Anycast"
+      },
+      {
+        "asn": 4242422464,
+        "prefix": "fd10:127:53:53::/64",
+        "maxPrefixLength": 64,
+        "comment": "anycast-recur-6"
       },
       {
         "asn": 4242423088,

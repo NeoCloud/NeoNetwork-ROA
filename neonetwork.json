@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1619418466,
-    "valid": 1620628066
+    "generated": 1619514209,
+    "valid": 1620723809
   },
   "people": {
     "Cupkappu": {
@@ -595,6 +595,16 @@
                 "prefix": "10.127.127.127/32",
                 "maxLength": 32,
                 "netname": "Yura Neo Anycast"
+              },
+              {
+                "prefix": "10.127.127.125/32",
+                "maxLength": 32,
+                "netname": "Yura Neo Anycast"
+              },
+              {
+                "prefix": "10.127.255.54/32",
+                "maxLength": 32,
+                "netname": "anycast-recur-4"
               }
             ],
             "ipv6": [
@@ -602,6 +612,16 @@
                 "prefix": "fd10:127:127::/48",
                 "maxLength": 64,
                 "netname": "Yura Neo2"
+              },
+              {
+                "prefix": "fd10:127:127:53::/64",
+                "maxLength": 64,
+                "netname": "Yura Neo2 Anycast"
+              },
+              {
+                "prefix": "fd10:127:53:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-recur-6"
               }
             ]
           }
