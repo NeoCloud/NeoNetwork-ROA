@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1619514209,
-    "valid": 1620723809
+    "generated": 1619858939,
+    "valid": 1621068539
   },
   "people": {
     "Cupkappu": {
@@ -256,6 +256,42 @@
                 "prefix": "fd10:127:2f2f::/48",
                 "maxLength": 64,
                 "netname": "Edward_P-Ezpro-V6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "lilydjwg": {
+      "info": {
+        "name": "lilydjwg",
+        "contact": {
+          "email": "lilydjwg@gmail.com",
+          "github": "lilydjwg",
+          "telegram": "@lilydjwg"
+        },
+        "nic_hdl": "LILYDJWG"
+      },
+      "asns": [
+        {
+          "asn": 4201270022,
+          "owner": "lilydjwg",
+          "name": "lilydjwg",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.8.136/29",
+                "maxLength": 29,
+                "netname": "lilydjwg"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ba7e::/48",
+                "maxLength": 64,
+                "netname": "lilydjwg"
               }
             ]
           }

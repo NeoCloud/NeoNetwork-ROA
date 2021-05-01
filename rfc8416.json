@@ -242,6 +242,12 @@
         "comment": "FIXMIX-NET-NEOV4A"
       },
       {
+        "asn": 4201270022,
+        "prefix": "10.127.8.136/29",
+        "maxPrefixLength": 29,
+        "comment": "lilydjwg"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -504,6 +510,12 @@
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
         "comment": "FIXMIX-NET-NEOV6A"
+      },
+      {
+        "asn": 4201270022,
+        "prefix": "fd10:127:ba7e::/48",
+        "maxPrefixLength": 64,
+        "comment": "lilydjwg"
       },
       {
         "asn": 4242420308,
