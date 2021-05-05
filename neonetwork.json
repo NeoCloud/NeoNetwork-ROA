@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1620023136,
-    "valid": 1621232736
+    "generated": 1620242734,
+    "valid": 1621452334
   },
   "people": {
     "Cupkappu": {
@@ -348,7 +348,7 @@
         {
           "asn": 211876,
           "owner": "David Liu",
-          "name": "FIXMIX-AS",
+          "name": "FIXMIX-GEN",
           "source": "Internet",
           "description": "fixmix Global Experimental Network",
           "routes": {
@@ -356,14 +356,14 @@
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
+                "netname": "FIXMIX-NET4-NEOA"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
+                "netname": "FIXMIX-NET6-NEOA"
               }
             ]
           }
@@ -371,7 +371,7 @@
         {
           "asn": 4201270021,
           "owner": "David Liu",
-          "name": "FIXMIX-AS-NEONETWORK",
+          "name": "FIXMIX-NEO",
           "source": "NeoNetwork",
           "description": "fixmix NeoNetwork Network",
           "routes": {
@@ -379,14 +379,14 @@
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
+                "netname": "FIXMIX-NET4-NEOA"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
+                "netname": "FIXMIX-NET6-NEOA"
               }
             ]
           }
@@ -394,7 +394,7 @@
         {
           "asn": 4242421876,
           "owner": "David Liu",
-          "name": "FIXMIX-AS-DN42",
+          "name": "FIXMIX-42",
           "source": "DN42",
           "description": "fixmix DN42 Network",
           "routes": {
@@ -402,14 +402,14 @@
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET-NEOV4A"
+                "netname": "FIXMIX-NET4-NEOA"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET-NEOV6A"
+                "netname": "FIXMIX-NET6-NEOA"
               }
             ]
           }

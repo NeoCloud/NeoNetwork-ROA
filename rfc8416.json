@@ -53,7 +53,7 @@
         "asn": 211876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET-NEOV4A"
+        "comment": "FIXMIX-NET4-NEOA"
       },
       {
         "asn": 4201270000,
@@ -239,7 +239,7 @@
         "asn": 4201270021,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET-NEOV4A"
+        "comment": "FIXMIX-NET4-NEOA"
       },
       {
         "asn": 4201270022,
@@ -275,7 +275,7 @@
         "asn": 4242421876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET-NEOV4A"
+        "comment": "FIXMIX-NET4-NEOA"
       },
       {
         "asn": 4242422189,
@@ -371,7 +371,7 @@
         "asn": 211876,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET-NEOV6A"
+        "comment": "FIXMIX-NET6-NEOA"
       },
       {
         "asn": 213262,
@@ -509,7 +509,7 @@
         "asn": 4201270021,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET-NEOV6A"
+        "comment": "FIXMIX-NET6-NEOA"
       },
       {
         "asn": 4201270022,
@@ -533,7 +533,7 @@
         "asn": 4242421876,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET-NEOV6A"
+        "comment": "FIXMIX-NET6-NEOA"
       },
       {
         "asn": 4242422464,

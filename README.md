@@ -48,7 +48,7 @@
 | Internet   | AS141706     | magicneko  | Koishi Network(=4201270005)                                     |
 | Internet   | AS207268     | Yukari     | Strategic Explorations (IX)                                     |
 | Internet   | AS209557     | SteveYi    | Yi-Network                                                      |
-| Internet   | AS211876     | David Liu  | FIXMIX-AS                                                       |
+| Internet   | AS211876     | David Liu  | FIXMIX-GEN                                                      |
 | Internet   | AS213262     | Moe        | Moe                                                             |
 | NeoNetwork | AS4201270000 | Neo_Chen   | NeoNetwork Origin                                               |
 | NeoNetwork | AS4201270001 | septs      | NiceLabs Exchange                                               |
@@ -70,7 +70,7 @@
 | NeoNetwork | AS4201270018 | caxap      | caxap Network                                                   |
 | NeoNetwork | AS4201270019 | Cupkappu   | Cupkappu                                                        |
 | NeoNetwork | AS4201270020 | Edward_P   | Edward_P                                                        |
-| NeoNetwork | AS4201270021 | David Liu  | FIXMIX-AS-NEONETWORK                                            |
+| NeoNetwork | AS4201270021 | David Liu  | FIXMIX-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg   | lilydjwg                                                        |
 | DN42       | AS4242420140 | Yangfl     | Yangfl Network                                                  |
 | DN42       | AS4242420308 | VILLISEK   | VILLISEK                                                        |
@@ -78,7 +78,7 @@
 | DN42       | AS4242421025 | icecat     | NextMoe Neo-Network Intermediate Access Project                 |
 | DN42       | AS4242421037 | LibreHouse | LibreHouse                                                      |
 | DN42       | AS4242421214 | SteveYi    | Yi-Network                                                      |
-| DN42       | AS4242421876 | David Liu  | FIXMIX-AS-DN42                                                  |
+| DN42       | AS4242421876 | David Liu  | FIXMIX-42                                                       |
 | DN42       | AS4242422189 | iEdon      | IEDON-NET-AS                                                    |
 | DN42       | AS4242422464 | Yura       | Yura Network                                                    |
 | DN42       | AS4242423088 | SUNNET     | SUNNET                                                          |
@@ -172,8 +172,8 @@
 | AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS207268     | IX42-LAS-4                                                         | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                                         | subnet   | fd10:127:1300::/48      |                   |
-| AS211876     | FIXMIX-NET-NEOV4A                                                  | subnet   | 10.127.66.0/24          |                   |
-| AS211876     | FIXMIX-NET-NEOV6A                                                  | subnet   | fd10:127:aa66::/48      |                   |
+| AS211876     | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
+| AS211876     | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
 | AS213262     | Moe                                                                | subnet   | fd10:127:3262::/64      |                   |
 | AS4201270000 | RESERVED                                                           | subnet   | 10.127.0.0/24           |                   |
 | AS4201270000 | CROOM                                                              | subnet   | 10.127.1.0/24           |                   |
@@ -226,8 +226,8 @@
 | AS4201270019 | cupkappu                                                           | subnet   | 10.127.19.0/24          |                   |
 | AS4201270020 | Edward_P-Ezpro                                                     | subnet   | 10.127.8.128/29         |                   |
 | AS4201270020 | Edward_P-Ezpro-V6                                                  | subnet   | fd10:127:2f2f::/48      |                   |
-| AS4201270021 | FIXMIX-NET-NEOV4A                                                  | subnet   | 10.127.66.0/24          |                   |
-| AS4201270021 | FIXMIX-NET-NEOV6A                                                  | subnet   | fd10:127:aa66::/48      |                   |
+| AS4201270021 | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
+| AS4201270021 | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | 10.127.8.136/29         |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | fd10:127:ba7e::/48      |                   |
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
@@ -236,8 +236,8 @@
 | AS4242421025 | icecat                                                             | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                                                         | subnet   | 10.127.8.0/26           |                   |
 | AS4242421214 | Yi Global VPN                                                      | subnet   | 10.127.124.0/29         |                   |
-| AS4242421876 | FIXMIX-NET-NEOV4A                                                  | subnet   | 10.127.66.0/24          |                   |
-| AS4242421876 | FIXMIX-NET-NEOV6A                                                  | subnet   | fd10:127:aa66::/48      |                   |
+| AS4242421876 | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
+| AS4242421876 | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
 | AS4242422189 | IEDON-NET                                                          | subnet   | 10.127.21.0/24          |                   |
 | AS4242422189 | IEDON-NET                                                          | subnet   | 10.127.25.0/24          |                   |
 | AS4242422464 | Yura Moe NET                                                       | subnet   | 10.127.127.0/24         |                   |
