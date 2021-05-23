@@ -32,6 +32,7 @@
 | Tyler            |                              | santost12   |
 | Moe              | noc@moeternet.com            | @moeternet  |
 | iEdon            |                              |             |
+| Anillc           | noc@anillc.cn                |             |
 | LINE-NZ          | dn42@line.co.nz              |             |
 | Yura             | yurachan@etlgr.com           | @noc2464    |
 | caxap            | yrdw@protonmail.com          |             |
@@ -85,6 +86,7 @@
 | DN42       | AS4242421876 | David Liu   | FIXMIX-42                                                       |
 | DN42       | AS4242422189 | iEdon       | IEDON-NET-AS                                                    |
 | DN42       | AS4242422464 | Yura        | Yura Network                                                    |
+| DN42       | AS4242422526 | Anillc      | ANILLC-AS                                                       |
 | DN42       | AS4242423088 | SUNNET      | SUNNET                                                          |
 | DN42       | AS4242423618 | JerryXiao   | Jerry AS                                                        |
 
@@ -257,6 +259,8 @@
 | AS4242422464 | Yura Neo Anycast                                                   | loopback | 10.127.127.125/32       | 10.127.127.0/24   |
 | AS4242422464 | anycast-recur-4                                                    | loopback | 10.127.255.54/32        |                   |
 | AS4242422464 | anycast-recur-6                                                    | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
+| AS4242422526 | Anillc Network v4                                                  | subnet   | 10.127.20.0/24          |                   |
+| AS4242422526 | Anillc Network v6                                                  | subnet   | fd10:127:cc::/48        |                   |
 | AS4242423088 | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
 | AS4242423088 | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                                                     | loopback | 10.127.255.53/32        |                   |
@@ -281,7 +285,7 @@
 10.127.12.0/22
 10.127.16.0/24
 10.127.19.0/24
-10.127.21.0/24
+10.127.20.0/23
 10.127.22.0/28
 10.127.23.0/29
 10.127.25.0/24
@@ -320,6 +324,7 @@ fd10:127:23::/48
 fd10:127:41::/48
 fd10:127:53::/48
 fd10:127:64::/48
+fd10:127:cc::/48
 fd10:127:127::/48
 fd10:127:233::/48
 fd10:127:308::/48
@@ -341,5 +346,5 @@ fd10:127:ffff:53::/64
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 7271       | 58265      | 11.09%         | 88.91%         |
-| IPv6         | 7.9228e+28 | 2.2762e+25 | 7.9205e+28 | 0.03%          | 99.97%         |
+| IPv4         | 65536      | 7527       | 58009      | 11.49%         | 88.51%         |
+| IPv6         | 7.9228e+28 | 2.3971e+25 | 7.9204e+28 | 0.03%          | 99.97%         |

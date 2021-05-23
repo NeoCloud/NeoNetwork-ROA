@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1621757738,
-    "valid": 1622967338
+    "generated": 1621757828,
+    "valid": 1622967428
   },
   "people": {
     "licson": {
@@ -1311,6 +1311,44 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "Anillc": {
+      "info": {
+        "name": "Anillc",
+        "contact": {
+          "email": "noc@anillc.cn",
+          "github": "Anillc"
+        },
+        "persona": {
+          "pgp": "DCD75832819A6CAB61C8F7D337F54FEE22679910"
+        },
+        "nic_hdl": "ANILLC"
+      },
+      "asns": [
+        {
+          "asn": 4242422526,
+          "owner": "Anillc",
+          "name": "ANILLC-AS",
+          "source": "DN42",
+          "description": "Anillc Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.20.0/24",
+                "maxLength": 29,
+                "netname": "Anillc Network v4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:cc::/48",
+                "maxLength": 64,
+                "netname": "Anillc Network v6"
+              }
+            ]
           }
         }
       ]
