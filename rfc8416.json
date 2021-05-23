@@ -44,6 +44,12 @@
         "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
       },
       {
+        "asn": 141776,
+        "prefix": "10.127.60.0/24",
+        "maxPrefixLength": 29,
+        "comment": "BAOSHUO-NEO-V4-1"
+      },
+      {
         "asn": 207268,
         "prefix": "10.127.131.0/24",
         "maxPrefixLength": 29,
@@ -218,6 +224,12 @@
         "comment": "MOECAST-EXP-NET"
       },
       {
+        "asn": 4201270017,
+        "prefix": "10.127.60.0/24",
+        "maxPrefixLength": 29,
+        "comment": "BAOSHUO-NEO-V4-1"
+      },
+      {
         "asn": 4201270018,
         "prefix": "10.127.100.0/24",
         "maxPrefixLength": 29,
@@ -252,6 +264,12 @@
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
         "comment": "dfceaef NET"
+      },
+      {
+        "asn": 4242420247,
+        "prefix": "10.127.60.0/24",
+        "maxPrefixLength": 29,
+        "comment": "BAOSHUO-NEO-V4-1"
       },
       {
         "asn": 4242420308,
@@ -360,6 +378,12 @@
         "prefix": "fd10:127:233:1c3a::/64",
         "maxPrefixLength": 64,
         "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+      },
+      {
+        "asn": 141776,
+        "prefix": "fd10:127:9898::/48",
+        "maxPrefixLength": 64,
+        "comment": "BAOSHUO-NEO-V6-1"
       },
       {
         "asn": 207268,
@@ -494,6 +518,12 @@
         "comment": "MOECAST-EXP-NET-NG"
       },
       {
+        "asn": 4201270017,
+        "prefix": "fd10:127:9898::/48",
+        "maxPrefixLength": 64,
+        "comment": "BAOSHUO-NEO-V6-1"
+      },
+      {
         "asn": 4201270018,
         "prefix": "fd10:127:6324::/48",
         "maxPrefixLength": 64,
@@ -516,6 +546,12 @@
         "prefix": "fd10:127:ba7e::/48",
         "maxPrefixLength": 64,
         "comment": "lilydjwg"
+      },
+      {
+        "asn": 4242420247,
+        "prefix": "fd10:127:9898::/48",
+        "maxPrefixLength": 64,
+        "comment": "BAOSHUO-NEO-V6-1"
       },
       {
         "asn": 4242420308,
