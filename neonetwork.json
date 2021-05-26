@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1621837596,
-    "valid": 1623047196
+    "generated": 1622001587,
+    "valid": 1623211187
   },
   "people": {
     "licson": {
@@ -163,6 +163,11 @@
                 "prefix": "10.127.255.54/32",
                 "maxLength": 32,
                 "netname": "anycast-recur-4"
+              },
+              {
+                "prefix": "10.127.18.0/27",
+                "maxLength": 29,
+                "netname": "JerryXiao-Service"
               }
             ],
             "ipv6": [

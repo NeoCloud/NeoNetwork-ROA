@@ -158,6 +158,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4201270006,
+        "prefix": "10.127.18.0/27",
+        "maxPrefixLength": 29,
+        "comment": "JerryXiao-Service"
+      },
+      {
         "asn": 4201270007,
         "prefix": "10.127.8.160/27",
         "maxPrefixLength": 29,
