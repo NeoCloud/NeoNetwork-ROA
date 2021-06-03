@@ -26,7 +26,7 @@
 | SUNNET           |                              |             |
 | alanyhq          |                              | alanyhq     |
 | LibreHouse       | i+noc@outv.im                | outvi       |
-| MagicNeko        | noc@koishi.moe               |             |
+| MagicNeko        | noc@koishi.moe               | Mirs322     |
 | SteveYi          | info@steveyi.net             | steveyiyo   |
 | leedagee         | leedageea@gmail.com          | leedagee    |
 | Tyler            |                              | santost12   |
