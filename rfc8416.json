@@ -560,6 +560,12 @@
         "comment": "lilydjwg"
       },
       {
+        "asn": 4201271488,
+        "prefix": "fd10:127:1488::/48",
+        "maxPrefixLength": 64,
+        "comment": "Bear"
+      },
+      {
         "asn": 4242420247,
         "prefix": "fd10:127:9898::/48",
         "maxPrefixLength": 64,

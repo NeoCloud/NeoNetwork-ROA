@@ -21,6 +21,7 @@
 | SUNNET           |                              |             |
 | Staph            | staph@aosc.io                | Staph       |
 | SteveYi          | info@steveyi.net             | steveyiyo   |
+| SyllaBear        | bear@koala.gq                |             |
 | Clement VILLISEK | clement@villisek.fr          |             |
 | Yangfl Network   |                              |             |
 | Yukari           | charles@0x7f.cc              | CharlesYang |
@@ -76,6 +77,7 @@
 | NeoNetwork | AS4201270020 | Edward_P    | Edward_P                                                        |
 | NeoNetwork | AS4201270021 | David Liu   | FIXMIX-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg    | lilydjwg                                                        |
+| NeoNetwork | AS4201271488 | SyllaBear   | Polar Bear                                                      |
 | DN42       | AS4242420140 | Yangfl      | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo | BAOSHUO-AS-DN42                                                 |
 | DN42       | AS4242420308 | VILLISEK    | VILLISEK                                                        |
@@ -241,6 +243,7 @@
 | AS4201270021 | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | 10.127.8.136/29         |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | fd10:127:ba7e::/48      |                   |
+| AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.60.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:9898::/48      |                   |
@@ -331,6 +334,7 @@ fd10:127:127::/48
 fd10:127:233::/48
 fd10:127:308::/48
 fd10:127:1300::/48
+fd10:127:1488::/48
 fd10:127:1919::/48
 fd10:127:2f2f::/48
 fd10:127:3262::/64
@@ -346,7 +350,7 @@ fd10:127:ffff:53::/64
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
-|--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 7559       | 57977      | 11.53%         | 88.47%         |
-| IPv6         | 7.9228e+28 | 2.3971e+25 | 7.9204e+28 | 0.03%          | 99.97%         |
+| IP Version   | Total      | Used      | Free       | Percent Used   | Percent Free   |
+|--------------|------------|-----------|------------|----------------|----------------|
+| IPv4         | 65536      | 7559      | 57977      | 11.53%         | 88.47%         |
+| IPv6         | 7.9228e+28 | 2.518e+25 | 7.9203e+28 | 0.03%          | 99.97%         |

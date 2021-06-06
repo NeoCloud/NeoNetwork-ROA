@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        34881787    ; Serial
+        36111799    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -43,5 +43,7 @@ $TTL	3600
 6.6.a.a                                                IN    NS     ns1.fixmix.neo.
 6.6.a.a                                                IN    NS     ns2.fixmix.neo. 
 6.6.a.a                                                IN    NS     ns3.fixmix.neo.
+
+8.8.4.1                                                IN    NS     ns1.bear.neo.
 
 c.c.0.0                                                IN    NS     ns1.an.dn42.

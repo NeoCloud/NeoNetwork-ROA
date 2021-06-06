@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1622981965,
-    "valid": 1624191565
+    "generated": 1622987853,
+    "valid": 1624197453
   },
   "people": {
     "Anillc": {
@@ -913,6 +913,38 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "SyllaBear": {
+      "info": {
+        "name": "SyllaBear",
+        "contact": {
+          "email": "bear@koala.gq",
+          "github": "bearsylla"
+        },
+        "persona": {
+          "pgp": "F5EC83B433A35C8CDF5B66568FBCE429B9AB90F4"
+        },
+        "nic_hdl": "SYLLABEAR"
+      },
+      "asns": [
+        {
+          "asn": 4201271488,
+          "owner": "SyllaBear",
+          "name": "Polar Bear",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1488::/48",
+                "maxLength": 64,
+                "netname": "Bear"
+              }
+            ]
           }
         }
       ]
