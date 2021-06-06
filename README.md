@@ -4,40 +4,40 @@
 
 | Name             | Email                        | Telegram    |
 |------------------|------------------------------|-------------|
-| licson           | admin@licson.net             | licson      |
+| Anillc           | noc@anillc.cn                |             |
+| Cupkappu         | cup@kust.ga                  | kifuc       |
+| David Liu        | david@fixmix.tech            | p0tat05     |
+| Edward_P         | edward@edward-p.xyz          | @Edward_P   |
 | James58899       |                              |             |
-| frank            |                              |             |
 | JerryXiao        | neonet@mail.jerryxiao.cc     | JerryXiao   |
+| Junde Yhi        | lmy441900@live.com           | lmy441900   |
+| LINE-NZ          | dn42@line.co.nz              |             |
+| Lan Tian         |                              |             |
+| LibreHouse       | i+noc@outv.im                | outvi       |
+| Moe              | noc@moeternet.com            | @moeternet  |
+| Ndoskrnl         | lollipop.studio.cn@gmail.com |             |
+| Neo_Chen         | chenkolei@gmail.com          | Neo_Chen    |
+| Ren Baoshuo      | i@baoshuo.ren                | baoshuo     |
+| SUNNET           |                              |             |
+| Staph            | staph@aosc.io                | Staph       |
+| SteveYi          | info@steveyi.net             | steveyiyo   |
 | Clement VILLISEK | clement@villisek.fr          |             |
 | Yangfl Network   |                              |             |
-| Ren Baoshuo      | i@baoshuo.ren                | baoshuo     |
-| Edward_P         | edward@edward-p.xyz          | @Edward_P   |
-| Ndoskrnl         | lollipop.studio.cn@gmail.com |             |
-| Junde Yhi        | lmy441900@live.com           | lmy441900   |
-| septs            | bgp@septs.email              | septs       |
 | Yukari           | charles@0x7f.cc              | CharlesYang |
-| Cupkappu         | cup@kust.ga                  | kifuc       |
-| lilydjwg         | lilydjwg@gmail.com           | @lilydjwg   |
-| Lan Tian         |                              |             |
-| chenx97          | chenx97@gmail.com            |             |
-| Neo_Chen         | chenkolei@gmail.com          | Neo_Chen    |
-| David Liu        | david@fixmix.tech            | p0tat05     |
-| liangjw          | dn42@cas7.moe                | liangjw     |
-| SUNNET           |                              |             |
-| alanyhq          |                              | alanyhq     |
-| LibreHouse       | i+noc@outv.im                | outvi       |
-| MagicNeko        | noc@koishi.moe               | Mirs322     |
-| SteveYi          | info@steveyi.net             | steveyiyo   |
-| leedagee         | leedageea@gmail.com          | leedagee    |
-| Tyler            |                              | santost12   |
-| Moe              | noc@moeternet.com            | @moeternet  |
-| iEdon            |                              |             |
-| Anillc           | noc@anillc.cn                |             |
-| LINE-NZ          | dn42@line.co.nz              |             |
 | Yura             | yurachan@etlgr.com           | @noc2464    |
+| alanyhq          |                              | alanyhq     |
 | caxap            | yrdw@protonmail.com          |             |
+| chenx97          | chenx97@gmail.com            |             |
+| frank            |                              |             |
+| iEdon            |                              |             |
 | Icecat           | icecat@catio.network         | fakeicecat  |
-| Staph            | staph@aosc.io                | Staph       |
+| leedagee         | leedageea@gmail.com          | leedagee    |
+| liangjw          | dn42@cas7.moe                | liangjw     |
+| licson           | admin@licson.net             | licson      |
+| lilydjwg         | lilydjwg@gmail.com           | @lilydjwg   |
+| MagicNeko        | noc@koishi.moe               | Mirs322     |
+| Tyler            |                              | santost12   |
+| septs            | bgp@septs.email              | septs       |
 
 ## AS table
 
