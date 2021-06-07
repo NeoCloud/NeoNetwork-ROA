@@ -266,6 +266,12 @@
         "comment": "lilydjwg"
       },
       {
+        "asn": 4201270030,
+        "prefix": "10.127.30.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IWARP-NEO-IP4-NETWORK"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -558,6 +564,12 @@
         "prefix": "fd10:127:ba7e::/48",
         "maxPrefixLength": 64,
         "comment": "lilydjwg"
+      },
+      {
+        "asn": 4201270030,
+        "prefix": "fd10:127:30::/48",
+        "maxPrefixLength": 64,
+        "comment": "IWARP-NEO-IP6-NETWORK"
       },
       {
         "asn": 4201271488,
