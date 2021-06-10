@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1623113811,
-    "valid": 1624323411
+    "generated": 1623326993,
+    "valid": 1624536593
   },
   "people": {
     "Anillc": {
@@ -1341,6 +1341,51 @@
                 "prefix": "fd10:127:233:1000::/64",
                 "maxLength": 64,
                 "netname": "icecat"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "kskb": {
+      "info": {
+        "name": "kskb",
+        "babel": [
+          "zh",
+          "en-3"
+        ],
+        "contact": {
+          "email": "dn42@kskb.eu.org",
+          "irc": "kskb",
+          "telegram": "KusakabeSi",
+          "mastodon": "",
+          "github": "KusakabeSi"
+        },
+        "persona": {
+          "pgp": "716846E71E56F088BDF42E695A6761FECF4CAA65"
+        },
+        "nic_hdl": "KSKB"
+      },
+      "asns": [
+        {
+          "asn": 4201271111,
+          "owner": "kskb",
+          "name": "kskb",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.111.0/24",
+                "maxLength": 29,
+                "netname": "kskb"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:e00f::/48",
+                "maxLength": 64,
+                "netname": "kskb"
               }
             ]
           }
