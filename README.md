@@ -84,6 +84,7 @@
 | NeoNetwork | AS4201271488 | SyllaBear   | Polar Bear                                                      |
 | DN42       | AS4242420140 | Yangfl      | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo | BAOSHUO-AS-DN42                                                 |
+| DN42       | AS4242420288 | Yux         | IWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK    | VILLISEK                                                        |
 | DN42       | AS4242420916 | alanyhq     | alanyhq                                                         |
 | DN42       | AS4242421025 | icecat      | NextMoe Neo-Network Intermediate Access Project                 |
@@ -257,6 +258,8 @@
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.60.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:9898::/48      |                   |
+| AS4242420288 | IWARP-NEO-IP4-NETWORK                                              | subnet   | 10.127.30.0/24          |                   |
+| AS4242420288 | IWARP-NEO-IP6-NETWORK                                              | subnet   | fd10:127:30::/48        |                   |
 | AS4242420308 | VILLISEK-NEO                                                       | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                                                    | subnet   | fd10:127:308::/48       |                   |
 | AS4242421025 | icecat                                                             | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |

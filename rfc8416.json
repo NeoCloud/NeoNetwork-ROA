@@ -290,6 +290,12 @@
         "comment": "BAOSHUO-NEO-V4-1"
       },
       {
+        "asn": 4242420288,
+        "prefix": "10.127.30.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IWARP-NEO-IP4-NETWORK"
+      },
+      {
         "asn": 4242420308,
         "prefix": "10.127.38.32/27",
         "maxPrefixLength": 29,
@@ -594,6 +600,12 @@
         "prefix": "fd10:127:9898::/48",
         "maxPrefixLength": 64,
         "comment": "BAOSHUO-NEO-V6-1"
+      },
+      {
+        "asn": 4242420288,
+        "prefix": "fd10:127:30::/48",
+        "maxPrefixLength": 64,
+        "comment": "IWARP-NEO-IP6-NETWORK"
       },
       {
         "asn": 4242420308,
