@@ -212,6 +212,12 @@
         "comment": "yhi-h"
       },
       {
+        "asn": 4201270012,
+        "prefix": "10.127.5.16/28",
+        "maxPrefixLength": 29,
+        "comment": "yhi-s"
+      },
+      {
         "asn": 4201270013,
         "prefix": "10.127.13.0/24",
         "maxPrefixLength": 29,
