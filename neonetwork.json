@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1624860728,
-    "valid": 1626070328
+    "generated": 1625034196,
+    "valid": 1626243796
   },
   "people": {
     "Anillc": {
@@ -1028,8 +1028,11 @@
         "name": "Yukari",
         "contact": {
           "telegram": "CharlesYang",
-          "github": "SteveCharlesYang",
-          "email": "charles@0x7f.cc"
+          "github": "YukariChiba",
+          "email": "i@0x7f.cc"
+        },
+        "persona": {
+          "pgp": "9DC663829861B7FDFB5DA8B39277CB21961D6DD5"
         },
         "nic_hdl": "YUKARI"
       },
@@ -1053,6 +1056,40 @@
                 "prefix": "fd10:127:1300::/48",
                 "maxLength": 64,
                 "netname": "IX42-LAS-6"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242421331,
+          "owner": "Yukari",
+          "name": "Niantic Network",
+          "source": "DN42",
+          "description": "Niantic Network Backbone",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        },
+        {
+          "asn": 4242421332,
+          "owner": "Yukari",
+          "name": "Niantic Network CN",
+          "source": "DN42",
+          "description": "Niantic Network China",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.132.0/24",
+                "maxLength": 29,
+                "netname": "NetUnion-IPv4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1332::/48",
+                "maxLength": 64,
+                "netname": "NetUnion-IPv6"
               }
             ]
           }
@@ -1758,11 +1795,11 @@
   },
   "dnssec": [
     {
-      "zone": "127.10.in-addr.arpa.",
+      "zone": "neo.",
       "records": [
         {
-          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
-          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
+          "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
+          "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
         }
       ]
     },
@@ -1776,11 +1813,11 @@
       ]
     },
     {
-      "zone": "neo.",
+      "zone": "127.10.in-addr.arpa.",
       "records": [
         {
-          "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
-          "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
+          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
+          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
         }
       ]
     }

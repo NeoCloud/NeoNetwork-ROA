@@ -320,6 +320,12 @@
         "comment": "Yi Global VPN"
       },
       {
+        "asn": 4242421332,
+        "prefix": "10.127.132.0/24",
+        "maxPrefixLength": 29,
+        "comment": "NetUnion-IPv4"
+      },
+      {
         "asn": 4242421876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
@@ -624,6 +630,12 @@
         "prefix": "fd10:127:233:1000::/64",
         "maxPrefixLength": 64,
         "comment": "icecat"
+      },
+      {
+        "asn": 4242421332,
+        "prefix": "fd10:127:1332::/48",
+        "maxPrefixLength": 64,
+        "comment": "NetUnion-IPv6"
       },
       {
         "asn": 4242421876,
