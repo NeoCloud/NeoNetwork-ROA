@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1627280515,
-    "valid": 1628490115
+    "generated": 1627295193,
+    "valid": 1628504793
   },
   "people": {
     "Anillc": {
@@ -948,6 +948,46 @@
                 "prefix": "fd10:127:1488::/48",
                 "maxLength": 64,
                 "netname": "Bear"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "TsingYao": {
+      "info": {
+        "name": "TsingYao",
+        "contact": {
+          "email": "yujintong@126.com",
+          "telegram": "@yujintong",
+          "irc": "yujintong",
+          "github": "yujintong"
+        },
+        "persona": {
+          "pgp": "DD515D58188FBD2F9AF484F8AD04D02E24AC52C9"
+        },
+        "nic_hdl": "TSINGYAO"
+      },
+      "asns": [
+        {
+          "asn": 4201270099,
+          "owner": "TsingYao",
+          "name": "TsingYao",
+          "source": "NeoNetwork",
+          "description": "TsingYao NeoNetwork Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.99.0/24",
+                "maxLength": 29,
+                "netname": "TSINTYAO-NET4-NEOA"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:99::/48",
+                "maxLength": 64,
+                "netname": "TSINGYAO-NET6-NEOA"
               }
             ]
           }
