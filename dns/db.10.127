@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL    3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        40781537    ; Serial
+        40790003    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -46,7 +46,7 @@ $TTL    3600
 
 130.8          IN    PTR    edwardp.neo.
 
-137.8          IN    PTR    lily.neo
+137.8          IN    PTR    lily.neo.
 
 ; Loopback Addresses
 
