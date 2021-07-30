@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        40419152    ; Serial
+        40781537    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -36,6 +36,9 @@ edwardp                   IN    A        10.127.8.130
 edwardp                   IN    AAAA     fd10:127:2f2f::
 
 tv                        IN    A        10.127.15.58
+
+lily                      IN    A        10.127.8.137
+lily                      IN    AAAA     fd10:127:ba7e::137
 
 ; DELEGATED ZONES
 jerry                     IN    NS       ns1.jerry
