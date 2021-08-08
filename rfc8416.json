@@ -45,7 +45,7 @@
       },
       {
         "asn": 141776,
-        "prefix": "10.127.60.0/24",
+        "prefix": "10.127.17.0/24",
         "maxPrefixLength": 29,
         "comment": "BAOSHUO-NEO-V4-1"
       },
@@ -237,7 +237,7 @@
       },
       {
         "asn": 4201270017,
-        "prefix": "10.127.60.0/24",
+        "prefix": "10.127.17.0/24",
         "maxPrefixLength": 29,
         "comment": "BAOSHUO-NEO-V4-1"
       },
@@ -297,7 +297,7 @@
       },
       {
         "asn": 4242420247,
-        "prefix": "10.127.60.0/24",
+        "prefix": "10.127.17.0/24",
         "maxPrefixLength": 29,
         "comment": "BAOSHUO-NEO-V4-1"
       },
@@ -429,7 +429,7 @@
       },
       {
         "asn": 141776,
-        "prefix": "fd10:127:9898::/48",
+        "prefix": "fd10:127:17::/48",
         "maxPrefixLength": 64,
         "comment": "BAOSHUO-NEO-V6-1"
       },
@@ -567,7 +567,7 @@
       },
       {
         "asn": 4201270017,
-        "prefix": "fd10:127:9898::/48",
+        "prefix": "fd10:127:17::/48",
         "maxPrefixLength": 64,
         "comment": "BAOSHUO-NEO-V6-1"
       },
@@ -621,7 +621,7 @@
       },
       {
         "asn": 4242420247,
-        "prefix": "fd10:127:9898::/48",
+        "prefix": "fd10:127:17::/48",
         "maxPrefixLength": 64,
         "comment": "BAOSHUO-NEO-V6-1"
       },

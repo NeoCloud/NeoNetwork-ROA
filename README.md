@@ -193,8 +193,8 @@
 | AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | 10.127.234.0/24         |                   |
 | AS141706     | MagicNeko-CN office node(name:liqingge)                            | subnet   | fd10:127:233:1c3c::/64  | fd10:127:233::/48 |
 | AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
-| AS141776     | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.60.0/24          |                   |
-| AS141776     | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:9898::/48      |                   |
+| AS141776     | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.17.0/24          |                   |
+| AS141776     | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
 | AS207268     | IX42-LAS-4                                                         | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                                         | subnet   | fd10:127:1300::/48      |                   |
 | AS211876     | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
@@ -248,8 +248,8 @@
 | AS4201270014 | leedagee                                                           | subnet   | fd10:127:23::/48        |                   |
 | AS4201270016 | MOECAST-EXP-NET                                                    | subnet   | 10.127.64.0/24          |                   |
 | AS4201270016 | MOECAST-EXP-NET-NG                                                 | subnet   | fd10:127:64::/48        |                   |
-| AS4201270017 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.60.0/24          |                   |
-| AS4201270017 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:9898::/48      |                   |
+| AS4201270017 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.17.0/24          |                   |
+| AS4201270017 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
 | AS4201270018 | caxap-minecraft-net                                                | subnet   | 10.127.100.0/24         |                   |
 | AS4201270018 | caxap6                                                             | subnet   | fd10:127:6324::/48      |                   |
 | AS4201270019 | cupkappu                                                           | subnet   | 10.127.19.0/24          |                   |
@@ -267,8 +267,8 @@
 | AS4201271111 | kskb                                                               | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
-| AS4242420247 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.60.0/24          |                   |
-| AS4242420247 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:9898::/48      |                   |
+| AS4242420247 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.17.0/24          |                   |
+| AS4242420247 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
 | AS4242420288 | IWARP-NEO-IP4-NETWORK                                              | subnet   | 10.127.30.0/24          |                   |
 | AS4242420288 | IWARP-NEO-IP6-NETWORK                                              | subnet   | fd10:127:30::/48        |                   |
 | AS4242420308 | VILLISEK-NEO                                                       | subnet   | 10.127.38.32/27         |                   |
@@ -313,7 +313,7 @@
 10.127.9.0/24
 10.127.10.0/23
 10.127.12.0/22
-10.127.16.0/24
+10.127.16.0/23
 10.127.18.0/27
 10.127.19.0/24
 10.127.20.0/23
@@ -325,7 +325,6 @@
 10.127.39.0/27
 10.127.41.0/24
 10.127.56.0/24
-10.127.60.0/24
 10.127.64.0/24
 10.127.66.0/24
 10.127.89.0/24
@@ -355,6 +354,7 @@ fd10:127:7:c000::/51
 fd10:127:7:ffff::/64
 fd10:127:10::/48
 fd10:127:13::/48
+fd10:127:17::/48
 fd10:127:23::/48
 fd10:127:30::/48
 fd10:127:41::/48
@@ -373,7 +373,6 @@ fd10:127:2f2f::/48
 fd10:127:3262::/64
 fd10:127:5f37:59df::/64
 fd10:127:6324::/48
-fd10:127:9898::/48
 fd10:127:aa66::/48
 fd10:127:ba7e::/48
 fd10:127:e00f::/48

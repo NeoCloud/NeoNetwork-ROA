@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1627885299,
-    "valid": 1629094899
+    "generated": 1628404699,
+    "valid": 1629614299
   },
   "people": {
     "Anillc": {
@@ -657,14 +657,14 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.60.0/24",
+                "prefix": "10.127.17.0/24",
                 "maxLength": 29,
                 "netname": "BAOSHUO-NEO-V4-1"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:9898::/48",
+                "prefix": "fd10:127:17::/48",
                 "maxLength": 64,
                 "netname": "BAOSHUO-NEO-V6-1"
               }
@@ -676,18 +676,18 @@
           "owner": "Ren Baoshuo",
           "name": "BAOSHUO-AS-NEO",
           "source": "NeoNetwork",
-          "description": "Baoshuo Network",
+          "description": "Baoshuo Neo Network",
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.60.0/24",
+                "prefix": "10.127.17.0/24",
                 "maxLength": 29,
                 "netname": "BAOSHUO-NEO-V4-1"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:9898::/48",
+                "prefix": "fd10:127:17::/48",
                 "maxLength": 64,
                 "netname": "BAOSHUO-NEO-V6-1"
               }
@@ -703,14 +703,14 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.60.0/24",
+                "prefix": "10.127.17.0/24",
                 "maxLength": 29,
                 "netname": "BAOSHUO-NEO-V4-1"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:9898::/48",
+                "prefix": "fd10:127:17::/48",
                 "maxLength": 64,
                 "netname": "BAOSHUO-NEO-V6-1"
               }
