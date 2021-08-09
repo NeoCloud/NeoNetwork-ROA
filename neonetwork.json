@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1628490101,
-    "valid": 1629699701
+    "generated": 1628493274,
+    "valid": 1629702874
   },
   "people": {
     "Anillc": {
@@ -957,10 +957,13 @@
     "TsingYao": {
       "info": {
         "name": "TsingYao",
+        "babel": [
+          "zh-N",
+          "en"
+        ],
         "contact": {
           "email": "yujintong@126.com",
-          "telegram": "@yujintong",
-          "irc": "yujintong",
+          "telegram": "yujintong",
           "github": "yujintong"
         },
         "persona": {
@@ -972,22 +975,45 @@
         {
           "asn": 4201270099,
           "owner": "TsingYao",
-          "name": "TsingYao",
+          "name": "AS-NEO-TSINGYAO",
           "source": "NeoNetwork",
-          "description": "TsingYao NeoNetwork Network",
+          "description": "TsingYao Neo Network",
           "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.99.0/24",
                 "maxLength": 29,
-                "netname": "TSINTYAO-NET4-NEOA"
+                "netname": "TSINTYAO-NEO-NET4"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:99::/48",
                 "maxLength": 64,
-                "netname": "TSINGYAO-NET6-NEOA"
+                "netname": "TSINGYAO-NEO-NET6"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242423699,
+          "owner": "TsingYao",
+          "name": "AS-NEO-TSINGYAO",
+          "source": "DN42",
+          "description": "TsingYao Neo Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.99.0/24",
+                "maxLength": 29,
+                "netname": "TSINTYAO-NEO-NET4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:99::/48",
+                "maxLength": 64,
+                "netname": "TSINGYAO-NEO-NET6"
               }
             ]
           }

@@ -281,7 +281,7 @@
         "asn": 4201270099,
         "prefix": "10.127.99.0/24",
         "maxPrefixLength": 29,
-        "comment": "TSINTYAO-NET4-NEOA"
+        "comment": "TSINTYAO-NEO-NET4"
       },
       {
         "asn": 4201271111,
@@ -396,6 +396,12 @@
         "prefix": "10.127.255.54/32",
         "maxPrefixLength": 32,
         "comment": "anycast-recur-4"
+      },
+      {
+        "asn": 4242423699,
+        "prefix": "10.127.99.0/24",
+        "maxPrefixLength": 29,
+        "comment": "TSINTYAO-NEO-NET4"
       },
       {
         "asn": 38173,
@@ -605,7 +611,7 @@
         "asn": 4201270099,
         "prefix": "fd10:127:99::/48",
         "maxPrefixLength": 64,
-        "comment": "TSINGYAO-NET6-NEOA"
+        "comment": "TSINGYAO-NEO-NET6"
       },
       {
         "asn": 4201271111,
@@ -696,6 +702,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4242423699,
+        "prefix": "fd10:127:99::/48",
+        "maxPrefixLength": 64,
+        "comment": "TSINGYAO-NEO-NET6"
       }
     ]
   }
