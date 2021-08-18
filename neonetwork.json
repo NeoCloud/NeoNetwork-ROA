@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1629294469,
-    "valid": 1630504069
+    "generated": 1629297834,
+    "valid": 1630507434
   },
   "people": {
     "Anillc": {
@@ -17,6 +17,29 @@
         "nic_hdl": "ANILLC"
       },
       "asns": [
+        {
+          "asn": 4201272526,
+          "owner": "Anillc",
+          "name": "ANILLC-AS-NEO",
+          "source": "NeoNetwork",
+          "description": "Anillc NEO Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.3.0/24",
+                "maxLength": 29,
+                "netname": "Anillc NEO Network v4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:ee::/48",
+                "maxLength": 64,
+                "netname": "Anillc NEO Network v6"
+              }
+            ]
+          }
+        },
         {
           "asn": 4242422526,
           "owner": "Anillc",

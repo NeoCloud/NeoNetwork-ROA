@@ -84,6 +84,7 @@
 | NeoNetwork | AS4201270099 | TsingYao    | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201271111 | kskb        | kskb                                                            |
 | NeoNetwork | AS4201271488 | SyllaBear   | Polar Bear                                                      |
+| NeoNetwork | AS4201272526 | Anillc      | ANILLC-AS-NEO                                                   |
 | DN42       | AS4242420140 | Yangfl      | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo | BAOSHUO-AS-DN42                                                 |
 | DN42       | AS4242420288 | Yux         | IWARP-DN42                                                      |
@@ -265,6 +266,8 @@
 | AS4201271111 | kskb                                                               | subnet   | 10.127.111.0/24         |                   |
 | AS4201271111 | kskb                                                               | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
+| AS4201272526 | Anillc NEO Network v4                                              | subnet   | 10.127.3.0/24           |                   |
+| AS4201272526 | Anillc NEO Network v6                                              | subnet   | fd10:127:ee::/48        |                   |
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.17.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
@@ -302,8 +305,7 @@
 ## Used CIDR Range
 
 ```
-10.127.0.0/23
-10.127.2.0/24
+10.127.0.0/22
 10.127.4.0/24
 10.127.5.0/27
 10.127.7.0/24
@@ -361,6 +363,7 @@ fd10:127:53::/48
 fd10:127:64::/48
 fd10:127:99::/48
 fd10:127:cc::/48
+fd10:127:ee::/48
 fd10:127:127::/48
 fd10:127:233::/48
 fd10:127:308::/48
@@ -384,5 +387,5 @@ fd10:127:ffff:53::/64
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 8597       | 56939      | 13.12%         | 86.88%         |
-| IPv6         | 7.9228e+28 | 3.0015e+25 | 7.9198e+28 | 0.04%          | 99.96%         |
+| IPv4         | 65536      | 8853       | 56683      | 13.51%         | 86.49%         |
+| IPv6         | 7.9228e+28 | 3.1224e+25 | 7.9197e+28 | 0.04%          | 99.96%         |
