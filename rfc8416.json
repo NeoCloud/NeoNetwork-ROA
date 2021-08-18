@@ -71,13 +71,13 @@
         "asn": 4201270000,
         "prefix": "10.127.1.0/24",
         "maxPrefixLength": 29,
-        "comment": "CROOM"
+        "comment": "MAIN"
       },
       {
         "asn": 4201270000,
         "prefix": "10.127.2.0/24",
         "maxPrefixLength": 29,
-        "comment": "NeoSystem"
+        "comment": "Messed-up Network"
       },
       {
         "asn": 4201270000,
@@ -87,21 +87,9 @@
       },
       {
         "asn": 4201270000,
-        "prefix": "10.127.255.1/32",
-        "maxPrefixLength": 32,
-        "comment": "NeoPDP-11"
-      },
-      {
-        "asn": 4201270000,
         "prefix": "10.127.255.4/32",
         "maxPrefixLength": 32,
         "comment": "fsnvax"
-      },
-      {
-        "asn": 4201270000,
-        "prefix": "10.127.255.80/32",
-        "maxPrefixLength": 32,
-        "comment": "NeoSystem"
       },
       {
         "asn": 4201270001,

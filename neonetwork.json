@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1629094886,
-    "valid": 1630304486
+    "generated": 1629294469,
+    "valid": 1630504069
   },
   "people": {
     "Anillc": {
@@ -591,12 +591,12 @@
               {
                 "prefix": "10.127.1.0/24",
                 "maxLength": 29,
-                "netname": "CROOM"
+                "netname": "MAIN"
               },
               {
                 "prefix": "10.127.2.0/24",
                 "maxLength": 29,
-                "netname": "NeoSystem"
+                "netname": "Messed-up Network"
               },
               {
                 "prefix": "10.127.16.0/24",
@@ -604,19 +604,9 @@
                 "netname": "Neo_Chen ZeroTier-One Hub"
               },
               {
-                "prefix": "10.127.255.1/32",
-                "maxLength": 32,
-                "netname": "NeoPDP-11"
-              },
-              {
                 "prefix": "10.127.255.4/32",
                 "maxLength": 32,
                 "netname": "fsnvax"
-              },
-              {
-                "prefix": "10.127.255.80/32",
-                "maxLength": 32,
-                "netname": "NeoSystem"
               }
             ],
             "ipv6": [
