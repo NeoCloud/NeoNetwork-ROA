@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1629401816,
-    "valid": 1630611416
+    "generated": 1629566789,
+    "valid": 1630776389
   },
   "people": {
     "Anillc": {
@@ -1777,13 +1777,7 @@
           "source": "NeoNetwork",
           "description": "MagicNeko ASIA (Old project ASN)",
           "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.255.117/32",
-                "maxLength": 32,
-                "netname": "MagicNeko-TW Snode(name:none)"
-              }
-            ],
+            "ipv4": [],
             "ipv6": []
           }
         }

@@ -164,12 +164,6 @@
         "comment": "AOSCNet"
       },
       {
-        "asn": 4201270008,
-        "prefix": "10.127.255.117/32",
-        "maxPrefixLength": 32,
-        "comment": "MagicNeko-TW Snode(name:none)"
-      },
-      {
         "asn": 4201270009,
         "prefix": "10.127.39.0/27",
         "maxPrefixLength": 29,
