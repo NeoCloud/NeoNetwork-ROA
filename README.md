@@ -48,6 +48,7 @@
 
 | Source     | ASN          | Owner         | Name                                                            |
 |------------|--------------|---------------|-----------------------------------------------------------------|
+| Internet   | AS17830      | David Liu     | POTATO-AS-AP                                                    |
 | Internet   | AS38173      | SUNNET        | SUNNET                                                          |
 | Internet   | AS134098     | licson        | Licson Internal Network                                         |
 | Internet   | AS140913     | magicneko     | Koishi Network(aka Hentai Network)                              |
@@ -79,7 +80,7 @@
 | NeoNetwork | AS4201270018 | caxap         | caxap Network                                                   |
 | NeoNetwork | AS4201270019 | Cupkappu      | Cupkappu                                                        |
 | NeoNetwork | AS4201270020 | Edward_P      | Edward_P                                                        |
-| NeoNetwork | AS4201270021 | David Liu     | FIXMIX-NEO                                                      |
+| NeoNetwork | AS4201270021 | David Liu     | POTATO-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg      | lilydjwg                                                        |
 | NeoNetwork | AS4201270030 | Yux           | IWARP-NEO                                                       |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
@@ -97,7 +98,7 @@
 | DN42       | AS4242421214 | SteveYi       | Yi-Network                                                      |
 | DN42       | AS4242421331 | Yukari        | Niantic Network                                                 |
 | DN42       | AS4242421332 | Yukari        | Niantic Network CN                                              |
-| DN42       | AS4242421876 | David Liu     | FIXMIX-42                                                       |
+| DN42       | AS4242421876 | David Liu     | POTATO-42                                                       |
 | DN42       | AS4242422189 | iEdon         | IEDON-NET-AS                                                    |
 | DN42       | AS4242422464 | Yura          | Yura Network                                                    |
 | DN42       | AS4242422526 | Anillc        | ANILLC-AS                                                       |
@@ -143,7 +144,7 @@
 | AS4201270019 | Cupkappu-JP       |
 | AS4201270019 | Cupkappu-HK2      |
 | AS4201270020 | Edward_P          |
-| AS4201270021 | fixmix            |
+| AS4201270021 | PotatoNet         |
 | AS4201270030 | IWarp             |
 | AS4201270099 | TsingYao          |
 | AS4201271111 | KSKB-HK1          |
@@ -186,6 +187,8 @@
 
 | ASN          | Name                                                               | Type     | Prefix                  | Supernet          |
 |--------------|--------------------------------------------------------------------|----------|-------------------------|-------------------|
+| AS17830      | POTATO-NEO-NET4-A                                                  | subnet   | 10.127.66.0/24          |                   |
+| AS17830      | POTATO-NEO-NET6-A                                                  | subnet   | fd10:127:aa66::/48      |                   |
 | AS38173      | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
 | AS38173      | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
 | AS134098     | LICSON-NET-SUBALLOC-1                                              | subnet   | 10.127.14.0/23          |                   |
@@ -201,8 +204,8 @@
 | AS141776     | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
 | AS207268     | IX42-LAS-4                                                         | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                                         | subnet   | fd10:127:1300::/48      |                   |
-| AS211876     | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
-| AS211876     | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
+| AS211876     | POTATO-NEO-NET4-A                                                  | subnet   | 10.127.66.0/24          |                   |
+| AS211876     | POTATO-NEO-NET6-A                                                  | subnet   | fd10:127:aa66::/48      |                   |
 | AS213262     | Moe                                                                | subnet   | fd10:127:3262::/64      |                   |
 | AS4201270000 | RESERVED                                                           | subnet   | 10.127.0.0/24           |                   |
 | AS4201270000 | MAIN                                                               | subnet   | 10.127.1.0/24           |                   |
@@ -256,8 +259,8 @@
 | AS4201270019 | cupkappu                                                           | subnet   | 10.127.19.0/24          |                   |
 | AS4201270020 | Edward_P-Ezpro                                                     | subnet   | 10.127.8.128/29         |                   |
 | AS4201270020 | Edward_P-Ezpro-V6                                                  | subnet   | fd10:127:2f2f::/48      |                   |
-| AS4201270021 | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
-| AS4201270021 | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
+| AS4201270021 | POTATO-NEO-NET4-A                                                  | subnet   | 10.127.66.0/24          |                   |
+| AS4201270021 | POTATO-NEO-NET6-A                                                  | subnet   | fd10:127:aa66::/48      |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | 10.127.8.136/29         |                   |
 | AS4201270022 | lilydjwg                                                           | subnet   | fd10:127:ba7e::/48      |                   |
 | AS4201270030 | IWARP-NEO-IP4-NETWORK                                              | subnet   | 10.127.30.0/24          |                   |
@@ -283,8 +286,8 @@
 | AS4242421214 | Yi Global VPN                                                      | subnet   | 10.127.124.0/29         |                   |
 | AS4242421332 | NetUnion-IPv4                                                      | subnet   | 10.127.132.0/24         |                   |
 | AS4242421332 | NetUnion-IPv6                                                      | subnet   | fd10:127:1332::/48      |                   |
-| AS4242421876 | FIXMIX-NET4-NEOA                                                   | subnet   | 10.127.66.0/24          |                   |
-| AS4242421876 | FIXMIX-NET6-NEOA                                                   | subnet   | fd10:127:aa66::/48      |                   |
+| AS4242421876 | POTATO-NEO-NET4-A                                                  | subnet   | 10.127.66.0/24          |                   |
+| AS4242421876 | POTATO-NEO-NET6-A                                                  | subnet   | fd10:127:aa66::/48      |                   |
 | AS4242422189 | IEDON-NET                                                          | subnet   | 10.127.21.0/24          |                   |
 | AS4242422189 | IEDON-NET                                                          | subnet   | 10.127.25.0/24          |                   |
 | AS4242422464 | Yura Moe NET                                                       | subnet   | 10.127.127.0/24         |                   |

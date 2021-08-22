@@ -8,6 +8,12 @@
     "bgpsecAssertions": [],
     "prefixAssertions": [
       {
+        "asn": 17830,
+        "prefix": "10.127.66.0/24",
+        "maxPrefixLength": 29,
+        "comment": "POTATO-NEO-NET4-A"
+      },
+      {
         "asn": 38173,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,
@@ -59,7 +65,7 @@
         "asn": 211876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET4-NEOA"
+        "comment": "POTATO-NEO-NET4-A"
       },
       {
         "asn": 4201270000,
@@ -245,7 +251,7 @@
         "asn": 4201270021,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET4-NEOA"
+        "comment": "POTATO-NEO-NET4-A"
       },
       {
         "asn": 4201270022,
@@ -329,7 +335,7 @@
         "asn": 4242421876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
-        "comment": "FIXMIX-NET4-NEOA"
+        "comment": "POTATO-NEO-NET4-A"
       },
       {
         "asn": 4242422189,
@@ -398,6 +404,12 @@
         "comment": "TSINTYAO-NEO-NET4"
       },
       {
+        "asn": 17830,
+        "prefix": "fd10:127:aa66::/48",
+        "maxPrefixLength": 64,
+        "comment": "POTATO-NEO-NET6-A"
+      },
+      {
         "asn": 38173,
         "prefix": "fd10:127:ee11::/48",
         "maxPrefixLength": 64,
@@ -443,7 +455,7 @@
         "asn": 211876,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET6-NEOA"
+        "comment": "POTATO-NEO-NET6-A"
       },
       {
         "asn": 213262,
@@ -587,7 +599,7 @@
         "asn": 4201270021,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET6-NEOA"
+        "comment": "POTATO-NEO-NET6-A"
       },
       {
         "asn": 4201270022,
@@ -665,7 +677,7 @@
         "asn": 4242421876,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
-        "comment": "FIXMIX-NET6-NEOA"
+        "comment": "POTATO-NEO-NET6-A"
       },
       {
         "asn": 4242422464,

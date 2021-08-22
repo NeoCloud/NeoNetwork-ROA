@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1629566789,
-    "valid": 1630776389
+    "generated": 1629596082,
+    "valid": 1630805682
   },
   "people": {
     "Anillc": {
@@ -114,30 +114,53 @@
           "github": "p0tat05"
         },
         "persona": {
-          "pgp": "11BA9B106D0DF5E6A1C4BC180641F2177A5530C0"
+          "pgp": "F69228A3DADECB2BFCEE6EB38EC04651740E765D"
         },
         "nic_hdl": "DAVID-LIU"
       },
       "asns": [
         {
-          "asn": 211876,
+          "asn": 17830,
           "owner": "David Liu",
-          "name": "FIXMIX-GEN",
+          "name": "POTATO-AS-AP",
           "source": "Internet",
-          "description": "fixmix Global Experimental Network",
+          "description": "David Liu aka PotatoNet",
           "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET4-NEOA"
+                "netname": "POTATO-NEO-NET4-A"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET6-NEOA"
+                "netname": "POTATO-NEO-NET6-A"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 211876,
+          "owner": "David Liu",
+          "name": "FIXMIX-GEN",
+          "source": "Internet",
+          "description": "fixmix Technologies",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.66.0/24",
+                "maxLength": 29,
+                "netname": "POTATO-NEO-NET4-A"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:aa66::/48",
+                "maxLength": 64,
+                "netname": "POTATO-NEO-NET6-A"
               }
             ]
           }
@@ -145,22 +168,22 @@
         {
           "asn": 4201270021,
           "owner": "David Liu",
-          "name": "FIXMIX-NEO",
+          "name": "POTATO-NEO",
           "source": "NeoNetwork",
-          "description": "fixmix NeoNetwork Network",
+          "description": "PotatoNet @ NeoNetwork",
           "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET4-NEOA"
+                "netname": "POTATO-NEO-NET4-A"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET6-NEOA"
+                "netname": "POTATO-NEO-NET6-A"
               }
             ]
           }
@@ -168,22 +191,22 @@
         {
           "asn": 4242421876,
           "owner": "David Liu",
-          "name": "FIXMIX-42",
+          "name": "POTATO-42",
           "source": "DN42",
-          "description": "fixmix DN42 Network",
+          "description": "PotatoNet @ DN42",
           "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.66.0/24",
                 "maxLength": 29,
-                "netname": "FIXMIX-NET4-NEOA"
+                "netname": "POTATO-NEO-NET4-A"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:aa66::/48",
                 "maxLength": 64,
-                "netname": "FIXMIX-NET6-NEOA"
+                "netname": "POTATO-NEO-NET6-A"
               }
             ]
           }
