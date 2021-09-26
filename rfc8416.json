@@ -243,9 +243,15 @@
       },
       {
         "asn": 4201270020,
-        "prefix": "10.127.8.128/29",
+        "prefix": "10.127.18.32/27",
         "maxPrefixLength": 29,
-        "comment": "Edward_P-Ezpro"
+        "comment": "Edward_P-Tunnel"
+      },
+      {
+        "asn": 4201270020,
+        "prefix": "10.127.26.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Edward_P-Home"
       },
       {
         "asn": 4201270021,
@@ -593,7 +599,7 @@
         "asn": 4201270020,
         "prefix": "fd10:127:2f2f::/48",
         "maxPrefixLength": 64,
-        "comment": "Edward_P-Ezpro-V6"
+        "comment": "Edward_P-V6"
       },
       {
         "asn": 4201270021,

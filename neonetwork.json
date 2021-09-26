@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1632118827,
-    "valid": 1633328427
+    "generated": 1632664562,
+    "valid": 1633874162
   },
   "people": {
     "Anillc": {
@@ -233,16 +233,21 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.8.128/29",
+                "prefix": "10.127.18.32/27",
                 "maxLength": 29,
-                "netname": "Edward_P-Ezpro"
+                "netname": "Edward_P-Tunnel"
+              },
+              {
+                "prefix": "10.127.26.0/24",
+                "maxLength": 29,
+                "netname": "Edward_P-Home"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:2f2f::/48",
                 "maxLength": 64,
-                "netname": "Edward_P-Ezpro-V6"
+                "netname": "Edward_P-V6"
               }
             ]
           }
