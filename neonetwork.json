@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1632741779,
-    "valid": 1633951379
+    "generated": 1632742122,
+    "valid": 1633951722
   },
   "people": {
     "Anillc": {
@@ -682,12 +682,7 @@
               {
                 "prefix": "10.127.0.0/24",
                 "maxLength": 29,
-                "netname": "RESERVED"
-              },
-              {
-                "prefix": "10.127.1.0/24",
-                "maxLength": 29,
-                "netname": "MAIN"
+                "netname": "Neo_Chen LAN"
               },
               {
                 "prefix": "10.127.2.0/24",
