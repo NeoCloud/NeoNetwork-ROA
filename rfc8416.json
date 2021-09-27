@@ -213,9 +213,9 @@
       },
       {
         "asn": 4201270014,
-        "prefix": "10.127.23.0/29",
+        "prefix": "10.127.8.128/29",
         "maxPrefixLength": 29,
-        "comment": "leedagee"
+        "comment": "leedagee-local"
       },
       {
         "asn": 4201270016,
