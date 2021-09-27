@@ -11,6 +11,7 @@
 | James58899       |                              |                           |
 | JerryXiao        | neonet@mail.jerryxiao.cc     | JerryXiao                 |
 | Junde Yhi        | neonetwork@yhi.moe           | lmy441900                 |
+| KusakabeSi       | dn42@kskb.eu.org             | KusakabeSi                |
 | LINE-NZ          | dn42@line.co.nz              |                           |
 | Lan Tian         |                              |                           |
 | LibreHouse       | i+noc@outv.im                | outvi                     |
@@ -34,7 +35,6 @@
 | frank            |                              |                           |
 | iEdon            |                              |                           |
 | Icecat           | icecat@catio.network         | fakeicecat                |
-| kskb             | dn42@kskb.eu.org             | KusakabeSi                |
 | leedagee         | leedageea@gmail.com          | leedagee                  |
 | liangjw          | dn42@cas7.moe                | liangjw                   |
 | licson           | admin@licson.net             | licson                    |
@@ -84,7 +84,7 @@
 | NeoNetwork | AS4201270022 | lilydjwg      | lilydjwg                                                        |
 | NeoNetwork | AS4201270030 | Yux           | IWARP-NEO                                                       |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
-| NeoNetwork | AS4201271111 | kskb          | kskb                                                            |
+| NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201272526 | Anillc        | ANILLC-AS-NEO                                                   |
 | NeoNetwork | AS4201279999 | undefined-moe | Hydro-Neo-Network                                               |
@@ -147,7 +147,7 @@
 | AS4201270021 | PotatoNet         |
 | AS4201270030 | IWarp             |
 | AS4201270099 | TsingYao          |
-| AS4201271111 | KSKB-HK1          |
+| AS4201271111 | KSKB-NEO          |
 | AS4242420140 | dfceaef           |
 | AS4242420308 | VILLISEK          |
 | AS4242421037 | megumiLHS         |
@@ -268,8 +268,8 @@
 | AS4201270030 | IWARP-NEO-IP6-NETWORK                                              | subnet   | fd10:127:30::/48        |                   |
 | AS4201270099 | TSINTYAO-NEO-NET4                                                  | subnet   | 10.127.99.0/24          |                   |
 | AS4201270099 | TSINGYAO-NEO-NET6                                                  | subnet   | fd10:127:99::/48        |                   |
-| AS4201271111 | kskb                                                               | subnet   | 10.127.111.0/24         |                   |
-| AS4201271111 | kskb                                                               | subnet   | fd10:127:e00f::/48      |                   |
+| AS4201271111 | Kusakabe-Neo-IP4                                                   | subnet   | 10.127.111.0/24         |                   |
+| AS4201271111 | Kusakabe-Neo-IP6                                                   | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
 | AS4201272526 | Anillc NEO Network v4                                              | subnet   | 10.127.3.0/24           |                   |
 | AS4201272526 | Anillc NEO Network v6                                              | subnet   | fd10:127:ee::/48        |                   |

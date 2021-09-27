@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1632723654,
-    "valid": 1633933254
+    "generated": 1632741749,
+    "valid": 1633951349
   },
   "people": {
     "Anillc": {
@@ -426,6 +426,51 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "KusakabeSi": {
+      "info": {
+        "name": "KusakabeSi",
+        "babel": [
+          "zh",
+          "en-3"
+        ],
+        "contact": {
+          "email": "dn42@kskb.eu.org",
+          "irc": "kskb",
+          "telegram": "KusakabeSi",
+          "mastodon": "",
+          "github": "KusakabeSi"
+        },
+        "persona": {
+          "pgp": "716846E71E56F088BDF42E695A6761FECF4CAA65"
+        },
+        "nic_hdl": "KUSAKABESI"
+      },
+      "asns": [
+        {
+          "asn": 4201271111,
+          "owner": "KusakabeSi",
+          "name": "Kusakabe-Neo",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.111.0/24",
+                "maxLength": 29,
+                "netname": "Kusakabe-Neo-IP4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:e00f::/48",
+                "maxLength": 64,
+                "netname": "Kusakabe-Neo-IP6"
+              }
+            ]
           }
         }
       ]
@@ -1513,51 +1558,6 @@
                 "prefix": "fd10:127:233:1000::/64",
                 "maxLength": 64,
                 "netname": "icecat"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "kskb": {
-      "info": {
-        "name": "kskb",
-        "babel": [
-          "zh",
-          "en-3"
-        ],
-        "contact": {
-          "email": "dn42@kskb.eu.org",
-          "irc": "kskb",
-          "telegram": "KusakabeSi",
-          "mastodon": "",
-          "github": "KusakabeSi"
-        },
-        "persona": {
-          "pgp": "716846E71E56F088BDF42E695A6761FECF4CAA65"
-        },
-        "nic_hdl": "KSKB"
-      },
-      "asns": [
-        {
-          "asn": 4201271111,
-          "owner": "kskb",
-          "name": "kskb",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.111.0/24",
-                "maxLength": 29,
-                "netname": "kskb"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:e00f::/48",
-                "maxLength": 64,
-                "netname": "kskb"
               }
             ]
           }

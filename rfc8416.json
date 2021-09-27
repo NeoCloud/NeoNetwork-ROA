@@ -281,7 +281,7 @@
         "asn": 4201271111,
         "prefix": "10.127.111.0/24",
         "maxPrefixLength": 29,
-        "comment": "kskb"
+        "comment": "Kusakabe-Neo-IP4"
       },
       {
         "asn": 4201272526,
@@ -629,7 +629,7 @@
         "asn": 4201271111,
         "prefix": "fd10:127:e00f::/48",
         "maxPrefixLength": 64,
-        "comment": "kskb"
+        "comment": "Kusakabe-Neo-IP6"
       },
       {
         "asn": 4201271488,
