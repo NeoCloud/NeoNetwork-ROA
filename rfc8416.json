@@ -71,7 +71,13 @@
         "asn": 4201270000,
         "prefix": "10.127.0.0/24",
         "maxPrefixLength": 29,
-        "comment": "Neo_Chen LAN"
+        "comment": "RESERVED"
+      },
+      {
+        "asn": 4201270000,
+        "prefix": "10.127.1.0/24",
+        "maxPrefixLength": 29,
+        "comment": "MAIN"
       },
       {
         "asn": 4201270000,
