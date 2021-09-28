@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL    3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        45953770    ; Serial
+        45960216    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -43,6 +43,10 @@ $TTL    3600
 
 1.8            IN    PTR    librehs.neo.
 2.8            IN    PTR    blog.librehs.neo.
+
+1.26           IN    PTR    home.edwardp.neo.
+33.18          IN    PTR    home.edwardp.neo.
+34.18          IN    PTR    jpn.edwardp.neo.
 
 137.8          IN    PTR    lily.neo.
 
