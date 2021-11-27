@@ -26,6 +26,7 @@
 | TsingYao         | yujintong@126.com            | yujintong                 |
 | Clement VILLISEK | clement@villisek.fr          |                           |
 | Yangfl Network   |                              |                           |
+| Yitong Dang      | tomdang@naivetomcat.cn       | @naivetomcat              |
 | Yukari           | i@0x7f.cc                    | CharlesYang               |
 | Yura             | yurachan@etlgr.com           | @noc2464                  |
 | Yux Zhu          | me@yux.im                    | im_yux                    |
@@ -55,6 +56,7 @@
 | Internet   | AS140936     | SUNNET        | SUNNET                                                          |
 | Internet   | AS141706     | magicneko     | Koishi Network(=4201270005)                                     |
 | Internet   | AS141776     | Ren Baoshuo   | BAOSHUO-AS-AP                                                   |
+| Internet   | AS142280     | Yitong-Dang   | NTEREN-BACKBONE                                                 |
 | Internet   | AS207268     | Yukari        | Strategic Explorations (IX)                                     |
 | Internet   | AS209557     | SteveYi       | Yi-Network                                                      |
 | Internet   | AS211876     | David Liu     | FIXMIX-GEN                                                      |
@@ -111,6 +113,7 @@
 | ASN          | Name              |
 |--------------|-------------------|
 | AS140913     | magicneko         |
+| AS142280     | xiy_vm_host       |
 | AS207268     | IX42-LAS          |
 | AS213262     | Moe               |
 | AS4201270000 | caasih            |
@@ -202,6 +205,7 @@
 | AS141706     | MagicNeko-CN office VPN+IX Node(name:liqingge)                     | subnet   | fd10:127:233:1c3a::/64  | fd10:127:233::/48 |
 | AS141776     | BAOSHUO-NEO-V4-1                                                   | subnet   | 10.127.17.0/24          |                   |
 | AS141776     | BAOSHUO-NEO-V6-1                                                   | subnet   | fd10:127:17::/48        |                   |
+| AS142280     | nteren-backbone                                                    | subnet   | 10.127.128.0/24         |                   |
 | AS207268     | IX42-LAS-4                                                         | subnet   | 10.127.131.0/24         |                   |
 | AS207268     | IX42-LAS-6                                                         | subnet   | fd10:127:1300::/48      |                   |
 | AS211876     | POTATO-NEO-NET4-A                                                  | subnet   | 10.127.66.0/24          |                   |
@@ -345,6 +349,7 @@
 10.127.111.0/24
 10.127.124.0/29
 10.127.127.0/24
+10.127.128.0/24
 10.127.131.0/24
 10.127.132.0/24
 10.127.233.0/24
@@ -452,7 +457,7 @@ fd10:127:ffff:53::/64
 10.127.124.128/25
 10.127.125.0/24
 10.127.126.0/24
-10.127.128.0/23
+10.127.129.0/24
 10.127.130.0/24
 10.127.133.0/24
 10.127.134.0/23
@@ -789,5 +794,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 9388       | 56148      | 14.32%         | 85.68%         |
+| IPv4         | 65536      | 9644       | 55892      | 14.72%         | 85.28%         |
 | IPv6         | 7.9228e+28 | 3.2433e+25 | 7.9196e+28 | 0.04%          | 99.96%         |

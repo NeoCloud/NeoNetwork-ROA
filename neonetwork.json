@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1637562137,
-    "valid": 1638771737
+    "generated": 1637980835,
+    "valid": 1639190435
   },
   "people": {
     "Anillc": {
@@ -1168,6 +1168,43 @@
                 "prefix": "10.127.12.0/24",
                 "maxLength": 29,
                 "netname": "dfceaef NET"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "Yitong-Dang": {
+      "info": {
+        "name": "Yitong Dang",
+        "babel": [
+          "zh",
+          "en-4"
+        ],
+        "contact": {
+          "email": "tomdang@naivetomcat.cn",
+          "telegram": "@naivetomcat",
+          "github": "NaiveTomcat"
+        },
+        "persona": {
+          "pgp": "B5EB6EA969688B74853918EDEBA7269DA2D7E015"
+        },
+        "nic_hdl": "YITONG-DANG"
+      },
+      "asns": [
+        {
+          "asn": 142280,
+          "owner": "Yitong-Dang",
+          "name": "NTEREN-BACKBONE",
+          "source": "Internet",
+          "description": "NaiveTomcat Education and Research Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.128.0/24",
+                "maxLength": 29,
+                "netname": "nteren-backbone"
               }
             ],
             "ipv6": []

@@ -56,6 +56,12 @@
         "comment": "BAOSHUO-NEO-V4-1"
       },
       {
+        "asn": 142280,
+        "prefix": "10.127.128.0/24",
+        "maxPrefixLength": 29,
+        "comment": "nteren-backbone"
+      },
+      {
         "asn": 207268,
         "prefix": "10.127.131.0/24",
         "maxPrefixLength": 29,
