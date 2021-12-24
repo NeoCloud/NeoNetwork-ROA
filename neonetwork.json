@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1639981361,
-    "valid": 1641190961
+    "generated": 1640322265,
+    "valid": 1641531865
   },
   "people": {
     "Anillc": {
@@ -698,6 +698,11 @@
                 "prefix": "10.127.16.0/24",
                 "maxLength": 29,
                 "netname": "Neo_Chen ZeroTier-One Hub"
+              },
+              {
+                "prefix": "10.127.110.0/24",
+                "maxLength": 29,
+                "netname": "BS-Net"
               },
               {
                 "prefix": "10.127.255.4/32",
