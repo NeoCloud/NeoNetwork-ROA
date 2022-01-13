@@ -1,10 +1,15 @@
 {
   "metadata": {
-    "counts": 123,
-    "generated": 1641795798,
-    "valid": 1643005398
+    "counts": 125,
+    "generated": 1642091983,
+    "valid": 1643301583
   },
   "roas": [
+    {
+      "asn": "AS7721",
+      "prefix": "10.127.11.0/24",
+      "maxLength": 29
+    },
     {
       "asn": "AS17830",
       "prefix": "10.127.66.0/24",
@@ -349,6 +354,11 @@
       "asn": "AS4242423699",
       "prefix": "10.127.99.0/24",
       "maxLength": 29
+    },
+    {
+      "asn": "AS7721",
+      "prefix": "fd10:127:ee11::/48",
+      "maxLength": 64
     },
     {
       "asn": "AS17830",

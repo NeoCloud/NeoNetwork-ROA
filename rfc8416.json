@@ -8,6 +8,12 @@
     "bgpsecAssertions": [],
     "prefixAssertions": [
       {
+        "asn": 7721,
+        "prefix": "10.127.11.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SUNNET"
+      },
+      {
         "asn": 17830,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
@@ -420,6 +426,12 @@
         "prefix": "10.127.99.0/24",
         "maxPrefixLength": 29,
         "comment": "TSINTYAO-NEO-NET4"
+      },
+      {
+        "asn": 7721,
+        "prefix": "fd10:127:ee11::/48",
+        "maxPrefixLength": 64,
+        "comment": "SUNNET"
       },
       {
         "asn": 17830,
