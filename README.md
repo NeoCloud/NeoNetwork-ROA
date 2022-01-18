@@ -89,7 +89,6 @@
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
-| NeoNetwork | AS4201272526 | Anillc        | ANILLC-AS-NEO                                                   |
 | NeoNetwork | AS4201279999 | undefined-moe | Hydro-Neo-Network                                               |
 | DN42       | AS4242420140 | Yangfl        | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo   | BAOSHUO-AS-DN42                                                 |
@@ -279,8 +278,6 @@
 | AS4201271111 | Kusakabe-Neo-IP4                                                   | subnet   | 10.127.111.0/24         |                   |
 | AS4201271111 | Kusakabe-Neo-IP6                                                   | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
-| AS4201272526 | Anillc NEO Network v4                                              | subnet   | 10.127.3.0/24           |                   |
-| AS4201272526 | Anillc NEO Network v6                                              | subnet   | fd10:127:ee::/48        |                   |
 | AS4201279999 | Hydro-Neo-Network-4                                                | subnet   | 10.127.88.0/24          |                   |
 | AS4201279999 | Hydro-Neo-Network-6                                                | subnet   | fd10:127:88::/48        |                   |
 | AS4242420140 | dfceaef NET                                                        | subnet   | 10.127.12.0/24          |                   |
@@ -307,7 +304,9 @@
 | AS4242422464 | anycast-recur-4                                                    | loopback | 10.127.255.54/32        |                   |
 | AS4242422464 | anycast-recur-6                                                    | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
 | AS4242422526 | Anillc Network v4                                                  | subnet   | 10.127.20.0/24          |                   |
+| AS4242422526 | Anillc NEO Network v4                                              | subnet   | 10.127.3.0/24           |                   |
 | AS4242422526 | Anillc Network v6                                                  | subnet   | fd10:127:cc::/48        |                   |
+| AS4242422526 | Anillc NEO Network v6                                              | subnet   | fd10:127:ee::/48        |                   |
 | AS4242423088 | SUNNET                                                             | subnet   | 10.127.11.0/24          |                   |
 | AS4242423088 | SUNNET                                                             | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                                                     | loopback | 10.127.255.53/32        |                   |
