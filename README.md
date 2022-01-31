@@ -168,23 +168,23 @@
 |     JerryXiao | JerryXiao-SH1 |
 |     JerryXiao | LanTian       |
 |     JerryXiao | dfceaef       |
-|     NeoPDP-11 | NeoVAX        |
-| JerryXiao-SH1 | JerryXiao-HK1 |
-|     NeoSystem | NeoVAX        |
-| Ndoskrnl-US01 | Ndoskrnl-CN01 |
 |        caasih | NeoPDP-11     |
 |        caasih | staph         |
+| JerryXiao-SH1 | JerryXiao-HK1 |
+| Ndoskrnl-US01 | Ndoskrnl-CN01 |
+| JerryXiao-HK1 | JerryXiao-HK2 |
+|     NeoSystem | NeoVAX        |
+|        cklvax | NeoSystem     |
 |           pan | NeoPDP-11     |
 |           pan | NeoSystem     |
 |           pan | NeoVAX        |
-|         staph | septs         |
-|        cklvax | NeoSystem     |
-| JerryXiao-HK1 | JerryXiao-HK2 |
 |         septs | James58899    |
 |         septs | JerryXiao     |
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
+|     NeoPDP-11 | NeoVAX        |
+|         staph | septs         |
 
 ## Route table
 
