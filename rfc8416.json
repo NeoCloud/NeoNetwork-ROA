@@ -296,6 +296,12 @@
         "comment": "TSINTYAO-NEO-NET4"
       },
       {
+        "asn": 4201270458,
+        "prefix": "10.127.45.0/24",
+        "maxPrefixLength": 29,
+        "comment": "HuajiTech-Network Interconnectivity"
+      },
+      {
         "asn": 4201271111,
         "prefix": "10.127.111.0/24",
         "maxPrefixLength": 29,
@@ -648,6 +654,12 @@
         "prefix": "fd10:127:99::/48",
         "maxPrefixLength": 64,
         "comment": "TSINGYAO-NEO-NET6"
+      },
+      {
+        "asn": 4201270458,
+        "prefix": "fd10:127:45::/48",
+        "maxPrefixLength": 64,
+        "comment": "HuajiTech-Network Interconnectivity"
       },
       {
         "asn": 4201271111,

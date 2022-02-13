@@ -34,6 +34,7 @@
 | caxap            | yrdw@protonmail.com          |                           |
 | chenx97          | chenx97@gmail.com            |                           |
 | frank            |                              |                           |
+| funnysyc         | yc.s@outlook.com             | funnysyc                  |
 | iEdon            |                              |                           |
 | Icecat           | icecat@catio.network         | fakeicecat                |
 | leedagee         | leedageea@gmail.com          | leedagee                  |
@@ -87,6 +88,7 @@
 | NeoNetwork | AS4201270022 | lilydjwg      | lilydjwg                                                        |
 | NeoNetwork | AS4201270030 | Yux           | IWARP-NEO                                                       |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
+| NeoNetwork | AS4201270458 | funnysyc      | HuajiTech-Network                                               |
 | NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201279999 | undefined-moe | Hydro-Neo-Network                                               |
@@ -275,6 +277,8 @@
 | AS4201270030 | IWARP-NEO-IP6-NETWORK                                              | subnet   | fd10:127:30::/48        |                   |
 | AS4201270099 | TSINTYAO-NEO-NET4                                                  | subnet   | 10.127.99.0/24          |                   |
 | AS4201270099 | TSINGYAO-NEO-NET6                                                  | subnet   | fd10:127:99::/48        |                   |
+| AS4201270458 | HuajiTech-Network Interconnectivity                                | subnet   | 10.127.45.0/24          |                   |
+| AS4201270458 | HuajiTech-Network Interconnectivity                                | subnet   | fd10:127:45::/48        |                   |
 | AS4201271111 | Kusakabe-Neo-IP4                                                   | subnet   | 10.127.111.0/24         |                   |
 | AS4201271111 | Kusakabe-Neo-IP6                                                   | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                                                               | subnet   | fd10:127:1488::/48      |                   |
@@ -343,6 +347,7 @@
 10.127.38.32/27
 10.127.39.0/27
 10.127.41.0/24
+10.127.45.0/24
 10.127.56.0/24
 10.127.64.0/24
 10.127.66.0/24
@@ -375,6 +380,7 @@ fd10:127:17::/48
 fd10:127:23::/48
 fd10:127:30::/48
 fd10:127:41::/48
+fd10:127:45::/48
 fd10:127:53::/48
 fd10:127:64::/48
 fd10:127:88::/48
@@ -432,7 +438,8 @@ fd10:127:ffff:53::/64
 10.127.39.128/25
 10.127.40.0/24
 10.127.42.0/23
-10.127.44.0/22
+10.127.44.0/24
+10.127.46.0/23
 10.127.48.0/21
 10.127.57.0/24
 10.127.58.0/23
@@ -532,7 +539,8 @@ fd10:127:34::/46
 fd10:127:38::/45
 fd10:127:40::/48
 fd10:127:42::/47
-fd10:127:44::/46
+fd10:127:44::/48
+fd10:127:46::/47
 fd10:127:48::/45
 fd10:127:50::/47
 fd10:127:52::/48
@@ -796,5 +804,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 9900       | 55636      | 15.11%         | 84.89%         |
-| IPv6         | 7.9228e+28 | 3.2433e+25 | 7.9196e+28 | 0.04%          | 99.96%         |
+| IPv4         | 65536      | 10156      | 55380      | 15.50%         | 84.50%         |
+| IPv6         | 7.9228e+28 | 3.3642e+25 | 7.9195e+28 | 0.04%          | 99.96%         |
