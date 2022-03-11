@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1646733814,
-    "valid": 1647943414
+    "generated": 1646977155,
+    "valid": 1648186755
   },
   "people": {
     "186526": {
@@ -1881,12 +1881,32 @@
               {
                 "prefix": "10.127.4.0/24",
                 "maxLength": 29,
-                "netname": "MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)"
+                "netname": "MagicNeko-Asia Backbone node"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:233::/48",
+                "maxLength": 64,
+                "netname": "Magicneko Asia address occupied"
+              },
+              {
+                "prefix": "fd10:127:234::/48",
+                "maxLength": 64,
+                "netname": "Magicneko Asia address occupied"
+              },
+              {
+                "prefix": "fd10:127:235::/48",
+                "maxLength": 64,
+                "netname": "Magicneko Asia address occupied"
+              },
+              {
+                "prefix": "fd10:127:236::/48",
+                "maxLength": 64,
+                "netname": "Magicneko Asia address occupied"
+              },
+              {
+                "prefix": "fd10:127:237::/48",
                 "maxLength": 64,
                 "netname": "Magicneko Asia address occupied"
               }
@@ -1904,24 +1924,34 @@
               {
                 "prefix": "10.127.233.0/24",
                 "maxLength": 29,
-                "netname": "MagicNeko-CN office node(name:liqingge)"
+                "netname": "MagicNeko-CN office node"
               },
               {
                 "prefix": "10.127.234.0/24",
                 "maxLength": 29,
-                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+                "netname": "MagicNeko-CN office VPN+IX Node"
               }
             ],
             "ipv6": [
               {
-                "prefix": "fd10:127:233:1c3c::/64",
+                "prefix": "fd10:127:238::/48",
                 "maxLength": 64,
-                "netname": "MagicNeko-CN office node(name:liqingge)"
+                "netname": "Home-magicneko"
               },
               {
-                "prefix": "fd10:127:233:1c3a::/64",
+                "prefix": "fd10:127:239::/48",
                 "maxLength": 64,
-                "netname": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+                "netname": "Home-icecat"
+              },
+              {
+                "prefix": "fd10:127:23a::/48",
+                "maxLength": 64,
+                "netname": "Catstar-VPN"
+              },
+              {
+                "prefix": "fd10:127:23b::/48",
+                "maxLength": 64,
+                "netname": "Catstar-IX"
               }
             ]
           }
@@ -2084,20 +2114,20 @@
       ]
     },
     {
-      "zone": "127.10.in-addr.arpa.",
-      "records": [
-        {
-          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
-          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
-        }
-      ]
-    },
-    {
       "zone": "neo.",
       "records": [
         {
           "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
           "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
+        }
+      ]
+    },
+    {
+      "zone": "127.10.in-addr.arpa.",
+      "records": [
+        {
+          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
+          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
         }
       ]
     }

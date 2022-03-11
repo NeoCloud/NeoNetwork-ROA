@@ -35,7 +35,7 @@
         "asn": 140913,
         "prefix": "10.127.4.0/24",
         "maxPrefixLength": 29,
-        "comment": "MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)"
+        "comment": "MagicNeko-Asia Backbone node"
       },
       {
         "asn": 140936,
@@ -47,13 +47,13 @@
         "asn": 141706,
         "prefix": "10.127.233.0/24",
         "maxPrefixLength": 29,
-        "comment": "MagicNeko-CN office node(name:liqingge)"
+        "comment": "MagicNeko-CN office node"
       },
       {
         "asn": 141706,
         "prefix": "10.127.234.0/24",
         "maxPrefixLength": 29,
-        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+        "comment": "MagicNeko-CN office VPN+IX Node"
       },
       {
         "asn": 141776,
@@ -464,6 +464,30 @@
         "comment": "Magicneko Asia address occupied"
       },
       {
+        "asn": 140913,
+        "prefix": "fd10:127:234::/48",
+        "maxPrefixLength": 64,
+        "comment": "Magicneko Asia address occupied"
+      },
+      {
+        "asn": 140913,
+        "prefix": "fd10:127:235::/48",
+        "maxPrefixLength": 64,
+        "comment": "Magicneko Asia address occupied"
+      },
+      {
+        "asn": 140913,
+        "prefix": "fd10:127:236::/48",
+        "maxPrefixLength": 64,
+        "comment": "Magicneko Asia address occupied"
+      },
+      {
+        "asn": 140913,
+        "prefix": "fd10:127:237::/48",
+        "maxPrefixLength": 64,
+        "comment": "Magicneko Asia address occupied"
+      },
+      {
         "asn": 140936,
         "prefix": "fd10:127:ee11::/48",
         "maxPrefixLength": 64,
@@ -471,15 +495,27 @@
       },
       {
         "asn": 141706,
-        "prefix": "fd10:127:233:1c3c::/64",
+        "prefix": "fd10:127:238::/48",
         "maxPrefixLength": 64,
-        "comment": "MagicNeko-CN office node(name:liqingge)"
+        "comment": "Home-magicneko"
       },
       {
         "asn": 141706,
-        "prefix": "fd10:127:233:1c3a::/64",
+        "prefix": "fd10:127:239::/48",
         "maxPrefixLength": 64,
-        "comment": "MagicNeko-CN office VPN+IX Node(name:liqingge)"
+        "comment": "Home-icecat"
+      },
+      {
+        "asn": 141706,
+        "prefix": "fd10:127:23a::/48",
+        "maxPrefixLength": 64,
+        "comment": "Catstar-VPN"
+      },
+      {
+        "asn": 141706,
+        "prefix": "fd10:127:23b::/48",
+        "maxPrefixLength": 64,
+        "comment": "Catstar-IX"
       },
       {
         "asn": 141776,
