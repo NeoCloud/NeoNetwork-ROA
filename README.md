@@ -121,12 +121,12 @@
 | AS207268     | IX42-LAS          |
 | AS213262     | Moe               |
 | AS4201270000 | cklvax            |
-| AS4201270000 | caasih            |
 | AS4201270000 | NeoPDP-11         |
 | AS4201270000 | NeoSystem         |
 | AS4201270000 | pan               |
 | AS4201270000 | NeoRouter         |
 | AS4201270000 | NeoVAX            |
+| AS4201270000 | caasih            |
 | AS4201270001 | septs             |
 | AS4201270003 | chenx97           |
 | AS4201270004 | frank-hsinchu     |
@@ -168,27 +168,27 @@
 
 |      Upstream | Downstream    |
 |---------------|---------------|
-|           pan | NeoPDP-11     |
-|           pan | NeoSystem     |
-|           pan | NeoVAX        |
 |         septs | James58899    |
 |         septs | JerryXiao     |
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
+|     NeoPDP-11 | NeoVAX        |
 |        cklvax | NeoSystem     |
+| Ndoskrnl-US01 | Ndoskrnl-CN01 |
+| JerryXiao-HK1 | JerryXiao-HK2 |
+|           pan | NeoPDP-11     |
+|           pan | NeoSystem     |
+|           pan | NeoVAX        |
+| JerryXiao-SH1 | JerryXiao-HK1 |
+|     NeoSystem | NeoVAX        |
+|        caasih | NeoPDP-11     |
+|        caasih | staph         |
 |     JerryXiao | JerryXiao-HK1 |
 |     JerryXiao | JerryXiao-SH1 |
 |     JerryXiao | LanTian       |
 |     JerryXiao | dfceaef       |
-| JerryXiao-SH1 | JerryXiao-HK1 |
 |         staph | septs         |
-|     NeoSystem | NeoVAX        |
-| JerryXiao-HK1 | JerryXiao-HK2 |
-|        caasih | NeoPDP-11     |
-|        caasih | staph         |
-|     NeoPDP-11 | NeoVAX        |
-| Ndoskrnl-US01 | Ndoskrnl-CN01 |
 
 ## Route table
 
