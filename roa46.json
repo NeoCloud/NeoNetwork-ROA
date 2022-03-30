@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "counts": 135,
-    "generated": 1648448636,
-    "valid": 1649658236
+    "counts": 134,
+    "generated": 1648606626,
+    "valid": 1649816226
   },
   "roas": [
     {
@@ -37,12 +37,7 @@
     },
     {
       "asn": "AS141706",
-      "prefix": "10.127.233.0/24",
-      "maxLength": 29
-    },
-    {
-      "asn": "AS141706",
-      "prefix": "10.127.234.0/24",
+      "prefix": "10.127.232.0/22",
       "maxLength": 29
     },
     {

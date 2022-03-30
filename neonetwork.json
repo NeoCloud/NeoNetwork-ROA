@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1648448636,
-    "valid": 1649658236
+    "generated": 1648606627,
+    "valid": 1649816227
   },
   "people": {
     "186526": {
@@ -1922,14 +1922,9 @@
           "routes": {
             "ipv4": [
               {
-                "prefix": "10.127.233.0/24",
+                "prefix": "10.127.232.0/22",
                 "maxLength": 29,
                 "netname": "MagicNeko-CN office node"
-              },
-              {
-                "prefix": "10.127.234.0/24",
-                "maxLength": 29,
-                "netname": "MagicNeko-CN office VPN+IX Node"
               }
             ],
             "ipv6": [

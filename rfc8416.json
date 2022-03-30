@@ -45,15 +45,9 @@
       },
       {
         "asn": 141706,
-        "prefix": "10.127.233.0/24",
+        "prefix": "10.127.232.0/22",
         "maxPrefixLength": 29,
         "comment": "MagicNeko-CN office node"
-      },
-      {
-        "asn": 141706,
-        "prefix": "10.127.234.0/24",
-        "maxPrefixLength": 29,
-        "comment": "MagicNeko-CN office VPN+IX Node"
       },
       {
         "asn": 141776,
