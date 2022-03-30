@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1648606627,
-    "valid": 1649816227
+    "generated": 1648606782,
+    "valid": 1649816382
   },
   "people": {
     "186526": {
@@ -1971,41 +1971,6 @@
           "routes": {
             "ipv4": [],
             "ipv6": []
-          }
-        }
-      ]
-    },
-    "santost12": {
-      "info": {
-        "name": "Tyler",
-        "contact": {
-          "telegram": "santost12",
-          "github": "santost12"
-        },
-        "nic_hdl": "TYLER"
-      },
-      "asns": [
-        {
-          "asn": 4201270009,
-          "owner": "santost12",
-          "name": "santost12",
-          "source": "NeoNetwork",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.39.0/27",
-                "maxLength": 29,
-                "netname": "santost12"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ec39::/48",
-                "maxLength": 64,
-                "netname": "santost12"
-              }
-            ]
           }
         }
       ]

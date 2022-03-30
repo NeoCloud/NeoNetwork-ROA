@@ -43,7 +43,6 @@
 | licson           | admin@licson.net             | licson                    |
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
-| Tyler            |                              | santost12                 |
 | septs            | bgp@septs.email              | septs                     |
 | undefined-moe    | i@undefined.moe              | webpack_exports_undefined |
 
@@ -73,7 +72,6 @@
 | NeoNetwork | AS4201270006 | JerryXiao     | Jerry Network                                                   |
 | NeoNetwork | AS4201270007 | Staph         | Staph                                                           |
 | NeoNetwork | AS4201270008 | magicneko     | MagicNeko ASIA (=140913)                                        |
-| NeoNetwork | AS4201270009 | santost12     | santost12                                                       |
 | NeoNetwork | AS4201270010 | Lan Tian      | Lan Tian                                                        |
 | NeoNetwork | AS4201270011 | LINE-NZ       | LINE-NZ                                                         |
 | NeoNetwork | AS4201270012 | Junde Yhi     | Yhi Interconnection                                             |
@@ -114,55 +112,54 @@
 
 ## Node table
 
-| ASN          | Name              |
-|--------------|-------------------|
-| AS140913     | magicneko         |
-| AS142280     | xiy_vm_host       |
-| AS207268     | IX42-LAS          |
-| AS213262     | Moe               |
-| AS4201270000 | cklvax            |
-| AS4201270000 | NeoPDP-11         |
-| AS4201270000 | NeoSystem         |
-| AS4201270000 | pan               |
-| AS4201270000 | NeoRouter         |
-| AS4201270000 | NeoVAX            |
-| AS4201270000 | caasih            |
-| AS4201270001 | septs             |
-| AS4201270003 | chenx97           |
-| AS4201270004 | frank-hsinchu     |
-| AS4201270006 | JerryXiao         |
-| AS4201270006 | JerryXiao-SH1     |
-| AS4201270006 | JerryXiao-HK1     |
-| AS4201270006 | JerryXiao-HK2     |
-| AS4201270007 | staph             |
-| AS4201270009 | santost12-Network |
-| AS4201270010 | LanTian           |
-| AS4201270011 | LINE-NZ-NZ01      |
-| AS4201270011 | LINE-NZ-AU01      |
-| AS4201270012 | yhi-h             |
-| AS4201270012 | yhi-s             |
-| AS4201270013 | Ndoskrnl-US01     |
-| AS4201270013 | Ndoskrnl-CN01     |
-| AS4201270014 | leedagee          |
-| AS4201270015 | James58899        |
-| AS4201270016 | liangjw           |
-| AS4201270018 | caxap-SH          |
-| AS4201270019 | Cupkappu-HK1      |
-| AS4201270019 | Cupkappu-JP       |
-| AS4201270019 | Cupkappu-HK2      |
-| AS4201270020 | Edward_P          |
-| AS4201270021 | PotatoNet         |
-| AS4201270030 | IWarp             |
-| AS4201270099 | TsingYao          |
-| AS4201271111 | KSKB-NEO          |
-| AS4242420140 | dfceaef           |
-| AS4242420308 | VILLISEK          |
-| AS4242421037 | megumiLHS         |
-| AS4242421331 | NIA-NET           |
-| AS4242421332 | NIACN-NET         |
-| AS4242422189 | iEdon             |
-| AS4242422464 | Yura              |
-| AS4242423088 | SUNNET            |
+| ASN          | Name          |
+|--------------|---------------|
+| AS140913     | magicneko     |
+| AS142280     | xiy_vm_host   |
+| AS207268     | IX42-LAS      |
+| AS213262     | Moe           |
+| AS4201270000 | cklvax        |
+| AS4201270000 | NeoPDP-11     |
+| AS4201270000 | NeoSystem     |
+| AS4201270000 | pan           |
+| AS4201270000 | NeoRouter     |
+| AS4201270000 | NeoVAX        |
+| AS4201270000 | caasih        |
+| AS4201270001 | septs         |
+| AS4201270003 | chenx97       |
+| AS4201270004 | frank-hsinchu |
+| AS4201270006 | JerryXiao     |
+| AS4201270006 | JerryXiao-SH1 |
+| AS4201270006 | JerryXiao-HK1 |
+| AS4201270006 | JerryXiao-HK2 |
+| AS4201270007 | staph         |
+| AS4201270010 | LanTian       |
+| AS4201270011 | LINE-NZ-NZ01  |
+| AS4201270011 | LINE-NZ-AU01  |
+| AS4201270012 | yhi-h         |
+| AS4201270012 | yhi-s         |
+| AS4201270013 | Ndoskrnl-US01 |
+| AS4201270013 | Ndoskrnl-CN01 |
+| AS4201270014 | leedagee      |
+| AS4201270015 | James58899    |
+| AS4201270016 | liangjw       |
+| AS4201270018 | caxap-SH      |
+| AS4201270019 | Cupkappu-HK1  |
+| AS4201270019 | Cupkappu-JP   |
+| AS4201270019 | Cupkappu-HK2  |
+| AS4201270020 | Edward_P      |
+| AS4201270021 | PotatoNet     |
+| AS4201270030 | IWarp         |
+| AS4201270099 | TsingYao      |
+| AS4201271111 | KSKB-NEO      |
+| AS4242420140 | dfceaef       |
+| AS4242420308 | VILLISEK      |
+| AS4242421037 | megumiLHS     |
+| AS4242421331 | NIA-NET       |
+| AS4242421332 | NIACN-NET     |
+| AS4242422189 | iEdon         |
+| AS4242422464 | Yura          |
+| AS4242423088 | SUNNET        |
 
 ## Peer table
 
@@ -254,8 +251,6 @@
 | AS4201270007 | StaphReserve_3                      | subnet   | fd10:127:7:8000::/50    |                   |
 | AS4201270007 | StaphReserve_4                      | subnet   | fd10:127:7:c000::/51    |                   |
 | AS4201270007 | StaphPeer                           | subnet   | fd10:127:7:ffff::/64    |                   |
-| AS4201270009 | santost12                           | subnet   | 10.127.39.0/27          |                   |
-| AS4201270009 | santost12                           | subnet   | fd10:127:ec39::/48      |                   |
 | AS4201270010 | Lan Tian LAN                        | subnet   | 10.127.10.0/24          |                   |
 | AS4201270010 | Lan Tian LAN6                       | subnet   | fd10:127:10::/48        |                   |
 | AS4201270011 | LINE-NZ                             | subnet   | 10.127.22.0/29          |                   |
@@ -354,7 +349,6 @@
 10.127.26.0/24
 10.127.30.0/24
 10.127.38.32/27
-10.127.39.0/27
 10.127.41.0/24
 10.127.45.0/24
 10.127.56.0/24
@@ -413,7 +407,6 @@ fd10:127:6324::/48
 fd10:127:aa66::/48
 fd10:127:ba7e::/48
 fd10:127:e00f::/48
-fd10:127:ec39::/48
 fd10:127:ee11::/48
 fd10:127:ffff:53::/64
 ```
@@ -445,9 +438,7 @@ fd10:127:ffff:53::/64
 10.127.38.0/27
 10.127.38.64/26
 10.127.38.128/25
-10.127.39.32/27
-10.127.39.64/26
-10.127.39.128/25
+10.127.39.0/24
 10.127.40.0/24
 10.127.42.0/23
 10.127.44.0/24
@@ -770,15 +761,7 @@ fd10:127:e100::/40
 fd10:127:e200::/39
 fd10:127:e400::/38
 fd10:127:e800::/38
-fd10:127:ec00::/43
-fd10:127:ec20::/44
-fd10:127:ec30::/45
-fd10:127:ec38::/48
-fd10:127:ec3a::/47
-fd10:127:ec3c::/46
-fd10:127:ec40::/42
-fd10:127:ec80::/41
-fd10:127:ed00::/40
+fd10:127:ec00::/39
 fd10:127:ee00::/44
 fd10:127:ee10::/48
 fd10:127:ee12::/47
@@ -823,5 +806,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 10924      | 54612      | 16.67%         | 83.33%         |
-| IPv6         | 7.9228e+28 | 4.4523e+25 | 7.9184e+28 | 0.06%          | 99.94%         |
+| IPv4         | 65536      | 10892      | 54644      | 16.62%         | 83.38%         |
+| IPv6         | 7.9228e+28 | 4.3314e+25 | 7.9185e+28 | 0.05%          | 99.95%         |
