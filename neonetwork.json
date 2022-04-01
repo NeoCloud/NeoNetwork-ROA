@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1648739845,
-    "valid": 1649949445
+    "generated": 1648782814,
+    "valid": 1649992414
   },
   "people": {
     "186526": {
@@ -607,6 +607,48 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "Lily": {
+      "info": {
+        "name": "Lilybouquet",
+        "babel": [
+          "zh",
+          "en-3"
+        ],
+        "contact": {
+          "email": "lilybouquet@lilynet.work",
+          "telegram": "Lilybouquet"
+        },
+        "persona": {
+          "pgp": "B11F5BE9989BEE9A6A1E81F730291293322B1B8E"
+        },
+        "nic_hdl": "LILYBOUQUET"
+      },
+      "asns": [
+        {
+          "asn": 4201271877,
+          "owner": "Lily",
+          "name": "Lily_Network",
+          "source": "NeoNetwork",
+          "description": "Lily Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.180.0/24",
+                "maxLength": 29,
+                "netname": "LilyNetwork-Neo-IP4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1877::/48",
+                "maxLength": 64,
+                "netname": "LilyNetwork-Neo-IP6"
+              }
+            ]
           }
         }
       ]
