@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1650263077,
-    "valid": 1651472677
+    "generated": 1650786653,
+    "valid": 1651996253
   },
   "people": {
     "186526": {
@@ -41,54 +41,6 @@
                 "prefix": "fd10:127:186::/48",
                 "maxLength": 64,
                 "netname": "186526-block-v6"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Anillc": {
-      "info": {
-        "name": "Anillc",
-        "contact": {
-          "email": "noc@anillc.cn",
-          "github": "Anillc"
-        },
-        "persona": {
-          "pgp": "BB47FA42A55975F74AE19EF8918F98A096F9533C"
-        },
-        "nic_hdl": "ANILLC"
-      },
-      "asns": [
-        {
-          "asn": 4242422526,
-          "owner": "Anillc",
-          "name": "ANILLC-AS",
-          "source": "DN42",
-          "description": "Anillc Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.20.0/24",
-                "maxLength": 29,
-                "netname": "Anillc Network v4"
-              },
-              {
-                "prefix": "10.127.3.0/24",
-                "maxLength": 29,
-                "netname": "Anillc NEO Network v4"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:cc::/48",
-                "maxLength": 64,
-                "netname": "Anillc Network v6"
-              },
-              {
-                "prefix": "fd10:127:ee::/48",
-                "maxLength": 64,
-                "netname": "Anillc NEO Network v6"
               }
             ]
           }

@@ -398,18 +398,6 @@
         "comment": "anycast-recur-4"
       },
       {
-        "asn": 4242422526,
-        "prefix": "10.127.20.0/24",
-        "maxPrefixLength": 29,
-        "comment": "Anillc Network v4"
-      },
-      {
-        "asn": 4242422526,
-        "prefix": "10.127.3.0/24",
-        "maxPrefixLength": 29,
-        "comment": "Anillc NEO Network v4"
-      },
-      {
         "asn": 4242423088,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,
@@ -774,18 +762,6 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
-      },
-      {
-        "asn": 4242422526,
-        "prefix": "fd10:127:cc::/48",
-        "maxPrefixLength": 64,
-        "comment": "Anillc Network v6"
-      },
-      {
-        "asn": 4242422526,
-        "prefix": "fd10:127:ee::/48",
-        "maxPrefixLength": 64,
-        "comment": "Anillc NEO Network v6"
       },
       {
         "asn": 4242423088,
