@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1650867946,
-    "valid": 1652077546
+    "generated": 1651419674,
+    "valid": 1652629274
   },
   "people": {
     "186526": {
@@ -230,6 +230,45 @@
                 "prefix": "fd10:127:2f2f::/48",
                 "maxLength": 64,
                 "netname": "Edward_P-V6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Hanako": {
+      "info": {
+        "name": "Hanako",
+        "contact": {
+          "email": "hanako_ko@outlook.jp",
+          "telegram": "koizumi_k",
+          "github": "hanakokoizumi"
+        },
+        "persona": {
+          "pgp": "01852E0786EA31525651925075AEC845FF3BD945"
+        },
+        "nic_hdl": "HANAKO"
+      },
+      "asns": [
+        {
+          "asn": 4201270080,
+          "owner": "Hanako",
+          "name": "HANAKO-NETWORK",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.80.0/24",
+                "maxLength": 29,
+                "netname": "Hanako-Network-Neo-1-v4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:80::/48",
+                "maxLength": 64,
+                "netname": "Hanako-Network-Neo-1-v6"
               }
             ]
           }
@@ -2059,11 +2098,11 @@
   },
   "dnssec": [
     {
-      "zone": "127.10.in-addr.arpa.",
+      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
       "records": [
         {
-          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
-          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
+          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
+          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
         }
       ]
     },
@@ -2077,11 +2116,11 @@
       ]
     },
     {
-      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
+      "zone": "127.10.in-addr.arpa.",
       "records": [
         {
-          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
-          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
+          "dnskey": "257 3 13 QVgt1c+OlL9X9jrnD39njabYFCi2eEYjLI5AvpXT6HWAF1BbAOfNm/56 4OeU03oDcCgQ6zNQMV0FNPvrk53K0w==",
+          "ds": "22312 13 2 16859deddc7966541b4507d4612b00ea6fb95b2773e51d4bcc201e16f6178b0f"
         }
       ]
     }

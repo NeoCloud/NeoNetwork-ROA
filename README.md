@@ -8,6 +8,7 @@
 | Cupkappu         | cup@kust.ga                  | kifuc                     |
 | David Liu        | david@fixmix.tech            | p0tat05                   |
 | Edward_P         | edward@edward-p.xyz          | @Edward_P                 |
+| Hanako           | hanako_ko@outlook.jp         | koizumi_k                 |
 | James58899       |                              |                           |
 | JerryXiao        | neonet@mail.jerryxiao.cc     | JerryXiao                 |
 | Junde Yhi        | neonetwork@yhi.moe           | lmy441900                 |
@@ -86,6 +87,7 @@
 | NeoNetwork | AS4201270021 | David Liu     | POTATO-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg      | lilydjwg                                                        |
 | NeoNetwork | AS4201270030 | Yux           | IWARP-NEO                                                       |
+| NeoNetwork | AS4201270080 | Hanako        | HANAKO-NETWORK                                                  |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
 | NeoNetwork | AS4201270458 | funnysyc      | HuajiTech-Network                                               |
@@ -118,8 +120,8 @@
 | AS142280     | xiy_vm_host   |
 | AS207268     | IX42-LAS      |
 | AS213262     | Moe           |
-| AS4201270000 | caasih        |
 | AS4201270000 | cklvax        |
+| AS4201270000 | caasih        |
 | AS4201270000 | NeoPDP-11     |
 | AS4201270000 | NeoSystem     |
 | AS4201270000 | pan           |
@@ -150,6 +152,7 @@
 | AS4201270020 | Edward_P      |
 | AS4201270021 | PotatoNet     |
 | AS4201270030 | IWarp         |
+| AS4201270080 | Hanako        |
 | AS4201270099 | TsingYao      |
 | AS4201271111 | KSKB-NEO      |
 | AS4201271877 | Lily_Network  |
@@ -166,27 +169,27 @@
 
 |      Upstream | Downstream    |
 |---------------|---------------|
-|     NeoPDP-11 | NeoVAX        |
+| JerryXiao-SH1 | JerryXiao-HK1 |
+|        cklvax | NeoSystem     |
 | JerryXiao-HK1 | JerryXiao-HK2 |
+|        caasih | NeoPDP-11     |
+|        caasih | staph         |
+| Ndoskrnl-US01 | Ndoskrnl-CN01 |
+|           pan | NeoPDP-11     |
+|           pan | NeoSystem     |
+|           pan | NeoVAX        |
 |         septs | James58899    |
 |         septs | JerryXiao     |
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
+|     NeoPDP-11 | NeoVAX        |
+|         staph | septs         |
 |     NeoSystem | NeoVAX        |
-| Ndoskrnl-US01 | Ndoskrnl-CN01 |
-|           pan | NeoPDP-11     |
-|           pan | NeoSystem     |
-|           pan | NeoVAX        |
-|        caasih | NeoPDP-11     |
-|        caasih | staph         |
 |     JerryXiao | JerryXiao-HK1 |
 |     JerryXiao | JerryXiao-SH1 |
 |     JerryXiao | LanTian       |
 |     JerryXiao | dfceaef       |
-| JerryXiao-SH1 | JerryXiao-HK1 |
-|        cklvax | NeoSystem     |
-|         staph | septs         |
 
 ## Route table
 
@@ -278,6 +281,8 @@
 | AS4201270022 | lilydjwg                            | subnet   | fd10:127:ba7e::/48      |                   |
 | AS4201270030 | IWARP-NEO-IP4-NETWORK               | subnet   | 10.127.30.0/24          |                   |
 | AS4201270030 | IWARP-NEO-IP6-NETWORK               | subnet   | fd10:127:30::/48        |                   |
+| AS4201270080 | Hanako-Network-Neo-1-v4             | subnet   | 10.127.80.0/24          |                   |
+| AS4201270080 | Hanako-Network-Neo-1-v6             | subnet   | fd10:127:80::/48        |                   |
 | AS4201270099 | TSINTYAO-NEO-NET4                   | subnet   | 10.127.99.0/24          |                   |
 | AS4201270099 | TSINGYAO-NEO-NET6                   | subnet   | fd10:127:99::/48        |                   |
 | AS4201270186 | 186526-block-v4                     | subnet   | 10.127.186.0/24         |                   |
@@ -354,6 +359,7 @@
 10.127.56.0/24
 10.127.64.0/24
 10.127.66.0/24
+10.127.80.0/24
 10.127.88.0/23
 10.127.99.0/24
 10.127.100.0/24
@@ -387,6 +393,7 @@ fd10:127:41::/48
 fd10:127:45::/48
 fd10:127:53::/48
 fd10:127:64::/48
+fd10:127:80::/48
 fd10:127:88::/48
 fd10:127:99::/48
 fd10:127:127::/48
@@ -453,7 +460,9 @@ fd10:127:ffff:53::/64
 10.127.67.0/24
 10.127.68.0/22
 10.127.72.0/21
-10.127.80.0/21
+10.127.81.0/24
+10.127.82.0/23
+10.127.84.0/22
 10.127.90.0/23
 10.127.92.0/22
 10.127.96.0/23
@@ -560,7 +569,9 @@ fd10:127:65::/48
 fd10:127:66::/47
 fd10:127:68::/45
 fd10:127:70::/44
-fd10:127:80::/45
+fd10:127:81::/48
+fd10:127:82::/47
+fd10:127:84::/46
 fd10:127:89::/48
 fd10:127:8a::/47
 fd10:127:8c::/46
@@ -808,5 +819,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 10636      | 54900      | 16.23%         | 83.77%         |
-| IPv6         | 7.9228e+28 | 4.2105e+25 | 7.9186e+28 | 0.05%          | 99.95%         |
+| IPv4         | 65536      | 10892      | 54644      | 16.62%         | 83.38%         |
+| IPv6         | 7.9228e+28 | 4.3314e+25 | 7.9185e+28 | 0.05%          | 99.95%         |
