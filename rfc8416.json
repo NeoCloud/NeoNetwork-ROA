@@ -101,7 +101,7 @@
         "asn": 4201270000,
         "prefix": "10.127.110.0/24",
         "maxPrefixLength": 29,
-        "comment": "BS-Net"
+        "comment": "Home Network"
       },
       {
         "asn": 4201270000,

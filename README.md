@@ -227,7 +227,7 @@
 | AS4201270000 | MAIN                                | subnet   | 10.127.1.0/24           |                   |
 | AS4201270000 | Messed-up Network                   | subnet   | 10.127.2.0/24           |                   |
 | AS4201270000 | Neo_Chen ZeroTier-One Hub           | subnet   | 10.127.16.0/24          |                   |
-| AS4201270000 | BS-Net                              | subnet   | 10.127.110.0/24         |                   |
+| AS4201270000 | Home Network                        | subnet   | 10.127.110.0/24         |                   |
 | AS4201270000 | fsnvax                              | loopback | 10.127.255.4/32         |                   |
 | AS4201270000 | NeoNetwork Origin                   | subnet   | fd10:127:5f37:59df::/64 |                   |
 | AS4201270001 | NiceLabs IX IPv4 Pool               | subnet   | 10.127.41.0/24          |                   |

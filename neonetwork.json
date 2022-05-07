@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1651898303,
-    "valid": 1653107903
+    "generated": 1651913149,
+    "valid": 1653122749
   },
   "people": {
     "186526": {
@@ -765,7 +765,7 @@
               {
                 "prefix": "10.127.110.0/24",
                 "maxLength": 29,
-                "netname": "BS-Net"
+                "netname": "Home Network"
               },
               {
                 "prefix": "10.127.255.4/32",
