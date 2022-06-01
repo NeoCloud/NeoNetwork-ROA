@@ -314,6 +314,12 @@
         "comment": "LilyNetwork-Neo-IP4"
       },
       {
+        "asn": 4201272923,
+        "prefix": "10.127.149.224/27",
+        "maxPrefixLength": 29,
+        "comment": "AS-BANDURA-NEO"
+      },
+      {
         "asn": 4201279999,
         "prefix": "10.127.88.0/24",
         "maxPrefixLength": 29,
@@ -714,6 +720,12 @@
         "prefix": "fd10:127:1877::/48",
         "maxPrefixLength": 64,
         "comment": "LilyNetwork-Neo-IP6"
+      },
+      {
+        "asn": 4201272923,
+        "prefix": "fd10:127:fc31::/48",
+        "maxPrefixLength": 64,
+        "comment": "AS-BANDURA-NEO"
       },
       {
         "asn": 4201279999,

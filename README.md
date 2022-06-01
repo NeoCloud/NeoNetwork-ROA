@@ -44,6 +44,7 @@
 | licson           | admin@licson.net             | licson                    |
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
+| mark22k          | neo@mk16.de                  | https://t.me/mark22k      |
 | septs            | bgp@septs.email              | septs                     |
 | undefined-moe    | i@undefined.moe              | webpack_exports_undefined |
 
@@ -94,6 +95,7 @@
 | NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily          | Lily_Network                                                    |
+| NeoNetwork | AS4201272923 | mark22k       | AS-BANDURA-NEO                                                  |
 | NeoNetwork | AS4201279999 | undefined-moe | Hydro-Neo-Network                                               |
 | DN42       | AS4242420140 | Yangfl        | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo   | BAOSHUO-AS-DN42                                                 |
@@ -294,6 +296,8 @@
 | AS4201271488 | Bear                                | subnet   | fd10:127:1488::/48      |                   |
 | AS4201271877 | LilyNetwork-Neo-IP4                 | subnet   | 10.127.180.0/24         |                   |
 | AS4201271877 | LilyNetwork-Neo-IP6                 | subnet   | fd10:127:1877::/48      |                   |
+| AS4201272923 | AS-BANDURA-NEO                      | subnet   | 10.127.149.224/27       |                   |
+| AS4201272923 | AS-BANDURA-NEO                      | subnet   | fd10:127:fc31::/48      |                   |
 | AS4201279999 | Hydro-Neo-Network-4                 | subnet   | 10.127.88.0/24          |                   |
 | AS4201279999 | Hydro-Neo-Network-6                 | subnet   | fd10:127:88::/48        |                   |
 | AS4242420140 | dfceaef NET                         | subnet   | 10.127.12.0/24          |                   |
@@ -369,6 +373,7 @@
 10.127.128.0/24
 10.127.131.0/24
 10.127.132.0/24
+10.127.149.224/27
 10.127.180.0/24
 10.127.186.0/24
 10.127.232.0/22
@@ -415,6 +420,7 @@ fd10:127:aa66::/48
 fd10:127:ba7e::/48
 fd10:127:e00f::/48
 fd10:127:ee11::/48
+fd10:127:fc31::/48
 fd10:127:ffff:53::/64
 ```
 </details>
@@ -485,7 +491,13 @@ fd10:127:ffff:53::/64
 10.127.133.0/24
 10.127.134.0/23
 10.127.136.0/21
-10.127.144.0/20
+10.127.144.0/22
+10.127.148.0/24
+10.127.149.0/25
+10.127.149.128/26
+10.127.149.192/27
+10.127.150.0/23
+10.127.152.0/21
 10.127.160.0/20
 10.127.176.0/22
 10.127.181.0/24
@@ -786,7 +798,15 @@ fd10:127:ee80::/41
 fd10:127:ef00::/40
 fd10:127:f000::/37
 fd10:127:f800::/38
-fd10:127:fc00::/39
+fd10:127:fc00::/43
+fd10:127:fc20::/44
+fd10:127:fc30::/48
+fd10:127:fc32::/47
+fd10:127:fc34::/46
+fd10:127:fc38::/45
+fd10:127:fc40::/42
+fd10:127:fc80::/41
+fd10:127:fd00::/40
 fd10:127:fe00::/40
 fd10:127:ff00::/41
 fd10:127:ff80::/42
@@ -819,5 +839,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 10892      | 54644      | 16.62%         | 83.38%         |
-| IPv6         | 7.9228e+28 | 4.3314e+25 | 7.9185e+28 | 0.05%          | 99.95%         |
+| IPv4         | 65536      | 10924      | 54612      | 16.67%         | 83.33%         |
+| IPv6         | 7.9228e+28 | 4.4523e+25 | 7.9184e+28 | 0.06%          | 99.94%         |
