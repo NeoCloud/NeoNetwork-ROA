@@ -410,6 +410,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4242422923,
+        "prefix": "10.127.149.224/27",
+        "maxPrefixLength": 29,
+        "comment": "AS-BANDURA-DN42"
+      },
+      {
         "asn": 4242423088,
         "prefix": "10.127.11.0/24",
         "maxPrefixLength": 29,
@@ -786,6 +792,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4242422923,
+        "prefix": "fd10:127:fc31::/48",
+        "maxPrefixLength": 64,
+        "comment": "AS-BANDURA-DN42"
       },
       {
         "asn": 4242423088,

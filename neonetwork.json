@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1654074167,
-    "valid": 1655283767
+    "generated": 1654151472,
+    "valid": 1655361072
   },
   "people": {
     "186526": {
@@ -2046,6 +2046,29 @@
                 "prefix": "fd10:127:fc31::/48",
                 "maxLength": 64,
                 "netname": "AS-BANDURA-NEO"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242422923,
+          "owner": "mark22k",
+          "name": "AS-BANDURA-DN42",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.149.224/27",
+                "maxLength": 29,
+                "netname": "AS-BANDURA-DN42"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:fc31::/48",
+                "maxLength": 64,
+                "netname": "AS-BANDURA-DN42"
               }
             ]
           }

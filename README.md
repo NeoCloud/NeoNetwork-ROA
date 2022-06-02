@@ -110,6 +110,7 @@
 | DN42       | AS4242421876 | David Liu     | POTATO-42                                                       |
 | DN42       | AS4242422189 | iEdon         | IEDON-NET-AS                                                    |
 | DN42       | AS4242422464 | Yura          | Yura Network                                                    |
+| DN42       | AS4242422923 | mark22k       | AS-BANDURA-DN42                                                 |
 | DN42       | AS4242423088 | SUNNET        | SUNNET                                                          |
 | DN42       | AS4242423618 | JerryXiao     | Jerry AS                                                        |
 | DN42       | AS4242423699 | TsingYao      | AS-NEO-TSINGYAO                                                 |
@@ -323,6 +324,8 @@
 | AS4242422464 | Yura Neo Anycast                    | loopback | 10.127.127.125/32       | 10.127.127.0/24   |
 | AS4242422464 | anycast-recur-4                     | loopback | 10.127.255.54/32        |                   |
 | AS4242422464 | anycast-recur-6                     | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
+| AS4242422923 | AS-BANDURA-DN42                     | subnet   | 10.127.149.224/27       |                   |
+| AS4242422923 | AS-BANDURA-DN42                     | subnet   | fd10:127:fc31::/48      |                   |
 | AS4242423088 | SUNNET                              | subnet   | 10.127.11.0/24          |                   |
 | AS4242423088 | SUNNET                              | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                      | loopback | 10.127.255.53/32        |                   |
