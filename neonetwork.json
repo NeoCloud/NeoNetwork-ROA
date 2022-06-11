@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1654496675,
-    "valid": 1655706275
+    "generated": 1654974848,
+    "valid": 1656184448
   },
   "people": {
     "186526": {
@@ -1649,24 +1649,24 @@
       },
       "asns": [
         {
-          "asn": 4201270458,
+          "asn": 4201270456,
           "owner": "funnysyc",
-          "name": "HuajiTech-Network",
+          "name": "HJTMESH-AS",
           "source": "NeoNetwork",
-          "description": "HuajiTech Core Network",
+          "description": "HUAJITECH Mesh Network",
           "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.45.0/24",
                 "maxLength": 29,
-                "netname": "HuajiTech-Network Interconnectivity"
+                "netname": "HJTMESH-NET"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:45::/48",
                 "maxLength": 64,
-                "netname": "HuajiTech-Network Interconnectivity"
+                "netname": "HJTMESH-NET"
               }
             ]
           }

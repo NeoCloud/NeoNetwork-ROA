@@ -296,10 +296,10 @@
         "comment": "186526-block-v4"
       },
       {
-        "asn": 4201270458,
+        "asn": 4201270456,
         "prefix": "10.127.45.0/24",
         "maxPrefixLength": 29,
-        "comment": "HuajiTech-Network Interconnectivity"
+        "comment": "HJTMESH-NET"
       },
       {
         "asn": 4201271111,
@@ -704,10 +704,10 @@
         "comment": "186526-block-v6"
       },
       {
-        "asn": 4201270458,
+        "asn": 4201270456,
         "prefix": "fd10:127:45::/48",
         "maxPrefixLength": 64,
-        "comment": "HuajiTech-Network Interconnectivity"
+        "comment": "HJTMESH-NET"
       },
       {
         "asn": 4201271111,
