@@ -6,6 +6,7 @@
 |------------------|------------------------------|---------------------------|
 | 186526           | i@186526.xyz                 | real186526                |
 | Cupkappu         | cup@kust.ga                  | kifuc                     |
+| DannyAAM         | danny@saru.moe               | danny8376                 |
 | David Liu        | david@fixmix.tech            | p0tat05                   |
 | Edward_P         | edward@edward-p.xyz          | @Edward_P                 |
 | Hanako           | hanako_ko@outlook.jp         | koizumi_k                 |
@@ -88,6 +89,7 @@
 | NeoNetwork | AS4201270021 | David Liu     | POTATO-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg      | lilydjwg                                                        |
 | NeoNetwork | AS4201270030 | Yux           | IWARP-NEO                                                       |
+| NeoNetwork | AS4201270039 | DannyAAM      | SARU-AS-NEO                                                     |
 | NeoNetwork | AS4201270080 | Hanako        | HANAKO-NETWORK                                                  |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
@@ -109,6 +111,7 @@
 | DN42       | AS4242421332 | Yukari        | Niantic Network CN                                              |
 | DN42       | AS4242421876 | David Liu     | POTATO-42                                                       |
 | DN42       | AS4242422189 | iEdon         | IEDON-NET-AS                                                    |
+| DN42       | AS4242422439 | DannyAAM      | SARU-AS-DN42                                                    |
 | DN42       | AS4242422464 | Yura          | Yura Network                                                    |
 | DN42       | AS4242422923 | mark22k       | AS-BANDURA-DN42                                                 |
 | DN42       | AS4242423088 | SUNNET        | SUNNET                                                          |
@@ -123,13 +126,13 @@
 | AS142280     | xiy_vm_host   |
 | AS207268     | IX42-LAS      |
 | AS213262     | Moe           |
-| AS4201270000 | caasih        |
-| AS4201270000 | cklvax        |
 | AS4201270000 | NeoPDP-11     |
 | AS4201270000 | NeoSystem     |
 | AS4201270000 | pan           |
 | AS4201270000 | NeoRouter     |
 | AS4201270000 | NeoVAX        |
+| AS4201270000 | caasih        |
+| AS4201270000 | cklvax        |
 | AS4201270001 | septs         |
 | AS4201270003 | chenx97       |
 | AS4201270004 | frank-hsinchu |
@@ -155,6 +158,11 @@
 | AS4201270020 | Edward_P      |
 | AS4201270021 | PotatoNet     |
 | AS4201270030 | IWarp         |
+| AS4201270039 | SaruHome      |
+| AS4201270039 | SaruSaru      |
+| AS4201270039 | SaruIruka     |
+| AS4201270039 | SaruUmidanuki |
+| AS4201270039 | SaruYagi      |
 | AS4201270080 | Hanako        |
 | AS4201270099 | TsingYao      |
 | AS4201271111 | KSKB-NEO      |
@@ -172,27 +180,27 @@
 
 |      Upstream | Downstream    |
 |---------------|---------------|
-| JerryXiao-SH1 | JerryXiao-HK1 |
-|     NeoSystem | NeoVAX        |
+| Ndoskrnl-US01 | Ndoskrnl-CN01 |
+|           pan | NeoPDP-11     |
+|           pan | NeoSystem     |
+|           pan | NeoVAX        |
+|         staph | septs         |
 |     NeoPDP-11 | NeoVAX        |
 |        caasih | NeoPDP-11     |
 |        caasih | staph         |
-|         staph | septs         |
-|        cklvax | NeoSystem     |
-|     JerryXiao | JerryXiao-HK1 |
-|     JerryXiao | JerryXiao-SH1 |
-|     JerryXiao | LanTian       |
-|     JerryXiao | dfceaef       |
+| JerryXiao-HK1 | JerryXiao-HK2 |
+| JerryXiao-SH1 | JerryXiao-HK1 |
 |         septs | James58899    |
 |         septs | JerryXiao     |
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
-| Ndoskrnl-US01 | Ndoskrnl-CN01 |
-|           pan | NeoPDP-11     |
-|           pan | NeoSystem     |
-|           pan | NeoVAX        |
-| JerryXiao-HK1 | JerryXiao-HK2 |
+|        cklvax | NeoSystem     |
+|     NeoSystem | NeoVAX        |
+|     JerryXiao | JerryXiao-HK1 |
+|     JerryXiao | JerryXiao-SH1 |
+|     JerryXiao | LanTian       |
+|     JerryXiao | dfceaef       |
 
 ## Route table
 
@@ -284,6 +292,8 @@
 | AS4201270022 | lilydjwg                        | subnet   | fd10:127:ba7e::/48      |                   |
 | AS4201270030 | IWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
 | AS4201270030 | IWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
+| AS4201270039 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
+| AS4201270039 | Saru-Neo-IP6                    | subnet   | fd10:127:39::/48        |                   |
 | AS4201270080 | Hanako-Network-Neo-1-v4         | subnet   | 10.127.80.0/24          |                   |
 | AS4201270080 | Hanako-Network-Neo-1-v6         | subnet   | fd10:127:80::/48        |                   |
 | AS4201270099 | TSINTYAO-NEO-NET4               | subnet   | 10.127.99.0/24          |                   |
@@ -317,6 +327,8 @@
 | AS4242421876 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.21.0/24          |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.25.0/24          |                   |
+| AS4242422439 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
+| AS4242422439 | Saru-Neo-IP6                    | subnet   | fd10:127:39::/48        |                   |
 | AS4242422464 | Yura Moe NET                    | subnet   | 10.127.127.0/24         |                   |
 | AS4242422464 | Yura Neo2                       | subnet   | fd10:127:127::/48       |                   |
 | AS4242422464 | Yura Neo Anycast                | loopback | 10.127.127.127/32       | 10.127.127.0/24   |
@@ -361,6 +373,7 @@
 10.127.26.0/24
 10.127.30.0/24
 10.127.38.32/27
+10.127.39.0/24
 10.127.41.0/24
 10.127.45.0/24
 10.127.56.0/24
@@ -397,6 +410,7 @@ fd10:127:13::/48
 fd10:127:17::/48
 fd10:127:23::/48
 fd10:127:30::/48
+fd10:127:39::/48
 fd10:127:41::/48
 fd10:127:45::/48
 fd10:127:53::/48
@@ -456,7 +470,6 @@ fd10:127:ffff:53::/64
 10.127.38.0/27
 10.127.38.64/26
 10.127.38.128/25
-10.127.39.0/24
 10.127.40.0/24
 10.127.42.0/23
 10.127.44.0/24
@@ -569,7 +582,9 @@ fd10:127:28::/45
 fd10:127:31::/48
 fd10:127:32::/47
 fd10:127:34::/46
-fd10:127:38::/45
+fd10:127:38::/48
+fd10:127:3a::/47
+fd10:127:3c::/46
 fd10:127:40::/48
 fd10:127:42::/47
 fd10:127:44::/48
@@ -842,5 +857,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 10924      | 54612      | 16.67%         | 83.33%         |
-| IPv6         | 7.9228e+28 | 4.4523e+25 | 7.9184e+28 | 0.06%          | 99.94%         |
+| IPv4         | 65536      | 11180      | 54356      | 17.06%         | 82.94%         |
+| IPv6         | 7.9228e+28 | 4.5731e+25 | 7.9182e+28 | 0.06%          | 99.94%         |

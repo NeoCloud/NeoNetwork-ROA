@@ -278,6 +278,12 @@
         "comment": "IWARP-NEO-IP4-NETWORK"
       },
       {
+        "asn": 4201270039,
+        "prefix": "10.127.39.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Saru-Neo-IP4"
+      },
+      {
         "asn": 4201270080,
         "prefix": "10.127.80.0/24",
         "maxPrefixLength": 29,
@@ -384,6 +390,12 @@
         "prefix": "10.127.25.0/24",
         "maxPrefixLength": 29,
         "comment": "IEDON-NET"
+      },
+      {
+        "asn": 4242422439,
+        "prefix": "10.127.39.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Saru-Neo-IP4"
       },
       {
         "asn": 4242422464,
@@ -686,6 +698,12 @@
         "comment": "IWARP-NEO-IP6-NETWORK"
       },
       {
+        "asn": 4201270039,
+        "prefix": "fd10:127:39::/48",
+        "maxPrefixLength": 64,
+        "comment": "Saru-Neo-IP6"
+      },
+      {
         "asn": 4201270080,
         "prefix": "fd10:127:80::/48",
         "maxPrefixLength": 64,
@@ -774,6 +792,12 @@
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
         "comment": "POTATO-NEO-NET6-A"
+      },
+      {
+        "asn": 4242422439,
+        "prefix": "fd10:127:39::/48",
+        "maxPrefixLength": 64,
+        "comment": "Saru-Neo-IP6"
       },
       {
         "asn": 4242422464,
