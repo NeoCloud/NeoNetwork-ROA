@@ -189,18 +189,38 @@
 |        caasih | NeoPDP-11     |
 |        caasih | staph         |
 | JerryXiao-HK1 | JerryXiao-HK2 |
+|      SaruSaru | SaruHome      |
+|      SaruSaru | SaruIruka     |
+|      SaruSaru | SaruUmidanuki |
+|      SaruSaru | SaruYagi      |
+|      SaruHome | SaruSaru      |
+|      SaruHome | SaruIruka     |
+|      SaruHome | SaruUmidanuki |
+|      SaruHome | SaruYagi      |
 | JerryXiao-SH1 | JerryXiao-HK1 |
+|      SaruYagi | SaruHome      |
+|      SaruYagi | SaruSaru      |
+|      SaruYagi | SaruIruka     |
+|      SaruYagi | SaruUmidanuki |
 |         septs | James58899    |
 |         septs | JerryXiao     |
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
+| SaruUmidanuki | SaruHome      |
+| SaruUmidanuki | SaruSaru      |
+| SaruUmidanuki | SaruIruka     |
+| SaruUmidanuki | SaruYagi      |
 |        cklvax | NeoSystem     |
 |     NeoSystem | NeoVAX        |
 |     JerryXiao | JerryXiao-HK1 |
 |     JerryXiao | JerryXiao-SH1 |
 |     JerryXiao | LanTian       |
 |     JerryXiao | dfceaef       |
+|     SaruIruka | SaruHome      |
+|     SaruIruka | SaruSaru      |
+|     SaruIruka | SaruUmidanuki |
+|     SaruIruka | SaruYagi      |
 
 ## Route table
 
@@ -293,6 +313,7 @@
 | AS4201270030 | IWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
 | AS4201270030 | IWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4201270039 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
+| AS4201270039 | Saru-Neo-AnyNS-IP4              | loopback | 10.127.255.39/32        |                   |
 | AS4201270039 | Saru-Neo-IP6                    | subnet   | fd10:127:39::/48        |                   |
 | AS4201270080 | Hanako-Network-Neo-1-v4         | subnet   | 10.127.80.0/24          |                   |
 | AS4201270080 | Hanako-Network-Neo-1-v6         | subnet   | fd10:127:80::/48        |                   |
@@ -328,6 +349,7 @@
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.21.0/24          |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.25.0/24          |                   |
 | AS4242422439 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
+| AS4242422439 | Saru-Neo-AnyNS-IP4              | loopback | 10.127.255.39/32        |                   |
 | AS4242422439 | Saru-Neo-IP6                    | subnet   | fd10:127:39::/48        |                   |
 | AS4242422464 | Yura Moe NET                    | subnet   | 10.127.127.0/24         |                   |
 | AS4242422464 | Yura Neo2                       | subnet   | fd10:127:127::/48       |                   |
@@ -394,6 +416,7 @@
 10.127.186.0/24
 10.127.232.0/22
 10.127.255.4/32
+10.127.255.39/32
 10.127.255.53/32
 10.127.255.54/32
 10.127.255.56/32
@@ -533,7 +556,10 @@ fd10:127:ffff:53::/64
 10.127.255.6/31
 10.127.255.8/29
 10.127.255.16/28
-10.127.255.32/28
+10.127.255.32/30
+10.127.255.36/31
+10.127.255.38/32
+10.127.255.40/29
 10.127.255.48/30
 10.127.255.52/32
 10.127.255.55/32
@@ -857,5 +883,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11180      | 54356      | 17.06%         | 82.94%         |
+| IPv4         | 65536      | 11181      | 54355      | 17.06%         | 82.94%         |
 | IPv6         | 7.9228e+28 | 4.5731e+25 | 7.9182e+28 | 0.06%          | 99.94%         |

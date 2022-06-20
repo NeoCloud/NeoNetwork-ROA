@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1655706387,
-    "valid": 1656915987
+    "generated": 1655738359,
+    "valid": 1656947959
   },
   "people": {
     "186526": {
@@ -112,6 +112,11 @@
                 "prefix": "10.127.39.0/24",
                 "maxLength": 29,
                 "netname": "Saru-Neo-IP4"
+              },
+              {
+                "prefix": "10.127.255.39/32",
+                "maxLength": 32,
+                "netname": "Saru-Neo-AnyNS-IP4"
               }
             ],
             "ipv6": [
@@ -135,6 +140,11 @@
                 "prefix": "10.127.39.0/24",
                 "maxLength": 29,
                 "netname": "Saru-Neo-IP4"
+              },
+              {
+                "prefix": "10.127.255.39/32",
+                "maxLength": 32,
+                "netname": "Saru-Neo-AnyNS-IP4"
               }
             ],
             "ipv6": [

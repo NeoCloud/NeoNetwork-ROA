@@ -284,6 +284,12 @@
         "comment": "Saru-Neo-IP4"
       },
       {
+        "asn": 4201270039,
+        "prefix": "10.127.255.39/32",
+        "maxPrefixLength": 32,
+        "comment": "Saru-Neo-AnyNS-IP4"
+      },
+      {
         "asn": 4201270080,
         "prefix": "10.127.80.0/24",
         "maxPrefixLength": 29,
@@ -396,6 +402,12 @@
         "prefix": "10.127.39.0/24",
         "maxPrefixLength": 29,
         "comment": "Saru-Neo-IP4"
+      },
+      {
+        "asn": 4242422439,
+        "prefix": "10.127.255.39/32",
+        "maxPrefixLength": 32,
+        "comment": "Saru-Neo-AnyNS-IP4"
       },
       {
         "asn": 4242422464,
