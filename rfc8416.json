@@ -314,6 +314,12 @@
         "comment": "HJTMESH-NET"
       },
       {
+        "asn": 4201270456,
+        "prefix": "10.127.27.24/29",
+        "maxPrefixLength": 29,
+        "comment": "HUAJITECH-ANYCAST"
+      },
+      {
         "asn": 4201271111,
         "prefix": "10.127.111.0/24",
         "maxPrefixLength": 29,
@@ -362,6 +368,12 @@
         "comment": "VILLISEK-NEO"
       },
       {
+        "asn": 4242420458,
+        "prefix": "10.127.27.24/29",
+        "maxPrefixLength": 29,
+        "comment": "HUAJITECH-ANYCAST"
+      },
+      {
         "asn": 4242421037,
         "prefix": "10.127.8.0/26",
         "maxPrefixLength": 29,
@@ -408,6 +420,12 @@
         "prefix": "10.127.255.39/32",
         "maxPrefixLength": 32,
         "comment": "Saru-Neo-AnyNS-IP4"
+      },
+      {
+        "asn": 4242422458,
+        "prefix": "10.127.27.24/29",
+        "maxPrefixLength": 29,
+        "comment": "HUAJITECH-ANYCAST"
       },
       {
         "asn": 4242422464,
@@ -740,6 +758,12 @@
         "comment": "HJTMESH-NET"
       },
       {
+        "asn": 4201270456,
+        "prefix": "fd10:127:27:20::/60",
+        "maxPrefixLength": 64,
+        "comment": "HUAJITECH-ANYCAST"
+      },
+      {
         "asn": 4201271111,
         "prefix": "fd10:127:e00f::/48",
         "maxPrefixLength": 64,
@@ -788,6 +812,12 @@
         "comment": "VILLISEK-NEO-V6"
       },
       {
+        "asn": 4242420458,
+        "prefix": "fd10:127:27:20::/60",
+        "maxPrefixLength": 64,
+        "comment": "HUAJITECH-ANYCAST"
+      },
+      {
         "asn": 4242421025,
         "prefix": "fd10:127:233:1000::/64",
         "maxPrefixLength": 64,
@@ -810,6 +840,12 @@
         "prefix": "fd10:127:39::/48",
         "maxPrefixLength": 64,
         "comment": "Saru-Neo-IP6"
+      },
+      {
+        "asn": 4242422458,
+        "prefix": "fd10:127:27:20::/60",
+        "maxPrefixLength": 64,
+        "comment": "HUAJITECH-ANYCAST"
       },
       {
         "asn": 4242422464,

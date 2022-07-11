@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL    3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        68862316    ; Serial
+        70658496    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -107,7 +107,7 @@ $TTL    3600
 
 111            IN    NS     ns.kskb.neo.
 
-45             IN    NS     ns0.hjt.neo.
+45             IN    NS     ns0.hmn.neo.
 
 186            IN    NS     ns1.186526.dn42.
 186            IN    NS     ns2.186526.dn42.
@@ -338,6 +338,16 @@ $TTL    3600
 133.8 IN CNAME 133.128/29.8
 134.8 IN CNAME 134.128/29.8
 135.8 IN CNAME 135.128/29.8
+
+24/29.27 IN NS ns0.hmn.neo.
+24.27 IN CNAME 24.24/29.27
+25.27 IN CNAME 25.24/29.27
+26.27 IN CNAME 26.24/29.27
+27.27 IN CNAME 27.24/29.27
+28.27 IN CNAME 28.24/29.27
+29.27 IN CNAME 29.24/29.27
+30.27 IN CNAME 30.24/29.27
+31.27 IN CNAME 31.24/29.27
 
 
 ; dnskey

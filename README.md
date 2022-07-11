@@ -38,6 +38,7 @@
 | chenx97          | chenx97@gmail.com            |                           |
 | frank            |                              |                           |
 | funnysyc         | yc.s@outlook.com             | funnysyc                  |
+| HuajiTech        | noc@huajitech.net            | huajitech                 |
 | iEdon            |                              |                           |
 | Icecat           | icecat@catio.network         | fakeicecat                |
 | leedagee         | leedageea@gmail.com          | leedagee                  |
@@ -46,6 +47,7 @@
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
 | mark22k          | neo@mk16.de                  | https://t.me/mark22k      |
+| Ricky8955555     | 397050061@qq.com             | ricky8955555              |
 | septs            | bgp@septs.email              | septs                     |
 | undefined-moe    | i@undefined.moe              | webpack_exports_undefined |
 
@@ -93,7 +95,7 @@
 | NeoNetwork | AS4201270080 | Hanako        | HANAKO-NETWORK                                                  |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
-| NeoNetwork | AS4201270456 | funnysyc      | HJTMESH-AS                                                      |
+| NeoNetwork | AS4201270456 | huajitech     | HJTMESH-AS                                                      |
 | NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily          | Lily_Network                                                    |
@@ -103,6 +105,7 @@
 | DN42       | AS4242420247 | Ren Baoshuo   | BAOSHUO-AS-DN42                                                 |
 | DN42       | AS4242420288 | Yux           | IWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK      | VILLISEK                                                        |
+| DN42       | AS4242420458 | huajitech     | HUAJINET                                                        |
 | DN42       | AS4242420916 | alanyhq       | alanyhq                                                         |
 | DN42       | AS4242421025 | icecat        | NextMoe Neo-Network Intermediate Access Project                 |
 | DN42       | AS4242421037 | LibreHouse    | LibreHouse                                                      |
@@ -112,6 +115,7 @@
 | DN42       | AS4242421876 | David Liu     | POTATO-42                                                       |
 | DN42       | AS4242422189 | iEdon         | IEDON-NET-AS                                                    |
 | DN42       | AS4242422439 | DannyAAM      | SARU-AS-DN42                                                    |
+| DN42       | AS4242422458 | huajitech     | PIGEONHOLE-AS                                                   |
 | DN42       | AS4242422464 | Yura          | Yura Network                                                    |
 | DN42       | AS4242422923 | mark22k       | AS-BANDURA-DN42                                                 |
 | DN42       | AS4242423088 | SUNNET        | SUNNET                                                          |
@@ -323,6 +327,8 @@
 | AS4201270186 | 186526-block-v6                 | subnet   | fd10:127:186::/48       |                   |
 | AS4201270456 | HJTMESH-NET                     | subnet   | 10.127.45.0/24          |                   |
 | AS4201270456 | HJTMESH-NET                     | subnet   | fd10:127:45::/48        |                   |
+| AS4201270456 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
+| AS4201270456 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4201271111 | Kusakabe-Neo-IP4                | subnet   | 10.127.111.0/24         |                   |
 | AS4201271111 | Kusakabe-Neo-IP6                | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                            | subnet   | fd10:127:1488::/48      |                   |
@@ -339,6 +345,8 @@
 | AS4242420288 | IWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4242420308 | VILLISEK-NEO                    | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                 | subnet   | fd10:127:308::/48       |                   |
+| AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
+| AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26           |                   |
 | AS4242421214 | Yi Global VPN                   | subnet   | 10.127.124.0/29         |                   |
@@ -351,6 +359,8 @@
 | AS4242422439 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
 | AS4242422439 | Saru-Neo-AnyNS-IP4              | loopback | 10.127.255.39/32        |                   |
 | AS4242422439 | Saru-Neo-IP6                    | subnet   | fd10:127:39::/48        |                   |
+| AS4242422458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
+| AS4242422458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4242422464 | Yura Moe NET                    | subnet   | 10.127.127.0/24         |                   |
 | AS4242422464 | Yura Neo2                       | subnet   | fd10:127:127::/48       |                   |
 | AS4242422464 | Yura Neo Anycast                | loopback | 10.127.127.127/32       | 10.127.127.0/24   |
@@ -393,6 +403,7 @@
 10.127.22.0/28
 10.127.25.0/24
 10.127.26.0/24
+10.127.27.24/29
 10.127.30.0/24
 10.127.38.32/27
 10.127.39.0/24
@@ -432,6 +443,7 @@ fd10:127:10::/48
 fd10:127:13::/48
 fd10:127:17::/48
 fd10:127:23::/48
+fd10:127:27:20::/60
 fd10:127:30::/48
 fd10:127:39::/48
 fd10:127:41::/48
@@ -485,7 +497,11 @@ fd10:127:ffff:53::/64
 10.127.22.128/25
 10.127.23.0/24
 10.127.24.0/24
-10.127.27.0/24
+10.127.27.0/28
+10.127.27.16/29
+10.127.27.32/27
+10.127.27.64/26
+10.127.27.128/25
 10.127.28.0/23
 10.127.31.0/24
 10.127.32.0/22
@@ -603,7 +619,20 @@ fd10:127:16::/48
 fd10:127:18::/45
 fd10:127:20::/47
 fd10:127:22::/48
-fd10:127:24::/46
+fd10:127:24::/47
+fd10:127:26::/48
+fd10:127:27::/59
+fd10:127:27:30::/60
+fd10:127:27:40::/58
+fd10:127:27:80::/57
+fd10:127:27:100::/56
+fd10:127:27:200::/55
+fd10:127:27:400::/54
+fd10:127:27:800::/53
+fd10:127:27:1000::/52
+fd10:127:27:2000::/51
+fd10:127:27:4000::/50
+fd10:127:27:8000::/49
 fd10:127:28::/45
 fd10:127:31::/48
 fd10:127:32::/47
@@ -883,5 +912,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11181      | 54355      | 17.06%         | 82.94%         |
-| IPv6         | 7.9228e+28 | 4.5731e+25 | 7.9182e+28 | 0.06%          | 99.94%         |
+| IPv4         | 65536      | 11189      | 54347      | 17.07%         | 82.93%         |
+| IPv6         | 7.9228e+28 | 4.5732e+25 | 7.9182e+28 | 0.06%          | 99.94%         |

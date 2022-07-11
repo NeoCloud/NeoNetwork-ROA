@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1657520790,
-    "valid": 1658730390
+    "generated": 1657534539,
+    "valid": 1658744139
   },
   "people": {
     "186526": {
@@ -1724,10 +1724,26 @@
         },
         "nic_hdl": "FUNNYSYC"
       },
+      "asns": []
+    },
+    "huajitech": {
+      "info": {
+        "name": "HuajiTech",
+        "babel": [
+          "zh-N",
+          "en-2"
+        ],
+        "contact": {
+          "email": "noc@huajitech.net",
+          "telegram": "huajitech",
+          "github": "huajitech"
+        },
+        "nic_hdl": "HUAJITECH"
+      },
       "asns": [
         {
           "asn": 4201270456,
-          "owner": "funnysyc",
+          "owner": "huajitech",
           "name": "HJTMESH-AS",
           "source": "NeoNetwork",
           "description": "HUAJITECH Mesh Network",
@@ -1737,6 +1753,11 @@
                 "prefix": "10.127.45.0/24",
                 "maxLength": 29,
                 "netname": "HJTMESH-NET"
+              },
+              {
+                "prefix": "10.127.27.24/29",
+                "maxLength": 29,
+                "netname": "HUAJITECH-ANYCAST"
               }
             ],
             "ipv6": [
@@ -1744,6 +1765,57 @@
                 "prefix": "fd10:127:45::/48",
                 "maxLength": 64,
                 "netname": "HJTMESH-NET"
+              },
+              {
+                "prefix": "fd10:127:27:20::/60",
+                "maxLength": 64,
+                "netname": "HUAJITECH-ANYCAST"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242420458,
+          "owner": "huajitech",
+          "name": "HUAJINET",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.27.24/29",
+                "maxLength": 29,
+                "netname": "HUAJITECH-ANYCAST"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:27:20::/60",
+                "maxLength": 64,
+                "netname": "HUAJITECH-ANYCAST"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242422458,
+          "owner": "huajitech",
+          "name": "PIGEONHOLE-AS",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.27.24/29",
+                "maxLength": 29,
+                "netname": "HUAJITECH-ANYCAST"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:27:20::/60",
+                "maxLength": 64,
+                "netname": "HUAJITECH-ANYCAST"
               }
             ]
           }
@@ -2151,6 +2223,22 @@
           }
         }
       ]
+    },
+    "ricky8955555": {
+      "info": {
+        "name": "Ricky8955555",
+        "babel": [
+          "zh-N",
+          "en-2"
+        ],
+        "contact": {
+          "email": "397050061@qq.com",
+          "telegram": "ricky8955555",
+          "github": "ricky8955555"
+        },
+        "nic_hdl": "RICKY8955555"
+      },
+      "asns": []
     },
     "septs": {
       "info": {
