@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1659335837,
-    "valid": 1660545437
+    "generated": 1659608230,
+    "valid": 1660817830
   },
   "people": {
     "186526": {
@@ -955,100 +955,7 @@
         "name": "SUNNET",
         "nic_hdl": "SUNNET"
       },
-      "asns": [
-        {
-          "asn": 7721,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "Internet",
-          "description": "SUNNET",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 38173,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "Internet",
-          "description": "SUNNET",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 140936,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "Internet",
-          "description": "SUNNET",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        },
-        {
-          "asn": 4242423088,
-          "owner": "SUNNET",
-          "name": "SUNNET",
-          "source": "DN42",
-          "description": null,
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.11.0/24",
-                "maxLength": 29,
-                "netname": "SUNNET"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:ee11::/48",
-                "maxLength": 64,
-                "netname": "SUNNET"
-              }
-            ]
-          }
-        }
-      ]
+      "asns": []
     },
     "Staph": {
       "info": {

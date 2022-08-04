@@ -55,12 +55,9 @@
 
 | Source     | ASN          | Owner         | Name                                                            |
 |------------|--------------|---------------|-----------------------------------------------------------------|
-| Internet   | AS7721       | SUNNET        | SUNNET                                                          |
 | Internet   | AS17830      | David Liu     | POTATO-AS-AP                                                    |
-| Internet   | AS38173      | SUNNET        | SUNNET                                                          |
 | Internet   | AS134098     | licson        | Licson Internal Network                                         |
 | Internet   | AS140913     | magicneko     | Koishi Network(aka Hentai Network)                              |
-| Internet   | AS140936     | SUNNET        | SUNNET                                                          |
 | Internet   | AS141706     | magicneko     | Koishi Network(=4201270005)                                     |
 | Internet   | AS141776     | Ren Baoshuo   | BAOSHUO-AS-AP                                                   |
 | Internet   | AS142280     | Yitong-Dang   | NTEREN-BACKBONE                                                 |
@@ -118,7 +115,6 @@
 | DN42       | AS4242422458 | huajitech     | PIGEONHOLE-AS                                                   |
 | DN42       | AS4242422464 | Yura          | Yura Network                                                    |
 | DN42       | AS4242422923 | mark22k       | AS-BANDURA-DN42                                                 |
-| DN42       | AS4242423088 | SUNNET        | SUNNET                                                          |
 | DN42       | AS4242423618 | JerryXiao     | Jerry AS                                                        |
 | DN42       | AS4242423699 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 
@@ -178,7 +174,6 @@
 | AS4242421332 | NIACN-NET     |
 | AS4242422189 | iEdon         |
 | AS4242422464 | Yura          |
-| AS4242423088 | SUNNET        |
 
 ## Peer table
 
@@ -230,12 +225,8 @@
 
 | ASN          | Name                            | Type     | Prefix                  | Supernet          |
 |--------------|---------------------------------|----------|-------------------------|-------------------|
-| AS7721       | SUNNET                          | subnet   | 10.127.11.0/24          |                   |
-| AS7721       | SUNNET                          | subnet   | fd10:127:ee11::/48      |                   |
 | AS17830      | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24          |                   |
 | AS17830      | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
-| AS38173      | SUNNET                          | subnet   | 10.127.11.0/24          |                   |
-| AS38173      | SUNNET                          | subnet   | fd10:127:ee11::/48      |                   |
 | AS134098     | LICSON-NET-SUBALLOC-1           | subnet   | 10.127.14.0/23          |                   |
 | AS140913     | MagicNeko-Asia Backbone node    | subnet   | 10.127.4.0/24           |                   |
 | AS140913     | Magicneko Asia address occupied | subnet   | fd10:127:233::/48       |                   |
@@ -243,8 +234,6 @@
 | AS140913     | Magicneko Asia address occupied | subnet   | fd10:127:235::/48       |                   |
 | AS140913     | Magicneko Asia address occupied | subnet   | fd10:127:236::/48       |                   |
 | AS140913     | Magicneko Asia address occupied | subnet   | fd10:127:237::/48       |                   |
-| AS140936     | SUNNET                          | subnet   | 10.127.11.0/24          |                   |
-| AS140936     | SUNNET                          | subnet   | fd10:127:ee11::/48      |                   |
 | AS141706     | MagicNeko-CN office node        | subnet   | 10.127.232.0/22         |                   |
 | AS141706     | Home-magicneko                  | subnet   | fd10:127:238::/48       |                   |
 | AS141706     | Home-icecat                     | subnet   | fd10:127:239::/48       |                   |
@@ -370,8 +359,6 @@
 | AS4242422464 | anycast-recur-6                 | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | 10.127.149.224/27       |                   |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | fd10:127:fc31::/48      |                   |
-| AS4242423088 | SUNNET                          | subnet   | 10.127.11.0/24          |                   |
-| AS4242423088 | SUNNET                          | subnet   | fd10:127:ee11::/48      |                   |
 | AS4242423618 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
 | AS4242423618 | anycast-recur-4                 | loopback | 10.127.255.54/32        |                   |
 | AS4242423618 | anycast-auth-6                  | loopback | fd10:127:ffff:53::/64   |                   |
@@ -394,7 +381,7 @@
 10.127.8.160/27
 10.127.8.192/26
 10.127.9.0/24
-10.127.10.0/23
+10.127.10.0/24
 10.127.12.0/22
 10.127.16.0/23
 10.127.18.0/26
@@ -471,7 +458,6 @@ fd10:127:6324::/48
 fd10:127:aa66::/48
 fd10:127:ba7e::/48
 fd10:127:e00f::/48
-fd10:127:ee11::/48
 fd10:127:fc31::/48
 fd10:127:ffff:53::/64
 ```
@@ -488,6 +474,7 @@ fd10:127:ffff:53::/64
 10.127.5.128/25
 10.127.6.0/24
 10.127.8.144/28
+10.127.11.0/24
 10.127.18.64/26
 10.127.18.128/25
 10.127.20.0/24
@@ -858,17 +845,7 @@ fd10:127:e080::/41
 fd10:127:e100::/40
 fd10:127:e200::/39
 fd10:127:e400::/38
-fd10:127:e800::/38
-fd10:127:ec00::/39
-fd10:127:ee00::/44
-fd10:127:ee10::/48
-fd10:127:ee12::/47
-fd10:127:ee14::/46
-fd10:127:ee18::/45
-fd10:127:ee20::/43
-fd10:127:ee40::/42
-fd10:127:ee80::/41
-fd10:127:ef00::/40
+fd10:127:e800::/37
 fd10:127:f000::/37
 fd10:127:f800::/38
 fd10:127:fc00::/43
@@ -912,5 +889,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11189      | 54347      | 17.07%         | 82.93%         |
-| IPv6         | 7.9228e+28 | 4.5732e+25 | 7.9182e+28 | 0.06%          | 99.94%         |
+| IPv4         | 65536      | 10933      | 54603      | 16.68%         | 83.32%         |
+| IPv6         | 7.9228e+28 | 4.4523e+25 | 7.9184e+28 | 0.06%          | 99.94%         |

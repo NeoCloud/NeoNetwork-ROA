@@ -8,22 +8,10 @@
     "bgpsecAssertions": [],
     "prefixAssertions": [
       {
-        "asn": 7721,
-        "prefix": "10.127.11.0/24",
-        "maxPrefixLength": 29,
-        "comment": "SUNNET"
-      },
-      {
         "asn": 17830,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,
         "comment": "POTATO-NEO-NET4-A"
-      },
-      {
-        "asn": 38173,
-        "prefix": "10.127.11.0/24",
-        "maxPrefixLength": 29,
-        "comment": "SUNNET"
       },
       {
         "asn": 134098,
@@ -36,12 +24,6 @@
         "prefix": "10.127.4.0/24",
         "maxPrefixLength": 29,
         "comment": "MagicNeko-Asia Backbone node"
-      },
-      {
-        "asn": 140936,
-        "prefix": "10.127.11.0/24",
-        "maxPrefixLength": 29,
-        "comment": "SUNNET"
       },
       {
         "asn": 141706,
@@ -458,12 +440,6 @@
         "comment": "AS-BANDURA-DN42"
       },
       {
-        "asn": 4242423088,
-        "prefix": "10.127.11.0/24",
-        "maxPrefixLength": 29,
-        "comment": "SUNNET"
-      },
-      {
         "asn": 4242423618,
         "prefix": "10.127.255.53/32",
         "maxPrefixLength": 32,
@@ -482,22 +458,10 @@
         "comment": "TSINTYAO-NEO-NET4"
       },
       {
-        "asn": 7721,
-        "prefix": "fd10:127:ee11::/48",
-        "maxPrefixLength": 64,
-        "comment": "SUNNET"
-      },
-      {
         "asn": 17830,
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
         "comment": "POTATO-NEO-NET6-A"
-      },
-      {
-        "asn": 38173,
-        "prefix": "fd10:127:ee11::/48",
-        "maxPrefixLength": 64,
-        "comment": "SUNNET"
       },
       {
         "asn": 140913,
@@ -528,12 +492,6 @@
         "prefix": "fd10:127:237::/48",
         "maxPrefixLength": 64,
         "comment": "Magicneko Asia address occupied"
-      },
-      {
-        "asn": 140936,
-        "prefix": "fd10:127:ee11::/48",
-        "maxPrefixLength": 64,
-        "comment": "SUNNET"
       },
       {
         "asn": 141706,
@@ -870,12 +828,6 @@
         "prefix": "fd10:127:fc31::/48",
         "maxPrefixLength": 64,
         "comment": "AS-BANDURA-DN42"
-      },
-      {
-        "asn": 4242423088,
-        "prefix": "fd10:127:ee11::/48",
-        "maxPrefixLength": 64,
-        "comment": "SUNNET"
       },
       {
         "asn": 4242423618,
