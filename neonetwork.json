@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1668066486,
-    "valid": 1669276086
+    "generated": 1668180125,
+    "valid": 1669389725
   },
   "people": {
     "186526": {
@@ -2115,10 +2115,7 @@
           "en-1"
         ],
         "contact": {
-          "email": "neo@mk16.de",
-          "telegram": "https://t.me/mark22k",
-          "mastodon": "@mark22k@layer8.space",
-          "github": "marek22k"
+          "email": "neo@mk16.de"
         },
         "persona": {
           "pgp": "9AA28159FCEB3CD83BC212017E869146699108C7"
@@ -2136,14 +2133,14 @@
             "ipv4": [
               {
                 "prefix": "10.127.149.224/27",
-                "maxLength": 29,
+                "maxLength": 27,
                 "netname": "AS-BANDURA-NEO"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:fc31::/48",
-                "maxLength": 64,
+                "maxLength": 48,
                 "netname": "AS-BANDURA-NEO"
               }
             ]
@@ -2159,14 +2156,14 @@
             "ipv4": [
               {
                 "prefix": "10.127.149.224/27",
-                "maxLength": 29,
+                "maxLength": 27,
                 "netname": "AS-BANDURA-DN42"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:fc31::/48",
-                "maxLength": 64,
+                "maxLength": 48,
                 "netname": "AS-BANDURA-DN42"
               }
             ]

@@ -47,7 +47,7 @@
 | licson           | admin@licson.net             | licson                    |
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
-| mark22k          | neo@mk16.de                  | https://t.me/mark22k      |
+| mark22k          | neo@mk16.de                  |                           |
 | Ricky8955555     | 397050061@qq.com             | ricky8955555              |
 | septs            | bgp@septs.email              | septs                     |
 | undefined-moe    | i@undefined.moe              | webpack_exports_undefined |

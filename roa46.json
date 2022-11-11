@@ -1,8 +1,8 @@
 {
   "metadata": {
     "counts": 142,
-    "generated": 1668066486,
-    "valid": 1669276086
+    "generated": 1668180124,
+    "valid": 1669389724
   },
   "roas": [
     {
@@ -263,7 +263,7 @@
     {
       "asn": "AS4201272923",
       "prefix": "10.127.149.224/27",
-      "maxLength": 29
+      "maxLength": 27
     },
     {
       "asn": "AS4201279999",
@@ -368,7 +368,7 @@
     {
       "asn": "AS4242422923",
       "prefix": "10.127.149.224/27",
-      "maxLength": 29
+      "maxLength": 27
     },
     {
       "asn": "AS4242423618",
@@ -623,7 +623,7 @@
     {
       "asn": "AS4201272923",
       "prefix": "fd10:127:fc31::/48",
-      "maxLength": 64
+      "maxLength": 48
     },
     {
       "asn": "AS4201279999",
@@ -698,7 +698,7 @@
     {
       "asn": "AS4242422923",
       "prefix": "fd10:127:fc31::/48",
-      "maxLength": 64
+      "maxLength": 48
     },
     {
       "asn": "AS4242423618",

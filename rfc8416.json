@@ -316,7 +316,7 @@
       {
         "asn": 4201272923,
         "prefix": "10.127.149.224/27",
-        "maxPrefixLength": 29,
+        "maxPrefixLength": 27,
         "comment": "AS-BANDURA-NEO"
       },
       {
@@ -442,7 +442,7 @@
       {
         "asn": 4242422923,
         "prefix": "10.127.149.224/27",
-        "maxPrefixLength": 29,
+        "maxPrefixLength": 27,
         "comment": "AS-BANDURA-DN42"
       },
       {
@@ -748,7 +748,7 @@
       {
         "asn": 4201272923,
         "prefix": "fd10:127:fc31::/48",
-        "maxPrefixLength": 64,
+        "maxPrefixLength": 48,
         "comment": "AS-BANDURA-NEO"
       },
       {
@@ -838,7 +838,7 @@
       {
         "asn": 4242422923,
         "prefix": "fd10:127:fc31::/48",
-        "maxPrefixLength": 64,
+        "maxPrefixLength": 48,
         "comment": "AS-BANDURA-DN42"
       },
       {
