@@ -33,7 +33,7 @@
 | Yitong Dang      | tomdang@naivetomcat.cn       | @naivetomcat              |
 | Yukari           | i@0x7f.cc                    | CharlesYang               |
 | Yura             | yurachan@etlgr.com           | @noc2464                  |
-| Yux Zhu          | me@yux.im                    | im_yux                    |
+| Yux Zhu          | me@yux.im                    |                           |
 | alanyhq          |                              | alanyhq                   |
 | caxap            | yrdw@protonmail.com          |                           |
 | chenx97          | chenx97@gmail.com            |                           |
