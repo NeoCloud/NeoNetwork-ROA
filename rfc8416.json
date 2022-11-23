@@ -392,12 +392,6 @@
         "comment": "IEDON-NET"
       },
       {
-        "asn": 4242422399,
-        "prefix": "10.127.239.0/24",
-        "maxPrefixLength": 29,
-        "comment": "QYZ-NEO-IPV4"
-      },
-      {
         "asn": 4242422439,
         "prefix": "10.127.39.0/24",
         "maxPrefixLength": 29,
@@ -798,12 +792,6 @@
         "prefix": "fd10:127:aa66::/48",
         "maxPrefixLength": 64,
         "comment": "POTATO-NEO-NET6-A"
-      },
-      {
-        "asn": 4242422399,
-        "prefix": "fd10:127:2399::/48",
-        "maxPrefixLength": 64,
-        "comment": "QYZ-NEO-IPV6"
       },
       {
         "asn": 4242422439,

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1669020388,
-    "valid": 1670229988
+    "generated": 1669223882,
+    "valid": 1670433482
   },
   "people": {
     "186526": {
@@ -855,49 +855,6 @@
                 "prefix": "fd10:127:5f37:59df::/64",
                 "maxLength": 64,
                 "netname": "NeoNetwork Origin"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "Qin Yuzhen": {
-      "info": {
-        "name": "Qin Yuzhen",
-        "babel": [
-          "zh-N",
-          "en-3"
-        ],
-        "contact": {
-          "email": "1@jin-dan.site",
-          "telegram": "yuzhenqin",
-          "github": "yuzhenqin"
-        },
-        "persona": {
-          "pgp": "17A745DEC7298325A69DD1C235D412B098D64338"
-        },
-        "nic_hdl": "QIN-YUZHEN"
-      },
-      "asns": [
-        {
-          "asn": 4242422399,
-          "owner": "Qin Yuzhen",
-          "name": "QYZ-AS",
-          "source": "DN42",
-          "description": "QYZ DN42 Network",
-          "routes": {
-            "ipv4": [
-              {
-                "prefix": "10.127.239.0/24",
-                "maxLength": 29,
-                "netname": "QYZ-NEO-IPV4"
-              }
-            ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:2399::/48",
-                "maxLength": 64,
-                "netname": "QYZ-NEO-IPV6"
               }
             ]
           }
