@@ -325,6 +325,8 @@
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48      |                   |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | 10.127.149.224/27       |                   |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | fd10:127:fc31::/48      |                   |
+| AS4201272923 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
+| AS4201272923 | anycast-auth-6                  | loopback | fd10:127:ffff:53::/64   |                   |
 | AS4201279999 | Hydro-Neo-Network-4             | subnet   | 10.127.88.0/24          |                   |
 | AS4201279999 | Hydro-Neo-Network-6             | subnet   | fd10:127:88::/48        |                   |
 | AS4242420140 | dfceaef NET                     | subnet   | 10.127.12.0/24          |                   |
@@ -359,6 +361,8 @@
 | AS4242422464 | anycast-recur-6                 | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | 10.127.149.224/27       |                   |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | fd10:127:fc31::/48      |                   |
+| AS4242422923 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
+| AS4242422923 | anycast-auth-6                  | loopback | fd10:127:ffff:53::/64   |                   |
 | AS4242423618 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
 | AS4242423618 | anycast-recur-4                 | loopback | 10.127.255.54/32        |                   |
 | AS4242423618 | anycast-auth-6                  | loopback | fd10:127:ffff:53::/64   |                   |

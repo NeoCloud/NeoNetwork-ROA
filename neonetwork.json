@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1670233788,
-    "valid": 1671443388
+    "generated": 1670240466,
+    "valid": 1671450066
   },
   "people": {
     "186526": {
@@ -2091,6 +2091,11 @@
                 "prefix": "10.127.149.224/27",
                 "maxLength": 27,
                 "netname": "AS-BANDURA-NEO"
+              },
+              {
+                "prefix": "10.127.255.53/32",
+                "maxLength": 32,
+                "netname": "anycast-auth-4"
               }
             ],
             "ipv6": [
@@ -2098,6 +2103,11 @@
                 "prefix": "fd10:127:fc31::/48",
                 "maxLength": 48,
                 "netname": "AS-BANDURA-NEO"
+              },
+              {
+                "prefix": "fd10:127:ffff:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-auth-6"
               }
             ]
           }
@@ -2114,6 +2124,11 @@
                 "prefix": "10.127.149.224/27",
                 "maxLength": 27,
                 "netname": "AS-BANDURA-DN42"
+              },
+              {
+                "prefix": "10.127.255.53/32",
+                "maxLength": 32,
+                "netname": "anycast-auth-4"
               }
             ],
             "ipv6": [
@@ -2121,6 +2136,11 @@
                 "prefix": "fd10:127:fc31::/48",
                 "maxLength": 48,
                 "netname": "AS-BANDURA-DN42"
+              },
+              {
+                "prefix": "fd10:127:ffff:53::/64",
+                "maxLength": 64,
+                "netname": "anycast-auth-6"
               }
             ]
           }
