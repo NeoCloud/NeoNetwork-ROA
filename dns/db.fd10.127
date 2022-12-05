@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        76677295    ; Serial
+        83351779    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -82,3 +82,4 @@ f.0.0.e                                                IN    NS     ns.kskb.neo.
 
 ; dnskey
 @ IN DNSKEY 257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==
+@ IN DNSKEY 256 3 13 fu+4con6sb7biVu866tpzq0w6IeFZWTlXSikshue3G26ftLMU0jz5tVV dqOMHP+CpXz9y0kQ6lOHmIlCzi4pAA==

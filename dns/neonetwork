@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        76677295    ; Serial
+        83351779    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -196,3 +196,4 @@ bandura                   IN    DS       30344 15 2 92716A3A5226CDE664828B1346D3
 
 ; dnskey
 @ IN DNSKEY 257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==
+@ IN DNSKEY 256 3 13 oUcsKJykGOVwz58smxaygPFhm4PZEPKIukPO+HKbEBwGFnIbcamMsXFJ Gp2Wi7T5a0Z61IT/VxWLV4D7UhcAvg==
