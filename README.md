@@ -33,6 +33,7 @@
 | Yukari           | i@0x7f.cc                    | CharlesYang               |
 | Yura             | yurachan@etlgr.com           | @noc2464                  |
 | Yux Zhu          | me@yux.im                    |                           |
+| Qin Yuzhen       | 1@jin-dan.site               |                           |
 | alanyhq          |                              | alanyhq                   |
 | caxap            | yrdw@protonmail.com          |                           |
 | chenx97          | chenx97@gmail.com            |                           |
@@ -63,6 +64,7 @@
 | Internet   | AS142280     | Yitong-Dang   | NTEREN-BACKBONE                                                 |
 | Internet   | AS207268     | Yukari        | Strategic Explorations (IX)                                     |
 | Internet   | AS209557     | SteveYi       | Yi-Network                                                      |
+| Internet   | AS211390     | YuzhenQin     | YUZHEN-NETWORK                                                  |
 | Internet   | AS211876     | David Liu     | FIXMIX-GEN                                                      |
 | Internet   | AS213262     | Moe           | Moe                                                             |
 | NeoNetwork | AS4201270000 | Neo_Chen      | NeoNetwork Origin                                               |

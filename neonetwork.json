@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1670328747,
-    "valid": 1671538347
+    "generated": 1670763795,
+    "valid": 1671973395
   },
   "people": {
     "186526": {
@@ -1482,6 +1482,36 @@
                 "netname": "IWARP-NEO-IP6-NETWORK"
               }
             ]
+          }
+        }
+      ]
+    },
+    "YuzhenQin": {
+      "info": {
+        "name": "Qin Yuzhen",
+        "babel": [
+          "zh-N",
+          "en-3"
+        ],
+        "contact": {
+          "email": "1@jin-dan.site",
+          "github": "yuzhenqin"
+        },
+        "persona": {
+          "pgp": "E370A15E3372180A5854E9052B722BAAAAAAAAAA"
+        },
+        "nic_hdl": "QIN-YUZHEN"
+      },
+      "asns": [
+        {
+          "asn": 211390,
+          "owner": "YuzhenQin",
+          "name": "YUZHEN-NETWORK",
+          "source": "Internet",
+          "description": "Yuzhen Network",
+          "routes": {
+            "ipv4": [],
+            "ipv6": []
           }
         }
       ]
