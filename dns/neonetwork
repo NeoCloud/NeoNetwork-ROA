@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL	3600
 @	IN	SOA	root-dns.neo. root.neo. (
-        85250588    ; Serial
+        86568128    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -35,10 +35,11 @@ home.edwardp              IN    A        10.127.18.33
 home.edwardp              IN    AAAA     fd10:127:2f2f:2333::1
 jp1.edwardp               IN    A        10.127.18.34
 jp1.edwardp               IN    AAAA     fd10:127:2f2f:2334::1
-jp2.edwardp               IN    A        10.127.18.37
-jp2.edwardp               IN    AAAA     fd10:127:2f2f:2337::1
 edwardp                   IN    CNAME    home.edwardp
 mc.edwardp                IN    CNAME    home.edwardp
+live.edwardp              IN    CNAME    home.edwardp
+dynmap.edwardp            IN    CNAME    home.edwardp
+schem.edwardp             IN    CNAME    home.edwardp
 
 tv                        IN    A        10.127.15.58
 
