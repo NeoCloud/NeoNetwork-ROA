@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1674454815,
-    "valid": 1675664415
+    "generated": 1674807375,
+    "valid": 1676016975
   },
   "people": {
     "186526": {
@@ -1660,7 +1660,31 @@
         },
         "nic_hdl": "FUNNYSYC"
       },
-      "asns": []
+      "asns": [
+        {
+          "asn": 4201270037,
+          "owner": "funnysyc",
+          "name": "FUNNYSYC-AS",
+          "source": "NeoNetwork",
+          "description": "FunnySYC Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.37.0/24",
+                "maxLength": 29,
+                "netname": "FUNNYSYC-NET"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:37::/48",
+                "maxLength": 64,
+                "netname": "FUNNYSYC-NET"
+              }
+            ]
+          }
+        }
+      ]
     },
     "huajitech": {
       "info": {

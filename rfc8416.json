@@ -260,6 +260,12 @@
         "comment": "IWARP-NEO-IP4-NETWORK"
       },
       {
+        "asn": 4201270037,
+        "prefix": "10.127.37.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FUNNYSYC-NET"
+      },
+      {
         "asn": 4201270039,
         "prefix": "10.127.39.0/24",
         "maxPrefixLength": 29,
@@ -708,6 +714,12 @@
         "prefix": "fd10:127:30::/48",
         "maxPrefixLength": 64,
         "comment": "IWARP-NEO-IP6-NETWORK"
+      },
+      {
+        "asn": 4201270037,
+        "prefix": "fd10:127:37::/48",
+        "maxPrefixLength": 64,
+        "comment": "FUNNYSYC-NET"
       },
       {
         "asn": 4201270039,
