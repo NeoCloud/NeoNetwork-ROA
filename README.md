@@ -48,6 +48,7 @@
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
 | mark22k          | neo@mk16.de                  |                           |
+| Alexey Boldyrev  | ne-vlezay80@yandex.ru        |                           |
 | Ricky8955555     | 397050061@qq.com             | ricky8955555              |
 | septs            | bgp@septs.email              | septs                     |
 | undefined-moe    | i@undefined.moe              | webpack_exports_undefined |
@@ -109,6 +110,7 @@
 | DN42       | AS4242420916 | alanyhq       | alanyhq                                                         |
 | DN42       | AS4242421025 | icecat        | NextMoe Neo-Network Intermediate Access Project                 |
 | DN42       | AS4242421037 | LibreHouse    | LibreHouse                                                      |
+| DN42       | AS4242421181 | nevlezay80    | AS-NEVLEZAY-DN42                                                |
 | DN42       | AS4242421214 | SteveYi       | Yi-Network                                                      |
 | DN42       | AS4242421331 | Yukari        | Niantic Network                                                 |
 | DN42       | AS4242421332 | Yukari        | Niantic Network CN                                              |
@@ -347,6 +349,7 @@
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26           |                   |
+| AS4242421181 | AS-NEVLEZAY-DN42                | subnet   | 10.127.192.0/24         |                   |
 | AS4242421214 | Yi Global VPN                   | subnet   | 10.127.124.0/29         |                   |
 | AS4242421332 | NetUnion-IPv4                   | subnet   | 10.127.132.0/24         |                   |
 | AS4242421332 | NetUnion-IPv6                   | subnet   | fd10:127:1332::/48      |                   |
@@ -426,6 +429,7 @@
 10.127.149.224/27
 10.127.180.0/24
 10.127.186.0/24
+10.127.192.0/24
 10.127.232.0/22
 10.127.255.4/32
 10.127.255.39/32
@@ -562,7 +566,11 @@ fd10:127:ffff:53::/64
 10.127.184.0/23
 10.127.187.0/24
 10.127.188.0/22
-10.127.192.0/19
+10.127.193.0/24
+10.127.194.0/23
+10.127.196.0/22
+10.127.200.0/21
+10.127.208.0/20
 10.127.224.0/21
 10.127.236.0/22
 10.127.240.0/21
@@ -905,5 +913,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11189      | 54347      | 17.07%         | 82.93%         |
+| IPv4         | 65536      | 11445      | 54091      | 17.46%         | 82.54%         |
 | IPv6         | 7.9228e+28 | 4.5732e+25 | 7.9182e+28 | 0.06%          | 99.94%         |

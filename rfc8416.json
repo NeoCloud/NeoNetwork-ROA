@@ -380,6 +380,12 @@
         "comment": "LibreHouse"
       },
       {
+        "asn": 4242421181,
+        "prefix": "10.127.192.0/24",
+        "maxPrefixLength": 27,
+        "comment": "AS-NEVLEZAY-DN42"
+      },
+      {
         "asn": 4242421214,
         "prefix": "10.127.124.0/29",
         "maxPrefixLength": 29,

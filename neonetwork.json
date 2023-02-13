@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1675664503,
-    "valid": 1676874103
+    "generated": 1676264568,
+    "valid": 1677474168
   },
   "people": {
     "186526": {
@@ -2217,6 +2217,38 @@
                 "netname": "anycast-recur-6"
               }
             ]
+          }
+        }
+      ]
+    },
+    "nevlezay80": {
+      "info": {
+        "name": "Alexey Boldyrev",
+        "babel": [
+          "ru"
+        ],
+        "contact": {
+          "email": "ne-vlezay80@yandex.ru",
+          "github": "ne-vlezay80"
+        },
+        "nic_hdl": "ALEXEY-BOLDYREV"
+      },
+      "asns": [
+        {
+          "asn": 4242421181,
+          "owner": "nevlezay80",
+          "name": "AS-NEVLEZAY-DN42",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.192.0/24",
+                "maxLength": 27,
+                "netname": "AS-NEVLEZAY-DN42"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]
