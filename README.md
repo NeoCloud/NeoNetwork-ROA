@@ -132,12 +132,12 @@
 | AS207268     | IX42-LAS      |
 | AS213262     | Moe           |
 | AS4201270000 | cklvax        |
-| AS4201270000 | caasih        |
 | AS4201270000 | NeoPDP-11     |
 | AS4201270000 | NeoSystem     |
 | AS4201270000 | pan           |
 | AS4201270000 | NeoRouter     |
 | AS4201270000 | NeoVAX        |
+| AS4201270000 | caasih        |
 | AS4201270001 | septs         |
 | AS4201270003 | chenx97       |
 | AS4201270004 | frank-hsinchu |
@@ -184,38 +184,27 @@
 
 |      Upstream | Downstream    |
 |---------------|---------------|
-|        cklvax | NeoSystem     |
+| JerryXiao-SH1 | JerryXiao-HK1 |
 |      SaruYagi | SaruHome      |
 |      SaruYagi | SaruSaru      |
 |      SaruYagi | SaruIruka     |
 |      SaruYagi | SaruUmidanuki |
-|      SaruSaru | SaruHome      |
-|      SaruSaru | SaruIruka     |
-|      SaruSaru | SaruUmidanuki |
-|      SaruSaru | SaruYagi      |
-|     NeoSystem | NeoVAX        |
-| JerryXiao-SH1 | JerryXiao-HK1 |
-| JerryXiao-HK1 | JerryXiao-HK2 |
-|           pan | NeoPDP-11     |
-|           pan | NeoSystem     |
-|           pan | NeoVAX        |
 |      SaruHome | SaruSaru      |
 |      SaruHome | SaruIruka     |
 |      SaruHome | SaruUmidanuki |
 |      SaruHome | SaruYagi      |
-|        caasih | NeoPDP-11     |
-|        caasih | staph         |
-|         staph | septs         |
-|     NeoPDP-11 | NeoVAX        |
-|     JerryXiao | JerryXiao-HK1 |
-|     JerryXiao | JerryXiao-SH1 |
-|     JerryXiao | LanTian       |
-|     JerryXiao | dfceaef       |
-|     SaruIruka | SaruHome      |
-|     SaruIruka | SaruSaru      |
-|     SaruIruka | SaruUmidanuki |
-|     SaruIruka | SaruYagi      |
 | Ndoskrnl-US01 | Ndoskrnl-CN01 |
+|        cklvax | NeoSystem     |
+|     NeoSystem | NeoVAX        |
+| JerryXiao-HK1 | JerryXiao-HK2 |
+|     NeoPDP-11 | NeoVAX        |
+|           pan | NeoPDP-11     |
+|           pan | NeoSystem     |
+|           pan | NeoVAX        |
+|      SaruSaru | SaruHome      |
+|      SaruSaru | SaruIruka     |
+|      SaruSaru | SaruUmidanuki |
+|      SaruSaru | SaruYagi      |
 | SaruUmidanuki | SaruHome      |
 | SaruUmidanuki | SaruSaru      |
 | SaruUmidanuki | SaruIruka     |
@@ -225,6 +214,17 @@
 |         septs | LanTian       |
 |         septs | frank-hsinchu |
 |         septs | megumiLHS     |
+|     JerryXiao | JerryXiao-HK1 |
+|     JerryXiao | JerryXiao-SH1 |
+|     JerryXiao | LanTian       |
+|     JerryXiao | dfceaef       |
+|        caasih | NeoPDP-11     |
+|        caasih | staph         |
+|         staph | septs         |
+|     SaruIruka | SaruHome      |
+|     SaruIruka | SaruSaru      |
+|     SaruIruka | SaruUmidanuki |
+|     SaruIruka | SaruYagi      |
 
 ## Route table
 
