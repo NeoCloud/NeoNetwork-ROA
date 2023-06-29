@@ -97,7 +97,7 @@
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
 | NeoNetwork | AS4201270456 | huajitech     | HJTMESH-AS                                                      |
-| NeoNetwork | AS4201271111 | KusakabeSi    | Kusakabe-Neo                                                    |
+| NeoNetwork | AS4201271111 | KusakabeSi    | KSKB-NEO                                                        |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily          | Lily_Network                                                    |
 | NeoNetwork | AS4201272923 | mark22k       | AS-BANDURA-NEO                                                  |
@@ -222,8 +222,8 @@
 | AS4201270456 | HJTMESH-NET                     | subnet   | fd10:127:45::/48        |                   |
 | AS4201270456 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
 | AS4201270456 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
-| AS4201271111 | Kusakabe-Neo-IP4                | subnet   | 10.127.111.0/24         |                   |
-| AS4201271111 | Kusakabe-Neo-IP6                | subnet   | fd10:127:e00f::/48      |                   |
+| AS4201271111 | KSKB-NEO-IP4                    | subnet   | 10.127.111.0/24         |                   |
+| AS4201271111 | KSKB-NEO-IP6                    | subnet   | fd10:127:e00f::/48      |                   |
 | AS4201271488 | Bear                            | subnet   | fd10:127:1488::/48      |                   |
 | AS4201271877 | LilyNetwork-Neo-IP4             | subnet   | 10.127.180.0/24         |                   |
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48      |                   |

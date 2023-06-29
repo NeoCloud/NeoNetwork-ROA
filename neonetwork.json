@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1687760639,
-    "valid": 1688970239
+    "generated": 1688023469,
+    "valid": 1689233069
   },
   "people": {
     "186526": {
@@ -555,7 +555,7 @@
         {
           "asn": 4201271111,
           "owner": "KusakabeSi",
-          "name": "Kusakabe-Neo",
+          "name": "KSKB-NEO",
           "source": "NeoNetwork",
           "description": null,
           "routes": {
@@ -563,14 +563,14 @@
               {
                 "prefix": "10.127.111.0/24",
                 "maxLength": 29,
-                "netname": "Kusakabe-Neo-IP4"
+                "netname": "KSKB-NEO-IP4"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:e00f::/48",
                 "maxLength": 64,
-                "netname": "Kusakabe-Neo-IP6"
+                "netname": "KSKB-NEO-IP6"
               }
             ]
           }
