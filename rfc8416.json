@@ -314,6 +314,12 @@
         "comment": "KSKB-NEO-IP4"
       },
       {
+        "asn": 4201271480,
+        "prefix": "10.127.24.0/24",
+        "maxPrefixLength": 29,
+        "comment": "NEKOID-INET"
+      },
+      {
         "asn": 4201271877,
         "prefix": "10.127.180.0/24",
         "maxPrefixLength": 29,
@@ -774,6 +780,12 @@
         "prefix": "fd10:127:e00f::/48",
         "maxPrefixLength": 64,
         "comment": "KSKB-NEO-IP6"
+      },
+      {
+        "asn": 4201271480,
+        "prefix": "fd10:127:24::/48",
+        "maxPrefixLength": 64,
+        "comment": "NEKOID-INET6"
       },
       {
         "asn": 4201271488,

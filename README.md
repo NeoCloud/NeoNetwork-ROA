@@ -49,6 +49,7 @@
 | lilydjwg         | lilydjwg@gmail.com           | @lilydjwg                 |
 | MagicNeko        | noc@koishi.moe               | Mirs322                   |
 | mark22k          | neo@mk16.de                  |                           |
+| nekoid           | info@nekoid.cc               | nekonull_ptr              |
 | Alexey Boldyrev  | ne-vlezay80@yandex.ru        |                           |
 | Ricky8955555     | 397050061@qq.com             | ricky8955555              |
 | septs            | bgp@septs.email              | septs                     |
@@ -99,6 +100,7 @@
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
 | NeoNetwork | AS4201270456 | huajitech     | HJTMESH-AS                                                      |
 | NeoNetwork | AS4201271111 | KusakabeSi    | KSKB-NEO                                                        |
+| NeoNetwork | AS4201271480 | nekoid        | NEKOID                                                          |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily          | Lily_Network                                                    |
 | NeoNetwork | AS4201272032 | Razuritta     | LapisNetwork-NEO                                                |
@@ -226,6 +228,8 @@
 | AS4201270456 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4201271111 | KSKB-NEO-IP4                    | subnet   | 10.127.111.0/24         |                   |
 | AS4201271111 | KSKB-NEO-IP6                    | subnet   | fd10:127:e00f::/48      |                   |
+| AS4201271480 | NEKOID-INET                     | subnet   | 10.127.24.0/24          |                   |
+| AS4201271480 | NEKOID-INET6                    | subnet   | fd10:127:24::/48        |                   |
 | AS4201271488 | Bear                            | subnet   | fd10:127:1488::/48      |                   |
 | AS4201271877 | LilyNetwork-Neo-IP4             | subnet   | 10.127.180.0/24         |                   |
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48      |                   |
@@ -305,7 +309,7 @@
 10.127.19.0/24
 10.127.21.0/24
 10.127.22.0/28
-10.127.25.0/24
+10.127.24.0/23
 10.127.26.0/24
 10.127.27.24/29
 10.127.30.0/24
@@ -350,6 +354,7 @@ fd10:127:10::/48
 fd10:127:13::/48
 fd10:127:17::/48
 fd10:127:23::/48
+fd10:127:24::/48
 fd10:127:27:20::/60
 fd10:127:30::/48
 fd10:127:37::/48
@@ -405,7 +410,6 @@ fd10:127:ffff:53::/64
 10.127.22.64/26
 10.127.22.128/25
 10.127.23.0/24
-10.127.24.0/24
 10.127.27.0/28
 10.127.27.16/29
 10.127.27.32/27
@@ -532,7 +536,7 @@ fd10:127:16::/48
 fd10:127:18::/45
 fd10:127:20::/47
 fd10:127:22::/48
-fd10:127:24::/47
+fd10:127:25::/48
 fd10:127:26::/48
 fd10:127:27::/59
 fd10:127:27:30::/60
@@ -824,7 +828,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
-|--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11701      | 53835      | 17.85%         | 82.15%         |
-| IPv6         | 7.9228e+28 | 4.6941e+25 | 7.9181e+28 | 0.06%          | 99.94%         |
+| IP Version   | Total      | Used      | Free      | Percent Used   | Percent Free   |
+|--------------|------------|-----------|-----------|----------------|----------------|
+| IPv4         | 65536      | 11957     | 53579     | 18.24%         | 81.76%         |
+| IPv6         | 7.9228e+28 | 4.815e+25 | 7.918e+28 | 0.06%          | 99.94%         |
