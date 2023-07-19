@@ -21,6 +21,7 @@
 | Moe              | noc@moeternet.com            | @moeternet                |
 | Ndoskrnl         | lollipop.studio.cn@gmail.com |                           |
 | Neo_Chen         | chenkolei@gmail.com          | Neo_Chen                  |
+| Razuritta        | i@razuritta.me               |                           |
 | Ren Baoshuo      | i@baoshuo.ren                | baoshuo                   |
 | SUNNET           |                              |                           |
 | Staph            | staph@aosc.io                | Staph                     |
@@ -100,6 +101,7 @@
 | NeoNetwork | AS4201271111 | KusakabeSi    | KSKB-NEO                                                        |
 | NeoNetwork | AS4201271488 | SyllaBear     | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily          | Lily_Network                                                    |
+| NeoNetwork | AS4201272032 | Razuritta     | LapisNetwork-NEO                                                |
 | NeoNetwork | AS4201272923 | mark22k       | AS-BANDURA-NEO                                                  |
 | NeoNetwork | AS4201279999 | undefined-moe | Hydro-Neo-Network                                               |
 | DN42       | AS4242420140 | Yangfl        | Yangfl Network                                                  |
@@ -227,6 +229,8 @@
 | AS4201271488 | Bear                            | subnet   | fd10:127:1488::/48      |                   |
 | AS4201271877 | LilyNetwork-Neo-IP4             | subnet   | 10.127.180.0/24         |                   |
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48      |                   |
+| AS4201272032 | LAPISNET4-NEO                   | subnet   | 10.127.134.0/24         |                   |
+| AS4201272032 | LAPISNET6-NEO                   | subnet   | fd10:127:2032::/48      |                   |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | 10.127.149.224/27       |                   |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | fd10:127:fc31::/48      |                   |
 | AS4201272923 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
@@ -323,6 +327,7 @@
 10.127.128.0/24
 10.127.131.0/24
 10.127.132.0/24
+10.127.134.0/24
 10.127.149.224/27
 10.127.180.0/24
 10.127.186.0/24
@@ -367,6 +372,7 @@ fd10:127:1332::/48
 fd10:127:1488::/48
 fd10:127:1877::/48
 fd10:127:1919::/48
+fd10:127:2032::/48
 fd10:127:2f2f::/48
 fd10:127:3262::/64
 fd10:127:5f37:59df::/64
@@ -447,7 +453,7 @@ fd10:127:ffff:53::/64
 10.127.129.0/24
 10.127.130.0/24
 10.127.133.0/24
-10.127.134.0/23
+10.127.135.0/24
 10.127.136.0/21
 10.127.144.0/22
 10.127.148.0/24
@@ -647,7 +653,17 @@ fd10:127:1940::/42
 fd10:127:1980::/41
 fd10:127:1a00::/39
 fd10:127:1c00::/38
-fd10:127:2000::/37
+fd10:127:2000::/43
+fd10:127:2020::/44
+fd10:127:2030::/47
+fd10:127:2033::/48
+fd10:127:2034::/46
+fd10:127:2038::/45
+fd10:127:2040::/42
+fd10:127:2080::/41
+fd10:127:2100::/40
+fd10:127:2200::/39
+fd10:127:2400::/38
 fd10:127:2800::/38
 fd10:127:2c00::/39
 fd10:127:2e00::/40
@@ -810,5 +826,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 11445      | 54091      | 17.46%         | 82.54%         |
-| IPv6         | 7.9228e+28 | 4.5732e+25 | 7.9182e+28 | 0.06%          | 99.94%         |
+| IPv4         | 65536      | 11701      | 53835      | 17.85%         | 82.15%         |
+| IPv6         | 7.9228e+28 | 4.6941e+25 | 7.9181e+28 | 0.06%          | 99.94%         |

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1689574962,
-    "valid": 1690784562
+    "generated": 1689777020,
+    "valid": 1690986620
   },
   "people": {
     "186526": {
@@ -859,6 +859,48 @@
                 "prefix": "fd10:127:5f37:59df::/64",
                 "maxLength": 64,
                 "netname": "NeoNetwork Origin"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Razuritta": {
+      "info": {
+        "name": "Razuritta",
+        "babel": [
+          "en",
+          "zh"
+        ],
+        "contact": {
+          "email": "i@razuritta.me",
+          "matrix": "@salty_0x1c:bartz.foo"
+        },
+        "persona": {
+          "pgp": "ae902ca260080ba005e3a5e92e466ddd3794c4eb"
+        },
+        "nic_hdl": "RAZURITTA"
+      },
+      "asns": [
+        {
+          "asn": 4201272032,
+          "owner": "Razuritta",
+          "name": "LapisNetwork-NEO",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.134.0/24",
+                "maxLength": 29,
+                "netname": "LAPISNET4-NEO"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2032::/48",
+                "maxLength": 64,
+                "netname": "LAPISNET6-NEO"
               }
             ]
           }
