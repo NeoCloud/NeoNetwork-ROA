@@ -260,6 +260,12 @@
         "comment": "IWARP-NEO-IP4-NETWORK"
       },
       {
+        "asn": 4201270036,
+        "prefix": "10.127.36.0/24",
+        "maxPrefixLength": 29,
+        "comment": "TSINTYAO-NEO-NET4-IX36"
+      },
+      {
         "asn": 4201270037,
         "prefix": "10.127.37.0/24",
         "maxPrefixLength": 29,
@@ -732,6 +738,12 @@
         "prefix": "fd10:127:30::/48",
         "maxPrefixLength": 64,
         "comment": "IWARP-NEO-IP6-NETWORK"
+      },
+      {
+        "asn": 4201270036,
+        "prefix": "fd10:127:36::/48",
+        "maxPrefixLength": 64,
+        "comment": "TSINGYAO-NEO-NET6-IX36"
       },
       {
         "asn": 4201270037,
