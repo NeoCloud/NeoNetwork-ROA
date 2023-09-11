@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1694433756,
-    "valid": 1695643356
+    "generated": 1694440887,
+    "valid": 1695650487
   },
   "people": {
     "186526": {
@@ -279,6 +279,9 @@
           "email": "edward@edward-p.xyz",
           "github": "edward-p",
           "telegram": "@Edward_P"
+        },
+        "persona": {
+          "pgp": "A0B55B12351C08FED81DAAF4840A50A14EEF0D58"
         },
         "nic_hdl": "EDWARD-P"
       },
