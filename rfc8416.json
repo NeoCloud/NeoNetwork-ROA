@@ -98,12 +98,6 @@
         "comment": "NiceLabs IX IPv4 Pool"
       },
       {
-        "asn": 4201270003,
-        "prefix": "10.127.89.0/24",
-        "maxPrefixLength": 29,
-        "comment": "chenx97 v4"
-      },
-      {
         "asn": 4201270004,
         "prefix": "10.127.56.0/24",
         "maxPrefixLength": 29,
@@ -606,12 +600,6 @@
         "prefix": "fd10:127:41::/48",
         "maxPrefixLength": 64,
         "comment": "NiceLabs IX IPv6 Pool"
-      },
-      {
-        "asn": 4201270003,
-        "prefix": "fd10:127:1919::/48",
-        "maxPrefixLength": 64,
-        "comment": "chenx97"
       },
       {
         "asn": 4201270006,

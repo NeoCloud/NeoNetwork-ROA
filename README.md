@@ -37,7 +37,6 @@
 | Qin Yuzhen       | 1@jin-dan.site               |                           |
 | alanyhq          |                              | alanyhq                   |
 | caxap            | yrdw@protonmail.com          |                           |
-| chenx97          | chenx97@gmail.com            |                           |
 | frank            |                              |                           |
 | funnysyc         | yc.s@outlook.com             | funnysyc                  |
 | HuajiTech        | noc@huajitech.net            | huajitech                 |
@@ -73,7 +72,6 @@
 | NeoNetwork | AS4201270000 | Neo_Chen      | NeoNetwork Origin                                               |
 | NeoNetwork | AS4201270001 | septs         | NiceLabs Exchange                                               |
 | NeoNetwork | AS4201270002 | septs         | [transferable]                                                  |
-| NeoNetwork | AS4201270003 | chenx97       | chenx97                                                         |
 | NeoNetwork | AS4201270004 | frank         | frank                                                           |
 | NeoNetwork | AS4201270005 | magicneko     | MagicNeko CN(Optical Cable Project in Northeast China)(=141706) |
 | NeoNetwork | AS4201270006 | JerryXiao     | Jerry Network                                                   |
@@ -163,8 +161,6 @@
 | AS4201270000 | NeoNetwork Origin               | subnet   | fd10:127:5f37:59df::/64 |                   |
 | AS4201270001 | NiceLabs IX IPv4 Pool           | subnet   | 10.127.41.0/24          |                   |
 | AS4201270001 | NiceLabs IX IPv6 Pool           | subnet   | fd10:127:41::/48        |                   |
-| AS4201270003 | chenx97                         | subnet   | fd10:127:1919::/48      |                   |
-| AS4201270003 | chenx97 v4                      | subnet   | 10.127.89.0/24          |                   |
 | AS4201270004 | frank-hsinchu                   | subnet   | 10.127.56.0/24          |                   |
 | AS4201270004 | frank-hsinchu-1                 | loopback | 10.127.255.56/32        |                   |
 | AS4201270006 | JerryXiao-Infrastructure        | subnet   | 10.127.8.192/26         |                   |
@@ -325,7 +321,7 @@
 10.127.64.0/24
 10.127.66.0/24
 10.127.80.0/24
-10.127.88.0/23
+10.127.88.0/24
 10.127.99.0/24
 10.127.100.0/24
 10.127.110.0/23
@@ -379,7 +375,6 @@ fd10:127:1300::/48
 fd10:127:1332::/48
 fd10:127:1488::/48
 fd10:127:1877::/48
-fd10:127:1919::/48
 fd10:127:2032::/48
 fd10:127:2f2f::/48
 fd10:127:3262::/64
@@ -439,6 +434,7 @@ fd10:127:ffff:53::/64
 10.127.81.0/24
 10.127.82.0/23
 10.127.84.0/22
+10.127.89.0/24
 10.127.90.0/23
 10.127.92.0/22
 10.127.96.0/23
@@ -648,14 +644,7 @@ fd10:127:1874::/47
 fd10:127:1876::/48
 fd10:127:1878::/45
 fd10:127:1880::/41
-fd10:127:1900::/44
-fd10:127:1910::/45
-fd10:127:1918::/48
-fd10:127:191a::/47
-fd10:127:191c::/46
-fd10:127:1920::/43
-fd10:127:1940::/42
-fd10:127:1980::/41
+fd10:127:1900::/40
 fd10:127:1a00::/39
 fd10:127:1c00::/38
 fd10:127:2000::/43
@@ -829,7 +818,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
-|--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 12213      | 53323      | 18.64%         | 81.36%         |
-| IPv6         | 7.9228e+28 | 4.9359e+25 | 7.9179e+28 | 0.06%          | 99.94%         |
+| IP Version   | Total      | Used      | Free      | Percent Used   | Percent Free   |
+|--------------|------------|-----------|-----------|----------------|----------------|
+| IPv4         | 65536      | 11957     | 53579     | 18.24%         | 81.76%         |
+| IPv6         | 7.9228e+28 | 4.815e+25 | 7.918e+28 | 0.06%          | 99.94%         |
