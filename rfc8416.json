@@ -314,6 +314,12 @@
         "comment": "KSKB-NEO-IP4"
       },
       {
+        "asn": 4201271234,
+        "prefix": "10.127.20.0/24",
+        "maxPrefixLength": 29,
+        "comment": "WTM-ZONE-N-IPV4"
+      },
+      {
         "asn": 4201271480,
         "prefix": "10.127.24.0/24",
         "maxPrefixLength": 29,
@@ -780,6 +786,12 @@
         "prefix": "fd10:127:e00f::/48",
         "maxPrefixLength": 64,
         "comment": "KSKB-NEO-IP6"
+      },
+      {
+        "asn": 4201271234,
+        "prefix": "fd10:127:66::/48",
+        "maxPrefixLength": 64,
+        "comment": "WTM-ZONE-N-IPV6"
       },
       {
         "asn": 4201271480,

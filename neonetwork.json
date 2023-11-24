@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1700461237,
-    "valid": 1701670837
+    "generated": 1700800373,
+    "valid": 1702009973
   },
   "people": {
     "186526": {
@@ -41,6 +41,45 @@
                 "prefix": "fd10:127:186::/48",
                 "maxLength": 64,
                 "netname": "186526-block-v6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "A1ca7raz": {
+      "info": {
+        "name": "A1ca7raz",
+        "babel": [
+          "zh",
+          "en-4"
+        ],
+        "contact": {
+          "email": "aya@wtm.moe",
+          "github": "A1ca7raz"
+        },
+        "nic_hdl": "A1CA7RAZ"
+      },
+      "asns": [
+        {
+          "asn": 4201271234,
+          "owner": "A1ca7raz",
+          "name": "WTM-ZONE-N",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.20.0/24",
+                "maxLength": 29,
+                "netname": "WTM-ZONE-N-IPV4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:66::/48",
+                "maxLength": 64,
+                "netname": "WTM-ZONE-N-IPV6"
               }
             ]
           }
