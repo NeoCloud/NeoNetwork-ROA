@@ -290,6 +290,12 @@
         "comment": "TSINTYAO-NEO-NET4"
       },
       {
+        "asn": 4201270100,
+        "prefix": "10.127.27.232/29",
+        "maxPrefixLength": 29,
+        "comment": "chanceyan-NEO-IP4"
+      },
+      {
         "asn": 4201270186,
         "prefix": "10.127.186.0/24",
         "maxPrefixLength": 29,

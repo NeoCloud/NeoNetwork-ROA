@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1701670837,
-    "valid": 1702880437
+    "generated": 1701782210,
+    "valid": 1702991810
   },
   "people": {
     "186526": {
@@ -1684,6 +1684,36 @@
                 "netname": "caxap6"
               }
             ]
+          }
+        }
+      ]
+    },
+    "chanceyan": {
+      "info": {
+        "name": "chanceyan",
+        "contact": {
+          "email": "edwardchanceyan@gmail.com",
+          "github": "chanceyans",
+          "telegram": "@Edwardchanceyan"
+        },
+        "nic_hdl": "CHANCEYAN"
+      },
+      "asns": [
+        {
+          "asn": 4201270100,
+          "owner": "chanceyan",
+          "name": "chanceyan",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.27.232/29",
+                "maxLength": 29,
+                "netname": "chanceyan-NEO-IP4"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]

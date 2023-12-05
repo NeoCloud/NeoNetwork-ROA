@@ -38,6 +38,7 @@
 | Qin Yuzhen       | 1@jin-dan.site               |                           |
 | alanyhq          |                              | alanyhq                   |
 | caxap            | yrdw@protonmail.com          |                           |
+| chanceyan        | edwardchanceyan@gmail.com    | @Edwardchanceyan          |
 | frank            |                              |                           |
 | funnysyc         | yc.s@outlook.com             | funnysyc                  |
 | HuajiTech        | noc@huajitech.net            | huajitech                 |
@@ -97,6 +98,7 @@
 | NeoNetwork | AS4201270039 | DannyAAM      | SARU-AS-NEO                                                     |
 | NeoNetwork | AS4201270080 | Hanako        | HANAKO-NETWORK                                                  |
 | NeoNetwork | AS4201270099 | TsingYao      | AS-NEO-TSINGYAO                                                 |
+| NeoNetwork | AS4201270100 | chanceyan     | chanceyan                                                       |
 | NeoNetwork | AS4201270186 | 186526        | 186526 Network                                                  |
 | NeoNetwork | AS4201270456 | huajitech     | HJTMESH-AS                                                      |
 | NeoNetwork | AS4201271111 | KusakabeSi    | KSKB-NEO                                                        |
@@ -221,6 +223,7 @@
 | AS4201270080 | Hanako-Network-Neo-1-v6         | subnet   | fd10:127:80::/48        |                   |
 | AS4201270099 | TSINTYAO-NEO-NET4               | subnet   | 10.127.99.0/24          |                   |
 | AS4201270099 | TSINGYAO-NEO-NET6               | subnet   | fd10:127:99::/48        |                   |
+| AS4201270100 | chanceyan-NEO-IP4               | subnet   | 10.127.27.232/29        |                   |
 | AS4201270186 | 186526-block-v4                 | subnet   | 10.127.186.0/24         |                   |
 | AS4201270186 | 186526-block-v6                 | subnet   | fd10:127:186::/48       |                   |
 | AS4201270456 | HJTMESH-NET                     | subnet   | 10.127.45.0/24          |                   |
@@ -315,6 +318,7 @@
 10.127.24.0/23
 10.127.26.0/24
 10.127.27.24/29
+10.127.27.232/29
 10.127.30.0/24
 10.127.36.0/23
 10.127.38.32/27
@@ -416,7 +420,10 @@ fd10:127:ffff:53::/64
 10.127.27.16/29
 10.127.27.32/27
 10.127.27.64/26
-10.127.27.128/25
+10.127.27.128/26
+10.127.27.192/27
+10.127.27.224/29
+10.127.27.240/28
 10.127.28.0/23
 10.127.31.0/24
 10.127.32.0/22
@@ -824,5 +831,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 12213      | 53323      | 18.64%         | 81.36%         |
+| IPv4         | 65536      | 12221      | 53315      | 18.65%         | 81.35%         |
 | IPv6         | 7.9228e+28 | 4.9359e+25 | 7.9179e+28 | 0.06%          | 99.94%         |
