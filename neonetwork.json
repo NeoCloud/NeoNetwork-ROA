@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1701782210,
-    "valid": 1702991810
+    "generated": 1701787903,
+    "valid": 1702997503
   },
   "people": {
     "186526": {
@@ -1695,6 +1695,9 @@
           "email": "edwardchanceyan@gmail.com",
           "github": "chanceyans",
           "telegram": "@Edwardchanceyan"
+        },
+        "persona": {
+          "pgp": "F3E1B2BBC9358C98F73ECB1C6D380004BE763B8F"
         },
         "nic_hdl": "CHANCEYAN"
       },
