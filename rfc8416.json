@@ -770,6 +770,12 @@
         "comment": "TSINGYAO-NEO-NET6"
       },
       {
+        "asn": 4201270100,
+        "prefix": "fd10:127:1100::/48",
+        "maxPrefixLength": 64,
+        "comment": "chanceyan-NEO-IP4"
+      },
+      {
         "asn": 4201270186,
         "prefix": "fd10:127:186::/48",
         "maxPrefixLength": 64,

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1701787903,
-    "valid": 1702997503
+    "generated": 1701870625,
+    "valid": 1703080225
   },
   "people": {
     "186526": {
@@ -1716,7 +1716,13 @@
                 "netname": "chanceyan-NEO-IP4"
               }
             ],
-            "ipv6": []
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1100::/48",
+                "maxLength": 64,
+                "netname": "chanceyan-NEO-IP4"
+              }
+            ]
           }
         }
       ]
