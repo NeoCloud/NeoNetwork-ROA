@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1703485223,
-    "valid": 1704694823
+    "generated": 1703842978,
+    "valid": 1705052578
   },
   "people": {
     "186526": {
@@ -390,6 +390,58 @@
                 "netname": "Hanako-Network-Neo-1-v6"
               }
             ]
+          }
+        }
+      ]
+    },
+    "HawkinsSherpherd": {
+      "info": {
+        "name": "Hawkins Sherpherd",
+        "contact": {
+          "email": "haksrpd@outlook.com",
+          "telegram": "haksrpd"
+        },
+        "nic_hdl": "HAWKINS-SHERPHERD"
+      },
+      "asns": [
+        {
+          "asn": 4201273947,
+          "owner": "HawkinsSherpherd",
+          "name": "HAWKINS-NEO-AS",
+          "source": "NeoNetwork",
+          "description": "Site network for Hawkins",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.217.0/24",
+                "maxLength": 29,
+                "netname": "HAWKINS-NEO-NET4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:217::/48",
+                "maxLength": 64,
+                "netname": "HAWKINS-NEO-NET6"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242423947,
+          "owner": "HawkinsSherpherd",
+          "name": "SERNET-DN42",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.217.0/24",
+                "maxLength": 29,
+                "netname": "HAWKINS-NEO-NET4"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]

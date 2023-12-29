@@ -362,6 +362,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4201273947,
+        "prefix": "10.127.217.0/24",
+        "maxPrefixLength": 29,
+        "comment": "HAWKINS-NEO-NET4"
+      },
+      {
         "asn": 4201279999,
         "prefix": "10.127.88.0/24",
         "maxPrefixLength": 29,
@@ -516,6 +522,12 @@
         "prefix": "10.127.99.0/24",
         "maxPrefixLength": 29,
         "comment": "TSINTYAO-NEO-NET4"
+      },
+      {
+        "asn": 4242423947,
+        "prefix": "10.127.217.0/24",
+        "maxPrefixLength": 29,
+        "comment": "HAWKINS-NEO-NET4"
       },
       {
         "asn": 17830,
@@ -846,6 +858,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4201273947,
+        "prefix": "fd10:127:217::/48",
+        "maxPrefixLength": 64,
+        "comment": "HAWKINS-NEO-NET6"
       },
       {
         "asn": 4201279999,
