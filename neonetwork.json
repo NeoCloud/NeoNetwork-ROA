@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1704774676,
-    "valid": 1705984276
+    "generated": 1704788032,
+    "valid": 1705997632
   },
   "people": {
     "186526": {
@@ -400,6 +400,9 @@
         "contact": {
           "email": "haksrpd@outlook.com",
           "telegram": "haksrpd"
+        },
+        "persona": {
+          "pgp": "29E507919AAA2EBAC209658EA79D5869700BC8BE"
         },
         "nic_hdl": "HAWKINS-SHERPHERD"
       },
