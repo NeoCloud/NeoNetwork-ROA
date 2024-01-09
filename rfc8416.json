@@ -615,9 +615,15 @@
       },
       {
         "asn": 4201270000,
+        "prefix": "fd10:127::/56",
+        "maxPrefixLength": 64,
+        "comment": "NeoNetwork Origin 1"
+      },
+      {
+        "asn": 4201270000,
         "prefix": "fd10:127:5f37:59df::/64",
         "maxPrefixLength": 64,
-        "comment": "NeoNetwork Origin"
+        "comment": "NeoNetwork Origin 2"
       },
       {
         "asn": 4201270001,

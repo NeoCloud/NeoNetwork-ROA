@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1704694837,
-    "valid": 1705904437
+    "generated": 1704770712,
+    "valid": 1705980312
   },
   "people": {
     "186526": {
@@ -950,9 +950,14 @@
             ],
             "ipv6": [
               {
+                "prefix": "fd10:127::/56",
+                "maxLength": 64,
+                "netname": "NeoNetwork Origin 1"
+              },
+              {
                 "prefix": "fd10:127:5f37:59df::/64",
                 "maxLength": 64,
-                "netname": "NeoNetwork Origin"
+                "netname": "NeoNetwork Origin 2"
               }
             ]
           }
