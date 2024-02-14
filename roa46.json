@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "counts": 163,
-    "generated": 1707718727,
-    "valid": 1708928327
+    "counts": 156,
+    "generated": 1707877579,
+    "valid": 1709087179
   },
   "roas": [
     {
@@ -542,42 +542,7 @@
     },
     {
       "asn": "AS4201270007",
-      "prefix": "fd10:127:7::/51",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:2000::/54",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:2672::/64",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:3000::/52",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:4000::/50",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:8000::/50",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:c000::/51",
-      "maxLength": 64
-    },
-    {
-      "asn": "AS4201270007",
-      "prefix": "fd10:127:7:ffff::/64",
+      "prefix": "fd10:127:7::/48",
       "maxLength": 64
     },
     {

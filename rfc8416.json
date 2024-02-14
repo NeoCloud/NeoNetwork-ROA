@@ -651,51 +651,9 @@
       },
       {
         "asn": 4201270007,
-        "prefix": "fd10:127:7::/51",
+        "prefix": "fd10:127:7::/48",
         "maxPrefixLength": 64,
         "comment": "Staph_v6"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:2000::/54",
-        "maxPrefixLength": 64,
-        "comment": "StaphReserve_0"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:2672::/64",
-        "maxPrefixLength": 64,
-        "comment": "AOSCNet_v6"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:3000::/52",
-        "maxPrefixLength": 64,
-        "comment": "StaphReserve_1"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:4000::/50",
-        "maxPrefixLength": 64,
-        "comment": "StaphReserve_2"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:8000::/50",
-        "maxPrefixLength": 64,
-        "comment": "StaphReserve_3"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:c000::/51",
-        "maxPrefixLength": 64,
-        "comment": "StaphReserve_4"
-      },
-      {
-        "asn": 4201270007,
-        "prefix": "fd10:127:7:ffff::/64",
-        "maxPrefixLength": 64,
-        "comment": "StaphPeer"
       },
       {
         "asn": 4201270010,
