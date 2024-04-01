@@ -386,6 +386,12 @@
         "comment": "BAOSHUO-NEO-V4-1"
       },
       {
+        "asn": 4242420275,
+        "prefix": "10.127.242.0/24",
+        "maxPrefixLength": 29,
+        "comment": "S242storm42-IPv4"
+      },
+      {
         "asn": 4242420288,
         "prefix": "10.127.30.0/24",
         "maxPrefixLength": 29,
@@ -840,6 +846,12 @@
         "prefix": "fd10:127:17::/48",
         "maxPrefixLength": 64,
         "comment": "BAOSHUO-NEO-V6-1"
+      },
+      {
+        "asn": 4242420275,
+        "prefix": "fd10:127:42ff::/48",
+        "maxPrefixLength": 64,
+        "comment": "Starstorm42IPv6"
       },
       {
         "asn": 4242420288,

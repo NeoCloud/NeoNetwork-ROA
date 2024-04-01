@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1711952391,
-    "valid": 1713161991
+    "generated": 1711991714,
+    "valid": 1713201314
   },
   "people": {
     "186526": {
@@ -2495,6 +2495,47 @@
           "routes": {
             "ipv4": [],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "starstorm42": {
+      "info": {
+        "name": "starstorm42",
+        "babel": [
+          "en"
+        ],
+        "contact": {
+          "email": "startstorm@disroot.org",
+          "github": "BigFunnyGiant"
+        },
+        "persona": {
+          "pgp": "E38751374DD58D716A73831B3D5B23A378C7F8AF"
+        },
+        "nic_hdl": "STARSTORM42"
+      },
+      "asns": [
+        {
+          "asn": 4242420275,
+          "owner": "starstorm42",
+          "name": "AS-STARSTORM42-DN42",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.242.0/24",
+                "maxLength": 29,
+                "netname": "S242storm42-IPv4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:42ff::/48",
+                "maxLength": 64,
+                "netname": "Starstorm42IPv6"
+              }
+            ]
           }
         }
       ]
