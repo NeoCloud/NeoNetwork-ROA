@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1718715333,
-    "valid": 1719924933
+    "generated": 1718753677,
+    "valid": 1719963277
   },
   "people": {
     "186526": {
@@ -2539,6 +2539,40 @@
                 "prefix": "fd10:127:42ff::/48",
                 "maxLength": 64,
                 "netname": "Starstorm42IPv6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "stone": {
+      "info": {
+        "name": "Stone Fox",
+        "contact": {
+          "email": "stone@unix.dog"
+        },
+        "nic_hdl": "STONE-FOX"
+      },
+      "asns": [
+        {
+          "asn": 4201270003,
+          "owner": "stone",
+          "name": "Stone Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.18.128/25",
+                "maxLength": 29,
+                "netname": "Stone IPv4 Block"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:6194:24e0::/64",
+                "maxLength": 64,
+                "netname": "Stone IPv6 Block"
               }
             ]
           }

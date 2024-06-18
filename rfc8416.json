@@ -92,6 +92,12 @@
         "comment": "NiceLabs IX IPv4 Pool"
       },
       {
+        "asn": 4201270003,
+        "prefix": "10.127.18.128/25",
+        "maxPrefixLength": 29,
+        "comment": "Stone IPv4 Block"
+      },
+      {
         "asn": 4201270004,
         "prefix": "10.127.56.0/24",
         "maxPrefixLength": 29,
@@ -630,6 +636,12 @@
         "prefix": "fd10:127:41::/48",
         "maxPrefixLength": 64,
         "comment": "NiceLabs IX IPv6 Pool"
+      },
+      {
+        "asn": 4201270003,
+        "prefix": "fd10:127:6194:24e0::/64",
+        "maxPrefixLength": 64,
+        "comment": "Stone IPv6 Block"
       },
       {
         "asn": 4201270006,
