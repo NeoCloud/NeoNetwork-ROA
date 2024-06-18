@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1718605446,
-    "valid": 1719815046
+    "generated": 1718715333,
+    "valid": 1719924933
   },
   "people": {
     "186526": {
@@ -1427,7 +1427,7 @@
       "info": {
         "name": "Yukari",
         "contact": {
-          "telegram": "CharlesYang",
+          "telegram": "YukariChiba",
           "github": "YukariChiba",
           "email": "i@0x7f.cc"
         },
@@ -1444,20 +1444,25 @@
           "source": "Internet",
           "description": "Internet eXchange in DN42 / NeoNetwork / clearnet",
           "routes": {
+            "ipv4": [],
+            "ipv6": []
+          }
+        },
+        {
+          "asn": 4242420803,
+          "owner": "Yukari",
+          "name": "BILL-0803-ASN",
+          "source": "DN42",
+          "description": "Billchen's Network",
+          "routes": {
             "ipv4": [
               {
                 "prefix": "10.127.131.0/24",
                 "maxLength": 29,
-                "netname": "IX42-LAS-4"
+                "netname": "Gensokyo"
               }
             ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:1300::/48",
-                "maxLength": 64,
-                "netname": "IX42-LAS-6"
-              }
-            ]
+            "ipv6": []
           }
         },
         {

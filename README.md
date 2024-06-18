@@ -33,7 +33,7 @@
 | Clement VILLISEK  | clement@villisek.fr          |                           |
 | Yangfl Network    |                              |                           |
 | Yitong Dang       | tomdang@naivetomcat.cn       | @naivetomcat              |
-| Yukari            | i@0x7f.cc                    | CharlesYang               |
+| Yukari            | i@0x7f.cc                    | YukariChiba               |
 | Yura              | yurachan@etlgr.com           | @noc2464                  |
 | Yux Zhu           | me@yux.im                    |                           |
 | Qin Yuzhen        | 1@jin-dan.site               |                           |
@@ -118,6 +118,7 @@
 | DN42       | AS4242420288 | Yux              | IWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK         | VILLISEK                                                        |
 | DN42       | AS4242420458 | huajitech        | HUAJINET                                                        |
+| DN42       | AS4242420803 | Yukari           | BILL-0803-ASN                                                   |
 | DN42       | AS4242420916 | alanyhq          | alanyhq                                                         |
 | DN42       | AS4242421025 | icecat           | NextMoe Neo-Network Intermediate Access Project                 |
 | DN42       | AS4242421037 | LibreHouse       | LibreHouse                                                      |
@@ -156,8 +157,6 @@
 | AS141776     | BAOSHUO-NEO-V4-1                | subnet   | 10.127.17.0/24          |                   |
 | AS141776     | BAOSHUO-NEO-V6-1                | subnet   | fd10:127:17::/48        |                   |
 | AS142280     | nteren-backbone                 | subnet   | 10.127.128.0/24         |                   |
-| AS207268     | IX42-LAS-4                      | subnet   | 10.127.131.0/24         |                   |
-| AS207268     | IX42-LAS-6                      | subnet   | fd10:127:1300::/48      |                   |
 | AS211876     | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24          |                   |
 | AS211876     | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
 | AS213262     | Moe                             | subnet   | fd10:127:3262::/64      |                   |
@@ -262,6 +261,7 @@
 | AS4242420308 | VILLISEK-NEO-V6                 | subnet   | fd10:127:308::/48       |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
+| AS4242420803 | Gensokyo                        | subnet   | 10.127.131.0/24         |                   |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26           |                   |
 | AS4242421181 | AS-NEVLEZAY-DN42                | subnet   | 10.127.192.0/24         |                   |
@@ -383,7 +383,6 @@ fd10:127:234::/46
 fd10:127:238::/46
 fd10:127:308::/48
 fd10:127:1100::/48
-fd10:127:1300::/48
 fd10:127:1332::/48
 fd10:127:1488::/48
 fd10:127:1877::/48
@@ -623,11 +622,7 @@ fd10:127:1120::/43
 fd10:127:1140::/42
 fd10:127:1180::/41
 fd10:127:1200::/40
-fd10:127:1301::/48
-fd10:127:1302::/47
-fd10:127:1304::/46
-fd10:127:1308::/45
-fd10:127:1310::/44
+fd10:127:1300::/43
 fd10:127:1320::/44
 fd10:127:1330::/47
 fd10:127:1333::/48
@@ -841,4 +836,4 @@ fd10:127:ffff:8000::/49
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
 | IPv4         | 65536      | 12733      | 52803      | 19.43%         | 80.57%         |
-| IPv6         | 7.9228e+28 | 5.4402e+25 | 7.9174e+28 | 0.07%          | 99.93%         |
+| IPv6         | 7.9228e+28 | 5.3193e+25 | 7.9175e+28 | 0.07%          | 99.93%         |
