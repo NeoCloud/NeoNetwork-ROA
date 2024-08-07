@@ -314,6 +314,12 @@
         "comment": "HUAJITECH-ANYCAST"
       },
       {
+        "asn": 4201270566,
+        "prefix": "10.127.69.0/24",
+        "maxPrefixLength": 29,
+        "comment": "CDUBS Network"
+      },
+      {
         "asn": 4201271111,
         "prefix": "10.127.111.0/24",
         "maxPrefixLength": 29,
@@ -780,6 +786,12 @@
         "prefix": "fd10:127:27:20::/60",
         "maxPrefixLength": 64,
         "comment": "HUAJITECH-ANYCAST"
+      },
+      {
+        "asn": 4201270566,
+        "prefix": "fd10:127:69::/48",
+        "maxPrefixLength": 64,
+        "comment": "CDUBS Network"
       },
       {
         "asn": 4201271111,

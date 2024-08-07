@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1722839097,
-    "valid": 1724048697
+    "generated": 1723011504,
+    "valid": 1724221104
   },
   "people": {
     "186526": {
@@ -80,6 +80,46 @@
                 "prefix": "fd10:127:66::/48",
                 "maxLength": 64,
                 "netname": "WTM-ZONE-N-IPV6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "CDUBS": {
+      "info": {
+        "name": "CDUBS",
+        "babel": [
+          "en"
+        ],
+        "contact": {
+          "email": "noc@cdubs.tech"
+        },
+        "persona": {
+          "pgp": "80095CB4A8D365B114DD35CEB26D9F20836A8936"
+        },
+        "nic_hdl": "CDUBS"
+      },
+      "asns": [
+        {
+          "asn": 4201270566,
+          "owner": "CDUBS",
+          "name": "AS-CDUBS-NEO",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.69.0/24",
+                "maxLength": 29,
+                "netname": "CDUBS Network"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:69::/48",
+                "maxLength": 64,
+                "netname": "CDUBS Network"
               }
             ]
           }
