@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1723011504,
-    "valid": 1724221104
+    "generated": 1723011559,
+    "valid": 1724221159
   },
   "people": {
     "186526": {
@@ -1820,6 +1820,37 @@
                 "prefix": "10.127.255.56/32",
                 "maxLength": 32,
                 "netname": "frank-hsinchu-1"
+              }
+            ],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "fthasdd": {
+      "info": {
+        "name": "fthasdd",
+        "contact": {
+          "email": "fthasdd@largerworld.cc"
+        },
+        "persona": {
+          "ssh": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL6nUpUc/erbzkckaKlzeQWPsHuBMCAJ9VSEBEhzuPmt"
+        },
+        "nic_hdl": "FTHASDD"
+      },
+      "asns": [
+        {
+          "asn": 4242420624,
+          "owner": "fthasdd",
+          "name": "FTHASDD",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.90.0/24",
+                "maxLength": 29,
+                "netname": "FTHASDD-NEO"
               }
             ],
             "ipv6": []

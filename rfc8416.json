@@ -416,6 +416,12 @@
         "comment": "HUAJITECH-ANYCAST"
       },
       {
+        "asn": 4242420624,
+        "prefix": "10.127.90.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FTHASDD-NEO"
+      },
+      {
         "asn": 4242420803,
         "prefix": "10.127.131.0/24",
         "maxPrefixLength": 29,

@@ -42,6 +42,7 @@
 | caxap             | yrdw@protonmail.com          |                           |
 | chanceyan         | edwardchanceyan@gmail.com    | @Edwardchanceyan          |
 | frank             |                              |                           |
+| fthasdd           | fthasdd@largerworld.cc       |                           |
 | funnysyc          | yc.s@outlook.com             | funnysyc                  |
 | HuajiTech         | noc@huajitech.net            | huajitech                 |
 | iEdon             |                              |                           |
@@ -122,6 +123,7 @@
 | DN42       | AS4242420288 | Yux              | IWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK         | VILLISEK                                                        |
 | DN42       | AS4242420458 | huajitech        | HUAJINET                                                        |
+| DN42       | AS4242420624 | fthasdd          | FTHASDD                                                         |
 | DN42       | AS4242420803 | Yukari           | BILL-0803-ASN                                                   |
 | DN42       | AS4242420916 | alanyhq          | alanyhq                                                         |
 | DN42       | AS4242421025 | icecat           | NextMoe Neo-Network Intermediate Access Project                 |
@@ -269,6 +271,7 @@
 | AS4242420308 | VILLISEK-NEO-V6                 | subnet   | fd10:127:308::/48       |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
+| AS4242420624 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24          |                   |
 | AS4242420803 | Gensokyo                        | subnet   | 10.127.131.0/24         |                   |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26           |                   |
@@ -345,6 +348,7 @@
 10.127.69.0/24
 10.127.80.0/24
 10.127.88.0/24
+10.127.90.0/24
 10.127.99.0/24
 10.127.100.0/24
 10.127.110.0/23
@@ -461,7 +465,7 @@ fd10:127:ffff:53::/64
 10.127.82.0/23
 10.127.84.0/22
 10.127.89.0/24
-10.127.90.0/23
+10.127.91.0/24
 10.127.92.0/22
 10.127.96.0/23
 10.127.98.0/24
@@ -873,5 +877,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 13117      | 52419      | 20.01%         | 79.99%         |
+| IPv4         | 65536      | 13373      | 52163      | 20.41%         | 79.59%         |
 | IPv6         | 7.9228e+28 | 5.4402e+25 | 7.9174e+28 | 0.07%          | 99.93%         |
