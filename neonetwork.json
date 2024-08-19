@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1723443907,
-    "valid": 1724653507
+    "generated": 1724048722,
+    "valid": 1725258322
   },
   "people": {
     "186526": {
@@ -2696,19 +2696,6 @@
   },
   "dnssec": [
     {
-      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
-      "records": [
-        {
-          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
-          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
-        },
-        {
-          "dnskey": "257 3 15 aneEeuuJL47gPJJzT6ZbOgB9HlKpQmkkPNJNvK2z1pI=",
-          "ds": "27574 15 2 09baad36e187d53ecadcebef76babfd6c9fb0af5f4844596f3ca0c906ed8637e"
-        }
-      ]
-    },
-    {
       "zone": "127.10.in-addr.arpa.",
       "records": [
         {
@@ -2731,6 +2718,19 @@
         {
           "dnskey": "257 3 15 eE/0MWGb7wYP4U/kf5mXCbE8tGIwo1U++dp22Fumo+g=",
           "ds": "37727 15 2 c32191a298279d16846eeefc157eec6be69be8edfeb4f3145c685f0752a73a8d"
+        }
+      ]
+    },
+    {
+      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
+      "records": [
+        {
+          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
+          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
+        },
+        {
+          "dnskey": "257 3 15 aneEeuuJL47gPJJzT6ZbOgB9HlKpQmkkPNJNvK2z1pI=",
+          "ds": "27574 15 2 09baad36e187d53ecadcebef76babfd6c9fb0af5f4844596f3ca0c906ed8637e"
         }
       ]
     }
