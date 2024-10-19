@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1728887264,
-    "valid": 1730096864
+    "generated": 1729319790,
+    "valid": 1730529390
   },
   "people": {
     "186526": {
@@ -1132,6 +1132,50 @@
                 "prefix": "fd10:127:17::/48",
                 "maxLength": 64,
                 "netname": "BAOSHUO-NEO-V6-1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Rosmontic": {
+      "info": {
+        "name": "Rosmontic",
+        "babel": [
+          "zh",
+          "en-2"
+        ],
+        "contact": {
+          "email": "Rosmontis233@hotmail.com",
+          "telegram": "Rosmontis233",
+          "twitter": "Rosmontis233",
+          "github": "Rosmontis2333"
+        },
+        "persona": {
+          "pgp": "3CFEFAB3CAC1CC735D67DF41BFFB77088E6643DC"
+        },
+        "nic_hdl": "ROSMONTIC"
+      },
+      "asns": [
+        {
+          "asn": 4201270233,
+          "owner": "Rosmontic",
+          "name": "Rosmontis-Network",
+          "source": "NeoNetwork",
+          "description": "Meow~",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.33.0/24",
+                "maxLength": 29,
+                "netname": "Rosmontis-Network v4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2333::/48",
+                "maxLength": 64,
+                "netname": "Rosmontis-Network v6"
               }
             ]
           }

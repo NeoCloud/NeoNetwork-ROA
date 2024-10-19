@@ -26,6 +26,7 @@
 | Neo_Chen          | chenkolei@gmail.com          | Neo_Chen                  |
 | Razuritta         | i@razuritta.me               |                           |
 | Ren Baoshuo       | i@baoshuo.ren                | baoshuo                   |
+| Rosmontic         | Rosmontis233@hotmail.com     | Rosmontis233              |
 | SUNNET            |                              |                           |
 | Staph             | staph@aosc.io                | Staph                     |
 | SteveYi           | info@steveyi.net             | steveyiyo                 |
@@ -106,6 +107,7 @@
 | NeoNetwork | AS4201270099 | TsingYao         | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270100 | chanceyan        | chanceyan                                                       |
 | NeoNetwork | AS4201270186 | 186526           | 186526 Network                                                  |
+| NeoNetwork | AS4201270233 | Rosmontic        | Rosmontis-Network                                               |
 | NeoNetwork | AS4201270456 | huajitech        | HJTMESH-AS                                                      |
 | NeoNetwork | AS4201270566 | CDUBS            | AS-CDUBS-NEO                                                    |
 | NeoNetwork | AS4201271111 | KusakabeSi       | KSKB-NEO                                                        |
@@ -233,6 +235,8 @@
 | AS4201270100 | chanceyan-NEO-IP4               | subnet   | fd10:127:1100::/48      |                   |
 | AS4201270186 | 186526-block-v4                 | subnet   | 10.127.186.0/24         |                   |
 | AS4201270186 | 186526-block-v6                 | subnet   | fd10:127:186::/48       |                   |
+| AS4201270233 | Rosmontis-Network v4            | subnet   | 10.127.33.0/24          |                   |
+| AS4201270233 | Rosmontis-Network v6            | subnet   | fd10:127:2333::/48      |                   |
 | AS4201270456 | HJTMESH-NET                     | subnet   | 10.127.45.0/24          |                   |
 | AS4201270456 | HJTMESH-NET                     | subnet   | fd10:127:45::/48        |                   |
 | AS4201270456 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
@@ -337,6 +341,7 @@
 10.127.27.24/29
 10.127.27.232/29
 10.127.30.0/24
+10.127.33.0/24
 10.127.36.0/23
 10.127.38.32/27
 10.127.39.0/24
@@ -402,6 +407,7 @@ fd10:127:1332::/48
 fd10:127:1488::/48
 fd10:127:1877::/48
 fd10:127:2032::/48
+fd10:127:2333::/48
 fd10:127:2f2f::/48
 fd10:127:3262::/64
 fd10:127:42ff::/48
@@ -444,7 +450,8 @@ fd10:127:ffff:53::/64
 10.127.27.240/28
 10.127.28.0/23
 10.127.31.0/24
-10.127.32.0/22
+10.127.32.0/24
+10.127.34.0/23
 10.127.38.0/27
 10.127.38.64/26
 10.127.38.128/25
@@ -678,7 +685,15 @@ fd10:127:2038::/45
 fd10:127:2040::/42
 fd10:127:2080::/41
 fd10:127:2100::/40
-fd10:127:2200::/39
+fd10:127:2200::/40
+fd10:127:2300::/43
+fd10:127:2320::/44
+fd10:127:2330::/47
+fd10:127:2332::/48
+fd10:127:2334::/46
+fd10:127:2338::/45
+fd10:127:2340::/42
+fd10:127:2380::/41
 fd10:127:2400::/38
 fd10:127:2800::/38
 fd10:127:2c00::/39
@@ -877,5 +892,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 13373      | 52163      | 20.41%         | 79.59%         |
-| IPv6         | 7.9228e+28 | 5.4402e+25 | 7.9174e+28 | 0.07%          | 99.93%         |
+| IPv4         | 65536      | 13629      | 51907      | 20.80%         | 79.20%         |
+| IPv6         | 7.9228e+28 | 5.5611e+25 | 7.9173e+28 | 0.07%          | 99.93%         |

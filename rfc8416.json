@@ -302,6 +302,12 @@
         "comment": "186526-block-v4"
       },
       {
+        "asn": 4201270233,
+        "prefix": "10.127.33.0/24",
+        "maxPrefixLength": 29,
+        "comment": "Rosmontis-Network v4"
+      },
+      {
         "asn": 4201270456,
         "prefix": "10.127.45.0/24",
         "maxPrefixLength": 29,
@@ -780,6 +786,12 @@
         "prefix": "fd10:127:186::/48",
         "maxPrefixLength": 64,
         "comment": "186526-block-v6"
+      },
+      {
+        "asn": 4201270233,
+        "prefix": "fd10:127:2333::/48",
+        "maxPrefixLength": 64,
+        "comment": "Rosmontis-Network v6"
       },
       {
         "asn": 4201270456,
