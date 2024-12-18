@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1734330603,
-    "valid": 1735540203
+    "generated": 1734531235,
+    "valid": 1735740835
   },
   "people": {
     "186526": {
@@ -485,6 +485,45 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "InPRTx": {
+      "info": {
+        "name": "InPRTx",
+        "contact": {
+          "email": "inprtx@gmail.com",
+          "github": "InPRTx",
+          "telegram": "@InPRTx"
+        },
+        "persona": {
+          "pgp": "3BEF8BB64E3E2A356FBCDC238C74AC73C52093E5"
+        },
+        "nic_hdl": "INPRTX"
+      },
+      "asns": [
+        {
+          "asn": 4201273751,
+          "owner": "InPRTx",
+          "name": "InPRTx Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.51.0/24",
+                "maxLength": 29,
+                "netname": "InPRTx-NEO-NET4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:3751::/48",
+                "maxLength": 64,
+                "netname": "InPRTx-NEO-NET6"
+              }
+            ]
           }
         }
       ]
