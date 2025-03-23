@@ -296,6 +296,12 @@
         "comment": "chanceyan-NEO-IP4"
       },
       {
+        "asn": 4201270101,
+        "prefix": "10.127.6.0/24",
+        "maxPrefixLength": 29,
+        "comment": "AndyZhou-NEO-NET4"
+      },
+      {
         "asn": 4201270186,
         "prefix": "10.127.186.0/24",
         "maxPrefixLength": 29,
@@ -786,6 +792,12 @@
         "prefix": "fd10:127:1100::/48",
         "maxPrefixLength": 64,
         "comment": "chanceyan-NEO-IP4"
+      },
+      {
+        "asn": 4201270101,
+        "prefix": "fd10:127:6::/48",
+        "maxPrefixLength": 64,
+        "comment": "AndyZhou-NEO-NET6"
       },
       {
         "asn": 4201270186,

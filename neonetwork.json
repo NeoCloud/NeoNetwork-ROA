@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1742192965,
-    "valid": 1743402565
+    "generated": 1742732468,
+    "valid": 1743942068
   },
   "people": {
     "186526": {
@@ -80,6 +80,45 @@
                 "prefix": "fd10:127:66::/48",
                 "maxLength": 64,
                 "netname": "WTM-ZONE-N-IPV6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "AndyZhou": {
+      "info": {
+        "name": "AndyZhou",
+        "contact": {
+          "email": "andyzhou058@gmail.com",
+          "github": "andyzhou058",
+          "telegram": "@andyzhou058"
+        },
+        "persona": {
+          "pgp": "35C353B7B1EB3F1DB9A5B1029A0BD29FB24E03BC"
+        },
+        "nic_hdl": "ANDYZHOU"
+      },
+      "asns": [
+        {
+          "asn": 4201270101,
+          "owner": "AndyZhou",
+          "name": "AndyZhou Network",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.6.0/24",
+                "maxLength": 29,
+                "netname": "AndyZhou-NEO-NET4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:6::/48",
+                "maxLength": 64,
+                "netname": "AndyZhou-NEO-NET6"
               }
             ]
           }

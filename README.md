@@ -6,6 +6,7 @@
 |-------------------|------------------------------|---------------------------|
 | 186526            | i@186526.xyz                 | real186526                |
 | A1ca7raz          | aya@wtm.moe                  |                           |
+| AndyZhou          | andyzhou058@gmail.com        | @andyzhou058              |
 | CDUBS             | noc@cdubs.tech               |                           |
 | Cupkappu          | cup@kust.ga                  | kifuc                     |
 | DannyAAM          | danny@saru.moe               | danny8376                 |
@@ -107,6 +108,7 @@
 | NeoNetwork | AS4201270080 | Hanako           | HANAKO-NETWORK                                                  |
 | NeoNetwork | AS4201270099 | TsingYao         | AS-NEO-TSINGYAO                                                 |
 | NeoNetwork | AS4201270100 | chanceyan        | chanceyan                                                       |
+| NeoNetwork | AS4201270101 | AndyZhou         | AndyZhou Network                                                |
 | NeoNetwork | AS4201270186 | 186526           | 186526 Network                                                  |
 | NeoNetwork | AS4201270233 | Rosmontic        | Rosmontis-Network                                               |
 | NeoNetwork | AS4201270456 | huajitech        | HJTMESH-AS                                                      |
@@ -235,6 +237,8 @@
 | AS4201270099 | TSINGYAO-NEO-NET6               | subnet   | fd10:127:99::/48        |                   |
 | AS4201270100 | chanceyan-NEO-IP4               | subnet   | 10.127.27.232/29        |                   |
 | AS4201270100 | chanceyan-NEO-IP4               | subnet   | fd10:127:1100::/48      |                   |
+| AS4201270101 | AndyZhou-NEO-NET4               | subnet   | 10.127.6.0/24           |                   |
+| AS4201270101 | AndyZhou-NEO-NET6               | subnet   | fd10:127:6::/48         |                   |
 | AS4201270186 | 186526-block-v4                 | subnet   | 10.127.186.0/24         |                   |
 | AS4201270186 | 186526-block-v6                 | subnet   | fd10:127:186::/48       |                   |
 | AS4201270233 | Rosmontis-Network v4            | subnet   | 10.127.33.0/24          |                   |
@@ -326,7 +330,7 @@
 10.127.2.0/24
 10.127.4.0/24
 10.127.5.0/27
-10.127.7.0/24
+10.127.6.0/23
 10.127.8.0/25
 10.127.8.128/28
 10.127.8.160/27
@@ -381,7 +385,7 @@
 10.127.255.54/32
 10.127.255.56/32
 fd10:127::/48
-fd10:127:7::/48
+fd10:127:6::/47
 fd10:127:10::/48
 fd10:127:13::/48
 fd10:127:17::/48
@@ -437,7 +441,6 @@ fd10:127:ffff:53::/64
 10.127.5.32/27
 10.127.5.64/26
 10.127.5.128/25
-10.127.6.0/24
 10.127.8.144/28
 10.127.11.0/24
 10.127.18.64/26
@@ -552,7 +555,6 @@ fd10:127:ffff:53::/64
 fd10:127:1::/48
 fd10:127:2::/47
 fd10:127:4::/47
-fd10:127:6::/48
 fd10:127:8::/45
 fd10:127:11::/48
 fd10:127:12::/48
@@ -907,7 +909,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used      | Free       | Percent Used   | Percent Free   |
-|--------------|------------|-----------|------------|----------------|----------------|
-| IPv4         | 65536      | 13885     | 51651      | 21.19%         | 78.81%         |
-| IPv6         | 7.9228e+28 | 5.682e+25 | 7.9171e+28 | 0.07%          | 99.93%         |
+| IP Version   | Total      | Used       | Free      | Percent Used   | Percent Free   |
+|--------------|------------|------------|-----------|----------------|----------------|
+| IPv4         | 65536      | 14141      | 51395     | 21.58%         | 78.42%         |
+| IPv6         | 7.9228e+28 | 5.8029e+25 | 7.917e+28 | 0.07%          | 99.93%         |
