@@ -1,7 +1,7 @@
 ; NeoNetwork DNS Record
 $TTL    3600
 @	IN	SOA	root-dns.neo. root.neo. (
-       155856428    ; Serial
+       160135987    ; Serial
              900    ; Refresh
              900    ; Retry
            86400    ; Expire
@@ -143,8 +143,6 @@ $TTL    3600
 
 217            IN    NS     ns1.hawkins.neo.
 217            IN    NS     ns2.hawkins.neo.
-
-51            IN    NS      ns.inprtx.neo.
 
 6              IN    NS     ns.andyzhou.neo.
 

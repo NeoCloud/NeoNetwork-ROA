@@ -380,12 +380,6 @@
         "comment": "anycast-recur-4"
       },
       {
-        "asn": 4201273751,
-        "prefix": "10.127.51.0/24",
-        "maxPrefixLength": 29,
-        "comment": "InPRTx-NEO-NET4"
-      },
-      {
         "asn": 4201273947,
         "prefix": "10.127.217.0/24",
         "maxPrefixLength": 29,
@@ -882,12 +876,6 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
-      },
-      {
-        "asn": 4201273751,
-        "prefix": "fd10:127:3751::/48",
-        "maxPrefixLength": 64,
-        "comment": "InPRTx-NEO-NET6"
       },
       {
         "asn": 4201273947,
