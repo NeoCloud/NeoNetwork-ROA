@@ -380,6 +380,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4201273722,
+        "prefix": "10.127.204.48/28",
+        "maxPrefixLength": 29,
+        "comment": "YANGIU-NEO4"
+      },
+      {
         "asn": 4201273947,
         "prefix": "10.127.217.0/24",
         "maxPrefixLength": 29,
@@ -876,6 +882,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4201273722,
+        "prefix": "fd10:127:face::/48",
+        "maxPrefixLength": 64,
+        "comment": "YANGIU-NEO6"
       },
       {
         "asn": 4201273947,
