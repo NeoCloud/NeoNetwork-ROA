@@ -251,7 +251,7 @@
         "asn": 4201270030,
         "prefix": "10.127.30.0/24",
         "maxPrefixLength": 29,
-        "comment": "IWARP-NEO-IP4-NETWORK"
+        "comment": "HWARP-NEO-IP4-NETWORK"
       },
       {
         "asn": 4201270036,
@@ -398,6 +398,12 @@
         "comment": "Hydro-Neo-Network-4"
       },
       {
+        "asn": 4242420065,
+        "prefix": "10.127.90.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FTHASDD-NEO"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -419,7 +425,7 @@
         "asn": 4242420288,
         "prefix": "10.127.30.0/24",
         "maxPrefixLength": 29,
-        "comment": "IWARP-NEO-IP4-NETWORK"
+        "comment": "HWARP-NEO-IP4-NETWORK"
       },
       {
         "asn": 4242420308,
@@ -432,12 +438,6 @@
         "prefix": "10.127.27.24/29",
         "maxPrefixLength": 29,
         "comment": "HUAJITECH-ANYCAST"
-      },
-      {
-        "asn": 4242420624,
-        "prefix": "10.127.90.0/24",
-        "maxPrefixLength": 29,
-        "comment": "FTHASDD-NEO"
       },
       {
         "asn": 4242420803,
@@ -755,7 +755,7 @@
         "asn": 4201270030,
         "prefix": "fd10:127:30::/48",
         "maxPrefixLength": 64,
-        "comment": "IWARP-NEO-IP6-NETWORK"
+        "comment": "HWARP-NEO-IP6-NETWORK"
       },
       {
         "asn": 4201270036,
@@ -917,7 +917,7 @@
         "asn": 4242420288,
         "prefix": "fd10:127:30::/48",
         "maxPrefixLength": 64,
-        "comment": "IWARP-NEO-IP6-NETWORK"
+        "comment": "HWARP-NEO-IP6-NETWORK"
       },
       {
         "asn": 4242420308,

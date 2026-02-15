@@ -35,6 +35,7 @@
 | SyllaBear         | bear@koala.gq                |                           |
 | TsingYao          | yujintong@126.com            | yujintong                 |
 | Clement VILLISEK  | clement@villisek.fr          |                           |
+| XieXiLin          | support@xiexilin.com         | XieXiLin                  |
 | Yangfl Network    |                              |                           |
 | Yitong Dang       | tomdang@naivetomcat.cn       | @naivetomcat              |
 | Yukari            | i@0x7f.cc                    | YukariChiba               |
@@ -75,6 +76,7 @@
 | Internet   | AS141776     | Ren Baoshuo      | BAOSHUO-AS-AP                                                   |
 | Internet   | AS142280     | Yitong-Dang      | NTEREN-BACKBONE                                                 |
 | Internet   | AS207268     | Yukari           | Strategic Explorations (IX)                                     |
+| Internet   | AS207303     | XieXiLin         | Ayumu Network                                                   |
 | Internet   | AS209557     | SteveYi          | Yi-Network                                                      |
 | Internet   | AS211390     | YuzhenQin        | YUZHEN-NETWORK                                                  |
 | Internet   | AS211876     | David Liu        | FIXMIX-GEN                                                      |
@@ -101,7 +103,7 @@
 | NeoNetwork | AS4201270020 | Edward_P         | Edward_P                                                        |
 | NeoNetwork | AS4201270021 | David Liu        | POTATO-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg         | lilydjwg                                                        |
-| NeoNetwork | AS4201270030 | Yux              | IWARP-NEO                                                       |
+| NeoNetwork | AS4201270030 | Yux              | HWARP-NEO                                                       |
 | NeoNetwork | AS4201270036 | TsingYao         | AS-NEO-TSINGYAO-IX36                                            |
 | NeoNetwork | AS4201270037 | funnysyc         | FUNNYSYC-AS                                                     |
 | NeoNetwork | AS4201270039 | DannyAAM         | SARU-AS-NEO                                                     |
@@ -123,10 +125,11 @@
 | NeoNetwork | AS4201273722 | Iu-yang1         | Iu-yang1-NeoNetwork                                             |
 | NeoNetwork | AS4201273947 | HawkinsSherpherd | HAWKINS-NEO-AS                                                  |
 | NeoNetwork | AS4201279999 | undefined-moe    | Hydro-Neo-Network                                               |
+| DN42       | AS4242420065 | fthasdd          | FTHASDD-CN                                                      |
 | DN42       | AS4242420140 | Yangfl           | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo      | BAOSHUO-AS-DN42                                                 |
 | DN42       | AS4242420275 | starstorm42      | AS-STARSTORM42-DN42                                             |
-| DN42       | AS4242420288 | Yux              | IWARP-DN42                                                      |
+| DN42       | AS4242420288 | Yux              | HWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK         | VILLISEK                                                        |
 | DN42       | AS4242420458 | huajitech        | HUAJINET                                                        |
 | DN42       | AS4242420624 | fthasdd          | FTHASDD                                                         |
@@ -222,8 +225,8 @@
 | AS4201270021 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
 | AS4201270022 | lilydjwg                        | subnet   | 10.127.8.136/29         |                   |
 | AS4201270022 | lilydjwg                        | subnet   | fd10:127:ba7e::/48      |                   |
-| AS4201270030 | IWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
-| AS4201270030 | IWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
+| AS4201270030 | HWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
+| AS4201270030 | HWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4201270036 | TSINTYAO-NEO-NET4-IX36          | subnet   | 10.127.36.0/24          |                   |
 | AS4201270036 | TSINGYAO-NEO-NET6-IX36          | subnet   | fd10:127:36::/48        |                   |
 | AS4201270037 | FUNNYSYC-NET                    | subnet   | 10.127.37.0/24          |                   |
@@ -272,18 +275,18 @@
 | AS4201273947 | HAWKINS-NEO-NET6                | subnet   | fd10:127:217::/48       |                   |
 | AS4201279999 | Hydro-Neo-Network-4             | subnet   | 10.127.88.0/24          |                   |
 | AS4201279999 | Hydro-Neo-Network-6             | subnet   | fd10:127:88::/48        |                   |
+| AS4242420065 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24          |                   |
 | AS4242420140 | dfceaef NET                     | subnet   | 10.127.12.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V4-1                | subnet   | 10.127.17.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V6-1                | subnet   | fd10:127:17::/48        |                   |
 | AS4242420275 | S242storm42-IPv4                | subnet   | 10.127.242.0/24         |                   |
 | AS4242420275 | Starstorm42IPv6                 | subnet   | fd10:127:42ff::/48      |                   |
-| AS4242420288 | IWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
-| AS4242420288 | IWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
+| AS4242420288 | HWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
+| AS4242420288 | HWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4242420308 | VILLISEK-NEO                    | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                 | subnet   | fd10:127:308::/48       |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
-| AS4242420624 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24          |                   |
 | AS4242420803 | Gensokyo                        | subnet   | 10.127.131.0/24         |                   |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64  | fd10:127:233::/48 |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26           |                   |
