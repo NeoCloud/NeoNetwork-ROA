@@ -548,6 +548,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4242423310,
+        "prefix": "10.127.137.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SULFATE-NETWORK-NEO"
+      },
+      {
         "asn": 4242423618,
         "prefix": "10.127.255.53/32",
         "maxPrefixLength": 32,

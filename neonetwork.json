@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1773038976,
-    "valid": 1774248576
+    "generated": 1773126498,
+    "valid": 1774336098
   },
   "people": {
     "186526": {
@@ -82,6 +82,38 @@
                 "netname": "WTM-ZONE-N-IPV6"
               }
             ]
+          }
+        }
+      ]
+    },
+    "AChSulfate": {
+      "info": {
+        "name": "ACh Sulfate",
+        "contact": {
+          "email": "dex@libart.so",
+          "github": "cinit"
+        },
+        "persona": {
+          "pgp": "36C13CAD53C6D50F8E62FFEF4EB05FB9C4310D06"
+        },
+        "nic_hdl": "ACH-SULFATE"
+      },
+      "asns": [
+        {
+          "asn": 4242423310,
+          "owner": "AChSulfate",
+          "name": "AS-ACHSULFATE-DN42",
+          "source": "DN42",
+          "description": "ACh Sulfate Networks",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.137.0/24",
+                "maxLength": 29,
+                "netname": "SULFATE-NETWORK-NEO"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]
