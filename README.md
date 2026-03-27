@@ -21,6 +21,7 @@
 | Junde Yhi         | neonetwork@yhi.moe           | lmy441900                 |
 | KusakabeSi        | dn42@kskb.eu.org             | KusakabeSi                |
 | LINE-NZ           | dn42@line.co.nz              |                           |
+| LUKK              | yingluqwq@duck.com           |                           |
 | Lan Tian          |                              |                           |
 | LibreHouse        | i+noc@outv.im                | outvi                     |
 | Lilybouquet       | lilybouquet@lilynet.work     | Lilybouquet               |
@@ -148,6 +149,7 @@
 | DN42       | AS4242422458 | huajitech        | PIGEONHOLE-AS                                                   |
 | DN42       | AS4242422464 | Yura             | Yura Network                                                    |
 | DN42       | AS4242422923 | mark22k          | AS-BANDURA-DN42                                                 |
+| DN42       | AS4242423282 | LUKK             | LUKK                                                            |
 | DN42       | AS4242423310 | AChSulfate       | AS-ACHSULFATE-DN42                                              |
 | DN42       | AS4242423618 | JerryXiao        | Jerry AS                                                        |
 | DN42       | AS4242423699 | TsingYao         | AS-NEO-TSINGYAO                                                 |
@@ -318,6 +320,8 @@
 | AS4242422923 | anycast-auth-6                  | loopback | fd10:127:ffff:53::/64   |                   |
 | AS4242422923 | anycast-recur-4                 | loopback | 10.127.255.54/32        |                   |
 | AS4242422923 | anycast-recur-6                 | loopback | fd10:127:53:53::/64     | fd10:127:53::/48  |
+| AS4242423282 | LUKK-Uni_V4                     | subnet   | 10.127.123.0/24         |                   |
+| AS4242423282 | LUKK-Uni_V6                     | subnet   | fd10:127:123::/48       |                   |
 | AS4242423310 | SULFATE-NETWORK-NEO             | subnet   | 10.127.137.0/24         |                   |
 | AS4242423618 | anycast-auth-4                  | loopback | 10.127.255.53/32        |                   |
 | AS4242423618 | anycast-recur-4                 | loopback | 10.127.255.54/32        |                   |
@@ -371,6 +375,7 @@
 10.127.99.0/24
 10.127.100.0/24
 10.127.110.0/23
+10.127.123.0/24
 10.127.124.0/29
 10.127.127.0/24
 10.127.128.0/24
@@ -411,6 +416,7 @@ fd10:127:69::/48
 fd10:127:80::/48
 fd10:127:88::/48
 fd10:127:99::/48
+fd10:127:123::/48
 fd10:127:127::/48
 fd10:127:186::/48
 fd10:127:217::/48
@@ -497,7 +503,8 @@ fd10:127:ffff:53::/64
 10.127.104.0/22
 10.127.108.0/23
 10.127.112.0/21
-10.127.120.0/22
+10.127.120.0/23
+10.127.122.0/24
 10.127.124.8/29
 10.127.124.16/28
 10.127.124.32/27
@@ -626,7 +633,8 @@ fd10:127:9c::/46
 fd10:127:a0::/43
 fd10:127:c0::/42
 fd10:127:100::/43
-fd10:127:120::/46
+fd10:127:120::/47
+fd10:127:122::/48
 fd10:127:124::/47
 fd10:127:126::/48
 fd10:127:128::/45
@@ -922,7 +930,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used       | Free      | Percent Used   | Percent Free   |
-|--------------|------------|------------|-----------|----------------|----------------|
-| IPv4         | 65536      | 14157      | 51379     | 21.60%         | 78.40%         |
-| IPv6         | 7.9228e+28 | 5.8029e+25 | 7.917e+28 | 0.07%          | 99.93%         |
+| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
+|--------------|------------|------------|------------|----------------|----------------|
+| IPv4         | 65536      | 14413      | 51123      | 21.99%         | 78.01%         |
+| IPv6         | 7.9228e+28 | 5.9238e+25 | 7.9169e+28 | 0.07%          | 99.93%         |

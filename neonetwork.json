@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1774249102,
-    "valid": 1775458702
+    "generated": 1774581663,
+    "valid": 1775791263
   },
   "people": {
     "186526": {
@@ -861,6 +861,44 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "LUKK": {
+      "info": {
+        "name": "LUKK",
+        "contact": {
+          "email": "yingluqwq@duck.com"
+        },
+        "persona": {
+          "ssh": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDRel1XTSrdOHK8rI3Koiq7Jfu+vbh9NNqF142a/PMWOTdAqQNGzGQNEjE1jVMI0KTVFSg6hWinpndS9jrzsn9ym5FqD5lyt/UVwIP6lPY+31O+ljIMwKtWwM/0KK0rdXqNODxshjCHiv5cTwM9ACyfBbTDMGI+lYOXJhZX5k4Sm+xfPogzBaYLXQucBMsYgfjVODDoa00lvloly8NCXVpkAaUJu1PHkzURoF3i+hXhJqXvKUEvcgb+1lyPzDswpx3ScuVJDlRZYFHvJFe856xx0gRNlrpQ+abNo+xsCBH84dWJPFFNDBstETm2x+e/HbqPnyFLtJN/qI/A663hxfkCnT4JtONK4hFbftIQwKBDjNutqvpEyljpbe+J6BEj7QfbSgJ8+3u28868rsZs7/35M9TpdT/0mYNOA3UfPThTG75PR/ntusXFd8t3lvtj/XNHI0P8ShUH8aPkaXsMFAnZEEDdhUPGfcj1tnX48Em9+92MLD4F2Sk7R9QKSk9YPFE= u0_a552@localhost",
+          "pgp": "FE878660B4658AE0D8DBCFB00C0509BCACEAC90E"
+        },
+        "nic_hdl": "LUKK"
+      },
+      "asns": [
+        {
+          "asn": 4242423282,
+          "owner": "LUKK",
+          "name": "LUKK",
+          "source": "DN42",
+          "description": "LUKK NeoNetwork Part",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.123.0/24",
+                "maxLength": 29,
+                "netname": "LUKK-Uni_V4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:123::/48",
+                "maxLength": 64,
+                "netname": "LUKK-Uni_V6"
+              }
+            ]
           }
         }
       ]
@@ -2895,19 +2933,6 @@
   },
   "dnssec": [
     {
-      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
-      "records": [
-        {
-          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
-          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
-        },
-        {
-          "dnskey": "257 3 15 aneEeuuJL47gPJJzT6ZbOgB9HlKpQmkkPNJNvK2z1pI=",
-          "ds": "27574 15 2 09baad36e187d53ecadcebef76babfd6c9fb0af5f4844596f3ca0c906ed8637e"
-        }
-      ]
-    },
-    {
       "zone": "127.10.in-addr.arpa.",
       "records": [
         {
@@ -2917,6 +2942,19 @@
         {
           "dnskey": "257 3 15 PWTkwcNA5jJqNYSsyeHt0xnxh1wZQ5//UmMuMPi5DlU=",
           "ds": "22644 15 2 ba8389bd2f3ea36b7280a9a166fa3cc05d6af53a3ff987e62d37cf401d2c380b"
+        }
+      ]
+    },
+    {
+      "zone": "7.2.1.0.0.1.d.f.ip6.arpa.",
+      "records": [
+        {
+          "dnskey": "257 3 13 sI90N0KcwXtpqNDmsagKH/761EzsjSlGyYxx338qRrDlzRwXQPG6bO1m HoTdnKrWBcd1JqYM0/tgDXKep7dJgA==",
+          "ds": "22562 13 2 5dcf1c8189c8a005a5621a217816eb19390862bccec0917a568415cd58dcec52"
+        },
+        {
+          "dnskey": "257 3 15 aneEeuuJL47gPJJzT6ZbOgB9HlKpQmkkPNJNvK2z1pI=",
+          "ds": "27574 15 2 09baad36e187d53ecadcebef76babfd6c9fb0af5f4844596f3ca0c906ed8637e"
         }
       ]
     },

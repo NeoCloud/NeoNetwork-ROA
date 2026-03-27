@@ -548,6 +548,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4242423282,
+        "prefix": "10.127.123.0/24",
+        "maxPrefixLength": 29,
+        "comment": "LUKK-Uni_V4"
+      },
+      {
         "asn": 4242423310,
         "prefix": "10.127.137.0/24",
         "maxPrefixLength": 29,
@@ -1002,6 +1008,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4242423282,
+        "prefix": "fd10:127:123::/48",
+        "maxPrefixLength": 64,
+        "comment": "LUKK-Uni_V6"
       },
       {
         "asn": 4242423618,
