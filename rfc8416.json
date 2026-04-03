@@ -536,6 +536,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4242422466,
+        "prefix": "10.127.28.0/24",
+        "maxPrefixLength": 24,
+        "comment": "SESS-NETWORK"
+      },
+      {
         "asn": 4242422923,
         "prefix": "10.127.149.224/27",
         "maxPrefixLength": 27,
@@ -996,6 +1002,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4242422466,
+        "prefix": "fd10:127:2466::/48",
+        "maxPrefixLength": 48,
+        "comment": "SESS-NETWORK"
       },
       {
         "asn": 4242422923,

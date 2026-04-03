@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1775215872,
-    "valid": 1776425472
+    "generated": 1775215938,
+    "valid": 1776425538
   },
   "people": {
     "186526": {
@@ -1340,6 +1340,44 @@
         "nic_hdl": "SUNNET"
       },
       "asns": []
+    },
+    "SessX6cf": {
+      "info": {
+        "name": "SessX6cf",
+        "contact": {
+          "email": "sessionhu@outlook.com",
+          "github": "SessionHu"
+        },
+        "persona": {
+          "pgp": "46AAF43B6B9EBFE89C147061754C7291470EDC1A"
+        },
+        "nic_hdl": "SESSX6CF"
+      },
+      "asns": [
+        {
+          "asn": 4242422466,
+          "owner": "SessX6cf",
+          "name": "AS-SESS-DN42",
+          "source": "DN42",
+          "description": "SessNetwork",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.28.0/24",
+                "maxLength": 24,
+                "netname": "SESS-NETWORK"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2466::/48",
+                "maxLength": 48,
+                "netname": "SESS-NETWORK"
+              }
+            ]
+          }
+        }
+      ]
     },
     "Staph": {
       "info": {
