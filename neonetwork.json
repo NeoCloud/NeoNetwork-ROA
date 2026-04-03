@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1774854933,
-    "valid": 1776064533
+    "generated": 1775215872,
+    "valid": 1776425472
   },
   "people": {
     "186526": {
@@ -1622,6 +1622,38 @@
           "description": "aka. Origami Network",
           "routes": {
             "ipv4": [],
+            "ipv6": []
+          }
+        }
+      ]
+    },
+    "YUZU": {
+      "info": {
+        "name": "YUZU",
+        "contact": {
+          "email": "yuzu23234@gmail.com",
+          "github": "YUeH885"
+        },
+        "persona": {
+          "pgp": "831F435691E1F56352A7ADC5598464A6810AC714"
+        },
+        "nic_hdl": "YUZU"
+      },
+      "asns": [
+        {
+          "asn": 4242421510,
+          "owner": "YUZU",
+          "name": "YUZU-AS",
+          "source": "DN42",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.129.0/24",
+                "maxLength": 29,
+                "netname": "YUZU-NETWORK-NEO"
+              }
+            ],
             "ipv6": []
           }
         }

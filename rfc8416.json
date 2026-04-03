@@ -470,6 +470,12 @@
         "comment": "NetUnion-IPv4"
       },
       {
+        "asn": 4242421510,
+        "prefix": "10.127.129.0/24",
+        "maxPrefixLength": 29,
+        "comment": "YUZU-NETWORK-NEO"
+      },
+      {
         "asn": 4242421876,
         "prefix": "10.127.66.0/24",
         "maxPrefixLength": 29,

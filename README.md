@@ -38,6 +38,7 @@
 | TsingYao          | yujintong@126.com            | yujintong                 |
 | Clement VILLISEK  | clement@villisek.fr          |                           |
 | XieXiLin          | support@xiexilin.com         | XieXiLin                  |
+| YUZU              | yuzu23234@gmail.com          |                           |
 | Yangfl Network    |                              |                           |
 | Yitong Dang       | tomdang@naivetomcat.cn       | @naivetomcat              |
 | Yukari            | i@0x7f.cc                    | YukariChiba               |
@@ -143,6 +144,7 @@
 | DN42       | AS4242421214 | SteveYi          | Yi-Network                                                      |
 | DN42       | AS4242421331 | Yukari           | Niantic Network                                                 |
 | DN42       | AS4242421332 | Yukari           | Niantic Network CN                                              |
+| DN42       | AS4242421510 | YUZU             | YUZU-AS                                                         |
 | DN42       | AS4242421876 | David Liu        | POTATO-42                                                       |
 | DN42       | AS4242422189 | iEdon            | IEDON-NET-AS                                                    |
 | DN42       | AS4242422439 | DannyAAM         | SARU-AS-DN42                                                    |
@@ -298,6 +300,7 @@
 | AS4242421214 | Yi Global VPN                   | subnet   | 10.127.124.0/29         |                   |
 | AS4242421332 | NetUnion-IPv4                   | subnet   | 10.127.132.0/24         |                   |
 | AS4242421332 | NetUnion-IPv6                   | subnet   | fd10:127:1332::/48      |                   |
+| AS4242421510 | YUZU-NETWORK-NEO                | subnet   | 10.127.129.0/24         |                   |
 | AS4242421876 | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24          |                   |
 | AS4242421876 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.21.0/24          |                   |
@@ -378,7 +381,7 @@
 10.127.123.0/24
 10.127.124.0/29
 10.127.127.0/24
-10.127.128.0/24
+10.127.128.0/23
 10.127.131.0/24
 10.127.132.0/24
 10.127.134.0/24
@@ -512,7 +515,6 @@ fd10:127:ffff:53::/64
 10.127.124.128/25
 10.127.125.0/24
 10.127.126.0/24
-10.127.129.0/24
 10.127.130.0/24
 10.127.133.0/24
 10.127.135.0/24
@@ -932,5 +934,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 14413      | 51123      | 21.99%         | 78.01%         |
+| IPv4         | 65536      | 14669      | 50867      | 22.38%         | 77.62%         |
 | IPv6         | 7.9228e+28 | 5.9238e+25 | 7.9169e+28 | 0.07%          | 99.93%         |
