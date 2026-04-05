@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1775396072,
-    "valid": 1776605672
+    "generated": 1775396103,
+    "valid": 1776605703
   },
   "people": {
     "186526": {
@@ -1110,6 +1110,44 @@
                 "prefix": "fd10:127:13::/48",
                 "maxLength": 64,
                 "netname": "Ndoskrnls LAN (IPv6)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Nedifinita": {
+      "info": {
+        "name": "Nedifinita",
+        "contact": {
+          "email": "nedifinita@proton.me",
+          "github": "undef-i"
+        },
+        "persona": {
+          "pgp": "515ABA4DEC25CADD14919D8819668BECCD6F438C"
+        },
+        "nic_hdl": "NEDIFINITA"
+      },
+      "asns": [
+        {
+          "asn": 4242420454,
+          "owner": "Nedifinita",
+          "name": "NEDIFINITA-AS",
+          "source": "DN42",
+          "description": "Nedifinita Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.42.0/24",
+                "maxLength": 24,
+                "netname": "NEDIFINITA-NETWORK"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:42::/48",
+                "maxLength": 48,
+                "netname": "NEDIFINITA-NETWORK"
               }
             ]
           }

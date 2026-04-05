@@ -434,6 +434,12 @@
         "comment": "VILLISEK-NEO"
       },
       {
+        "asn": 4242420454,
+        "prefix": "10.127.42.0/24",
+        "maxPrefixLength": 24,
+        "comment": "NEDIFINITA-NETWORK"
+      },
+      {
         "asn": 4242420458,
         "prefix": "10.127.27.24/29",
         "maxPrefixLength": 29,
@@ -954,6 +960,12 @@
         "prefix": "fd10:127:308::/48",
         "maxPrefixLength": 64,
         "comment": "VILLISEK-NEO-V6"
+      },
+      {
+        "asn": 4242420454,
+        "prefix": "fd10:127:42::/48",
+        "maxPrefixLength": 48,
+        "comment": "NEDIFINITA-NETWORK"
       },
       {
         "asn": 4242420458,

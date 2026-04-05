@@ -28,6 +28,7 @@
 | Lilybouquet       | lilybouquet@lilynet.work      | Lilybouquet               |
 | Moe               | noc@moeternet.com             | @moeternet                |
 | Ndoskrnl          | lollipop.studio.cn@gmail.com  |                           |
+| Nedifinita        | nedifinita@proton.me          |                           |
 | Neo_Chen          | chenkolei@gmail.com           | Neo_Chen                  |
 | Razuritta         | i@razuritta.me                |                           |
 | Ren Baoshuo       | i@baoshuo.ren                 | baoshuo                   |
@@ -136,6 +137,7 @@
 | DN42       | AS4242420275 | starstorm42      | AS-STARSTORM42-DN42                                             |
 | DN42       | AS4242420288 | Yux              | HWARP-DN42                                                      |
 | DN42       | AS4242420308 | VILLISEK         | VILLISEK                                                        |
+| DN42       | AS4242420454 | Nedifinita       | NEDIFINITA-AS                                                   |
 | DN42       | AS4242420458 | huajitech        | HUAJINET                                                        |
 | DN42       | AS4242420624 | fthasdd          | FTHASDD                                                         |
 | DN42       | AS4242420803 | Yukari           | BILL-0803-ASN                                                   |
@@ -295,6 +297,8 @@
 | AS4242420288 | HWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4242420308 | VILLISEK-NEO                    | subnet   | 10.127.38.32/27         |                   |
 | AS4242420308 | VILLISEK-NEO-V6                 | subnet   | fd10:127:308::/48       |                   |
+| AS4242420454 | NEDIFINITA-NETWORK              | subnet   | 10.127.42.0/24          |                   |
+| AS4242420454 | NEDIFINITA-NETWORK              | subnet   | fd10:127:42::/48        |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29         |                   |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60     |                   |
 | AS4242420803 | Gensokyo                        | subnet   | 10.127.131.0/24         |                   |
@@ -375,6 +379,7 @@
 10.127.38.32/27
 10.127.39.0/24
 10.127.41.0/24
+10.127.42.0/24
 10.127.45.0/24
 10.127.55.0/24
 10.127.56.0/24
@@ -420,6 +425,7 @@ fd10:127:30::/48
 fd10:127:36::/47
 fd10:127:39::/48
 fd10:127:41::/48
+fd10:127:42::/48
 fd10:127:45::/48
 fd10:127:53::/48
 fd10:127:64::/48
@@ -491,7 +497,7 @@ fd10:127:ffff:53::/64
 10.127.38.64/26
 10.127.38.128/25
 10.127.40.0/24
-10.127.42.0/23
+10.127.43.0/24
 10.127.44.0/24
 10.127.46.0/23
 10.127.48.0/22
@@ -619,7 +625,7 @@ fd10:127:38::/48
 fd10:127:3a::/47
 fd10:127:3c::/46
 fd10:127:40::/48
-fd10:127:42::/47
+fd10:127:43::/48
 fd10:127:44::/48
 fd10:127:46::/47
 fd10:127:48::/45
@@ -955,5 +961,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 15181      | 50355      | 23.16%         | 76.84%         |
-| IPv6         | 7.9228e+28 | 6.0447e+25 | 7.9168e+28 | 0.08%          | 99.92%         |
+| IPv4         | 65536      | 15437      | 50099      | 23.55%         | 76.45%         |
+| IPv6         | 7.9228e+28 | 6.1656e+25 | 7.9167e+28 | 0.08%          | 99.92%         |
