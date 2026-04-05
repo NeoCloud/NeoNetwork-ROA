@@ -2,72 +2,73 @@
 
 ## Entity table
 
-| Name              | Email                        | Telegram                  |
-|-------------------|------------------------------|---------------------------|
-| 186526            | i@186526.xyz                 | real186526                |
-| A1ca7raz          | aya@wtm.moe                  |                           |
-| ACh Sulfate       | dex@libart.so                |                           |
-| AndyZhou          | andyzhou058@gmail.com        | @andyzhou058              |
-| CDUBS             | noc@cdubs.tech               |                           |
-| Cupkappu          | cup@kust.ga                  | kifuc                     |
-| DannyAAM          | danny@saru.moe               | danny8376                 |
-| David Liu         | david@fixmix.tech            | p0tat05                   |
-| Edward_P          | edward@edward-p.xyz          | @Edward_P                 |
-| Hanako            | hanako_ko@outlook.jp         | koizumi_k                 |
-| Hawkins Sherpherd | haksrpd@outlook.com          | haksrpd                   |
-| iu_yang1          | iu_yang1@foxmail.com         | iu_yang1                  |
-| James58899        |                              |                           |
-| JerryXiao         | neonet@mail.jerryxiao.cc     | JerryXiao                 |
-| Junde Yhi         | neonetwork@yhi.moe           | lmy441900                 |
-| KusakabeSi        | dn42@kskb.eu.org             | KusakabeSi                |
-| LINE-NZ           | dn42@line.co.nz              |                           |
-| LUKK              | yingluqwq@duck.com           |                           |
-| Lan Tian          |                              |                           |
-| LibreHouse        | i+noc@outv.im                | outvi                     |
-| Lilybouquet       | lilybouquet@lilynet.work     | Lilybouquet               |
-| Moe               | noc@moeternet.com            | @moeternet                |
-| Ndoskrnl          | lollipop.studio.cn@gmail.com |                           |
-| Neo_Chen          | chenkolei@gmail.com          | Neo_Chen                  |
-| Razuritta         | i@razuritta.me               |                           |
-| Ren Baoshuo       | i@baoshuo.ren                | baoshuo                   |
-| Rosmontic         | Rosmontis233@hotmail.com     | Rosmontis233              |
-| SUNNET            |                              |                           |
-| SessX6cf          | sessionhu@outlook.com        |                           |
-| Staph             | staph@aosc.io                | Staph                     |
-| SteveYi           | info@steveyi.net             | steveyiyo                 |
-| SyllaBear         | bear@koala.gq                |                           |
-| TsingYao          | yujintong@126.com            | yujintong                 |
-| Clement VILLISEK  | clement@villisek.fr          |                           |
-| XieXiLin          | support@xiexilin.com         | XieXiLin                  |
-| YUZU              | yuzu23234@gmail.com          |                           |
-| Yangfl Network    |                              |                           |
-| Yitong Dang       | tomdang@naivetomcat.cn       | @naivetomcat              |
-| Yukari            | i@0x7f.cc                    | YukariChiba               |
-| Yura              | yurachan@etlgr.com           | @noc2464                  |
-| Yux Zhu           | me@yux.im                    |                           |
-| Qin Yuzhen        | 1@jin-dan.site               |                           |
-| alanyhq           |                              | alanyhq                   |
-| caxap             | yrdw@protonmail.com          |                           |
-| chanceyan         | edwardchanceyan@gmail.com    | @Edwardchanceyan          |
-| frank             |                              |                           |
-| fthasdd           | fthasdd@largerworld.cc       |                           |
-| funnysyc          | yc.s@outlook.com             | funnysyc                  |
-| HuajiTech         | noc@huajitech.net            | huajitech                 |
-| iEdon             |                              |                           |
-| Icecat            | icecat@catio.network         | fakeicecat                |
-| leedagee          | leedageea@gmail.com          | leedagee                  |
-| liangjw           | dn42@cas7.moe                | liangjw                   |
-| licson            | admin@licson.net             | licson                    |
-| lilydjwg          | lilydjwg@gmail.com           | @lilydjwg                 |
-| MagicNeko         | noc@koishi.moe               | Mirs322                   |
-| mark22k           | neo@mk16.de                  |                           |
-| nekoid            | info@nekoid.cc               | nekonull_ptr              |
-| Alexey Boldyrev   | ne-vlezay80@yandex.ru        |                           |
-| Ricky8955555      | 397050061@qq.com             | ricky8955555              |
-| septs             | bgp@septs.email              | septs                     |
-| starstorm42       | startstorm@disroot.org       |                           |
-| Stone Fox         | stone@unix.dog               |                           |
-| undefined-moe     | i@undefined.moe              | webpack_exports_undefined |
+| Name              | Email                         | Telegram                  |
+|-------------------|-------------------------------|---------------------------|
+| 186526            | i@186526.xyz                  | real186526                |
+| A1ca7raz          | aya@wtm.moe                   |                           |
+| ACh Sulfate       | dex@libart.so                 |                           |
+| AndyZhou          | andyzhou058@gmail.com         | @andyzhou058              |
+| CDUBS             | noc@cdubs.tech                |                           |
+| COWGL             | littlecow.moomoomoo@gmail.com |                           |
+| Cupkappu          | cup@kust.ga                   | kifuc                     |
+| DannyAAM          | danny@saru.moe                | danny8376                 |
+| David Liu         | david@fixmix.tech             | p0tat05                   |
+| Edward_P          | edward@edward-p.xyz           | @Edward_P                 |
+| Hanako            | hanako_ko@outlook.jp          | koizumi_k                 |
+| Hawkins Sherpherd | haksrpd@outlook.com           | haksrpd                   |
+| iu_yang1          | iu_yang1@foxmail.com          | iu_yang1                  |
+| James58899        |                               |                           |
+| JerryXiao         | neonet@mail.jerryxiao.cc      | JerryXiao                 |
+| Junde Yhi         | neonetwork@yhi.moe            | lmy441900                 |
+| KusakabeSi        | dn42@kskb.eu.org              | KusakabeSi                |
+| LINE-NZ           | dn42@line.co.nz               |                           |
+| LUKK              | yingluqwq@duck.com            |                           |
+| Lan Tian          |                               |                           |
+| LibreHouse        | i+noc@outv.im                 | outvi                     |
+| Lilybouquet       | lilybouquet@lilynet.work      | Lilybouquet               |
+| Moe               | noc@moeternet.com             | @moeternet                |
+| Ndoskrnl          | lollipop.studio.cn@gmail.com  |                           |
+| Neo_Chen          | chenkolei@gmail.com           | Neo_Chen                  |
+| Razuritta         | i@razuritta.me                |                           |
+| Ren Baoshuo       | i@baoshuo.ren                 | baoshuo                   |
+| Rosmontic         | Rosmontis233@hotmail.com      | Rosmontis233              |
+| SUNNET            |                               |                           |
+| SessX6cf          | sessionhu@outlook.com         |                           |
+| Staph             | staph@aosc.io                 | Staph                     |
+| SteveYi           | info@steveyi.net              | steveyiyo                 |
+| SyllaBear         | bear@koala.gq                 |                           |
+| TsingYao          | yujintong@126.com             | yujintong                 |
+| Clement VILLISEK  | clement@villisek.fr           |                           |
+| XieXiLin          | support@xiexilin.com          | XieXiLin                  |
+| YUZU              | yuzu23234@gmail.com           |                           |
+| Yangfl Network    |                               |                           |
+| Yitong Dang       | tomdang@naivetomcat.cn        | @naivetomcat              |
+| Yukari            | i@0x7f.cc                     | YukariChiba               |
+| Yura              | yurachan@etlgr.com            | @noc2464                  |
+| Yux Zhu           | me@yux.im                     |                           |
+| Qin Yuzhen        | 1@jin-dan.site                |                           |
+| alanyhq           |                               | alanyhq                   |
+| caxap             | yrdw@protonmail.com           |                           |
+| chanceyan         | edwardchanceyan@gmail.com     | @Edwardchanceyan          |
+| frank             |                               |                           |
+| fthasdd           | fthasdd@largerworld.cc        |                           |
+| funnysyc          | yc.s@outlook.com              | funnysyc                  |
+| HuajiTech         | noc@huajitech.net             | huajitech                 |
+| iEdon             |                               |                           |
+| Icecat            | icecat@catio.network          | fakeicecat                |
+| leedagee          | leedageea@gmail.com           | leedagee                  |
+| liangjw           | dn42@cas7.moe                 | liangjw                   |
+| licson            | admin@licson.net              | licson                    |
+| lilydjwg          | lilydjwg@gmail.com            | @lilydjwg                 |
+| MagicNeko         | noc@koishi.moe                | Mirs322                   |
+| mark22k           | neo@mk16.de                   |                           |
+| nekoid            | info@nekoid.cc                | nekonull_ptr              |
+| Alexey Boldyrev   | ne-vlezay80@yandex.ru         |                           |
+| Ricky8955555      | 397050061@qq.com              | ricky8955555              |
+| septs             | bgp@septs.email               | septs                     |
+| starstorm42       | startstorm@disroot.org        |                           |
+| Stone Fox         | stone@unix.dog                |                           |
+| undefined-moe     | i@undefined.moe               | webpack_exports_undefined |
 
 ## AS table
 
@@ -158,6 +159,7 @@
 | DN42       | AS4242423618 | JerryXiao        | Jerry AS                                                        |
 | DN42       | AS4242423699 | TsingYao         | AS-NEO-TSINGYAO                                                 |
 | DN42       | AS4242423947 | HawkinsSherpherd | SERNET-DN42                                                     |
+| DN42       | AS4242423999 | COWGL            | COWGL-AS                                                        |
 
 ## Route table
 
@@ -337,6 +339,7 @@
 | AS4242423699 | TSINTYAO-NEO-NET4               | subnet   | 10.127.99.0/24          |                   |
 | AS4242423699 | TSINGYAO-NEO-NET6               | subnet   | fd10:127:99::/48        |                   |
 | AS4242423947 | HAWKINS-NEO-NET4                | subnet   | 10.127.217.0/24         | 10.127.217.0/24   |
+| AS4242423999 | COWGL-IPV4-NEO                  | subnet   | 10.127.55.0/24          |                   |
 
 ## Used CIDR Range
 <details>
@@ -373,6 +376,7 @@
 10.127.39.0/24
 10.127.41.0/24
 10.127.45.0/24
+10.127.55.0/24
 10.127.56.0/24
 10.127.64.0/24
 10.127.66.0/24
@@ -490,7 +494,9 @@ fd10:127:ffff:53::/64
 10.127.42.0/23
 10.127.44.0/24
 10.127.46.0/23
-10.127.48.0/21
+10.127.48.0/22
+10.127.52.0/23
+10.127.54.0/24
 10.127.57.0/24
 10.127.58.0/23
 10.127.60.0/22
@@ -949,5 +955,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 14925      | 50611      | 22.77%         | 77.23%         |
+| IPv4         | 65536      | 15181      | 50355      | 23.16%         | 76.84%         |
 | IPv6         | 7.9228e+28 | 6.0447e+25 | 7.9168e+28 | 0.08%          | 99.92%         |

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1775215938,
-    "valid": 1776425538
+    "generated": 1775396072,
+    "valid": 1776605672
   },
   "people": {
     "186526": {
@@ -193,6 +193,38 @@
                 "netname": "CDUBS Network"
               }
             ]
+          }
+        }
+      ]
+    },
+    "COWGL": {
+      "info": {
+        "name": "COWGL",
+        "contact": {
+          "email": "littlecow.moomoomoo@gmail.com",
+          "github": "charlie-moomoo"
+        },
+        "persona": {
+          "pgp": "F8DF029132AB2E0C0E1B32E3911A111111111111"
+        },
+        "nic_hdl": "COWGL"
+      },
+      "asns": [
+        {
+          "asn": 4242423999,
+          "owner": "COWGL",
+          "name": "COWGL-AS",
+          "source": "DN42",
+          "description": "Cow Grassland",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.55.0/24",
+                "maxLength": 29,
+                "netname": "COWGL-IPV4-NEO"
+              }
+            ],
+            "ipv6": []
           }
         }
       ]
