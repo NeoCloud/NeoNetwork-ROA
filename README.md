@@ -7,6 +7,7 @@
 | 186526            | i@186526.xyz                  | real186526                |
 | A1ca7raz          | aya@wtm.moe                   |                           |
 | ACh Sulfate       | dex@libart.so                 |                           |
+| Afnooi-Neo        | info@115411.xyz               | @wangyouweis              |
 | AndyZhou          | andyzhou058@gmail.com         | @andyzhou058              |
 | CDUBS             | noc@cdubs.tech                |                           |
 | COWGL             | littlecow.moomoomoo@gmail.com |                           |
@@ -96,6 +97,7 @@
 | NeoNetwork | AS4201270006 | JerryXiao        | Jerry Network                                                   |
 | NeoNetwork | AS4201270007 | Staph            | Staph                                                           |
 | NeoNetwork | AS4201270008 | magicneko        | MagicNeko ASIA (=140913)                                        |
+| NeoNetwork | AS4201270009 | Afnooi-Neo       | Afnooi-Neo                                                      |
 | NeoNetwork | AS4201270010 | Lan Tian         | Lan Tian                                                        |
 | NeoNetwork | AS4201270011 | LINE-NZ          | LINE-NZ                                                         |
 | NeoNetwork | AS4201270012 | Junde Yhi        | Yhi Interconnection                                             |
@@ -213,6 +215,8 @@
 | AS4201270007 | StaphNet                        | subnet   | 10.127.8.160/27         |                   |
 | AS4201270007 | AOSCNet                         | subnet   | 10.127.7.0/24           |                   |
 | AS4201270007 | Staph_v6                        | subnet   | fd10:127:7::/48         |                   |
+| AS4201270009 | Afnooi-Neo                      | subnet   | 10.127.53.0/24          |                   |
+| AS4201270009 | Afnooi-Neo                      | subnet   | fd10:127:54::/48        |                   |
 | AS4201270010 | Lan Tian LAN                    | subnet   | 10.127.10.0/24          |                   |
 | AS4201270010 | Lan Tian LAN6                   | subnet   | fd10:127:10::/48        |                   |
 | AS4201270011 | LINE-NZ                         | subnet   | 10.127.22.0/29          |                   |
@@ -381,6 +385,7 @@
 10.127.41.0/24
 10.127.42.0/24
 10.127.45.0/24
+10.127.53.0/24
 10.127.55.0/24
 10.127.56.0/24
 10.127.64.0/24
@@ -428,6 +433,7 @@ fd10:127:41::/48
 fd10:127:42::/48
 fd10:127:45::/48
 fd10:127:53::/48
+fd10:127:54::/48
 fd10:127:64::/48
 fd10:127:66::/48
 fd10:127:69::/48
@@ -501,7 +507,7 @@ fd10:127:ffff:53::/64
 10.127.44.0/24
 10.127.46.0/23
 10.127.48.0/22
-10.127.52.0/23
+10.127.52.0/24
 10.127.54.0/24
 10.127.57.0/24
 10.127.58.0/23
@@ -631,7 +637,8 @@ fd10:127:46::/47
 fd10:127:48::/45
 fd10:127:50::/47
 fd10:127:52::/48
-fd10:127:54::/46
+fd10:127:55::/48
+fd10:127:56::/47
 fd10:127:58::/45
 fd10:127:60::/46
 fd10:127:65::/48
@@ -961,5 +968,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 15437      | 50099      | 23.55%         | 76.45%         |
-| IPv6         | 7.9228e+28 | 6.1656e+25 | 7.9167e+28 | 0.08%          | 99.92%         |
+| IPv4         | 65536      | 15693      | 49843      | 23.95%         | 76.05%         |
+| IPv6         | 7.9228e+28 | 6.2865e+25 | 7.9165e+28 | 0.08%          | 99.92%         |

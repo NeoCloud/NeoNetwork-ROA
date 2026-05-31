@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1779702454,
-    "valid": 1780912054
+    "generated": 1780236204,
+    "valid": 1781445804
   },
   "people": {
     "186526": {
@@ -114,6 +114,50 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "Afnooi-Neo": {
+      "info": {
+        "name": "Afnooi-Neo",
+        "babel": [
+          "zh-N",
+          "en-3"
+        ],
+        "contact": {
+          "email": "info@115411.xyz",
+          "github": "kingdomes",
+          "telegram": "@wangyouweis",
+          "irc": "AS4242422213@hackint"
+        },
+        "persona": {
+          "ssh": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJOOI/ljWcj8LATEWl8C7dtcaGC0x+zSokLPlU9pg/QY"
+        },
+        "nic_hdl": "AFNOOI-NEO"
+      },
+      "asns": [
+        {
+          "asn": 4201270009,
+          "owner": "Afnooi-Neo",
+          "name": "Afnooi-Neo",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.53.0/24",
+                "maxLength": 29,
+                "netname": "Afnooi-Neo"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:54::/48",
+                "maxLength": 64,
+                "netname": "Afnooi-Neo"
+              }
+            ]
           }
         }
       ]
