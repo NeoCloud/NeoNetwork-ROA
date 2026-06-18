@@ -41,6 +41,7 @@
 | SyllaBear         | bear@koala.gq                 |                           |
 | TsingYao          | yujintong@126.com             | yujintong                 |
 | Clement VILLISEK  | clement@villisek.fr           |                           |
+| Xiaoxi654         | i@izm.im                      |                           |
 | XieXiLin          | support@xiexilin.com          | XieXiLin                  |
 | YUZU              | yuzu23234@gmail.com           |                           |
 | Yangfl Network    |                               |                           |
@@ -154,6 +155,7 @@
 | DN42       | AS4242421332 | Yukari           | Niantic Network CN                                              |
 | DN42       | AS4242421510 | YUZU             | YUZU-AS                                                         |
 | DN42       | AS4242421876 | David Liu        | POTATO-42                                                       |
+| DN42       | AS4242422164 | Xiaoxi654        | IZUMINET-AS                                                     |
 | DN42       | AS4242422189 | iEdon            | IEDON-NET-AS                                                    |
 | DN42       | AS4242422439 | DannyAAM         | SARU-AS-DN42                                                    |
 | DN42       | AS4242422458 | huajitech        | PIGEONHOLE-AS                                                   |
@@ -319,6 +321,7 @@
 | AS4242421510 | YUZU-NETWORK-NEO                | subnet   | 10.127.129.0/24         |                   |
 | AS4242421876 | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24          |                   |
 | AS4242421876 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
+| AS4242422164 | IZUMINET-NEO                    | subnet   | 10.127.101.0/24         |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.21.0/24          |                   |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.25.0/24          |                   |
 | AS4242422439 | Saru-Neo-IP4                    | subnet   | 10.127.39.0/24          |                   |
@@ -399,7 +402,7 @@
 10.127.88.0/24
 10.127.90.0/24
 10.127.99.0/24
-10.127.100.0/24
+10.127.100.0/23
 10.127.110.0/23
 10.127.123.0/24
 10.127.124.0/29
@@ -531,7 +534,6 @@ fd10:127:ffff:53::/64
 10.127.92.0/22
 10.127.96.0/23
 10.127.98.0/24
-10.127.101.0/24
 10.127.102.0/23
 10.127.104.0/22
 10.127.108.0/23
@@ -981,5 +983,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 15949      | 49587      | 24.34%         | 75.66%         |
+| IPv4         | 65536      | 16205      | 49331      | 24.73%         | 75.27%         |
 | IPv6         | 7.9228e+28 | 6.4073e+25 | 7.9164e+28 | 0.08%          | 99.92%         |

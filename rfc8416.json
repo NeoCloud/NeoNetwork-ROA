@@ -500,6 +500,12 @@
         "comment": "POTATO-NEO-NET4-A"
       },
       {
+        "asn": 4242422164,
+        "prefix": "10.127.101.0/24",
+        "maxPrefixLength": 29,
+        "comment": "IZUMINET-NEO"
+      },
+      {
         "asn": 4242422189,
         "prefix": "10.127.21.0/24",
         "maxPrefixLength": 29,
