@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1781523868,
-    "valid": 1782733468
+    "generated": 1781805060,
+    "valid": 1783014660
   },
   "people": {
     "186526": {
@@ -2638,6 +2638,45 @@
         }
       ]
     },
+    "linmontfurry": {
+      "info": {
+        "name": "linmontfurry",
+        "contact": {
+          "github": "linmontfurry",
+          "email": "admin@furry.blue",
+          "telegram": "@bvhsh"
+        },
+        "persona": {
+          "pgp": "1EC571BAA94593AF1CA4BB805296F3AC107B3BBB"
+        },
+        "nic_hdl": "LINMONTFURRY"
+      },
+      "asns": [
+        {
+          "asn": 4201270024,
+          "owner": "linmontfurry",
+          "name": "furry-as",
+          "source": "NeoNetwork",
+          "description": null,
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.224.0/24",
+                "maxLength": 29,
+                "netname": "FurryNet-v4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2424::/48",
+                "maxLength": 64,
+                "netname": "FurryNet-v6"
+              }
+            ]
+          }
+        }
+      ]
+    },
     "magicneko": {
       "info": {
         "name": "MagicNeko",
@@ -3117,19 +3156,6 @@
   },
   "dnssec": [
     {
-      "zone": "neo.",
-      "records": [
-        {
-          "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
-          "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
-        },
-        {
-          "dnskey": "257 3 15 eE/0MWGb7wYP4U/kf5mXCbE8tGIwo1U++dp22Fumo+g=",
-          "ds": "37727 15 2 c32191a298279d16846eeefc157eec6be69be8edfeb4f3145c685f0752a73a8d"
-        }
-      ]
-    },
-    {
       "zone": "127.10.in-addr.arpa.",
       "records": [
         {
@@ -3139,6 +3165,19 @@
         {
           "dnskey": "257 3 15 PWTkwcNA5jJqNYSsyeHt0xnxh1wZQ5//UmMuMPi5DlU=",
           "ds": "22644 15 2 ba8389bd2f3ea36b7280a9a166fa3cc05d6af53a3ff987e62d37cf401d2c380b"
+        }
+      ]
+    },
+    {
+      "zone": "neo.",
+      "records": [
+        {
+          "dnskey": "257 3 13 jDd4k21xTgqOFqtvQkeqdQs/RH5+SU+vFchqnOHk5yaEL6EQDOKNuYJ2 C4ld+tVHf007GgbKX6BC68uMU8iGIg==",
+          "ds": "56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5"
+        },
+        {
+          "dnskey": "257 3 15 eE/0MWGb7wYP4U/kf5mXCbE8tGIwo1U++dp22Fumo+g=",
+          "ds": "37727 15 2 c32191a298279d16846eeefc157eec6be69be8edfeb4f3145c685f0752a73a8d"
         }
       ]
     },

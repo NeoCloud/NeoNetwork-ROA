@@ -62,6 +62,7 @@
 | liangjw           | dn42@cas7.moe                 | liangjw                   |
 | licson            | admin@licson.net              | licson                    |
 | lilydjwg          | lilydjwg@gmail.com            | @lilydjwg                 |
+| linmontfurry      | admin@furry.blue              | @bvhsh                    |
 | MagicNeko         | noc@koishi.moe                | Mirs322                   |
 | mark22k           | neo@mk16.de                   |                           |
 | nekoid            | info@nekoid.cc                | nekonull_ptr              |
@@ -111,6 +112,7 @@
 | NeoNetwork | AS4201270020 | Edward_P         | Edward_P                                                        |
 | NeoNetwork | AS4201270021 | David Liu        | POTATO-NEO                                                      |
 | NeoNetwork | AS4201270022 | lilydjwg         | lilydjwg                                                        |
+| NeoNetwork | AS4201270024 | linmontfurry     | furry-as                                                        |
 | NeoNetwork | AS4201270030 | Yux              | HWARP-NEO                                                       |
 | NeoNetwork | AS4201270036 | TsingYao         | AS-NEO-TSINGYAO-IX36                                            |
 | NeoNetwork | AS4201270037 | funnysyc         | FUNNYSYC-AS                                                     |
@@ -241,6 +243,8 @@
 | AS4201270021 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48      |                   |
 | AS4201270022 | lilydjwg                        | subnet   | 10.127.8.136/29         |                   |
 | AS4201270022 | lilydjwg                        | subnet   | fd10:127:ba7e::/48      |                   |
+| AS4201270024 | FurryNet-v4                     | subnet   | 10.127.224.0/24         |                   |
+| AS4201270024 | FurryNet-v6                     | subnet   | fd10:127:2424::/48      |                   |
 | AS4201270030 | HWARP-NEO-IP4-NETWORK           | subnet   | 10.127.30.0/24          |                   |
 | AS4201270030 | HWARP-NEO-IP6-NETWORK           | subnet   | fd10:127:30::/48        |                   |
 | AS4201270036 | TSINTYAO-NEO-NET4-IX36          | subnet   | 10.127.36.0/24          |                   |
@@ -411,6 +415,7 @@
 10.127.192.0/24
 10.127.204.48/28
 10.127.217.0/24
+10.127.224.0/24
 10.127.232.0/22
 10.127.242.0/24
 10.127.255.4/32
@@ -454,6 +459,7 @@ fd10:127:1488::/48
 fd10:127:1877::/48
 fd10:127:2032::/48
 fd10:127:2333::/48
+fd10:127:2424::/48
 fd10:127:2466::/48
 fd10:127:2f2f::/48
 fd10:127:3262::/64
@@ -573,7 +579,9 @@ fd10:127:ffff:53::/64
 10.127.216.0/24
 10.127.218.0/23
 10.127.220.0/22
-10.127.224.0/21
+10.127.225.0/24
+10.127.226.0/23
+10.127.228.0/22
 10.127.236.0/22
 10.127.240.0/23
 10.127.243.0/24
@@ -752,7 +760,12 @@ fd10:127:2334::/46
 fd10:127:2338::/45
 fd10:127:2340::/42
 fd10:127:2380::/41
-fd10:127:2400::/42
+fd10:127:2400::/43
+fd10:127:2420::/46
+fd10:127:2425::/48
+fd10:127:2426::/47
+fd10:127:2428::/45
+fd10:127:2430::/44
 fd10:127:2440::/43
 fd10:127:2460::/46
 fd10:127:2464::/47
@@ -968,5 +981,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 15693      | 49843      | 23.95%         | 76.05%         |
-| IPv6         | 7.9228e+28 | 6.2865e+25 | 7.9165e+28 | 0.08%          | 99.92%         |
+| IPv4         | 65536      | 15949      | 49587      | 24.34%         | 75.66%         |
+| IPv6         | 7.9228e+28 | 6.4073e+25 | 7.9164e+28 | 0.08%          | 99.92%         |
