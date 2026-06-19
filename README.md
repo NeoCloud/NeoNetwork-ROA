@@ -137,6 +137,7 @@
 | NeoNetwork | AS4201273947 | HawkinsSherpherd | HAWKINS-NEO-AS                                                  |
 | NeoNetwork | AS4201279999 | undefined-moe    | Hydro-Neo-Network                                               |
 | DN42       | AS4242420065 | fthasdd          | FTHASDD-CN                                                      |
+| DN42       | AS4242420088 | linmontfurry     | FURRY-AS                                                        |
 | DN42       | AS4242420140 | Yangfl           | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo      | BAOSHUO-AS-DN42                                                 |
 | DN42       | AS4242420275 | starstorm42      | AS-STARSTORM42-DN42                                             |
@@ -298,6 +299,8 @@
 | AS4201279999 | Hydro-Neo-Network-4             | subnet   | 10.127.88.0/24          |                   |
 | AS4201279999 | Hydro-Neo-Network-6             | subnet   | fd10:127:88::/48        |                   |
 | AS4242420065 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24          |                   |
+| AS4242420088 | FurryNet-v4                     | subnet   | 10.127.224.0/24         |                   |
+| AS4242420088 | FurryNet-v6                     | subnet   | fd10:127:2424::/48      |                   |
 | AS4242420140 | dfceaef NET                     | subnet   | 10.127.12.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V4-1                | subnet   | 10.127.17.0/24          |                   |
 | AS4242420247 | BAOSHUO-NEO-V6-1                | subnet   | fd10:127:17::/48        |                   |

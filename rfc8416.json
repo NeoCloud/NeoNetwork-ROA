@@ -416,6 +416,12 @@
         "comment": "FTHASDD-NEO"
       },
       {
+        "asn": 4242420088,
+        "prefix": "10.127.224.0/24",
+        "maxPrefixLength": 29,
+        "comment": "FurryNet-v4"
+      },
+      {
         "asn": 4242420140,
         "prefix": "10.127.12.0/24",
         "maxPrefixLength": 29,
@@ -966,6 +972,12 @@
         "prefix": "fd10:127:88::/48",
         "maxPrefixLength": 64,
         "comment": "Hydro-Neo-Network-6"
+      },
+      {
+        "asn": 4242420088,
+        "prefix": "fd10:127:2424::/48",
+        "maxPrefixLength": 64,
+        "comment": "FurryNet-v6"
       },
       {
         "asn": 4242420247,
