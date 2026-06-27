@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1782128014,
-    "valid": 1783337614
+    "generated": 1782569187,
+    "valid": 1783778787
   },
   "people": {
     "186526": {
@@ -551,7 +551,7 @@
           "github": "hanakokoizumi"
         },
         "persona": {
-          "pgp": "01852E0786EA31525651925075AEC845FF3BD945"
+          "pgp": "E5C7E5AAF7AE441AA1B4719B432DB45123D1C601"
         },
         "nic_hdl": "HANAKO"
       },
@@ -568,6 +568,21 @@
                 "prefix": "10.127.80.0/24",
                 "maxLength": 29,
                 "netname": "Hanako-Network-Neo-1-v4"
+              },
+              {
+                "prefix": "10.127.80.0/26",
+                "maxLength": 29,
+                "netname": "vlab-dn42-v4"
+              },
+              {
+                "prefix": "10.127.80.1/32",
+                "maxLength": 32,
+                "netname": "vlab-dn42-gw-v4"
+              },
+              {
+                "prefix": "10.127.80.2/32",
+                "maxLength": 32,
+                "netname": "ns-hanako-v4"
               }
             ],
             "ipv6": [
@@ -575,6 +590,11 @@
                 "prefix": "fd10:127:80::/48",
                 "maxLength": 64,
                 "netname": "Hanako-Network-Neo-1-v6"
+              },
+              {
+                "prefix": "fd10:127:80:1000::/56",
+                "maxLength": 64,
+                "netname": "vlab-dn42-v6"
               }
             ]
           }
@@ -3220,6 +3240,15 @@
         {
           "dnskey": "257 3 15 PWTkwcNA5jJqNYSsyeHt0xnxh1wZQ5//UmMuMPi5DlU=",
           "ds": "22644 15 2 ba8389bd2f3ea36b7280a9a166fa3cc05d6af53a3ff987e62d37cf401d2c380b"
+        }
+      ]
+    },
+    {
+      "zone": "hanako.neo.",
+      "records": [
+        {
+          "dnskey": "257 3 13 Ce5f5qBqBQG4LhNl90pVohBmT68mVxf/3lTo+RdMK7D9e0lu/L3gHIg8 n6w1aqcWmKr9V4SnYvdtIqK1GIaNzA==",
+          "ds": "12417 13 2 e38157e8eeef9dbe0a68b5dabf6993f3b28859512f7aa6cb43935b69305a4132"
         }
       ]
     },

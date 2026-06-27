@@ -296,6 +296,24 @@
         "comment": "Hanako-Network-Neo-1-v4"
       },
       {
+        "asn": 4201270080,
+        "prefix": "10.127.80.0/26",
+        "maxPrefixLength": 29,
+        "comment": "vlab-dn42-v4"
+      },
+      {
+        "asn": 4201270080,
+        "prefix": "10.127.80.1/32",
+        "maxPrefixLength": 32,
+        "comment": "vlab-dn42-gw-v4"
+      },
+      {
+        "asn": 4201270080,
+        "prefix": "10.127.80.2/32",
+        "maxPrefixLength": 32,
+        "comment": "ns-hanako-v4"
+      },
+      {
         "asn": 4201270099,
         "prefix": "10.127.99.0/24",
         "maxPrefixLength": 29,
@@ -852,6 +870,12 @@
         "prefix": "fd10:127:80::/48",
         "maxPrefixLength": 64,
         "comment": "Hanako-Network-Neo-1-v6"
+      },
+      {
+        "asn": 4201270080,
+        "prefix": "fd10:127:80:1000::/56",
+        "maxPrefixLength": 64,
+        "comment": "vlab-dn42-v6"
       },
       {
         "asn": 4201270099,
