@@ -488,6 +488,12 @@
         "comment": "Gensokyo"
       },
       {
+        "asn": 4242421005,
+        "prefix": "10.127.114.0/24",
+        "maxPrefixLength": 24,
+        "comment": "YZYMC-IPv4-NEO"
+      },
+      {
         "asn": 4242421037,
         "prefix": "10.127.8.0/26",
         "maxPrefixLength": 29,
@@ -962,6 +968,12 @@
         "comment": "LAPISNET6-NEO"
       },
       {
+        "asn": 4201272466,
+        "prefix": "fd10:127:2466::/48",
+        "maxPrefixLength": 64,
+        "comment": "SESS-NETWORK"
+      },
+      {
         "asn": 4201272923,
         "prefix": "fd10:127:fc31::/48",
         "maxPrefixLength": 48,
@@ -1040,6 +1052,12 @@
         "comment": "HUAJITECH-ANYCAST"
       },
       {
+        "asn": 4242421005,
+        "prefix": "fd10:127:114::/48",
+        "maxPrefixLength": 48,
+        "comment": "YZYMC-IPv6-NEO"
+      },
+      {
         "asn": 4242421025,
         "prefix": "fd10:127:233:1000::/64",
         "maxPrefixLength": 64,
@@ -1086,12 +1104,6 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
-      },
-      {
-        "asn": 4242422466,
-        "prefix": "fd10:127:2466::/48",
-        "maxPrefixLength": 48,
-        "comment": "SESS-NETWORK"
       },
       {
         "asn": 4242422923,

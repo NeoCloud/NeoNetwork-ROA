@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1787275810,
-    "valid": 1788485410
+    "generated": 1787276542,
+    "valid": 1788486142
   },
   "people": {
     "186526": {
@@ -1140,6 +1140,17 @@
         }
       ]
     },
+    "MoeDove": {
+      "info": {
+        "name": "MoeDove LLC",
+        "description": "MoeDove NOC",
+        "contact": {
+          "email": "admin@moedove.com"
+        },
+        "nic_hdl": "MOEDOVE-LLC"
+      },
+      "asns": []
+    },
     "Ndoskrnl": {
       "info": {
         "name": "Ndoskrnl",
@@ -1489,6 +1500,23 @@
       },
       "asns": [
         {
+          "asn": 4201272466,
+          "owner": "SessX6cf",
+          "name": "AS-SESS-N2",
+          "source": "NeoNetwork",
+          "description": "SessNetwork Next Generation",
+          "routes": {
+            "ipv4": [],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:2466::/48",
+                "maxLength": 64,
+                "netname": "SESS-NETWORK"
+              }
+            ]
+          }
+        },
+        {
           "asn": 4242422466,
           "owner": "SessX6cf",
           "name": "AS-SESS-DN42",
@@ -1502,13 +1530,7 @@
                 "netname": "SESS-NETWORK"
               }
             ],
-            "ipv6": [
-              {
-                "prefix": "fd10:127:2466::/48",
-                "maxLength": 48,
-                "netname": "SESS-NETWORK"
-              }
-            ]
+            "ipv6": []
           }
         }
       ]
@@ -1859,6 +1881,44 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "YZYMC": {
+      "info": {
+        "name": "YZYMC",
+        "contact": {
+          "email": "yzymc@yzynetwork.org",
+          "github": "YZYMC"
+        },
+        "persona": {
+          "pgp": "177ABD1B671BC99FA4AD20A1A96607E60ECBAC84"
+        },
+        "nic_hdl": "YZYMC"
+      },
+      "asns": [
+        {
+          "asn": 4242421005,
+          "owner": "YZYMC",
+          "name": "YZYMC-AS",
+          "source": "DN42",
+          "description": "YZYNetwork",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.114.0/24",
+                "maxLength": 24,
+                "netname": "YZYMC-IPv4-NEO"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:114::/48",
+                "maxLength": 48,
+                "netname": "YZYMC-IPv6-NEO"
+              }
+            ]
           }
         }
       ]

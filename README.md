@@ -28,6 +28,7 @@
 | LibreHouse        | i+noc@outv.im                 | outvi                     |
 | Lilybouquet       | lilybouquet@lilynet.work      | Lilybouquet               |
 | Moe               | noc@moeternet.com             | @moeternet                |
+| MoeDove LLC       | admin@moedove.com             |                           |
 | Ndoskrnl          | lollipop.studio.cn@gmail.com  |                           |
 | Nedifinita        | nedifinita@proton.me          |                           |
 | Neo_Chen          | chenkolei@gmail.com           | Neo_Chen                  |
@@ -44,6 +45,7 @@
 | Xiaoxi654         | i@izm.im                      |                           |
 | XieXiLin          | support@xiexilin.com          | XieXiLin                  |
 | YUZU              | yuzu23234@gmail.com           |                           |
+| YZYMC             | yzymc@yzynetwork.org          |                           |
 | Yangfl Network    |                               |                           |
 | Yitong Dang       | tomdang@naivetomcat.cn        | @naivetomcat              |
 | Yukari            | i@0x7f.cc                     | YukariChiba               |
@@ -132,6 +134,7 @@
 | NeoNetwork | AS4201271488 | SyllaBear        | Polar Bear                                                      |
 | NeoNetwork | AS4201271877 | Lily             | Lily_Network                                                    |
 | NeoNetwork | AS4201272032 | Razuritta        | LapisNetwork-NEO                                                |
+| NeoNetwork | AS4201272466 | SessX6cf         | AS-SESS-N2                                                      |
 | NeoNetwork | AS4201272923 | mark22k          | AS-BANDURA-NEO                                                  |
 | NeoNetwork | AS4201273722 | Iu-yang1         | Iu-yang1-NeoNetwork                                             |
 | NeoNetwork | AS4201273947 | HawkinsSherpherd | HAWKINS-NEO-AS                                                  |
@@ -148,6 +151,7 @@
 | DN42       | AS4242420624 | fthasdd          | FTHASDD                                                         |
 | DN42       | AS4242420803 | Yukari           | BILL-0803-ASN                                                   |
 | DN42       | AS4242420916 | alanyhq          | alanyhq                                                         |
+| DN42       | AS4242421005 | YZYMC            | YZYMC-AS                                                        |
 | DN42       | AS4242421025 | icecat           | NextMoe Neo-Network Intermediate Access Project                 |
 | DN42       | AS4242421037 | LibreHouse       | LibreHouse                                                      |
 | DN42       | AS4242421181 | nevlezay80       | AS-NEVLEZAY-DN42                                                |
@@ -292,6 +296,7 @@
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48       |                       |
 | AS4201272032 | LAPISNET4-NEO                   | subnet   | 10.127.134.0/24          |                       |
 | AS4201272032 | LAPISNET6-NEO                   | subnet   | fd10:127:2032::/48       |                       |
+| AS4201272466 | SESS-NETWORK                    | subnet   | fd10:127:2466::/48       |                       |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | 10.127.149.224/27        |                       |
 | AS4201272923 | AS-BANDURA-NEO                  | subnet   | fd10:127:fc31::/48       |                       |
 | AS4201272923 | anycast-auth-4                  | loopback | 10.127.255.53/32         |                       |
@@ -321,6 +326,8 @@
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29          |                       |
 | AS4242420458 | HUAJITECH-ANYCAST               | subnet   | fd10:127:27:20::/60      |                       |
 | AS4242420803 | Gensokyo                        | subnet   | 10.127.131.0/24          |                       |
+| AS4242421005 | YZYMC-IPv4-NEO                  | subnet   | 10.127.114.0/24          |                       |
+| AS4242421005 | YZYMC-IPv6-NEO                  | subnet   | fd10:127:114::/48        |                       |
 | AS4242421025 | icecat                          | subnet   | fd10:127:233:1000::/64   | fd10:127:233::/48     |
 | AS4242421037 | LibreHouse                      | subnet   | 10.127.8.0/26            |                       |
 | AS4242421181 | AS-NEVLEZAY-DN42                | subnet   | 10.127.192.0/24          |                       |
@@ -346,7 +353,6 @@
 | AS4242422464 | anycast-recur-4                 | loopback | 10.127.255.54/32         |                       |
 | AS4242422464 | anycast-recur-6                 | loopback | fd10:127:53:53::/64      | fd10:127:53::/48      |
 | AS4242422466 | SESS-NETWORK                    | subnet   | 10.127.28.0/24           |                       |
-| AS4242422466 | SESS-NETWORK                    | subnet   | fd10:127:2466::/48       |                       |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | 10.127.149.224/27        |                       |
 | AS4242422923 | AS-BANDURA-DN42                 | subnet   | fd10:127:fc31::/48       |                       |
 | AS4242422923 | anycast-auth-4                  | loopback | 10.127.255.53/32         |                       |
@@ -413,6 +419,7 @@
 10.127.99.0/24
 10.127.100.0/23
 10.127.110.0/23
+10.127.114.0/24
 10.127.123.0/24
 10.127.124.0/29
 10.127.127.0/24
@@ -457,6 +464,7 @@ fd10:127:69::/48
 fd10:127:80::/48
 fd10:127:88::/48
 fd10:127:99::/48
+fd10:127:114::/48
 fd10:127:123::/48
 fd10:127:127::/48
 fd10:127:186::/48
@@ -546,7 +554,9 @@ fd10:127:ffff:53::/64
 10.127.102.0/23
 10.127.104.0/22
 10.127.108.0/23
-10.127.112.0/21
+10.127.112.0/23
+10.127.115.0/24
+10.127.116.0/22
 10.127.120.0/23
 10.127.122.0/24
 10.127.124.8/29
@@ -678,7 +688,11 @@ fd10:127:9a::/47
 fd10:127:9c::/46
 fd10:127:a0::/43
 fd10:127:c0::/42
-fd10:127:100::/43
+fd10:127:100::/44
+fd10:127:110::/46
+fd10:127:115::/48
+fd10:127:116::/47
+fd10:127:118::/45
 fd10:127:120::/47
 fd10:127:122::/48
 fd10:127:124::/47
@@ -992,5 +1006,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 16205      | 49331      | 24.73%         | 75.27%         |
-| IPv6         | 7.9228e+28 | 6.4073e+25 | 7.9164e+28 | 0.08%          | 99.92%         |
+| IPv4         | 65536      | 16461      | 49075      | 25.12%         | 74.88%         |
+| IPv6         | 7.9228e+28 | 6.5282e+25 | 7.9163e+28 | 0.08%          | 99.92%         |
