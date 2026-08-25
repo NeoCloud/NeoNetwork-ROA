@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1787660631,
-    "valid": 1788870231
+    "generated": 1787661287,
+    "valid": 1788870887
   },
   "people": {
     "186526": {
@@ -1150,6 +1150,48 @@
         "nic_hdl": "MOEDOVE-LLC"
       },
       "asns": []
+    },
+    "NBK888": {
+      "info": {
+        "name": "NBK888",
+        "babel": [
+          "zh-N",
+          "en-2"
+        ],
+        "contact": {
+          "email": "chenruomu04@gmail.com",
+          "github": "nbk888"
+        },
+        "persona": {
+          "pgp": "D348982F7BF3DFB26830A59F53F2467B2AB51F53"
+        },
+        "nic_hdl": "NBK888"
+      },
+      "asns": [
+        {
+          "asn": 4201276767,
+          "owner": "NBK888",
+          "name": "NBK888-NEO-AS",
+          "source": "NeoNetwork",
+          "description": "NBK888 NeoNetwork",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.67.0/24",
+                "maxLength": 29,
+                "netname": "NBK888-NEO-IP4"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:67::/48",
+                "maxLength": 64,
+                "netname": "NBK888-NEO-IP6"
+              }
+            ]
+          }
+        }
+      ]
     },
     "Ndoskrnl": {
       "info": {

@@ -29,6 +29,7 @@
 | Lilybouquet       | lilybouquet@lilynet.work      | Lilybouquet               |
 | Moe               | noc@moeternet.com             | @moeternet                |
 | MoeDove LLC       | admin@moedove.com             |                           |
+| NBK888            | chenruomu04@gmail.com         |                           |
 | Ndoskrnl          | lollipop.studio.cn@gmail.com  |                           |
 | Nedifinita        | nedifinita@proton.me          |                           |
 | Neo_Chen          | chenkolei@gmail.com           | Neo_Chen                  |
@@ -138,6 +139,7 @@
 | NeoNetwork | AS4201272923 | mark22k          | AS-BANDURA-NEO                                                  |
 | NeoNetwork | AS4201273722 | Iu-yang1         | Iu-yang1-NeoNetwork                                             |
 | NeoNetwork | AS4201273947 | HawkinsSherpherd | HAWKINS-NEO-AS                                                  |
+| NeoNetwork | AS4201276767 | NBK888           | NBK888-NEO-AS                                                   |
 | NeoNetwork | AS4201279999 | undefined-moe    | Hydro-Neo-Network                                               |
 | DN42       | AS4242420065 | fthasdd          | FTHASDD-CN                                                      |
 | DN42       | AS4242420088 | linmontfurry     | FURRY-AS                                                        |
@@ -307,6 +309,8 @@
 | AS4201273722 | YANGIU-NEO6                     | subnet   | fd10:127:face::/48       |                       |
 | AS4201273947 | HAWKINS-NEO-NET4                | subnet   | 10.127.217.0/24          | 10.127.217.0/24       |
 | AS4201273947 | HAWKINS-NEO-NET6                | subnet   | fd10:127:217::/48        |                       |
+| AS4201276767 | NBK888-NEO-IP4                  | subnet   | 10.127.67.0/24           |                       |
+| AS4201276767 | NBK888-NEO-IP6                  | subnet   | fd10:127:67::/48         |                       |
 | AS4201279999 | Hydro-Neo-Network-4             | subnet   | 10.127.88.0/24           |                       |
 | AS4201279999 | Hydro-Neo-Network-6             | subnet   | fd10:127:88::/48         |                       |
 | AS4242420065 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24           |                       |
@@ -411,7 +415,7 @@
 10.127.55.0/24
 10.127.56.0/24
 10.127.64.0/24
-10.127.66.0/24
+10.127.66.0/23
 10.127.69.0/24
 10.127.80.0/24
 10.127.88.0/24
@@ -459,7 +463,7 @@ fd10:127:45::/48
 fd10:127:53::/48
 fd10:127:54::/48
 fd10:127:64::/48
-fd10:127:66::/48
+fd10:127:66::/47
 fd10:127:69::/48
 fd10:127:80::/48
 fd10:127:88::/48
@@ -539,7 +543,6 @@ fd10:127:ffff:53::/64
 10.127.58.0/23
 10.127.60.0/22
 10.127.65.0/24
-10.127.67.0/24
 10.127.68.0/24
 10.127.70.0/23
 10.127.72.0/21
@@ -671,7 +674,6 @@ fd10:127:56::/47
 fd10:127:58::/45
 fd10:127:60::/46
 fd10:127:65::/48
-fd10:127:67::/48
 fd10:127:68::/48
 fd10:127:6a::/47
 fd10:127:6c::/46
@@ -1006,5 +1008,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
 |--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 16461      | 49075      | 25.12%         | 74.88%         |
-| IPv6         | 7.9228e+28 | 6.5282e+25 | 7.9163e+28 | 0.08%          | 99.92%         |
+| IPv4         | 65536      | 16717      | 48819      | 25.51%         | 74.49%         |
+| IPv6         | 7.9228e+28 | 6.6491e+25 | 7.9162e+28 | 0.08%          | 99.92%         |
