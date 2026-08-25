@@ -41,6 +41,7 @@
 | Staph             | staph@aosc.io                 | Staph                     |
 | SteveYi           | info@steveyi.net              | steveyiyo                 |
 | SyllaBear         | bear@koala.gq                 |                           |
+| TES286            | tes286@tes286.top             |                           |
 | TsingYao          | yujintong@126.com             | yujintong                 |
 | Clement VILLISEK  | clement@villisek.fr           |                           |
 | Xiaoxi654         | i@izm.im                      |                           |
@@ -127,6 +128,7 @@
 | NeoNetwork | AS4201270101 | AndyZhou         | AndyZhou Network                                                |
 | NeoNetwork | AS4201270186 | 186526           | 186526 Network                                                  |
 | NeoNetwork | AS4201270233 | Rosmontic        | Rosmontis-Network                                               |
+| NeoNetwork | AS4201270286 | TES286           | AS-TES286-NEO                                                   |
 | NeoNetwork | AS4201270456 | huajitech        | HJTMESH-AS                                                      |
 | NeoNetwork | AS4201270566 | CDUBS            | AS-CDUBS-NEO                                                    |
 | NeoNetwork | AS4201271111 | KusakabeSi       | KSKB-NEO                                                        |
@@ -142,6 +144,7 @@
 | NeoNetwork | AS4201276767 | NBK888           | NBK888-NEO-AS                                                   |
 | NeoNetwork | AS4201279999 | undefined-moe    | Hydro-Neo-Network                                               |
 | DN42       | AS4242420065 | fthasdd          | FTHASDD-CN                                                      |
+| DN42       | AS4242420078 | TES286           | AS-TES286-DN42                                                  |
 | DN42       | AS4242420088 | linmontfurry     | FURRY-AS                                                        |
 | DN42       | AS4242420140 | Yangfl           | Yangfl Network                                                  |
 | DN42       | AS4242420247 | Ren Baoshuo      | BAOSHUO-AS-DN42                                                 |
@@ -281,6 +284,8 @@
 | AS4201270186 | 186526-block-v6                 | subnet   | fd10:127:186::/48        |                       |
 | AS4201270233 | Rosmontis-Network v4            | subnet   | 10.127.33.0/24           |                       |
 | AS4201270233 | Rosmontis-Network v6            | subnet   | fd10:127:2333::/48       |                       |
+| AS4201270286 | TES286-NETWORK                  | subnet   | 10.127.32.0/24           |                       |
+| AS4201270286 | TES286-NETWORK                  | subnet   | fd10:127:286::/48        |                       |
 | AS4201270456 | HJTMESH-NET                     | subnet   | 10.127.45.0/24           |                       |
 | AS4201270456 | HJTMESH-NET                     | subnet   | fd10:127:45::/48         |                       |
 | AS4201270456 | HUAJITECH-ANYCAST               | subnet   | 10.127.27.24/29          |                       |
@@ -314,6 +319,8 @@
 | AS4201279999 | Hydro-Neo-Network-4             | subnet   | 10.127.88.0/24           |                       |
 | AS4201279999 | Hydro-Neo-Network-6             | subnet   | fd10:127:88::/48         |                       |
 | AS4242420065 | FTHASDD-NEO                     | subnet   | 10.127.90.0/24           |                       |
+| AS4242420078 | TES286-NETWORK                  | subnet   | 10.127.32.0/24           |                       |
+| AS4242420078 | TES286-NETWORK                  | subnet   | fd10:127:286::/48        |                       |
 | AS4242420088 | FurryNet-v4                     | subnet   | 10.127.224.0/24          |                       |
 | AS4242420088 | FurryNet-v6                     | subnet   | fd10:127:2424::/48       |                       |
 | AS4242420140 | dfceaef NET                     | subnet   | 10.127.12.0/24           |                       |
@@ -404,7 +411,7 @@
 10.127.27.232/29
 10.127.28.0/24
 10.127.30.0/24
-10.127.33.0/24
+10.127.32.0/23
 10.127.36.0/23
 10.127.38.32/27
 10.127.39.0/24
@@ -476,6 +483,7 @@ fd10:127:217::/48
 fd10:127:233::/48
 fd10:127:234::/46
 fd10:127:238::/46
+fd10:127:286::/48
 fd10:127:308::/48
 fd10:127:1100::/48
 fd10:127:1332::/48
@@ -527,7 +535,6 @@ fd10:127:ffff:53::/64
 10.127.27.240/28
 10.127.29.0/24
 10.127.31.0/24
-10.127.32.0/24
 10.127.34.0/23
 10.127.38.0/27
 10.127.38.64/26
@@ -719,7 +726,13 @@ fd10:127:230::/47
 fd10:127:232::/48
 fd10:127:23c::/46
 fd10:127:240::/42
-fd10:127:280::/41
+fd10:127:280::/46
+fd10:127:284::/47
+fd10:127:287::/48
+fd10:127:288::/45
+fd10:127:290::/44
+fd10:127:2a0::/43
+fd10:127:2c0::/42
 fd10:127:300::/45
 fd10:127:309::/48
 fd10:127:30a::/47
@@ -1006,7 +1019,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
-|--------------|------------|------------|------------|----------------|----------------|
-| IPv4         | 65536      | 16717      | 48819      | 25.51%         | 74.49%         |
-| IPv6         | 7.9228e+28 | 6.6491e+25 | 7.9162e+28 | 0.08%          | 99.92%         |
+| IP Version   | Total      | Used     | Free      | Percent Used   | Percent Free   |
+|--------------|------------|----------|-----------|----------------|----------------|
+| IPv4         | 65536      | 16973    | 48563     | 25.90%         | 74.10%         |
+| IPv6         | 7.9228e+28 | 6.77e+25 | 7.916e+28 | 0.09%          | 99.91%         |

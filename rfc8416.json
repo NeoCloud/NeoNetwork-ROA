@@ -344,6 +344,12 @@
         "comment": "Rosmontis-Network v4"
       },
       {
+        "asn": 4201270286,
+        "prefix": "10.127.32.0/24",
+        "maxPrefixLength": 29,
+        "comment": "TES286-NETWORK"
+      },
+      {
         "asn": 4201270456,
         "prefix": "10.127.45.0/24",
         "maxPrefixLength": 29,
@@ -438,6 +444,12 @@
         "prefix": "10.127.90.0/24",
         "maxPrefixLength": 29,
         "comment": "FTHASDD-NEO"
+      },
+      {
+        "asn": 4242420078,
+        "prefix": "10.127.32.0/24",
+        "maxPrefixLength": 29,
+        "comment": "TES286-NETWORK"
       },
       {
         "asn": 4242420088,
@@ -920,6 +932,12 @@
         "comment": "Rosmontis-Network v6"
       },
       {
+        "asn": 4201270286,
+        "prefix": "fd10:127:286::/48",
+        "maxPrefixLength": 64,
+        "comment": "TES286-NETWORK"
+      },
+      {
         "asn": 4201270456,
         "prefix": "fd10:127:45::/48",
         "maxPrefixLength": 64,
@@ -1020,6 +1038,12 @@
         "prefix": "fd10:127:88::/48",
         "maxPrefixLength": 64,
         "comment": "Hydro-Neo-Network-6"
+      },
+      {
+        "asn": 4242420078,
+        "prefix": "fd10:127:286::/48",
+        "maxPrefixLength": 64,
+        "comment": "TES286-NETWORK"
       },
       {
         "asn": 4242420088,

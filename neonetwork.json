@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1787661287,
-    "valid": 1788870887
+    "generated": 1787661480,
+    "valid": 1788871080
   },
   "people": {
     "186526": {
@@ -1694,6 +1694,67 @@
                 "prefix": "fd10:127:1488::/48",
                 "maxLength": 64,
                 "netname": "Bear"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "TES286": {
+      "info": {
+        "name": "TES286",
+        "contact": {
+          "email": "tes286@tes286.top",
+          "github": "TES286"
+        },
+        "persona": {
+          "pgp": "82469B3F8A6BAD18A0202BB9C6E40C0D9D590369"
+        },
+        "nic_hdl": "TES286"
+      },
+      "asns": [
+        {
+          "asn": 4201270286,
+          "owner": "TES286",
+          "name": "AS-TES286-NEO",
+          "source": "NeoNetwork",
+          "description": "TES286's NEO Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.32.0/24",
+                "maxLength": 29,
+                "netname": "TES286-NETWORK"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:286::/48",
+                "maxLength": 64,
+                "netname": "TES286-NETWORK"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242420078,
+          "owner": "TES286",
+          "name": "AS-TES286-DN42",
+          "source": "DN42",
+          "description": "TES286's DN42 Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.32.0/24",
+                "maxLength": 29,
+                "netname": "TES286-NETWORK"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:286::/48",
+                "maxLength": 64,
+                "netname": "TES286-NETWORK"
               }
             ]
           }
