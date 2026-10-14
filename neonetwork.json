@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1791813054,
-    "valid": 1793022654
+    "generated": 1791942774,
+    "valid": 1793152374
   },
   "people": {
     "186526": {
@@ -1723,14 +1723,14 @@
             "ipv4": [
               {
                 "prefix": "10.127.32.0/24",
-                "maxLength": 29,
+                "maxLength": 24,
                 "netname": "TES286-NETWORK"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:286::/48",
-                "maxLength": 64,
+                "maxLength": 48,
                 "netname": "TES286-NETWORK"
               }
             ]
@@ -1746,14 +1746,14 @@
             "ipv4": [
               {
                 "prefix": "10.127.32.0/24",
-                "maxLength": 29,
+                "maxLength": 24,
                 "netname": "TES286-NETWORK"
               }
             ],
             "ipv6": [
               {
                 "prefix": "fd10:127:286::/48",
-                "maxLength": 64,
+                "maxLength": 48,
                 "netname": "TES286-NETWORK"
               }
             ]

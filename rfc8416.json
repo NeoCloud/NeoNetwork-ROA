@@ -346,7 +346,7 @@
       {
         "asn": 4201270286,
         "prefix": "10.127.32.0/24",
-        "maxPrefixLength": 29,
+        "maxPrefixLength": 24,
         "comment": "TES286-NETWORK"
       },
       {
@@ -448,7 +448,7 @@
       {
         "asn": 4242420078,
         "prefix": "10.127.32.0/24",
-        "maxPrefixLength": 29,
+        "maxPrefixLength": 24,
         "comment": "TES286-NETWORK"
       },
       {
@@ -934,7 +934,7 @@
       {
         "asn": 4201270286,
         "prefix": "fd10:127:286::/48",
-        "maxPrefixLength": 64,
+        "maxPrefixLength": 48,
         "comment": "TES286-NETWORK"
       },
       {
@@ -1042,7 +1042,7 @@
       {
         "asn": 4242420078,
         "prefix": "fd10:127:286::/48",
-        "maxPrefixLength": 64,
+        "maxPrefixLength": 48,
         "comment": "TES286-NETWORK"
       },
       {
