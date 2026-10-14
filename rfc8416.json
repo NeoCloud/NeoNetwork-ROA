@@ -416,6 +416,12 @@
         "comment": "anycast-recur-4"
       },
       {
+        "asn": 4201273282,
+        "prefix": "10.127.123.0/26",
+        "maxPrefixLength": 29,
+        "comment": "Twilight"
+      },
+      {
         "asn": 4201273722,
         "prefix": "10.127.204.48/28",
         "maxPrefixLength": 29,
@@ -1014,6 +1020,12 @@
         "prefix": "fd10:127:53:53::/64",
         "maxPrefixLength": 64,
         "comment": "anycast-recur-6"
+      },
+      {
+        "asn": 4201273282,
+        "prefix": "fd10:127:123::/64",
+        "maxPrefixLength": 64,
+        "comment": "Twilight"
       },
       {
         "asn": 4201273722,
