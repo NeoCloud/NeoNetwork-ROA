@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": 1794660014,
-    "valid": 1795869614
+    "generated": 1794660037,
+    "valid": 1795869637
   },
   "people": {
     "186526": {
@@ -1609,6 +1609,69 @@
               }
             ],
             "ipv6": []
+          }
+        }
+      ]
+    },
+    "SiroNeko": {
+      "info": {
+        "name": "SiroNeko",
+        "contact": {
+          "github": "LZYxiaobai",
+          "telegram": "LZY_xiaobai",
+          "email": "neo@sironeko.moe"
+        },
+        "persona": {
+          "pgp": "8394476AD22AAD3C7D6E682A4725B85E9B6CDB69",
+          "ssh": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOOg3F1KubLuXQvFTBHUnalZsFQprADEvdwvJIHhD6kA"
+        },
+        "nic_hdl": "SIRONEKO"
+      },
+      "asns": [
+        {
+          "asn": 4201271573,
+          "owner": "SiroNeko",
+          "name": "SIRONEKO-NEO",
+          "source": "NeoNetwork",
+          "description": "SiroNeko-Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.73.0/24",
+                "maxLength": 29,
+                "netname": "SIRONEKO-NETWORK-NEO"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1573::/48",
+                "maxLength": 64,
+                "netname": "SIRONEKO-NETWORK-NEO"
+              }
+            ]
+          }
+        },
+        {
+          "asn": 4242421573,
+          "owner": "SiroNeko",
+          "name": "SIRONEKO-DN42",
+          "source": "DN42",
+          "description": "SiroNeko-Network",
+          "routes": {
+            "ipv4": [
+              {
+                "prefix": "10.127.73.0/24",
+                "maxLength": 29,
+                "netname": "SIRONEKO-NETWORK-NEO"
+              }
+            ],
+            "ipv6": [
+              {
+                "prefix": "fd10:127:1573::/48",
+                "maxLength": 64,
+                "netname": "SIRONEKO-NETWORK-NEO"
+              }
+            ]
           }
         }
       ]

@@ -39,6 +39,7 @@
 | Rosmontic         | Rosmontis233@hotmail.com      | Rosmontis233              |
 | SUNNET            |                               |                           |
 | SessX6cf          | sessionhu@outlook.com         |                           |
+| SiroNeko          | neo@sironeko.moe              | LZY_xiaobai               |
 | Staph             | staph@aosc.io                 | Staph                     |
 | SteveYi           | info@steveyi.net              | steveyiyo                 |
 | SyllaBear         | bear@koala.gq                 |                           |
@@ -137,6 +138,7 @@
 | NeoNetwork | AS4201271234 | A1ca7raz         | WTM-ZONE-N                                                      |
 | NeoNetwork | AS4201271480 | nekoid           | NEKOID                                                          |
 | NeoNetwork | AS4201271488 | SyllaBear        | Polar Bear                                                      |
+| NeoNetwork | AS4201271573 | SiroNeko         | SIRONEKO-NEO                                                    |
 | NeoNetwork | AS4201271877 | Lily             | Lily_Network                                                    |
 | NeoNetwork | AS4201272032 | Razuritta        | LapisNetwork-NEO                                                |
 | NeoNetwork | AS4201272466 | SessX6cf         | AS-SESS-N2                                                      |
@@ -167,6 +169,7 @@
 | DN42       | AS4242421331 | Yukari           | Niantic Network                                                 |
 | DN42       | AS4242421332 | Yukari           | Niantic Network CN                                              |
 | DN42       | AS4242421510 | YUZU             | YUZU-AS                                                         |
+| DN42       | AS4242421573 | SiroNeko         | SIRONEKO-DN42                                                   |
 | DN42       | AS4242421876 | David Liu        | POTATO-42                                                       |
 | DN42       | AS4242422080 | Hat              | HATSNET-AS                                                      |
 | DN42       | AS4242422164 | Xiaoxi654        | IZUMINET-AS                                                     |
@@ -303,6 +306,8 @@
 | AS4201271480 | NEKOID-INET                     | subnet   | 10.127.24.0/24           |                       |
 | AS4201271480 | NEKOID-INET6                    | subnet   | fd10:127:24::/48         |                       |
 | AS4201271488 | Bear                            | subnet   | fd10:127:1488::/48       |                       |
+| AS4201271573 | SIRONEKO-NETWORK-NEO            | subnet   | 10.127.73.0/24           |                       |
+| AS4201271573 | SIRONEKO-NETWORK-NEO            | subnet   | fd10:127:1573::/48       |                       |
 | AS4201271877 | LilyNetwork-Neo-IP4             | subnet   | 10.127.180.0/24          |                       |
 | AS4201271877 | LilyNetwork-Neo-IP6             | subnet   | fd10:127:1877::/48       |                       |
 | AS4201272032 | LAPISNET4-NEO                   | subnet   | 10.127.134.0/24          |                       |
@@ -352,6 +357,8 @@
 | AS4242421332 | NetUnion-IPv4                   | subnet   | 10.127.132.0/24          |                       |
 | AS4242421332 | NetUnion-IPv6                   | subnet   | fd10:127:1332::/48       |                       |
 | AS4242421510 | YUZU-NETWORK-NEO                | subnet   | 10.127.129.0/24          |                       |
+| AS4242421573 | SIRONEKO-NETWORK-NEO            | subnet   | 10.127.73.0/24           |                       |
+| AS4242421573 | SIRONEKO-NETWORK-NEO            | subnet   | fd10:127:1573::/48       |                       |
 | AS4242421876 | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24           |                       |
 | AS4242421876 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48       |                       |
 | AS4242422080 | HATSNET-NEO-V4                  | subnet   | 10.127.208.0/24          |                       |
@@ -431,6 +438,7 @@
 10.127.64.0/24
 10.127.66.0/23
 10.127.69.0/24
+10.127.73.0/24
 10.127.80.0/24
 10.127.88.0/24
 10.127.90.0/24
@@ -496,6 +504,7 @@ fd10:127:308::/48
 fd10:127:1100::/48
 fd10:127:1332::/48
 fd10:127:1488::/48
+fd10:127:1573::/48
 fd10:127:1877::/48
 fd10:127:2032::/48
 fd10:127:2333::/48
@@ -560,7 +569,9 @@ fd10:127:ffff:53::/64
 10.127.65.0/24
 10.127.68.0/24
 10.127.70.0/23
-10.127.72.0/21
+10.127.72.0/24
+10.127.74.0/23
+10.127.76.0/22
 10.127.81.0/24
 10.127.82.0/23
 10.127.84.0/22
@@ -779,7 +790,14 @@ fd10:127:148c::/46
 fd10:127:1490::/44
 fd10:127:14a0::/43
 fd10:127:14c0::/42
-fd10:127:1500::/40
+fd10:127:1500::/42
+fd10:127:1540::/43
+fd10:127:1560::/44
+fd10:127:1570::/47
+fd10:127:1572::/48
+fd10:127:1574::/46
+fd10:127:1578::/45
+fd10:127:1580::/41
 fd10:127:1600::/39
 fd10:127:1800::/42
 fd10:127:1840::/43
@@ -1029,7 +1047,7 @@ fd10:127:ffff:8000::/49
 
 ## Address Space Usage
 
-| IP Version   | Total      | Used     | Free      | Percent Used   | Percent Free   |
-|--------------|------------|----------|-----------|----------------|----------------|
-| IPv4         | 65536      | 17229    | 48307     | 26.29%         | 73.71%         |
-| IPv6         | 7.9228e+28 | 6.77e+25 | 7.916e+28 | 0.09%          | 99.91%         |
+| IP Version   | Total      | Used       | Free       | Percent Used   | Percent Free   |
+|--------------|------------|------------|------------|----------------|----------------|
+| IPv4         | 65536      | 17485      | 48051      | 26.68%         | 73.32%         |
+| IPv6         | 7.9228e+28 | 6.8909e+25 | 7.9159e+28 | 0.09%          | 99.91%         |

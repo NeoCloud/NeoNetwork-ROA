@@ -386,6 +386,12 @@
         "comment": "NEKOID-INET"
       },
       {
+        "asn": 4201271573,
+        "prefix": "10.127.73.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SIRONEKO-NETWORK-NEO"
+      },
+      {
         "asn": 4201271877,
         "prefix": "10.127.180.0/24",
         "maxPrefixLength": 29,
@@ -546,6 +552,12 @@
         "prefix": "10.127.129.0/24",
         "maxPrefixLength": 29,
         "comment": "YUZU-NETWORK-NEO"
+      },
+      {
+        "asn": 4242421573,
+        "prefix": "10.127.73.0/24",
+        "maxPrefixLength": 29,
+        "comment": "SIRONEKO-NETWORK-NEO"
       },
       {
         "asn": 4242421876,
@@ -992,6 +1004,12 @@
         "comment": "Bear"
       },
       {
+        "asn": 4201271573,
+        "prefix": "fd10:127:1573::/48",
+        "maxPrefixLength": 64,
+        "comment": "SIRONEKO-NETWORK-NEO"
+      },
+      {
         "asn": 4201271877,
         "prefix": "fd10:127:1877::/48",
         "maxPrefixLength": 64,
@@ -1122,6 +1140,12 @@
         "prefix": "fd10:127:1332::/48",
         "maxPrefixLength": 64,
         "comment": "NetUnion-IPv6"
+      },
+      {
+        "asn": 4242421573,
+        "prefix": "fd10:127:1573::/48",
+        "maxPrefixLength": 64,
+        "comment": "SIRONEKO-NETWORK-NEO"
       },
       {
         "asn": 4242421876,
