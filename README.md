@@ -16,6 +16,7 @@
 | David Liu         | david@fixmix.tech             | p0tat05                   |
 | Edward_P          | edward@edward-p.xyz           | @Edward_P                 |
 | Hanako            | hanako_ko@outlook.jp          | koizumi_k                 |
+| Hat               | dn42@hats-mail.com            |                           |
 | Hawkins Sherpherd | haksrpd@outlook.com           | haksrpd                   |
 | iu_yang1          | iu_yang1@foxmail.com          | iu_yang1                  |
 | James58899        |                               |                           |
@@ -167,6 +168,7 @@
 | DN42       | AS4242421332 | Yukari           | Niantic Network CN                                              |
 | DN42       | AS4242421510 | YUZU             | YUZU-AS                                                         |
 | DN42       | AS4242421876 | David Liu        | POTATO-42                                                       |
+| DN42       | AS4242422080 | Hat              | HATSNET-AS                                                      |
 | DN42       | AS4242422164 | Xiaoxi654        | IZUMINET-AS                                                     |
 | DN42       | AS4242422189 | iEdon            | IEDON-NET-AS                                                    |
 | DN42       | AS4242422439 | DannyAAM         | SARU-AS-DN42                                                    |
@@ -352,6 +354,7 @@
 | AS4242421510 | YUZU-NETWORK-NEO                | subnet   | 10.127.129.0/24          |                       |
 | AS4242421876 | POTATO-NEO-NET4-A               | subnet   | 10.127.66.0/24           |                       |
 | AS4242421876 | POTATO-NEO-NET6-A               | subnet   | fd10:127:aa66::/48       |                       |
+| AS4242422080 | HATSNET-NEO-V4                  | subnet   | 10.127.208.0/24          |                       |
 | AS4242422164 | IZUMINET-NEO                    | subnet   | 10.127.101.0/24          |                       |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.21.0/24           |                       |
 | AS4242422189 | IEDON-NET                       | subnet   | 10.127.25.0/24           |                       |
@@ -448,6 +451,7 @@
 10.127.186.0/24
 10.127.192.0/24
 10.127.204.48/28
+10.127.208.0/24
 10.127.217.0/24
 10.127.224.0/24
 10.127.232.0/22
@@ -610,7 +614,9 @@ fd10:127:ffff:53::/64
 10.127.204.128/25
 10.127.205.0/24
 10.127.206.0/23
-10.127.208.0/21
+10.127.209.0/24
+10.127.210.0/23
+10.127.212.0/22
 10.127.216.0/24
 10.127.218.0/23
 10.127.220.0/22
@@ -1025,5 +1031,5 @@ fd10:127:ffff:8000::/49
 
 | IP Version   | Total      | Used     | Free      | Percent Used   | Percent Free   |
 |--------------|------------|----------|-----------|----------------|----------------|
-| IPv4         | 65536      | 16973    | 48563     | 25.90%         | 74.10%         |
+| IPv4         | 65536      | 17229    | 48307     | 26.29%         | 73.71%         |
 | IPv6         | 7.9228e+28 | 6.77e+25 | 7.916e+28 | 0.09%          | 99.91%         |
